@@ -3,7 +3,7 @@ layout: post
 ---
 
 <h1>The Archive of Slaps</h1>
-<img src="/wp-content/themes/slapupsidethehead-v8/media/archive-of-slaps.jpg" alt="A man inspects a cave painting of a caveman slapping another caveman." title="Dr. Flamingo Jones discovers the earliest known slap upside the head.">
+<img src="{{'/wp-content/themes/slapupsidethehead-v8/media/archive-of-slaps.jpg' | relative_url}}" alt="A man inspects a cave painting of a caveman slapping another caveman." title="Dr. Flamingo Jones discovers the earliest known slap upside the head.">
 
 {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%B, %Y'"  %}
 {% for yearMonth in postsByYearMonth %}

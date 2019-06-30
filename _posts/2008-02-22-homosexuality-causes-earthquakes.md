@@ -25,7 +25,7 @@ tags:
 - Politics
 comments: []
 ---
-![Gay Earthquake Powers](/wp-content/media/2008/02/gay-earthquake-powers.jpg)
+![Gay Earthquake Powers]({{'/wp-content/media/2008/02/gay-earthquake-powers.jpg' | relative_url}})
 
 Long thought to be the result of tension between tectonic plates, earthquakes have a new explanation courtesy of Shlomo Benizri, a Member of Knesset in Israel:
 
