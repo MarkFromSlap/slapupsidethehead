@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Establishing Emotion-o-tronic Link</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+	<script type="text/javascript">
+
+	$(document).ready(function() {
+		timer = setTimeout("outputMessage()", 2000);
+	});
+
+	var timer = 0;
+	var messageIndex = 0;
+	var messageIndex = 0;
+	var messageSpeeds = [2000,1000,2000,2000,500,500,500,500,500,2000,2000,3000];
+	
+	var messages = new Array();
+	messages[0] = "Configuring brain wave syncronization algorithm...";
+	messages[1] = "Allocating emotional resources...";
+	messages[2] = "(Please do not prorogue the system until this operation completes...)";
+	messages[3]  = "Loading memories...";
+	messages[4] = "Loading amazing-weather.memory... Done.";
+	messages[5] = "Loading family-and-friends.memory... Done.";
+	messages[6] = "Loading beautiful-ceremony.memory... Done.";
+	messages[7] = "Loading reception.memory... Done.";
+	messages[8] = "Loading delicious-meal.memory... Done.";
+	messages[9] = "Loading wedding-night.memory... <span class=\"error\">Access restricted.</span>";
+	messages[10] = "Emotions initialized succesfully!";
+	messages[11] = "Establishing Emotion-o-tronic link...";
+	messages[12] = "<span class=\"error\"><strong>Emotion-o-tronic link could not be established!</strong><br/>Please clear your brain link cable of any debris and try again.</span>"
+	
+	function outputMessage() {
+		
+		if(messageIndex < messages.length - 1) {
+			timer = setTimeout("outputMessage()",messageSpeeds[messageIndex]);
+		}
+		else {
+			clearTimeout(timer);
+			$('#loader-indicator').hide();
+		}
+		
+		$('#emotion-o-tronic-console').append(messages[messageIndex++] + '<br />');
+	}
+	
+	</script>
+	<style type="text/css">
+	
+		html {
+			background: #3d3d3d;
+			font-family: sans-serif;
+		}
+	
+		body {
+			width: 600px;
+			margin: 0 auto;
+			padding-top: 5em;
+		}
+		
+		h1 {
+			color: silver;
+			margin: 0;
+		}
+		
+		h2 {
+			color: gray;
+			font-size: 1em;
+			font-weight: normal;
+			font-style: italic;
+			margin: 0;
+		}
+		
+		#emotion-o-tronic {
+			margin-top: 1em;
+			background-color: #DDD;
+			border: 2px solid silver;
+			padding: 10px;
+			-webkit-border-radius: 10px;
+			-moz-border-radius: 10px;
+			border-radius: 10px;
+            box-shadow: 3px 3px 10px rgba(0,0,0, 0.5);
+            -moz-box-shadow: 3px 3px 10px rgba(0,0,0, 0.5);
+            -webkit-box-shadow: 3px 3px 10px rgba(0,0,0, 0.5);
+			min-height: 100px;
+		}
+		
+		#emotion-o-tronic-console {
+			font-family: monospace;
+		}
+		
+		.error {
+			color: red;
+		}
+		
+		p {
+			text-align: right;
+		}
+		
+		a {
+			color: white;
+		}
+	</style>
+</head>
+<body>
+	
+	<h1>Emotion-o-tronic 5000</h1>
+	<h2>Share emotions instantly through the power of invasive brain surgery!</h2>
+	<div id="emotion-o-tronic">
+		
+		<div id="emotion-o-tronic-console">
+			Emotion-o-tronic interface initialized.<br/>
+		</div>
+		<img id="loader-indicator" src="/wp-content/media/2011/05/spinner.gif" alt="loading..." />
+		
+	</div>
+	
+	<p><a href="http://www.slapupsidethehead.com/2011/05/election-day/">Back</a></p>
+	
+	
+</body>
+</html>

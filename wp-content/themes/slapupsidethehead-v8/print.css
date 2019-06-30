@@ -1,0 +1,73 @@
+#navigation {
+   display: none;
+}
+
+#supplement {
+   display: none;
+}
+
+body {
+   font-family: tahoma, sans-serif;
+   color: black;
+   background-color: white;
+   font-size: 0.8em;
+}
+
+body a {
+   color: black;
+   background-color: transparent;
+}
+
+#main h1 {
+   font-size: 1em;
+   font-weight: bold;
+}
+
+#main h1 a {
+   text-decoration: none;
+}
+
+#main .date {
+   font-size: 0.8em;
+}
+
+#main .entry img {
+   display: block;
+   margin: 0 auto;
+}
+
+#main .entry img.inset,
+#main .entry img.alignleft {
+   display: inline;
+   margin: 0 10px 10px 0;
+   float: left;
+}
+
+#main .entry img.alignright {
+   display: inline;
+   margin: 0 0 10px 10px;
+   float: right;
+}
+
+#main p {
+   text-align: justify;
+}
+
+p.ed-note {
+   font-style: italic;
+}
+
+.post-tags {
+   display: none;
+}
+
+#header {
+   text-align: center;
+   margin-bottom: 2em;
+}
+
+#header h1 {
+   font-size: 1.2em;
+   margin: 0;
+   padding: 0;
+}

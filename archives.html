@@ -1,0 +1,16 @@
+---
+layout: post
+---
+
+<h1>The Archive of Slaps</h1>
+<img src="/wp-content/themes/slapupsidethehead-v8/media/archive-of-slaps.jpg" alt="A man inspects a cave painting of a caveman slapping another caveman." title="Dr. Flamingo Jones discovers the earliest known slap upside the head.">
+
+{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%B, %Y'"  %}
+{% for yearMonth in postsByYearMonth %}
+    <h2>{{ yearMonth.name }}</h2>
+    <ul>
+    {% for post in yearMonth.items %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% endfor %}
+    </ul>
+{% endfor %}

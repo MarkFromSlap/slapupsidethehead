@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+
+    {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div id="content">
+
+      <div id="main">
+          {{ content }}
+      </div>
+
+      {% unless layout.hide_sidebar %}
+      {% include sidebar.html %}
+      {% endunless %}
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
