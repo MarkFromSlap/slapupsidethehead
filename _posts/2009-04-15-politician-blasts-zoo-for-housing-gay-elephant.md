@@ -25,7 +25,7 @@ tags:
 - Michal Grzes
 comments: []
 ---
-![Just look at it flaunt its trunk out in public!](/wp-content/media/2009/04/elephant-bible.jpg "Just look at it flaunt its trunk out in public!")
+![Just look at it flaunt its trunk out in public!]({{'/wp-content/media/2009/04/elephant-bible.jpg' | relative_url}} "Just look at it flaunt its trunk out in public!")
 
 Michal Grzes, a conservative politician in western Poland, has publicly spoken out against his local zoo for acquiring Ninio, a ten-year-old elephant that has only shown interest in other male companions.
 

@@ -26,7 +26,7 @@ tags:
 - Proms
 comments: []
 ---
-![](/wp-content/media/2010/03/school-tantrum.jpg "Does 'WAAAAH' contain four or five As?")
+![]({{'/wp-content/media/2010/03/school-tantrum.jpg' | relative_url}} "Does 'WAAAAH' contain four or five As?")
 
 A school in rural Mississippi has cancelled the school prom rather than letting a lesbian student bring her same-sex partner.
 

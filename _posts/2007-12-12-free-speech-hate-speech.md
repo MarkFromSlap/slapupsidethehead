@@ -24,7 +24,7 @@ tags:
 - Fines
 comments: []
 ---
-![Free Speech or Hate Speech](/wp-content/media/2007/12/free-speech-or-hate-speech.jpg)
+![Free Speech or Hate Speech]({{'/wp-content/media/2007/12/free-speech-or-hate-speech.jpg' | relative_url}})
 
 Late last month, the Alberta Human Rights Commission ruled that an anti-gay letter written by Stephen Boisson, a former member of the Concerned Christian Coalition, violated provincial human rights codes.
 

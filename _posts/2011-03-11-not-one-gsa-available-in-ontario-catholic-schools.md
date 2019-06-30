@@ -24,7 +24,7 @@ tags:
 - Bans
 comments: []
 ---
-![Giant Squid Association](/wp-content/media/2011/03/giant-squid-association.jpg "Why do they hate marine life so?")
+![Giant Squid Association]({{'/wp-content/media/2011/03/giant-squid-association.jpg' | relative_url}} "Why do they hate marine life so?")
 
 None of the 29 Catholic schools in Ontario have a Gay-Straight Alliance or similar support program for gay youth, according to [an investigation by Xtra](http://www.xtra.ca/public/National/Catholic_bishops_prohibit_gaystraight_alliances_in_Ontario_schools-9760.aspx "Good work!").
 

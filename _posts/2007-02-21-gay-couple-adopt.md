@@ -26,7 +26,7 @@ tags:
 - Jody Korchinski
 comments: []
 ---
-![Adopted Child](/wp-content/media/2007/02/adopted-child.jpg)
+![Adopted Child]({{'/wp-content/media/2007/02/adopted-child.jpg' | relative_url}})
 
 The abolishment of an obscure protocol has made Lance Anderson and Blair Croft the first gay parents to adopt through a non-private agency in Alberta.
 

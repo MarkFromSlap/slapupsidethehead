@@ -25,7 +25,7 @@ tags:
 - Diane Finley
 comments: []
 ---
-![Tory initiative](/wp-content/media/2007/02/tory-initiative.jpg)
+![Tory initiative]({{'/wp-content/media/2007/02/tory-initiative.jpg' | relative_url}})
 
 A [discriminatory law](http://www.slapupsidethehead.com/2006/12/canada-ignores-unions/) from 2004 that disallowed same-sex spouses from sponsoring their partner for Canadian citizenship was quietly overturned by the Conservative government last week. In fact, the law was reversed _so_ quietly, that it was announced by none other than NDP MP, Bill Siksay.
 

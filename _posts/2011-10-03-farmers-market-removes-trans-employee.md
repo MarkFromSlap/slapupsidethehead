@@ -25,7 +25,7 @@ tags:
 - Trails End Farmer's Market
 comments: []
 ---
-![](/wp-content/media/2011/10/scarecrow.jpg "Plus, you seem to embody the farm atmosphere, which kids love.")
+![]({{'/wp-content/media/2011/10/scarecrow.jpg' | relative_url}} "Plus, you seem to embody the farm atmosphere, which kids love.")
 
 The Trails End Farmer's Market in London, Ontario is the subject of a human rights complaint after the market owner forced a vendor to remove a trans employee from their stand.
 

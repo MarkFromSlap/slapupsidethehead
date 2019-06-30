@@ -28,7 +28,7 @@ tags:
 - Waterloo
 comments: []
 ---
-![The Gay Ring](/wp-content/media/2007/11/the-gay-ring.jpg)
+![The Gay Ring]({{'/wp-content/media/2007/11/the-gay-ring.jpg' | relative_url}})
 
 A teacher's resource book has been removed from staff rooms in the Waterloo Catholic District School Board after an anti-gay group, Defend Traditional Marriage and Family, [lobbied to have it pulled](http://www.slapupsidethehead.com/2007/10/censor-unavailable-book/ "Don't blame them; it's all they know.").
 

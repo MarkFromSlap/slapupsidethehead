@@ -21,7 +21,7 @@ tags:
 - Stephen Harper
 comments: []
 ---
-![Jazz hands!](/wp-content/media/2009/01/harper-and-the-slap-dancers.jpg "Jazz hands!")
+![Jazz hands!]({{'/wp-content/media/2009/01/harper-and-the-slap-dancers.jpg' | relative_url}} "Jazz hands!")
 
 Well, there was only so much I could prepare in advance while I'm out travelling this week, so in the meantime...
 

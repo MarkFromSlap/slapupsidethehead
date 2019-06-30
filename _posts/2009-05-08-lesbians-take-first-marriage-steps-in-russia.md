@@ -22,7 +22,7 @@ tags:
 - Russia
 comments: []
 ---
-![And, might I add: Moose and Squirrel!](/wp-content/media/2009/05/russian-marriage-license.jpg "And, might I add: Moose and Squirrel!")
+![And, might I add: Moose and Squirrel!]({{'/wp-content/media/2009/05/russian-marriage-license.jpg' | relative_url}} "And, might I add: Moose and Squirrel!")
 
 A lesbian couple will apply for a marriage license in Moscow next week in what will certainly be Russia's first denied same-sex marriage.
 

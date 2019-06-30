@@ -24,7 +24,7 @@ tags:
 - Prime Minister's Office
 comments: []
 ---
-![Simon says...](/wp-content/media/2009/11/copycat.jpg "Simon says...")
+![Simon says...]({{'/wp-content/media/2009/11/copycat.jpg' | relative_url}} "Simon says...")
 
 Uganda is on the verge of passing one of the most homophobic pieces of legislation in history. The law would not only proscribe the death penalty for "aggravated homosexuality" (say, that's a new term), but would also imprison anyone who doesn't out a gay person to the police within 24 hours of discovering their sexual orientation. The prison sentence would last three years, but there's also a seven year prison term for anyone who defends the rights of gay and lesbian people.
 

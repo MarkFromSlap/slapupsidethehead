@@ -25,7 +25,7 @@ tags:
 - Olivia Chow
 comments: []
 ---
-![Olivia Chow holds back a raging lobbyist, urging Bill Siksay to go on ahead.](/wp-content/media/2011/02/lobbyist-attack.jpg "Dramatization. May not have happened.")
+![Olivia Chow holds back a raging lobbyist, urging Bill Siksay to go on ahead.]({{'/wp-content/media/2011/02/lobbyist-attack.jpg' | relative_url}} "Dramatization. May not have happened.")
 
 Bill C-389, which would add protections for gender identity in Canada's human rights laws, is being given a stronger chance of passing thanks to NDP MP, Olivia Chow.
 

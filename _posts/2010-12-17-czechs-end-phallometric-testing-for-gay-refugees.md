@@ -24,7 +24,7 @@ tags:
 - Penile plethysmographs
 comments: []
 ---
-![A scientist shows a picture of an emu to a man hooked up to brain monitoring equipment.](/wp-content/media/2010/12/the-emu-test.jpg "I haven't seen heterosexual porn for a very, very long time, so please accept my apologies for any inaccuracies in its depiction.")
+![A scientist shows a picture of an emu to a man hooked up to brain monitoring equipment.]({{'/wp-content/media/2010/12/the-emu-test.jpg' | relative_url}} "I haven't seen heterosexual porn for a very, very long time, so please accept my apologies for any inaccuracies in its depiction.")
 
 The Czech Republic has announced that they will stop hooking up gay refugee claimants to a penile plethysmograph and showing them heterosexual porn. The procedure, dubbed "phallometric testing," which works in exactly the way it sounds, was used to czech if claimants were gay or not. The idea was that if a guy is measurably aroused by straight porn, then he's not gay.
 

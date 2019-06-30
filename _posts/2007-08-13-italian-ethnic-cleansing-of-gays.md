@@ -24,7 +24,7 @@ tags:
 - Treviso
 comments: []
 ---
-![Gay Ethnicity](/wp-content/media/2007/08/gay-ethnicity.jpg)
+![Gay Ethnicity]({{'/wp-content/media/2007/08/gay-ethnicity.jpg' | relative_url}})
 
 Giancarlo Gentilini---the deputy mayor of Treviso, Italy---exploded on live television Thursday, shouting homophobic slurs and encouraging the systematic murder of all gays in the region:
 

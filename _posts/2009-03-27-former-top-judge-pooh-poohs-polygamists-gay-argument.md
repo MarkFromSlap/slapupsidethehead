@@ -26,7 +26,7 @@ tags:
 - Stupid arguments
 comments: []
 ---
-![Does anyone else know some numbers that are not two?](/wp-content/media/2009/03/polygamy-lesson.jpg "Does anyone else know some numbers that are not two?")
+![Does anyone else know some numbers that are not two?]({{'/wp-content/media/2009/03/polygamy-lesson.jpg' | relative_url}} "Does anyone else know some numbers that are not two?")
 
 Claire L'Heureux-Dube, a former Supreme Court judge, has predicted that the courts will toss out any arguments linking same-sex marriage to a polygamist sect in Canada.
 

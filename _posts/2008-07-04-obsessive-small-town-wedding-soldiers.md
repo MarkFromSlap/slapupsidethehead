@@ -28,7 +28,7 @@ tags:
 - Gay Pride
 comments: []
 ---
-![Pile o\' Hugs](/wp-content/media/2008/07/pile-o-hugs.jpg "Hearts!")
+![Pile o\' Hugs]({{'/wp-content/media/2008/07/pile-o-hugs.jpg' | relative_url}} "Hearts!")
 
 In my web travels I often collect stories that I intend to share, but then become distracted by newer, shinier stories---or feel too lazy to illustrate them. This is what becomes of those stories: A [Pile o' Sla](http://www.slapupsidethehead.com/category/pile-o-slaps/ "Other volumes are available. Collect them today!")... Hugs?
 

@@ -27,7 +27,7 @@ tags:
 - Kari Simpson
 comments: []
 ---
-![Aaabooga booga booga booga booga!](/wp-content/media/2009/03/human-rights-complaint.jpg "Aaabooga booga booga booga booga!")
+![Aaabooga booga booga booga booga!]({{'/wp-content/media/2009/03/human-rights-complaint.jpg' | relative_url}} "Aaabooga booga booga booga booga!")
 
 Kari Simpson, an anti-gay activist, has filed a complaint against the B.C. Education Ministry for not doing enough to help students who "suffer from homosexuality and other dysfunctional sexual orientations."
 

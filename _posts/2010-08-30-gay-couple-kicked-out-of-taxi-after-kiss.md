@@ -26,7 +26,7 @@ tags:
 - Brian Herman
 comments: []
 ---
-![Taxi ceiling lights up, and the driver yells out 'Wrong answer' as gay couple in back kisses](/wp-content/media/2010/08/cash-cab-of-terror.jpg "Cash Cab of TERROR")
+![Taxi ceiling lights up, and the driver yells out 'Wrong answer' as gay couple in back kisses]({{'/wp-content/media/2010/08/cash-cab-of-terror.jpg' | relative_url}} "Cash Cab of TERROR")
 
 A Haligonian couple says they won't be dealing with the Casino taxi company in the future after they were kicked out onto the street for sharing a kiss.
 

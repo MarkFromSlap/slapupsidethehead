@@ -22,7 +22,7 @@ tags:
 - Bob Runciman
 comments: []
 ---
-![](/wp-content/media/2010/02/senate-appointment.jpg "In ya go!")
+![]({{'/wp-content/media/2010/02/senate-appointment.jpg' | relative_url}} "In ya go!")
 
 The Liberal Party of Canada has posted some interesting bits of history about one of Canada's latest senator appointments, Bob Runciman, on their website.
 

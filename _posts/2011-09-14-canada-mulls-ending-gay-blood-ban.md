@@ -24,7 +24,7 @@ tags:
 - Bans
 comments: []
 ---
-![A man hauls a large bucket of blood.](/wp-content/media/2011/09/blood-donor.jpg "Don't worry. There was plastic wrap over it.")
+![A man hauls a large bucket of blood.]({{'/wp-content/media/2011/09/blood-donor.jpg' | relative_url}} "Don't worry. There was plastic wrap over it.")
 
 Hot on the heels of the United Kingdom, which ended their gay blood donor ban in favour of a one year deferral last week, Canadian Blood Services is now mulling a similar change.
 

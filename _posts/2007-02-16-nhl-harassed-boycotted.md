@@ -28,7 +28,7 @@ tags:
 - Rick Vaive
 comments: []
 ---
-![Pro-Family Lobby Objections Flowchart](/wp-content/media/2007/02/objections-flowchart.jpg)
+![Pro-Family Lobby Objections Flowchart]({{'/wp-content/media/2007/02/objections-flowchart.jpg' | relative_url}})
 
 Hey, remember Brian Rushfeldt of the Canadian Family Action Coalition? In December, Brian called on Canadians to [boycott hockey](http://www.slapupsidethehead.com/2006/12/nhl-film/ "Bwahahahahahahaha!") because of what he called the NHL's promotion "of an 11-year-old boy as the poster child for gay sex."
 

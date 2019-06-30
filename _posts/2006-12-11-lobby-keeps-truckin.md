@@ -26,7 +26,7 @@ tags:
 - Referendums
 comments: []
 ---
-![Lobbyists](/wp-content/media/2006/12/lobbyists.jpg)
+![Lobbyists]({{'/wp-content/media/2006/12/lobbyists.jpg' | relative_url}})
 
 Well, Stephen Harper has officially announced that he considers the same-sex marriage issue settled. Well, _finally!_ But, gee, I wonder what the anti-gay lobby is up to today? Let's go check.
 

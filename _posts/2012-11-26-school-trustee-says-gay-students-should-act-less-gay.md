@@ -26,7 +26,7 @@ tags:
 - Dale Schaffrick
 comments: []
 ---
-![A student tries to suppress his gayness before exploding into a rainbow.](/wp-content/media/2012/11/supressing-the-gay.jpg "You can probably imagine the sound effect.")
+![A student tries to suppress his gayness before exploding into a rainbow.]({{'/wp-content/media/2012/11/supressing-the-gay.jpg' | relative_url}} "You can probably imagine the sound effect.")
 
 If you're a student in Alberta hoping that the school boards will offer some official protection from anti-gay bullying, it looks like you're going to have to keep hoping. Last week, the Alberta School Boards Association rejected a proposal to adopt a province-wide anti-bullying policy aimed at protecting GLBT students and staff.
 

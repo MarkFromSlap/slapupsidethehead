@@ -23,7 +23,7 @@ tags:
 - American Psychological Association
 comments: []
 ---
-![To be published in the esteemed medical journal,](/wp-content/media/2009/08/apa-report.jpg "To be published in the esteemed medical journal, ")
+![To be published in the esteemed medical journal,]({{'/wp-content/media/2009/08/apa-report.jpg' | relative_url}} "To be published in the esteemed medical journal, ")
 
 The American Psychological Association has finished a two-year review of their 1997 policy denouncing reparative, conversion therapy for gays. The final verdict: "There is no evidence that sexual orientation change efforts work."
 

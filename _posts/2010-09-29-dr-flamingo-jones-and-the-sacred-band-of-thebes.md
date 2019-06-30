@@ -24,7 +24,7 @@ tags:
 - Theban army
 comments: []
 ---
-![Dr. Flamingo Jones stands beside the Lion of Chaironeia.](/wp-content/media/2010/09/flamingo-jones-lion-of-chaeronea.jpg "You all recognise the Lion of Chaironeia, right?")
+![Dr. Flamingo Jones stands beside the Lion of Chaironeia.]({{'/wp-content/media/2010/09/flamingo-jones-lion-of-chaeronea.jpg' | relative_url}} "You all recognise the Lion of Chaironeia, right?")
 
 I'm very happy to present today's Guest Slap. The author, Dr. Flamingo Jones, is a world-renowned archaeologist and researcher at the University of Oxbridgeshire. While I know little about his reclusive past and current whereabouts, he has kindly agreed to share with us, occasionally, his knowledge, discoveries, and insights.
 

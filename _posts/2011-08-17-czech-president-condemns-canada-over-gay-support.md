@@ -22,7 +22,7 @@ tags:
 - Vaclav Klaus
 comments: []
 ---
-![](/wp-content/media/2011/08/it-was-late-ok.jpg "I'm not even sure that I get this one. It was late, OK?")
+![]({{'/wp-content/media/2011/08/it-was-late-ok.jpg' | relative_url}} "I'm not even sure that I get this one. It was late, OK?")
 
 Vaclav Klaus, the president of The Czech Republic lashed out at Canada and twelve other countries for having taken the "unprecedented step" of signing an open letter in support of the country's first gay pride festival.
 

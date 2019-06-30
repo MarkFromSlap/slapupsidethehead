@@ -27,7 +27,7 @@ tags:
 - Bill Mills
 comments: []
 ---
-![City Hall Gay Pride Flag](/wp-content/media/2007/08/city-hall-gay-pride-flag.jpg)
+![City Hall Gay Pride Flag]({{'/wp-content/media/2007/08/city-hall-gay-pride-flag.jpg' | relative_url}})
 
 Flashback: The year is 1989 and---oh, wait, no. I misread something. Let's try this again.
 

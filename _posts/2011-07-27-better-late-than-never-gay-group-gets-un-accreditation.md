@@ -23,7 +23,7 @@ tags:
 - Consultive status
 comments: []
 ---
-![An 80s girl gets a call on her massive cell phone:](/wp-content/media/2011/07/late-news.jpg "I waited so long, I was like totally BARF!")
+![An 80s girl gets a call on her massive cell phone:]({{'/wp-content/media/2011/07/late-news.jpg' | relative_url}} "I waited so long, I was like totally BARF!")
 
 The International Gay and Lesbian Association, one of the world's oldest GLBT equal rights organisations, has finally won consultive status to the UN Economic and Social Council, after years of trying.
 

@@ -22,7 +22,7 @@ tags:
 - Victoria Day
 comments: []
 ---
-![Victoria Day Surprise](/wp-content/media/2007/05/victoria-day-surprise.jpg)
+![Victoria Day Surprise]({{'/wp-content/media/2007/05/victoria-day-surprise.jpg' | relative_url}})
 
 Hey kiddos! As typical of my holiday posts, there's no new news for today. It is, after all, Victoria Day: The day where Canadians everywhere take a few moments to reflect on how [Queen Victoria](http://en.wikipedia.org/wiki/Queen_Victoria "I hear she's a total drama queen") has personally affected their lives.
 

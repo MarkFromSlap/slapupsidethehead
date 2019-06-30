@@ -23,7 +23,7 @@ tags:
 - Laws
 comments: []
 ---
-![](/wp-content/media/2010/01/gay-marriage-certificate.jpg "Hey, at least they did it!")
+![]({{'/wp-content/media/2010/01/gay-marriage-certificate.jpg' | relative_url}} "Hey, at least they did it!")
 
 Prince Edward Island finally updated their lawbooks over the holidays in recognition of same-sex couples for 29 pieces of legislation. While same-sex marriages have been legal in the province since federal law changed in 2006, spouses were still referred to as "husband and wife" and "man and woman" in provincial documents and laws until now.
 

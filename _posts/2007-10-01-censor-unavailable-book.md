@@ -25,7 +25,7 @@ tags:
 - Waterloo
 comments: []
 ---
-![Book Censorship](/wp-content/media/2007/09/book-censorship.jpg)
+![Book Censorship]({{'/wp-content/media/2007/09/book-censorship.jpg' | relative_url}})
 
 Defend Traditional Marriage and Family, an anti-gay lobby group, is trying to ban a book entitled [Open Minds to Equality](http://www.amazon.com/Open-Minds-Equality-Sourcebook-Activities/dp/020516109X "Dangerous Ideas Within!") because it presents a "morally neutral" view of homosexuality. The book, an optional teacher's resource for the Waterloo Catholic District School Board, is unavailable to students.
 

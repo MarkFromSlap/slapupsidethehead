@@ -24,7 +24,7 @@ tags:
 - Stupid arguments
 comments: []
 ---
-![It's basically just ancient gay porn.](/wp-content/media/2009/11/vatican-statues.jpg "It's basically just ancient gay porn.")
+![It's basically just ancient gay porn.]({{'/wp-content/media/2009/11/vatican-statues.jpg' | relative_url}} "It's basically just ancient gay porn.")
 
 Gays are not welcome at the Vatican---not even to visit. At least, that's the word according to Bishop Janusz Kaleta, who spoke to the media at last month's Assembly of United Nations World Tourism Organization.
 

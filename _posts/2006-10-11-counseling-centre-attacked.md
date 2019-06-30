@@ -23,7 +23,7 @@ tags:
 - Tri-Pride
 comments: []
 ---
-![Catholic Counselling Centre](/wp-content/media/2006/10/gays_meet.jpg)
+![Catholic Counselling Centre]({{'/wp-content/media/2006/10/gays_meet.jpg' | relative_url}})
 
 A counseling centre providing meeting space for gay rights organisations? _What is the world coming to?!_
 

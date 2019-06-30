@@ -25,7 +25,7 @@ tags:
 - AIDES Senegal
 comments: []
 ---
-![Long-term leases only.](/wp-content/media/2009/01/jail-cell.jpg "Long-term leases only.")
+![Long-term leases only.]({{'/wp-content/media/2009/01/jail-cell.jpg' | relative_url}} "Long-term leases only.")
 
 Senegal is drawing international condemnation by human rights organisations for jailing nine gay men this week. Each of the men were sentenced to eight years in prison for "indecent conduct and unnatural acts," Senegal's legalese for, basically, being gay.
 

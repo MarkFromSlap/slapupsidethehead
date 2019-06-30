@@ -23,7 +23,7 @@ tags:
 - Joaquin Ramierz
 comments: []
 ---
-![Incoming Deportee](/wp-content/media/2008/04/deportee-incoming.jpg "This is how it's really done, by the way")
+![Incoming Deportee]({{'/wp-content/media/2008/04/deportee-incoming.jpg' | relative_url}} "This is how it's really done, by the way")
 
 Ah, another month, another deported gay refugee. This time it's 39-year-old Joaquin Ramirez, who fled El Salvador in 2006 by coming to Canada as a delegate during the International AIDS conference. Once here, he was among the 160 conference attendees who applied for asylum, but one of an unspecified minority that was denied it.
 

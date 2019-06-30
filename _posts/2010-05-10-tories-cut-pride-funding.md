@@ -24,7 +24,7 @@ tags:
 - Funding cuts
 comments: []
 ---
-![Man attempts to stab a screaming pride flag](/wp-content/media/2010/05/pride-cuts.jpg "Here come the cuts to Pride")
+![Man attempts to stab a screaming pride flag]({{'/wp-content/media/2010/05/pride-cuts.jpg' | relative_url}} "Here come the cuts to Pride")
 
 Pride Toronto has been denied any funding this year from the federal government. The festival, which had previously been supported with federal tourism programs, brought in an estimated $100 million in tourism dollars last year, most of which was subject to GST/PST.
 

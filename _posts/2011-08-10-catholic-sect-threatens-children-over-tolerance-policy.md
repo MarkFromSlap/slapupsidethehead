@@ -24,7 +24,7 @@ tags:
 - Coptic Catholics
 comments: []
 ---
-![A man sits at a dark table with poker chips:](/wp-content/media/2011/08/irresponsible-bet.jpg "Because I speak for all of them.")
+![A man sits at a dark table with poker chips:]({{'/wp-content/media/2011/08/irresponsible-bet.jpg' | relative_url}} "Because I speak for all of them.")
 
 The Coptic Orthodox Church has threatened to somehow withdraw 5000 schoolchildren from the Toronto Catholic District School Board unless the board scraps its plans to implement the government's required tolerance and anti-homophobia policies.
 

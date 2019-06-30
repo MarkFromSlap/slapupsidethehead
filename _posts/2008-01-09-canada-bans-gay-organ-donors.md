@@ -24,7 +24,7 @@ tags:
 - Gary Levy
 comments: []
 ---
-![Gay Organ Donor](/wp-content/media/2008/01/gay-heart.jpg)
+![Gay Organ Donor]({{'/wp-content/media/2008/01/gay-heart.jpg' | relative_url}})
 
 Got a relative in desperate need of a kidney or a lung? Are you a gay man? Well, tell your sick grandma to take a hike! According to new Health Canada regulations, your organs aren't fit for her.
 

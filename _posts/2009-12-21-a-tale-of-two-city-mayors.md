@@ -28,7 +28,7 @@ tags:
 - Houston
 comments: []
 ---
-![](/wp-content/media/2009/12/mayor-matching-game.jpg "Answer: The Lesbian is Houston's Mayor, and Truro gets shafted.")
+![]({{'/wp-content/media/2009/12/mayor-matching-game.jpg' | relative_url}} "Answer: The Lesbian is Houston's Mayor, and Truro gets shafted.")
 
 I love mayors. They're inherently funny, like the head of a condo association---passionately seizing what amounts to no real power. And aren't we in luck? There are two mayor stories today!
 

@@ -23,7 +23,7 @@ tags:
 - United States
 comments: []
 ---
-![All of Broadway](/wp-content/media/2007/03/new-york.jpg)
+![All of Broadway]({{'/wp-content/media/2007/03/new-york.jpg' | relative_url}})
 
 Start spreadin' the newwws...
 

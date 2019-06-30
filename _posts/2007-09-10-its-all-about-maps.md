@@ -25,7 +25,7 @@ tags:
 - Caitlin Upton
 comments: []
 ---
-![Guest Slap](/wp-content/media/2007/09/guest-slap.jpg)
+![Guest Slap]({{'/wp-content/media/2007/09/guest-slap.jpg' | relative_url}})
 
 I'm extremely pleased to host Slap's first guest post today. Arthur is a gay American who moved to New Zealand in 1995 to be with his partner, Nigel (who is a Kiwi). Arthur's blog and podcast, [AmeriNZ](http://amerinz.blogspot.com/ "Chocked full of amerinzy goodness"), regularly offers an international perspective on culture and politics. Today, he shares his insights on the perceived disconnectedness of the United States and how that relates to their attitudes, both domestically and multinationally.
 

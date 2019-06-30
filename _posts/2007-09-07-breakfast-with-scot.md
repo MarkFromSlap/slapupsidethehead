@@ -27,7 +27,7 @@ tags:
 - Richard Peddie
 comments: []
 ---
-![Road Slap](/wp-content/media/2007/09/road-slap.jpg)
+![Road Slap]({{'/wp-content/media/2007/09/road-slap.jpg' | relative_url}})
 
 Hey kids! I'm on the other side of the country for a little while to defend my master's thesis, so I'm posting my very first _Road Slap_ today! (For the astute, a Road Slap is just like any other post on this site, but thanks to soul-sucking jetlag, lacks illustrations or humour of any kind.)
 

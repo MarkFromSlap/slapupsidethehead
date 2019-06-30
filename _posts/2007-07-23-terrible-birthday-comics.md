@@ -25,7 +25,7 @@ I'm on a short vacation from Slap this week (23<sup>rd</sup> to 27<sup>th</sup>)
 
 Plus, there's a new one **every day** this week!
 
-![Terrible Birthday Comics: Giant Pearls](/wp-content/media/2007/07/tbc05-pearls.png)
+![Terrible Birthday Comics: Giant Pearls]({{'/wp-content/media/2007/07/tbc05-pearls.png' | relative_url}})
 
-Select a comic: [Monday](/wp-content/media/2007/07/tbc01-ocean.png "Terrible Birthday Comics: Ocean Stroll") | [Tuesday](/wp-content/media/2007/07/tbc02-pizza.png "Terrible Birthday Comics: Pizza Face") | [Wednesday](/wp-content/media/2007/07/tbc03-cocktails.png "Terrible Birthday Comics: Free Cocktails") | [Thursday](/wp-content/media/2007/07/tbc04-deathvoice.png "Terrible Birthday Comics: Mr. Deathvoice") | [Friday](/wp-content/media/2007/07/tbc05-pearls.png "Terrible Birthday Comics: Giant Pearls")
+Select a comic: [Monday]({{'/wp-content/media/2007/07/tbc01-ocean.png' | relative_url}} "Terrible Birthday Comics: Ocean Stroll") | [Tuesday](/wp-content/media/2007/07/tbc02-pizza.png "Terrible Birthday Comics: Pizza Face") | [Wednesday](/wp-content/media/2007/07/tbc03-cocktails.png "Terrible Birthday Comics: Free Cocktails") | [Thursday](/wp-content/media/2007/07/tbc04-deathvoice.png "Terrible Birthday Comics: Mr. Deathvoice") | [Friday](/wp-content/media/2007/07/tbc05-pearls.png "Terrible Birthday Comics: Giant Pearls")
 

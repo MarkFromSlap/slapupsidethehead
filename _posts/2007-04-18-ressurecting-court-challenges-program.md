@@ -23,7 +23,7 @@ tags:
 - Stephane Dion
 comments: []
 ---
-![Dead Court Challenges Program](/wp-content/media/2007/04/dead-cc.jpg)
+![Dead Court Challenges Program]({{'/wp-content/media/2007/04/dead-cc.jpg' | relative_url}})
 
 Defibrillator clear? It's not too late! Opposition Leader Stephane Dion has vowed to restore the [Court Challenges Program](http://www.ccppcj.ca/e/ccp.shtml "R.I.P."), which was [unexpectedly turfed](http://www.slapupsidethehead.com/2006/09/tories-cut-equality-funding/ "Go fund yourself!") by the Conservative government last autumn after lobbying by "pro-family" special interest groups.
 

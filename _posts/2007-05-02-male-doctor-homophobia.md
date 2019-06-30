@@ -24,7 +24,7 @@ tags:
 - University of Alberta
 comments: []
 ---
-![Athlete and Physician](/wp-content/media/2007/05/athlete-and-physician.jpg)
+![Athlete and Physician]({{'/wp-content/media/2007/05/athlete-and-physician.jpg' | relative_url}})
 
 Researchers at the University of Alberta's Glen Sather Sports Medicine Clinic have found that athletes prefer female doctors to male ones. While the results were primarily attributed to the non-confrontational and caring attitude of female doctors, Dr. Marni Wesner, one of the researchers conducting the work, said she was taken off-guard by one additional recurring element: homophobia.
 

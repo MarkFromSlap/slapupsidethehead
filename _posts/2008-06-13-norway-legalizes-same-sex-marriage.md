@@ -22,7 +22,7 @@ tags:
 - Norway
 comments: []
 ---
-![Norway Same-sex marriage](/wp-content/media/2008/06/norway-marriage.jpg "They\'re in the club.")
+![Norway Same-sex marriage]({{'/wp-content/media/2008/06/norway-marriage.jpg' | relative_url}} "They\'re in the club.")
 
 Kathrine, an avid Slap reader and [Norwegian blogger](http://xrisimopoio.blogspot.com/ "Not Quite The Spectator Essays"), writes in with some fantastically amazing news from abroad!
 

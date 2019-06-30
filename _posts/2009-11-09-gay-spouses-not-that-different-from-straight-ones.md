@@ -23,7 +23,7 @@ tags:
 - Same-sex divorce
 comments: []
 ---
-![All kinds of families are great!](/wp-content/media/2009/11/pro-family.jpg "All kinds of families are great!")
+![All kinds of families are great!]({{'/wp-content/media/2009/11/pro-family.jpg' | relative_url}} "All kinds of families are great!")
 
 Same-sex couples are virtually identical to opposite-sex couples when it comes to age, income, and child rearing according to census data released in the United States this month.
 

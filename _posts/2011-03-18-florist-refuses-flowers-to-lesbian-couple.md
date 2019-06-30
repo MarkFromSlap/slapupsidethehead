@@ -25,7 +25,7 @@ tags:
 - Petals and Promises
 comments: []
 ---
-![Every day, I work surrounded by flowers... And they fill me with SO MUCH HATRED!](/wp-content/media/2011/03/flower-hate.jpg "It's the pollen, I think")
+![Every day, I work surrounded by flowers... And they fill me with SO MUCH HATRED!]({{'/wp-content/media/2011/03/flower-hate.jpg' | relative_url}} "It's the pollen, I think")
 
 A New Brunswick florist is refusing to provide flowers to a couple on their wedding day because they're lesbians.
 

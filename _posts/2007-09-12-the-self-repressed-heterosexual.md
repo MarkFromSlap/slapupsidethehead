@@ -22,7 +22,7 @@ tags:
 - Heterosexuals
 comments: []
 ---
-![Road Slap](/wp-content/media/2007/09/road-slap.jpg)
+![Road Slap]({{'/wp-content/media/2007/09/road-slap.jpg' | relative_url}})
 
 Whenever asked what I like best about being openly gay, a curious example pops into my head: the ability to comfortably order girly drinks. Now, before answering this aloud, I almost always interpret and correct this ridiculous thought to mean "freedom," though I rarely elaborate on what that's supposed to mean. I may not have understood it myself.
 

@@ -23,7 +23,7 @@ tags:
 - Studies
 comments: []
 ---
-![Nosferatu hesitates over a sleeping gay couple.](/wp-content/media/2011/02/nosferatu.jpg "Nosferatu is homophobic.")
+![Nosferatu hesitates over a sleeping gay couple.]({{'/wp-content/media/2011/02/nosferatu.jpg' | relative_url}} "Nosferatu is homophobic.")
 
 Canadian Blood Services continues to ban blood donations from gay males, permanently barring all men who have had sex with another man---even once---since 1977. It's a dumb policy, and one that helps propagate the myth that all gay men are sexually promiscuous and inherently dangerous to the blood supply.
 

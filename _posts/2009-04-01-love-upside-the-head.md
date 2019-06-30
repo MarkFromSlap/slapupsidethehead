@@ -21,7 +21,7 @@ tags:
 - April Fools
 comments: []
 ---
-![234nfj.jpg](/wp-content/media/2009/04/damian-helps-you-change.jpg "234nfj.jpg")Hello, friends. My name is **Damian** and I am your new host for this website. In these times of economic uncertainly, I was happy to help Mark out by buying the rights to these pages, and by doing so I can help all of you.
+![234nfj.jpg]({{'/wp-content/media/2009/04/damian-helps-you-change.jpg' | relative_url}} "234nfj.jpg")Hello, friends. My name is **Damian** and I am your new host for this website. In these times of economic uncertainly, I was happy to help Mark out by buying the rights to these pages, and by doing so I can help all of you.
 
 As part of the ownership transfer, I've agreed to keep all of the site's old articles intact and available, and I promised to uphold Mark's mission to help out the gay and lesbian community in whatever way I can. You see, having been involved with homosexuality in my past, I know what it's like to struggle as a homosexual. That is why I'm eager to deliver my message of love and hope directly to people just like you through this website.
 
@@ -31,7 +31,7 @@ For now, though, my first action here will be to talk about change.
 
 **What is change?**
 
-![3478hsj.jpg](/wp-content/media/2009/04/what-is-chage.jpg "3478hsj.jpg")Websters defines change as "_to exchange larger units of money for smaller ones_." You see, I was once trapped by the black talons of homosexuality, and with your donation, I can provide the time and materials necessary to help you escape the homosexual lifestyle and put yourself on the path to a more fulfilling life.
+![3478hsj.jpg]({{'/wp-content/media/2009/04/what-is-chage.jpg' | relative_url}} "3478hsj.jpg")Websters defines change as "_to exchange larger units of money for smaller ones_." You see, I was once trapped by the black talons of homosexuality, and with your donation, I can provide the time and materials necessary to help you escape the homosexual lifestyle and put yourself on the path to a more fulfilling life.
 
 For men, I will replace your lust for hot, sweaty, abdominal muscles and the chiseled landscape of the male body with your innate desire of boobies. For women---you're all just confused. It'll pass. But through the power of love, you too will learn to repress your biological desires into a black ball in the pit of your stomach and live a life of feigned contentment with a new, heterosexual partner. Or, failing that, a life of total solitude and abstinence, just like me.
 

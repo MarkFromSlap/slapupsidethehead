@@ -24,7 +24,7 @@ tags:
 - Lee Molnar
 comments: []
 ---
-![Elderly couple ponders what the bible says and recalls something about turning guests away from an inn.](/wp-content/media/2010/06/bible-misinterpretation.jpg "Jesus was definitely in that story, too.")
+![Elderly couple ponders what the bible says and recalls something about turning guests away from an inn.]({{'/wp-content/media/2010/06/bible-misinterpretation.jpg' | relative_url}} "Jesus was definitely in that story, too.")
 
 Lee and Susan Molnar, a retired couple in British Columbia, have decided to shut down their bed and breakfast rather than allow gays to stay there. The couple had converted their riverside home into a quaint lodging destination, but had a human rights complaint filed against them after refusing to open their business to gay customers.
 

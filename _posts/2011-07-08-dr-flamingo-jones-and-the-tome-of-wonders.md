@@ -21,7 +21,7 @@ tags:
 - Dr. Flamingo Jones
 comments: []
 ---
-![Dr. Flamingo Jones reads a book on the beach.](/wp-content/media/2011/07/flamingo-jones-reading.jpg "Not yet available on e-reader, I guess.")
+![Dr. Flamingo Jones reads a book on the beach.]({{'/wp-content/media/2011/07/flamingo-jones-reading.jpg' | relative_url}} "Not yet available on e-reader, I guess.")
 
 I'm very happy to present today's Guest Slap. The author, Dr. Flamingo Jones, is a world-renowned archaeologist and researcher at the University of Oxbridgeshire. While I know little about his reclusive past and current whereabouts, he has kindly agreed to share with us, occasionally, his knowledge, discoveries, and insights.
 

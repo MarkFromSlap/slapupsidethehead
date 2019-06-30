@@ -23,7 +23,7 @@ tags:
 - Death threats
 comments: []
 ---
-![](/wp-content/media/2008/08/pumpjack-closure.jpg "Pumpjacks are suggestive, but don't deserve to be targeted by nutjobs")
+![]({{'/wp-content/media/2008/08/pumpjack-closure.jpg' | relative_url}} "Pumpjacks are suggestive, but don't deserve to be targeted by nutjobs")
 
 The Pumpjack Pub, a Vancouver gay bar, was evacuated after a caller left several homophobic messages, including a threat to blow up the bar at 6pm, last Wednesday.
 

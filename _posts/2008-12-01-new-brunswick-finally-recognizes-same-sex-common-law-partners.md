@@ -23,7 +23,7 @@ tags:
 - David Alward
 comments: []
 ---
-![](/wp-content/media/2008/11/mister-munchies.jpg "This is actually how rulings are delivered.")
+![]({{'/wp-content/media/2008/11/mister-munchies.jpg' | relative_url}} "This is actually how rulings are delivered.")
 
 Nearly a decade after the Supreme Court of Canada ruled that same-sex common law partners must be given the same rights and priveleges as opposite-sex partners, New Brunswick has introduced a bill called the modernization of benefits and obligations act. If passed, the act will update more than 30 other acts and regulations to extend equal status to same-sex common law relationships.
 

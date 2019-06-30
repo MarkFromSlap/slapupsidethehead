@@ -22,7 +22,7 @@ tags:
 - Santa Claus
 comments: []
 ---
-![Assy and Homophobic Santa](/wp-content/media/2007/12/bad-santa.jpg)
+![Assy and Homophobic Santa]({{'/wp-content/media/2007/12/bad-santa.jpg' | relative_url}})
 
 [Canada Post](http://www.canadapost.ca/ "They're the guys that put those red boxes on every corner") has temporarily shut down their [Write To Santa](http://www.canadapost.ca/personal/dec/santa/writesanta/default-e.asp "It's a really nice program, once you get over the rudeness") program---a volunteer-run promotion in which children get a personalized response to their wish list from Santa at the North Pole. The program, which has been in effect since 1982 (Heck, I remember writing to Santa as a kid), relies on thousands of Canada Post volunteers adding a hand-written message to a form response in any of the world's languages.
 

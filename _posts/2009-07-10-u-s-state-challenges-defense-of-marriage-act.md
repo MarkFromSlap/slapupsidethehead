@@ -23,7 +23,7 @@ tags:
 - Defense of marriage act
 comments: []
 ---
-![Grab the epsom salt, quick! A gay veteran's spouse is being buried beside him!](/wp-content/media/2009/07/damsel-in-distress.jpg "Grab the epsom salt, quick! A gay veteran's spouse is being buried beside him!")
+![Grab the epsom salt, quick! A gay veteran's spouse is being buried beside him!]({{'/wp-content/media/2009/07/damsel-in-distress.jpg' | relative_url}} "Grab the epsom salt, quick! A gay veteran's spouse is being buried beside him!")
 
 Here's some encouraging news! The state of Massachusetts has launched a lawsuit against the United States government over the Defense of Marriage Act (DOMA). The act, which passed in 1996, prevents states from giving gay couples over 1000 benefits that heterosexual couples already enjoy, including everything from spousal health insurance access to having veterans' spouses share a burial plot. States that do not comply with the act will lose access to millions of dollars in funding for health care, social services, and other benefit causes.
 

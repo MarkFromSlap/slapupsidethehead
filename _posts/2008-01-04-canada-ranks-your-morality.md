@@ -22,7 +22,7 @@ tags:
 - Angus Reid
 comments: []
 ---
-![Tricky Issue #3](/wp-content/media/2008/01/tricky-issue-3.jpg)
+![Tricky Issue #3]({{'/wp-content/media/2008/01/tricky-issue-3.jpg' | relative_url}})
 
 Our dear, dear friends at Angus Reid have released a new poll ranking contentious issues by how morally acceptable they are to Canadians. Gay relations is on there for some reason---and here's how it stacks up:
 

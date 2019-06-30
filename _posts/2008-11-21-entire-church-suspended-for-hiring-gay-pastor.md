@@ -27,7 +27,7 @@ tags:
 - Michael Pryse
 comments: []
 ---
-![](/wp-content/media/2008/11/new-pastor.jpg "Jesus did this once.")
+![]({{'/wp-content/media/2008/11/new-pastor.jpg' | relative_url}} "Jesus did this once.")
 
 An entire Lutheran congregation in Newmarket, Ontario has been suspended over the hiring of a gay associate pastor.
 

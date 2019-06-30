@@ -25,7 +25,7 @@ tags:
 - National Organization for Marriage
 comments: []
 ---
-![It's a crueler cruller.](/wp-content/media/2009/08/tim-hortons-cruller.jpg "It's a crueler cruller.")
+![It's a crueler cruller.]({{'/wp-content/media/2009/08/tim-hortons-cruller.jpg' | relative_url}} "It's a crueler cruller.")
 
 Here's an odd bit of donut drama. Tim Hortons, Canada's largest fast food chain, (yes---even bigger than McDonald's) was spotted officially sponsoring an anti-gay political rally to be held in Rhode Island, U.S.A. next week.
 

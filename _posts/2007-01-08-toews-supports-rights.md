@@ -23,7 +23,7 @@ tags:
 - Members of Parliament
 comments: []
 ---
-![Vic Toews Bot](/wp-content/media/2007/01/toews_bot.jpg)
+![Vic Toews Bot]({{'/wp-content/media/2007/01/toews_bot.jpg' | relative_url}})
 
 Well, I've got **good** news and I've got **eerie** news!
 

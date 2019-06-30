@@ -24,7 +24,7 @@ tags:
 - Dumb ideas
 comments: []
 ---
-![](/wp-content/media/2010/01/postman.jpg "Sorry to all the real Mrs. Jone's out there. Your habits have been outed.")
+![]({{'/wp-content/media/2010/01/postman.jpg' | relative_url}} "Sorry to all the real Mrs. Jone's out there. Your habits have been outed.")
 
 Anyone who requested a sexy underwear catalogue from Priape, Canada's most well-known gay adult store, may be surprised to discover that their discreet, opaque packaging suddenly isn't as discreet as it used to be. In fact, Priape reports that many have been prominently stamped with the words "adult material."
 

@@ -25,7 +25,7 @@ tags:
 - Kitchener
 comments: []
 ---
-![Anti-Gay Puppet](/wp-content/media/2006/11/anti-gay_puppet.jpg)
+![Anti-Gay Puppet]({{'/wp-content/media/2006/11/anti-gay_puppet.jpg' | relative_url}})
 
 Well, after tallying the results of their news-making [homophobic questionnaires](http://www.slapupsidethehead.com/2006/11/group-endorses-homophobic-trustees/ "Because job competence isn't as important as anti-gayness!"), the anti-gay lobby group, Defend Traditional Marriage and Family, have _finally_ announced their endorsements for the upcoming civic elections in Kitchener, Ontario! How _splendid_!
 

@@ -26,7 +26,7 @@ tags:
 - Michael Kandola
 comments: []
 ---
-![Two-headed alien commits an anti-human hate crime.](/wp-content/media/2010/05/hate-crime.jpg "Glrk Crime! Glrk Crime!")
+![Two-headed alien commits an anti-human hate crime.]({{'/wp-content/media/2010/05/hate-crime.jpg' | relative_url}} "Glrk Crime! Glrk Crime!")
 
 A Vancouver man has been given a harsh, year-long prison sentence for assaulting a gay man back in September, 2008.
 

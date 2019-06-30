@@ -24,7 +24,7 @@ tags:
 - Institute for Canadian Values
 comments: []
 ---
-![Shady Poll](/wp-content/media/2006/10/shady_poll.jpg)
+![Shady Poll]({{'/wp-content/media/2006/10/shady_poll.jpg' | relative_url}})
 
 Oh, this ought to be good! The anti-gay lobby group, Institute for Canadian Values, unveiled their latest poll this week, concluding that the majority of Canadians want to revisit same-sex marriage in light of religious freedoms.
 

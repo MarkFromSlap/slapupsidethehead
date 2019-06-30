@@ -24,7 +24,7 @@ tags:
 - Members of Parliament
 comments: []
 ---
-![Justice Minister!](/wp-content/media/2006/07/justice_minister.jpg)
+![Justice Minister!]({{'/wp-content/media/2006/07/justice_minister.jpg' | relative_url}})
 
 Conservative Justice Minister Vic Toews has blamed "the controversy" over same-sex marriage directly on the Liberals, saying that the equal marriage law "was politically motivated." This, instead of, say, the natural progression of equality confirmed by multiple previous court rulings... But, regardless, you know what _this_ means!
 
@@ -36,7 +36,7 @@ Oh, but, of course, simply revoking the equal marriage law wouldn't be enough fo
 
 Yep, that's our new _ **justice minister!** _
 
-![Courts are Wrong, Says Vicky](/wp-content/media/2006/07/courts_are_wrong.jpg)
+![Courts are Wrong, Says Vicky]({{'/wp-content/media/2006/07/courts_are_wrong.jpg' | relative_url}})
 
 Hey... If Vic can become justice minister with that sort of ideology... Maybe I, Mark, Ã¼ber gay news reporter, can become Super Pope! I'll scribble it onto my "give it a shot" list.
 

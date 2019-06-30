@@ -24,7 +24,7 @@ tags:
 - Christian Horizons
 comments: []
 ---
-![Some sound rationalization...](/wp-content/media/2008/05/sound-rationalization.jpg "What is happening to our religious freedom!?")
+![Some sound rationalization...]({{'/wp-content/media/2008/05/sound-rationalization.jpg' | relative_url}} "What is happening to our religious freedom!?")
 
 Christian Horizons, a government-funded charity organisation, is appealing a ruling that found them in violation of human rights codes. Connie Heintz, a gay Christian, [was forced to quit her job](http://www.slapupsidethehead.com/2008/04/evangelical-group-fined-for-human-rights-violation/ "Nothing witty to say, really") after co-workers discovered she was a lesbian. She filed a human rights complaint and won.
 

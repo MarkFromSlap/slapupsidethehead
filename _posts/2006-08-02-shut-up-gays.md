@@ -22,9 +22,9 @@ tags:
 - Traditional Marriage Crusade
 comments: []
 ---
-![Elsie Wayne](/wp-content/media/2006/07/elsie_wayne.jpg)
+![Elsie Wayne]({{'/wp-content/media/2006/07/elsie_wayne.jpg' | relative_url}})
 
-![Retroactive Slap](/wp-content/media/2006/07/retroactive.jpg)Time for another retroactive slap! (And, if you're wondering about these; I should mention that I'm actually moving 4,000 km across the country. That's why [Rob Anders](http://www.slapupsidethehead.com/2006/07/homosexual-sex-marriage/ "You remember, the homosexual sex marriage guy!") is now officially my _former_ MP; wouldn't you have moved, too?)
+![Retroactive Slap]({{'/wp-content/media/2006/07/retroactive.jpg)Time' | relative_url}} for another retroactive slap! (And, if you're wondering about these; I should mention that I'm actually moving 4,000 km across the country. That's why [Rob Anders](http://www.slapupsidethehead.com/2006/07/homosexual-sex-marriage/ "You remember, the homosexual sex marriage guy!") is now officially my _former_ MP; wouldn't you have moved, too?)
 
 Elsie Wayne, although now the leader of an anti-gay lobby group, Traditional Marriage Crusade (_chortle_), is best known for her delightfully insane outburst in the **House of Commons** back when she was a conservative MP. Keep in mind, this quote is actually from **the House** , not from some insane fringe group press release:
 

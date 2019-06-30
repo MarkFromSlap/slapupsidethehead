@@ -24,7 +24,7 @@ tags:
 - Andrina Perry
 comments: []
 ---
-![Two lesbians discuss entering the United States:](/wp-content/media/2011/08/united-states-vacation.jpg "At least, that's how I imagine it whenever I visit.")
+![Two lesbians discuss entering the United States:]({{'/wp-content/media/2011/08/united-states-vacation.jpg' | relative_url}} "At least, that's how I imagine it whenever I visit.")
 
 A married lesbian couple has complained to the media after being forced to declare themselves as non-family members in order to enter the United States for a vacation.
 

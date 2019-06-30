@@ -28,7 +28,7 @@ tags:
 - Richard Dowrey
 comments: []
 ---
-![The old gay panic is put through the rounds by swapping the scenario. A gay guy punches a girl who was hitting on him.](/wp-content/media/2010/08/gay-panic.jpg "Straight Panic!!!")
+![The old gay panic is put through the rounds by swapping the scenario. A gay guy punches a girl who was hitting on him.]({{'/wp-content/media/2010/08/gay-panic.jpg' | relative_url}} "Straight Panic!!!")
 
 Shawn Woodward, a 37 year old man from Vancouver, was found guilty of aggravated assault this week after sucker-punching a 62-year-old gay man. Richard Dowrey, the victim, was left with permanent brain damage and will now require assistance for the rest of his life.
 

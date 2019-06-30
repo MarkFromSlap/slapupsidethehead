@@ -26,7 +26,7 @@ tags:
 - Two Tahitian Women
 comments: []
 ---
-![Due to a recent attack on this illustration, we ask that you please keep a distance of at least seventy centimetres from your monitor at this time. Thank you.](/wp-content/media/2011/04/breasts.jpg "If you can read this message, you're too close.")
+![Due to a recent attack on this illustration, we ask that you please keep a distance of at least seventy centimetres from your monitor at this time. Thank you.]({{'/wp-content/media/2011/04/breasts.jpg' | relative_url}} "If you can read this message, you're too close.")
 
 "Two Tahitian Women," a painting created by French impressionist Paul Gauguin in 1899, was attacked during an exhibition at the National Gallery in Washington last week. The work of art, worth an estimated 80 million dollars, depicts two native Tahitian women, both topless, with mango blossoms.
 

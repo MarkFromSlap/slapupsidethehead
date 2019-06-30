@@ -24,7 +24,7 @@ tags:
 - Zanzibar&acirc;&euro;&trade;s Association for Islamic Mobilization and Propagation
 comments: []
 ---
-![Freddy Mercury](/wp-content/media/2006/08/freddy_mercury.jpg)
+![Freddy Mercury]({{'/wp-content/media/2006/08/freddy_mercury.jpg' | relative_url}})
 
 Queen fans need not rejoice. At least, not in [Zanzibar](http://en.wikipedia.org/wiki/Zanzibar "Time for a geography lesson."). The _Zanzibar's Association for Islamic Mobilization and Propagation_ is demanding that the government shut down a local restaurant's planned 60th birthday celebration for the late [Freddy Mercury](http://en.wikipedia.org/wiki/Freddy_Mercury "Music legend"). Although Freddy is the island's most recognizable export, the group strongly objects to the fact that Freddy was... well, I'll put it in his own words: "as gay as a daffodil, my dear!"
 

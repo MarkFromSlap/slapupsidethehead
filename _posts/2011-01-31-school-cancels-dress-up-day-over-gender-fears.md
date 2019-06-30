@@ -26,7 +26,7 @@ tags:
 - Ripley Antonacci
 comments: []
 ---
-![Charles McVety scolds a young child](/wp-content/media/2011/01/mcvety-scolding.jpg "Charles McVety")
+![Charles McVety scolds a young child]({{'/wp-content/media/2011/01/mcvety-scolding.jpg' | relative_url}} "Charles McVety")
 
 A public elementary school in King City, Ontario has cancelled "opposite gender day" over concerns that it would result in gender identity issues or turn the students gay.
 

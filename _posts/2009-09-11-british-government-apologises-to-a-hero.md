@@ -26,7 +26,7 @@ tags:
 - History
 comments: []
 ---
-![Better late than never?](/wp-content/media/2009/09/alan-mathison-turing.jpg "Better late than never?")
+![Better late than never?]({{'/wp-content/media/2009/09/alan-mathison-turing.jpg' | relative_url}} "Better late than never?")
 
 British Prime Minister Gordon Brown has officially apologised to Alan Turing, one of my biggest personal inspirations, for the appalling treatment he received from the government before his death in 1954.
 

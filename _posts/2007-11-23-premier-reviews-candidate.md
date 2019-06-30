@@ -25,7 +25,7 @@ tags:
 - Ed Stelmach
 comments: []
 ---
-![Ed Stelmach Reviews Craig Chandler](/wp-content/media/2007/11/stelmach-review.jpg)
+![Ed Stelmach Reviews Craig Chandler]({{'/wp-content/media/2007/11/stelmach-review.jpg' | relative_url}})
 
 Can I hear a " **_Whaaaa?_**"
 

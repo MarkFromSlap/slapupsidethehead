@@ -24,7 +24,7 @@ tags:
 - Deborah Lamont
 comments: []
 ---
-![Hiding Gay Refugee](/wp-content/media/2007/08/hiding-refugee.jpg)
+![Hiding Gay Refugee]({{'/wp-content/media/2007/08/hiding-refugee.jpg' | relative_url}})
 
 Alvaro Orozco, the Nicaraguan refugee [ordered to be deported from Canada](http://www.slapupsidethehead.com/2007/08/gay-refugee-deported/), has gone into hiding.
 

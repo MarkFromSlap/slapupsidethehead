@@ -24,7 +24,7 @@ tags:
 - Members of Parliament
 comments: []
 ---
-![This Just In](/wp-content/media/2006/08/this_just_in.jpg)
+![This Just In]({{'/wp-content/media/2006/08/this_just_in.jpg' | relative_url}})
 
 Gee whiz, give a guy a microphone and you think you'd expect something _different_ from time to time, no?
 

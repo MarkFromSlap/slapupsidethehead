@@ -25,7 +25,7 @@ tags:
 - Crandall University
 comments: []
 ---
-![A man rejects a gay job applicant:](/wp-content/media/2012/06/weird-hiring-policy.jpg "This about sums it up for me.")
+![A man rejects a gay job applicant:]({{'/wp-content/media/2012/06/weird-hiring-policy.jpg' | relative_url}} "This about sums it up for me.")
 
 Crandall University, a school located in Moncton, New Brunswick, is under fire this month over its discriminatory hiring policies. The school, which is publicly funded, does not allow any gay staff members---and proudly announces so.
 

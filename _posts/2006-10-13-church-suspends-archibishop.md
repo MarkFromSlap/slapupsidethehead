@@ -28,7 +28,7 @@ tags:
 - Sandra Morris
 comments: []
 ---
-![Slippery Slope](/wp-content/media/2006/10/slippery_slope.jpg)
+![Slippery Slope]({{'/wp-content/media/2006/10/slippery_slope.jpg' | relative_url}})
 
 The Anglican Church has suspended a retired Archibishop for blessing a same-sex couple at their wedding. Although the wedding took place in a non-Anglican church and the marriage certificate was signed by a different, non-Anglican minister, Archibishop Terrence Finlay was suspended for officiating over Mary Rowe and Sandra Morris, his longtime friends.
 

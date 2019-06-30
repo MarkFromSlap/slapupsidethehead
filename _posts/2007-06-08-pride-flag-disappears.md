@@ -24,7 +24,7 @@ tags:
 - Flags
 comments: []
 ---
-![Pride Flag Vacation](/wp-content/media/2007/06/flag-vacation.jpg)
+![Pride Flag Vacation]({{'/wp-content/media/2007/06/flag-vacation.jpg' | relative_url}})
 
 Officials and community members in Niagara Falls have been left scratching their heads after the first-ever gay pride flag to be flown over city hall went missing a mere four hours after its raising ceremony.
 

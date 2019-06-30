@@ -24,7 +24,7 @@ tags:
 - Crowsnest Pass
 comments: []
 ---
-![OMG, The Mayor!](/wp-content/media/2006/04/cardston_crazies.jpg)
+![OMG, The Mayor!]({{'/wp-content/media/2006/04/cardston_crazies.jpg' | relative_url}})
 
 Well, it's not every day that I get to slap an entire town upside the head. But, lo! [The Town of Cardston, Alberta](http://www.town.cardston.ab.ca/ "The Town of Cardston, Population: Who Cares?") (population: 3,500), made famous for it's carriage museum [featured on The Simpsons](http://www.cbc.ca/story/arts/national/2006/04/13/carriage-museum.html "Oooh! Hollywood took notice!") two weeks ago, has sent a formal letter requesting support for a ban on same-sex marriage. And to whom was this letter addressed? Why, the powerful [Municipality of Crowsnest Pass](http://www.town.crowsnestpass.ab.ca/ "Finally, a small town with some sense") (population: 6000), of course!
 

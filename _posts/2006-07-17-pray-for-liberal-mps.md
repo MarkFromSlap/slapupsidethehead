@@ -27,7 +27,7 @@ tags:
 - Christina Groot
 comments: []
 ---
-![Pray For MPs](/wp-content/media/2006/07/pray_for_mps.jpg)
+![Pray For MPs]({{'/wp-content/media/2006/07/pray_for_mps.jpg' | relative_url}})
 
 Nothing productive to do last weekend? Wish you could have found something other than the ol' Saturday-afternoon reruns to waste your time? Then perhaps you should have joined the nearly 5000 Christians who travelled to Parliament Hill on Saturday to pray for Liberal MPs to overturn the same-sex marriage!
 

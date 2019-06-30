@@ -23,7 +23,7 @@ tags:
 - Divers/Cit&Atilde;&copy;
 comments: []
 ---
-![The bunny's out of the bag!](/wp-content/media/2009/07/bunny-kill.jpg "The bunny's out of the bag!")
+![The bunny's out of the bag!]({{'/wp-content/media/2009/07/bunny-kill.jpg' | relative_url}} "The bunny's out of the bag!")
 
 [Divers/Cité](http://www.diverscite.org/ "It's diverse, and it takes place in the city. Get it?"), Montréal's annual GLBT arts and culture festival has been denied all federal funding, despite meeting the necessary requirements. The news came just days before the festival was to begin, and just weeks after the Conservative cultural minister, Diane Ablonczy, [was removed from her duties](http://www.slapupsidethehead.com/2009/07/tories-stealthily-slam-cabinet-minsiter-over-pride-support/ "There'll be no gay friendliness in cabinet!") for [allocating $400,000 for Toronto's Pride Week celebrations](http://www.slapupsidethehead.com/2009/06/tories-donate-for-toronto-pride-week/ "I thought it sounded fishy...").
 

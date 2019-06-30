@@ -24,7 +24,7 @@ tags:
 - Immigrants
 comments: []
 ---
-![](/wp-content/media/2010/03/missing-info.jpg "I guess that's how they'll be treated, then.")
+![]({{'/wp-content/media/2010/03/missing-info.jpg' | relative_url}} "I guess that's how they'll be treated, then.")
 
 Remember the government's 63-page guide for new immigrants? Intended to teach potential citizens the ins and outs of Canadian culture, the guide [was mysteriously missing any meaningful mention of GLBT rights](http://www.slapupsidethehead.com/2009/11/canadas-new-immigrants-guide-leaves-out-gays/ "And didn't go unnoticed.").
 

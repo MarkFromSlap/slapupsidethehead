@@ -25,7 +25,7 @@ tags:
 - Indiana University
 comments: []
 ---
-![Tony and his magnificently stupid sibiling, Professor Slobberboots.](/wp-content/media/2010/09/professor-slobberboots.jpg "But he's so cuddlewy!")
+![Tony and his magnificently stupid sibiling, Professor Slobberboots.]({{'/wp-content/media/2010/09/professor-slobberboots.jpg' | relative_url}} "But he's so cuddlewy!")
 
 A new survey out of Indiana University suggests that 68 percent of Americans now consider gay couples with children to be families. This is an increase from 2003, where only 54 percent of respondents said so.
 

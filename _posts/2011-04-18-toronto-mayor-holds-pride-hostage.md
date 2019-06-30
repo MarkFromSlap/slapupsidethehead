@@ -25,7 +25,7 @@ tags:
 - Queers Against Israeli Apartheid
 comments: []
 ---
-![Rob Ford, with Bambi eyes, declares](/wp-content/media/2011/04/rob-ford.jpg "When he lies, Rob Ford's entire face grows.")
+![Rob Ford, with Bambi eyes, declares]({{'/wp-content/media/2011/04/rob-ford.jpg' | relative_url}} "When he lies, Rob Ford's entire face grows.")
 
 Toronto's mayor, Rob Ford, has decided to cut all city funding to Toronto Pride, Canada's largest gay pride festival (and one of biggest and most popular festivals overall) unless a group called Queers Against Israeli Apartheid is disallowed from marching in the parade portion of the weeklong festivities.
 

@@ -23,7 +23,7 @@ tags:
 - Vic Toews
 comments: []
 ---
-![Marriage Cloud](/wp-content/media/2006/11/marriage_cloud.jpg)
+![Marriage Cloud]({{'/wp-content/media/2006/11/marriage_cloud.jpg' | relative_url}})
 
 Justice Minister [Vic Toews](http://www.slapupsidethehead.com/2006/07/justice-the-vic-toews-way/ "With his own wacky form of justice!") has confirmed that Stephen Harper will keep his promise and vote on whether or not to revisit same-sex marriage before parliament ends this Winter. The vote is expected to fail _spectacularly_, so right-wing special interest groups have been pressuring the government to delay the vote as long as possible.
 

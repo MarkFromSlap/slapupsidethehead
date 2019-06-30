@@ -24,7 +24,7 @@ tags:
 - Members of Parliament
 comments: []
 ---
-![Tory Nominations](/wp-content/media/2006/08/tory_nomination.jpg)
+![Tory Nominations]({{'/wp-content/media/2006/08/tory_nomination.jpg' | relative_url}})
 
 Looks like the crazies are at it again, attacking their own base! Tory MP Garth Turner is having his riding challenged by radical "Christian" fundamentalists for not supporting a ban on same-sex marriage. Garth is, of course, unfazed by the nonsense.
 

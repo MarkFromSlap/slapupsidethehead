@@ -27,7 +27,7 @@ tags:
 - Dutch
 comments: []
 ---
-![Glowing skull energy destroys Earth.](/wp-content/media/2010/03/gay-dutch-soldiers.jpg "If only they had a Don't Ask, Don't Tell Policy...")
+![Glowing skull energy destroys Earth.]({{'/wp-content/media/2010/03/gay-dutch-soldiers.jpg' | relative_url}} "If only they had a Don't Ask, Don't Tell Policy...")
 
 John Sheehan, a retired army general from the United States, has blamed the lifting of a ban on gay troops in the Dutch army for the 1995 Bosnian massacre.
 

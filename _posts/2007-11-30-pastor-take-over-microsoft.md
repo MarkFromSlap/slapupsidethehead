@@ -22,7 +22,7 @@ tags:
 - Microsoft
 comments: []
 ---
-![Microsoft Judgement](/wp-content/media/2007/11/microsoft-judgement.jpg)
+![Microsoft Judgement]({{'/wp-content/media/2007/11/microsoft-judgement.jpg' | relative_url}})
 
 Ken Hutcherson, pastor of an evangelical megachurch and a former NFL linebacker, has resolved to take over Microsoft. A sisyphian task with even the soundest motivations! What rationale could be behind this decision?
 

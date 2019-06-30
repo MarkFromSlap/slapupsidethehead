@@ -26,7 +26,7 @@ tags:
 - Debates
 comments: []
 ---
-![Tory Leadership Debate](/wp-content/media/2006/11/tory_leader_debate.jpg)
+![Tory Leadership Debate]({{'/wp-content/media/2006/11/tory_leader_debate.jpg' | relative_url}})
 
 Now that Alberta premier [King Ralph](http://www.slapupsidethehead.com/2006/04/ralph-to-leave-throne/ "Ol' Ralphy Klein.") has abdicated his throne, replacement hopefuls met in Red Deer this week to discuss serious issues affecting the lives of every Albertan...
 

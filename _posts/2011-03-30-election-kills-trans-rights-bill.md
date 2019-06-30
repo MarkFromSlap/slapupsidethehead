@@ -24,7 +24,7 @@ tags:
 - Bill C-389
 comments: []
 ---
-![A School House Rock bill gets trampled by election-happy politicians.](/wp-content/media/2011/03/bill-death.jpg "If you ever watched U.S. television, you'll get this.")
+![A School House Rock bill gets trampled by election-happy politicians.]({{'/wp-content/media/2011/03/bill-death.jpg' | relative_url}} "If you ever watched U.S. television, you'll get this.")
 
 Canada will be heading to the polls on May 2<sup><small>nd</small></sup> to hopefully vote out a government that has made repeated attempts to deny equal rights to GLBT Canadians.
 

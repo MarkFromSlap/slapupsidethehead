@@ -25,7 +25,7 @@ tags:
 - Giorgio Mammoliti
 comments: []
 ---
-![Queers AGainst Douchey City Councillors](/wp-content/media/2011/07/protestor.jpg "I'd like to actually see this sign next year.")
+![Queers AGainst Douchey City Councillors]({{'/wp-content/media/2011/07/protestor.jpg' | relative_url}} "I'd like to actually see this sign next year.")
 
 I hope all my friends in Toronto partied it up at Pride over the weekend, because it could be seriously jeopardized if a Toronto city councillor gets his way!
 

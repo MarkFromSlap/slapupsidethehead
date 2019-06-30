@@ -24,7 +24,7 @@ tags:
 - Ed Stelmach
 comments: []
 ---
-![Craig the Independent](/wp-content/media/2007/12/craig-the-independent.jpg)
+![Craig the Independent]({{'/wp-content/media/2007/12/craig-the-independent.jpg' | relative_url}})
 
 It's official. Craig Chandler, Tory nominee for Calgary-Egmont, has had his candidacy rejected by Premer Ed Stelmach over [anti-gay human rights violations](http://www.slapupsidethehead.com/2007/11/premier-reviews-candidate/ "The violations were confirmed on Friday").
 

@@ -25,7 +25,7 @@ tags:
 - Toronto District School Board
 comments: []
 ---
-![School Census](/wp-content/media/2006/11/school_census.jpg)
+![School Census]({{'/wp-content/media/2006/11/school_census.jpg' | relative_url}})
 
 The Toronto District School Board sent out a new student census last week, and it includes that age-old question of academic relevance: You gay or what?
 

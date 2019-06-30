@@ -25,7 +25,7 @@ tags:
 - C&Atilde;&copy;l&Atilde;&copy;brations de la fiert&Atilde;&copy;
 comments: []
 ---
-![](/wp-content/media/2008/08/after-montreal-pride.jpg "This photo may have been altered. The contrast has been improved.")
+![]({{'/wp-content/media/2008/08/after-montreal-pride.jpg' | relative_url}} "This photo may have been altered. The contrast has been improved.")
 
 Yesterday marked the end of [Divers/Cité](http://www.diverscite.org/2008/anglais/index.htm "It's a pun. Get it?"), Montréal's annual gay and lesbian Pride festival. Or, at least that's how I used to describe it. This year, the event organisers designated the event as a "a pluridisciplinary arts festival." Pride, the traditional symbol of cultural celebration and a protest of those who would make gay people feel ashamed, was a theme curiously absent.
 

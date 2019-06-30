@@ -25,7 +25,7 @@ tags:
 - Lorne Gunter
 comments: []
 ---
-![Gay Waves Invade Toronto](/wp-content/media/2007/04/gay-waves.jpg)
+![Gay Waves Invade Toronto]({{'/wp-content/media/2007/04/gay-waves.jpg' | relative_url}})
 
 Looks like the airwaves are about to get a little more gay next week!
 

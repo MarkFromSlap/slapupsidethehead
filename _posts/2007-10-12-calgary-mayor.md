@@ -25,7 +25,7 @@ tags:
 - Tourism
 comments: []
 ---
-![Livin' The Mayoral Lifestyle](/wp-content/media/2007/10/mayoral-lifestyle.jpg)
+![Livin' The Mayoral Lifestyle]({{'/wp-content/media/2007/10/mayoral-lifestyle.jpg' | relative_url}})
 
 Calgary's mayor, Dave Bronconnier, announced at a mayoral debate on Wednesday that he could not "condone" the gay "lifestyle," adding that if he had any choice in the matter, he would not have allowed Tourism Calgary to promote the city to gays. The mayor's remarks were in response to an audience member's complaint that her tax dollars were spent on a [tourism campaign](http://www.slapupsidethehead.com/2007/01/calgary-gay-friendly/ "And I took it real seriously...") directed at gays and lesbians. (The poor dear!)
 

@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-![](/wp-content/media/2011/08/montreal-pride.jpg "Happy Pride!")
+![]({{'/wp-content/media/2011/08/montreal-pride.jpg' | relative_url}} "Happy Pride!")
 
 It's Pride Week here in Montréal---the second GLBT festival of the summer---so I'm taking a short break to enjoy the festivities. A quick thanks goes to my awesome husband for preparing the above picture so that I could take it easy today. Regular posts will resume shortly!
 

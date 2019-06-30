@@ -27,7 +27,7 @@ tags:
 - Thom McCaffrey
 comments: []
 ---
-![People overreact at a gay wedding.](/wp-content/media/2010/04/marriage-chaos.jpg "Quick! Get to your bomb shelters!")
+![People overreact at a gay wedding.]({{'/wp-content/media/2010/04/marriage-chaos.jpg' | relative_url}} "Quick! Get to your bomb shelters!")
 
 Let's end the week on some sweet notes, why not?
 

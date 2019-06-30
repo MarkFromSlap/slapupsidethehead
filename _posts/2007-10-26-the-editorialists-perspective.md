@@ -25,7 +25,7 @@ tags:
 - Pictou
 comments: []
 ---
-![Editorialist](/wp-content/media/2007/10/editorialist.jpg)
+![Editorialist]({{'/wp-content/media/2007/10/editorialist.jpg' | relative_url}})
 
 Slap reader Sheena writes in with a gem from out East:
 

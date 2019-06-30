@@ -24,7 +24,7 @@ tags:
 - NDP LGBTT Commission
 comments: []
 ---
-![A man lays with his ear to the grass, listening to the grass roots.](/wp-content/media/2010/11/grass-roots.jpg "It's like a gay party down there!")
+![A man lays with his ear to the grass, listening to the grass roots.]({{'/wp-content/media/2010/11/grass-roots.jpg' | relative_url}} "It's like a gay party down there!")
 
 We're getting heard, kids! The Quebec section of the federal New Democratic Party officially slapped into action over the weekend, unanimously adopting a position to revoke the charitable status of gay "curing" organisations in Canada.
 

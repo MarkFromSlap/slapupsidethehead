@@ -26,7 +26,7 @@ tags:
 - Nik Abdul Aziz Nik Mat
 comments: []
 ---
-![](/wp-content/media/2008/11/lesbian-yoga.jpg "Ooohhhmmmm..... Ooohhhmmmmm....")
+![]({{'/wp-content/media/2008/11/lesbian-yoga.jpg' | relative_url}} "Ooohhhmmmm..... Ooohhhmmmmm....")
 
 Tomboys, lesbians, and yoga have all been forbidden by Muslims in Malaysia after the National Fatwa Council declared them to be against Islam.
 

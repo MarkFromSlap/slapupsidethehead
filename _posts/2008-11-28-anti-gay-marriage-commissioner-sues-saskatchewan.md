@@ -26,7 +26,7 @@ tags:
 - Philip Fourle
 comments: []
 ---
-![](/wp-content/media/2008/11/bible-idea.jpg "Interpretation is fun!")
+![]({{'/wp-content/media/2008/11/bible-idea.jpg' | relative_url}} "Interpretation is fun!")
 
 Orville Nichols, a civil marriage commissioner from Saskatchewan, is suing the provincial government over a requirement to issue marriage licenses to gay couples.
 

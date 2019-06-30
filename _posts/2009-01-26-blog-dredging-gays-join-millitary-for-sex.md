@@ -22,7 +22,7 @@ tags:
 - Gregory D. Lee
 comments: []
 ---
-![Blog Dredgin'](/wp-content/media/2009/01/blog-dredgin.jpg "Blog Dredgin'")
+![Blog Dredgin']({{'/wp-content/media/2009/01/blog-dredgin.jpg' | relative_url}} "Blog Dredgin'")
 
 Let's forgo the mainstream news sources for today. It's time for some blog dredgin'!
 

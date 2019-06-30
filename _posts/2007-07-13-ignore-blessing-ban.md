@@ -30,7 +30,7 @@ tags:
 - Antonio Osorio
 comments: []
 ---
-![Brave Anglicans](/wp-content/media/2007/07/brave-anglicans.jpg)
+![Brave Anglicans]({{'/wp-content/media/2007/07/brave-anglicans.jpg' | relative_url}})
 
 Despite last month's decision by the Anglican Church [to ban same-sex blessings](http://www.slapupsidethehead.com/2007/06/anglican-mixed-message/ "Even though they don't have any problem with gays, of course..."), several brave churches are going ahead with the practice anyway.
 

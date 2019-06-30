@@ -24,7 +24,7 @@ tags:
 - Richard Grecco
 comments: []
 ---
-![A single, lonely man stands below a banner:](/wp-content/media/2010/11/concerned-catholics-against-homophobia.jpg "I should have cut back on the catering.")
+![A single, lonely man stands below a banner:]({{'/wp-content/media/2010/11/concerned-catholics-against-homophobia.jpg' | relative_url}} "I should have cut back on the catering.")
 
 A Catholic bishop from Prince Edward Island has publicly condemned a violent crime that left a gay couple homeless last month. The couple's home [was burned down in late October](http://www.slapupsidethehead.com/2010/10/pei-arson-may-be-homophobic-hate-crime/ "Horrifying.") in what evidence suggests to be a homophobic hate crime.
 

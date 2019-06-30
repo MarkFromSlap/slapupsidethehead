@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-![](/wp-content/media/2010/02/push-in-front-of-bus.jpg "Unreal.")
+![]({{'/wp-content/media/2010/02/push-in-front-of-bus.jpg' | relative_url}} "Unreal.")
 
 Matt Windschitl and Jason Schultz, two Iowa lawmakers, have proposed a bill to explicitly remove gay and lesbian students from anti-bullying policies in state schools.
 

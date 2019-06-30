@@ -23,7 +23,7 @@ tags:
 - Belarus
 comments: []
 ---
-![Elton John sings the fabled pink note, turning all those with adequate hearing very, very gay.](/wp-content/media/2010/07/gay-note.jpg "It's a G-sharp.")
+![Elton John sings the fabled pink note, turning all those with adequate hearing very, very gay.]({{'/wp-content/media/2010/07/gay-note.jpg' | relative_url}} "It's a G-sharp.")
 
 Government officials in Belarus requested to see tapes of Elton John performances before approving a concert in the country, fearing that the popular songwriter would turn audience members gay.
 

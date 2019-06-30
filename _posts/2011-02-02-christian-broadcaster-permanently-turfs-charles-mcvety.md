@@ -25,7 +25,7 @@ tags:
 - Crossroads Television System
 comments: []
 ---
-![Charles McVety yells incoherently on a television screen while two TV executives ponder why it is they're airing this show.](/wp-content/media/2011/02/mcvety-cancellation.jpg "---AAAAAAAAAAAAYYYYS!")
+![Charles McVety yells incoherently on a television screen while two TV executives ponder why it is they're airing this show.]({{'/wp-content/media/2011/02/mcvety-cancellation.jpg' | relative_url}} "---AAAAAAAAAAAAYYYYS!")
 
 Crossroads Television System, a small Christian broadcaster and producer of religious programming, has permanently pulled Charles McVety's _Word TV_ from its schedule for having repeatedly violated the station's Code of Ethics.
 

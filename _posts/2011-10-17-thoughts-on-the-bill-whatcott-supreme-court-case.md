@@ -23,7 +23,7 @@ tags:
 - Hate speech
 comments: []
 ---
-![A brain with a progress bar.](/wp-content/media/2011/10/thoughts.jpg "View log files for incomplete brain output.")
+![A brain with a progress bar.]({{'/wp-content/media/2011/10/thoughts.jpg' | relative_url}} "View log files for incomplete brain output.")
 
 Bill Whatcott, Canada's most hysterical anti-gay activist, has headed to the Supreme Court of Canada.
 

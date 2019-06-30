@@ -27,7 +27,7 @@ tags:
 - Michael Favero
 comments: []
 ---
-![That ol' church compassion](/wp-content/media/2007/02/church-compassion.jpg)
+![That ol' church compassion]({{'/wp-content/media/2007/02/church-compassion.jpg' | relative_url}})
 
 Ah, so _that's_ what Jesus would do!
 

@@ -24,7 +24,7 @@ tags:
 - Igor Panarin
 comments: []
 ---
-![The Happy Squirrel!](/wp-content/media/2009/03/fortune-teller.jpg "The Happy Squirrel!")
+![The Happy Squirrel!]({{'/wp-content/media/2009/03/fortune-teller.jpg' | relative_url}} "The Happy Squirrel!")
 
 Troubled economic times have a lot of people predicting doom and gloom, but one of Russia's most influential scholars has employed an unusual methodology for some rather specific future events.
 

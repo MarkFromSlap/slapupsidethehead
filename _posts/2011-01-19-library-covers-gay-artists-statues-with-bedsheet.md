@@ -26,7 +26,7 @@ tags:
 - John Friesen
 comments: []
 ---
-![A bust of a man with his arm over his face with the label](/wp-content/media/2011/01/statue-solution.jpg "Practically holy.")
+![A bust of a man with his arm over his face with the label]({{'/wp-content/media/2011/01/statue-solution.jpg' | relative_url}} "Practically holy.")
 
 With all this silly hoopla over the Canadian Broadcast Standards Council requesting their stations to play a version of "Money for Nothing" that has been edited for radio to [replace a homophobic slur](http://www.slapupsidethehead.com/2011/01/homophobic-lyrics-addressed-by-cbsc/ "ZOMG! CENSORShHIP!!1"), I think it's time to remind ourselves what _real_ censorship looks like.
 

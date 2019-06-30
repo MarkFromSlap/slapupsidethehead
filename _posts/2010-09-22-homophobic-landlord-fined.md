@@ -26,7 +26,7 @@ tags:
 - Will Goerten
 comments: []
 ---
-![In the natural world, the zebra find presents his 12-month tenancy agreement and security deposit.](/wp-content/media/2010/09/natural-world.jpg "Homosexuality is well-documented in finches, by the way.")
+![In the natural world, the zebra find presents his 12-month tenancy agreement and security deposit.]({{'/wp-content/media/2010/09/natural-world.jpg' | relative_url}} "Homosexuality is well-documented in finches, by the way.")
 
 William Goertzen, a landlord from Yellowknife who [refused occupancy to a gay couple](http://www.slapupsidethehead.com/2010/06/religious-freedom-doesnt-give-you-that-power/ "Octopi!") because he felt homosexuality was "unnatural," has been fined for his actions.
 

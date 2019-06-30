@@ -25,7 +25,7 @@ tags:
 - Greg Davis
 comments: []
 ---
-![Greg Davis stands with a rather large phallic item inside a coffee mug:](/wp-content/media/2011/12/greg-davis-priape.jpg "Technically it would work, wouldn't it?")
+![Greg Davis stands with a rather large phallic item inside a coffee mug:]({{'/wp-content/media/2011/12/greg-davis-priape.jpg' | relative_url}} "Technically it would work, wouldn't it?")
 
 Greg Davis, a socially-conservative Mississippi mayor, has come out to the press after an audit into city spending discovered that he spent $67 at Priape, a Montreal-owned gay adult store. The audit was part of a larger investigation into over $170,000 of misused city funds that Davis is alleged to have been spent on personal purchases.
 

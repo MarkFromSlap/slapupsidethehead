@@ -25,7 +25,7 @@ tags:
 - Truro Pride
 comments: []
 ---
-![Flag Gayte: The War On Mayor](/wp-content/media/2007/08/flag-gayte.jpg)
+![Flag Gayte: The War On Mayor]({{'/wp-content/media/2007/08/flag-gayte.jpg' | relative_url}})
 
 A human rights complaint has been filed against the town of Truro for refusing to fly a gay Pride flag, while accommodating other organisations' flag-flying requests.
 

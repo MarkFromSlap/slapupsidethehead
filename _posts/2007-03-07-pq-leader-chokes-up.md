@@ -23,7 +23,7 @@ tags:
 - Louis Champagne
 comments: []
 ---
-![A Club of Fags](/wp-content/media/2007/03/club-of-fags.jpg)
+![A Club of Fags]({{'/wp-content/media/2007/03/club-of-fags.jpg' | relative_url}})
 
 André Boisclair, the openly gay leader of the Parti Québécois, became visibly upset this week after a local radio host called him and the PQ a "club of fags."
 

@@ -24,7 +24,7 @@ tags:
 - Brian Egleston
 comments: []
 ---
-![Alien pops out of gay research participant's chest.](/wp-content/media/2010/03/side-effect.jpg "Hiss! Hiss!")
+![Alien pops out of gay research participant's chest.]({{'/wp-content/media/2010/03/side-effect.jpg' | relative_url}} "Hiss! Hiss!")
 
 A statistically significant percentage of medical studies in the United States have been excluding gay participants for no logical reason, a new survey has found.
 

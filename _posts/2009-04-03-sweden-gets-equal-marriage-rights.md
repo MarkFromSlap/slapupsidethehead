@@ -22,7 +22,7 @@ tags:
 - Sweden
 comments: []
 ---
-![Ja!](/wp-content/media/2009/04/sweden-surprise.jpg "Ja!")
+![Ja!]({{'/wp-content/media/2009/04/sweden-surprise.jpg' | relative_url}} "Ja!")
 
 Sweden's parliament voted to legalize same-sex marriage on Wednesday. The vote---which, despite its date, was no April Fool's joke---passed with an impressive 226-22 support, making Sweden the seventh country worldwide and the fifth country in Europe to provide equal marriage rights to all citizens. The law comes into effect May 1<sup>st</sup>.
 

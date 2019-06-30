@@ -26,7 +26,7 @@ tags:
 - Senators
 comments: []
 ---
-[![A man hands a blow-up doll to a prisoner:](/wp-content/media/2012/03/homosexuality-cure.jpg "If real girls don't do it for me, I'm sure the vinyl equivalent will work wonders...")](/wp-content/media/2012/03/homosexuality-cure.jpg)
+[![A man hands a blow-up doll to a prisoner:]({{'/wp-content/media/2012/03/homosexuality-cure.jpg' | relative_url}} "If real girls don't do it for me, I'm sure the vinyl equivalent will work wonders...")](/wp-content/media/2012/03/homosexuality-cure.jpg)
 
 A Zimbabwean senator has recommended cutting back on prisoners' food budget and providing "sex gadgets" instead as a strategy to reduce homosexuality from spreading throughout the country.
 

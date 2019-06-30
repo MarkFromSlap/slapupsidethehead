@@ -23,7 +23,7 @@ tags:
 - Scandals
 comments: []
 ---
-![Ted Haggard](/wp-content/media/2006/11/ted_haggard.jpg)  
+![Ted Haggard]({{'/wp-content/media/2006/11/ted_haggard.jpg' | relative_url}})  
 Yes, yes; I know. This has been reported in much greater detail on about 500 _cagillion_ websites, but sometimes something happens that's _so_ bloody huge it affects my ability---in **Canada** ---to find any other wacky bigotry-related news. So, here goes. By force.
 
 Let me get this _not-so-straight-after-all_...

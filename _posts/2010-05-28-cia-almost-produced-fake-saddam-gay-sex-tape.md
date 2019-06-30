@@ -24,7 +24,7 @@ tags:
 - Iraq
 comments: []
 ---
-![Actor auditions for the Sadam gay sex tape, but doesn't understand his motivation.](/wp-content/media/2010/05/sadam-gay-sex-tape-auditions.jpg "NEXT!")
+![Actor auditions for the Sadam gay sex tape, but doesn't understand his motivation.]({{'/wp-content/media/2010/05/sadam-gay-sex-tape-auditions.jpg' | relative_url}} "NEXT!")
 
 The United State's Central Intelligence Agency's Iraq Operations Group had proposed creating and circulating a fake gay sex tape depicting Saddam Hussein with a teenage boy. The idea was that Iraqis would be so shocked with the grainy camera footage that the entire Saddam regime would become destabilized and easier to invade.
 

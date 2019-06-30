@@ -23,7 +23,7 @@ tags:
 - Proposition 8
 comments: []
 ---
-![You're a mean one, Mr. Yes On 8](/wp-content/media/2008/12/marriage-grinch.jpg "You're a mean one, Mr. Prop 8")
+![You're a mean one, Mr. Yes On 8]({{'/wp-content/media/2008/12/marriage-grinch.jpg' | relative_url}} "You're a mean one, Mr. Prop 8")
 
 The sponsors of [California's Proposition 8](http://www.slapupsidethehead.com/2008/11/proposition-8-is-discriminatory-nonsense/) have filed a brief with the state's Supreme Court, arguing that the over 18,000 same-sex marriages performed there must be nullified immediately.
 

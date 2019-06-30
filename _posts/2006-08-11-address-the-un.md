@@ -24,7 +24,7 @@ tags:
 - Lousie Arbor
 comments: []
 ---
-![Consultive Status](/wp-content/media/2006/08/gaybonia.jpg)
+![Consultive Status]({{'/wp-content/media/2006/08/gaybonia.jpg' | relative_url}})
 
 Montreal gay groups are anxiously awaiting a decision from the UN Economic Social Council on whether or not three gay rights organisations will get consultive status at the UN. Consultive status would allow the groups to formally address the international community.
 

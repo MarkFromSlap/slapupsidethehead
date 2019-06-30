@@ -26,7 +26,7 @@ tags:
 - Murray Coren
 comments: []
 ---
-![Ghost of Confusing Advice](/wp-content/media/2006/08/confusing_advice.jpg)
+![Ghost of Confusing Advice]({{'/wp-content/media/2006/08/confusing_advice.jpg' | relative_url}})
 
 Over 800 Vancouver protesters gathered this week to protest [a new grade 12 course](http://www.slapupsidethehead.com/2006/06/social-justice-course/ "Think the wild and false reporting had anything to do with this?") entitled "Social Justice." The course will include a unit that focuses on gay role models, sparking fears that children province-wide will **turn gay**. The horror.
 

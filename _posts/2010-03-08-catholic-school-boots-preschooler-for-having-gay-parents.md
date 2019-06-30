@@ -27,7 +27,7 @@ tags:
 - Colorado
 comments: []
 ---
-![](/wp-content/media/2010/03/banishment.jpg "Oh no!")
+![]({{'/wp-content/media/2010/03/banishment.jpg' | relative_url}} "Oh no!")
 
 Sacred Heart of Jesus, a Catholic school in Boulder, Colorado, has kicked out a student after a year of preschool for having lesbian parents.
 

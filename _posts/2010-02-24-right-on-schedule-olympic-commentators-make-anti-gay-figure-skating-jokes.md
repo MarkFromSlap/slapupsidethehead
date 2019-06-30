@@ -24,7 +24,7 @@ tags:
 - The media
 comments: []
 ---
-![](/wp-content/media/2010/02/figure-skating-tip.jpg "Just sayin'")
+![]({{'/wp-content/media/2010/02/figure-skating-tip.jpg' | relative_url}} "Just sayin'")
 
 Claude Mailhot and Alain Goldberg, two commentators for RDS, Canada's French-language sports network, have issued a public apology over homophobic comments made during the men's figure skating competition at the 2010 Vancouver Winter Olympics. The comments were made in reference to a performance by three-time United States figure skating champion, Johnny Weir, and came just after two Australian commentators landed in hot water for similar, but tamer comments about the same athlete.
 

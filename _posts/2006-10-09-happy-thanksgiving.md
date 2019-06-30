@@ -22,7 +22,7 @@ tags:
 - Thanksgiving
 comments: []
 ---
-![Happy Thanksgiving](/wp-content/media/2006/10/happy_thanksgiving.jpg)
+![Happy Thanksgiving]({{'/wp-content/media/2006/10/happy_thanksgiving.jpg' | relative_url}})
 
 Well, it's Thanksgiving in Canada, so there's no new news for today. But enjoy the holiday; it's a good one!
 

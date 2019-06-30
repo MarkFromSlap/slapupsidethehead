@@ -27,7 +27,7 @@ tags:
 - Giorgio Mammoliti
 comments: []
 ---
-![Giorgio Mammoliti rids Toronto of its tourism problem through mayoral nongayosity.](/wp-content/media/2010/05/mayoral-candidate.jpg "Tourism is overrated in this economy, anyway.")
+![Giorgio Mammoliti rids Toronto of its tourism problem through mayoral nongayosity.]({{'/wp-content/media/2010/05/mayoral-candidate.jpg' | relative_url}} "Tourism is overrated in this economy, anyway.")
 
 Giorgio Mammoliti, a Toronto city councillor and mayoral candidate in the upcoming municipal election, has officially motioned to withdraw funding from Toronto Pride, one of North America's largest gay pride festivals and a massive tourism boost for the city. Mammoliti's proposal comes with a condition, however---a little ultimatum that would let him micromanage which groups are allowed to march in the Pride parade.
 

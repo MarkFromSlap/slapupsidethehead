@@ -22,7 +22,7 @@ tags:
 - Saskatchewan
 comments: []
 ---
-![Gay Saskatchewan](/wp-content/media/2006/04/saskatchewan_gay.jpg)
+![Gay Saskatchewan]({{'/wp-content/media/2006/04/saskatchewan_gay.jpg' | relative_url}})
 
 Shocking news! A recent poll of Canadians has discovered that Saskatchewan, the smallest little prairie province in the west, is the most gay unfriendly place in Canada. This conclusion was reached after only 40% of ~~rednecks~~ <ins>respondents</ins> agreed with the statement "To me, homosexuality is morally acceptable." This is in stark contrast to Quebec, the most fabulously gay friendly place ever, where nearly 70% of respondents agreed.
 

@@ -25,7 +25,7 @@ tags:
 - Michegan
 comments: []
 ---
-![The creepy burger king mascot gets his crown revoked.](/wp-content/media/2010/10/creepy-burger-king.jpg "Seriously, this guy gets to be a king and Oak doesn't?")
+![The creepy burger king mascot gets his crown revoked.]({{'/wp-content/media/2010/10/creepy-burger-king.jpg' | relative_url}} "Seriously, this guy gets to be a king and Oak doesn't?")
 
 Oakleigh Marshall, a high school senior in Muskegon, Michegan, was voted homecoming king by his classmates only to have the honour revoked by the school because he is transgendered.
 

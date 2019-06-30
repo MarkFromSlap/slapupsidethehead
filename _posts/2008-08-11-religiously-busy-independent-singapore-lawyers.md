@@ -25,7 +25,7 @@ tags:
 - Lutherans
 comments: []
 ---
-![](/wp-content/media/2008/08/pile-o-slaps-4.jpg "The Lateness and Quality graph lines have crossed")
+![]({{'/wp-content/media/2008/08/pile-o-slaps-4.jpg' | relative_url}} "The Lateness and Quality graph lines have crossed")
 
 In my web travels, I often collect stories that I _intend_ to share, but then become distracted by newer, shinier stories---or feel too lazy to illustrate them. This is what becomes of those stories: a **[Pile o' Slaps](/category/pile-o-slaps/ "Part four of the ongoing saga, like sands in the hourglass...")**!
 

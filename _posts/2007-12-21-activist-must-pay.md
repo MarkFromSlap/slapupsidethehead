@@ -24,7 +24,7 @@ tags:
 - Fliers
 comments: []
 ---
-![Religious Freedom Violation! Religious Freedom Violation!](/wp-content/media/2007/12/freedom-violation.jpg)
+![Religious Freedom Violation! Religious Freedom Violation!]({{'/wp-content/media/2007/12/freedom-violation.jpg' | relative_url}})
 
 Bill Whatcott, a hysterical anti-gay activist, [male nurse](http://www.slapupsidethehead.com/2006/07/anti-gay-nurse-suspended/ "That kind of ruins all my male nurse fantasies..."), and former mayoral candidate, must pay a $17,000 fine for violating human rights after an appeal of a 2005 ruling was denied.
 

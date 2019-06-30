@@ -23,7 +23,7 @@ tags:
 - Saint Petersburg
 comments: []
 ---
-![A very strange, and probably poorly translated propaganda poster, featuring an evil face smiling while a](/wp-content/media/2011/12/russian-propaganda.jpg "Any horrible mistranslation is the exclusive fault of Google Translate.")
+![A very strange, and probably poorly translated propaganda poster, featuring an evil face smiling while a]({{'/wp-content/media/2011/12/russian-propaganda.jpg' | relative_url}} "Any horrible mistranslation is the exclusive fault of Google Translate.")
 
 The city of Saint Petersburg in Russia has introduced a bill that would impose a $100 fine for anyone found promoting "homosexual propaganda." The fine is increased up to $1,600 for organisations.
 

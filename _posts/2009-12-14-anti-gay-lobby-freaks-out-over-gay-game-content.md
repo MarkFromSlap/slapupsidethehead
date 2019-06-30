@@ -24,7 +24,7 @@ tags:
 - Dragon Age
 comments: []
 ---
-![Gayme panic](/wp-content/media/2009/12/gayme-panic.jpg "It's popping a cherry, I swear it!")
+![Gayme panic]({{'/wp-content/media/2009/12/gayme-panic.jpg' | relative_url}} "It's popping a cherry, I swear it!")
 
 _Dragon Age_, a mature-rated, Canadian-produced video game is being virtually drawn and quartered by the anti-gay lobby over the possibility for the player to have a male/male liaison.
 

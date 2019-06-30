@@ -26,7 +26,7 @@ tags:
 - Really Tough Contest
 comments: []
 ---
-![Radio Contest Same-Sex Wedding](/wp-content/media/2006/09/radio_contest.jpg)
+![Radio Contest Same-Sex Wedding]({{'/wp-content/media/2006/09/radio_contest.jpg' | relative_url}})
 
 DJ Paul Brown, of the Edmonton radio station [The Bear](http://www.thebearrocks.com/ "As a former Edmontonian, let me say this radio station sucks."), has arranged for two straight male strangers to marry on the air. The stunt is part of the station's annual Really Tough contest, where people compete in "un-manly" challenges for a chance at a $40,000 top prize. (Incidentally, a coin toss was used to decide who had to wear a tuxedo, and who had to wear a bridal gown.)
 

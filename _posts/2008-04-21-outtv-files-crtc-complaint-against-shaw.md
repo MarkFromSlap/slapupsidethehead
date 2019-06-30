@@ -23,7 +23,7 @@ tags:
 - Shaw
 comments: []
 ---
-![Out TV](/wp-content/media/2008/04/out-tv.jpg "Out, damned (tv) spot! Out, I say!")
+![Out TV]({{'/wp-content/media/2008/04/out-tv.jpg' | relative_url}} "Out, damned (tv) spot! Out, I say!")
 
 Canada's only gay and lesbian television channel has filed a complaint with the CRTC over treatment by a local cable provider.
 

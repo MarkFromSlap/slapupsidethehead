@@ -23,7 +23,7 @@ tags:
 - Nigeria
 comments: []
 ---
-![Two jailed men are sitting in their cell.](/wp-content/media/2011/11/prisoners.jpg "Locking all the men together will put an end to this gay business.")
+![Two jailed men are sitting in their cell.]({{'/wp-content/media/2011/11/prisoners.jpg' | relative_url}} "Locking all the men together will put an end to this gay business.")
 
 A Nigerian bill, opened for debate this month, will jail anyone who has---or bears witness to---a same-sex marriage ceremony in the country.
 

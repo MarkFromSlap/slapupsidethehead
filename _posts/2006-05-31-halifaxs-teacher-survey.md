@@ -29,7 +29,7 @@ tags:
 - Nova Scotia Teachers Union
 comments: []
 ---
-![Would you like to take a survey?](/wp-content/media/2006/05/teacher_survey.jpg)
+![Would you like to take a survey?]({{'/wp-content/media/2006/05/teacher_survey.jpg' | relative_url}})
 
 Oh, goody! The Halifax Regional School Board (yes, the [same one](http://www.slapupsidethehead.com/2006/05/gym-teacher-washes-hands/ "What will they do next, I wonder?") that was punished by the Human Rights Commission for assuming their gay teachers were molesting students) will now be sending out a lovely batch of surveys! The surveys, which each teacher will be required to fill out and sign tomorrow, includes the age-old question: "Are you heterosexual, bisexual, gay, or lesbian?" You know, because that would shed _ **so** _ much light on how well someone can teach long division...
 

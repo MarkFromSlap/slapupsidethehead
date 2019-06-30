@@ -24,7 +24,7 @@ tags:
 - Generals International
 comments: []
 ---
-![A gay man laughs as he shoots birds out of the sky with laser beams shot out of his eyes.](/wp-content/media/2011/01/bird-laser.jpg "And this is how we've been doing it.")
+![A gay man laughs as he shoots birds out of the sky with laser beams shot out of his eyes.]({{'/wp-content/media/2011/01/bird-laser.jpg' | relative_url}} "And this is how we've been doing it.")
 
 As some of you may have heard, around two thousand blackbirds have died mysteriously, literally falling from the sky in Arkansas. Although dubbed the Aflockalypse by the fear-loving media, scientists are reassuring people that mass bird deaths (which sound more impressive than they are, considering a single roost can contain several _million_ birds) are actually fairly normal, caused by any number of mundane reasons.
 

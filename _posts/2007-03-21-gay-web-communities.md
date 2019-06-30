@@ -21,7 +21,7 @@ tags:
 - ICANN
 comments: []
 ---
-![Domain Name Registration](/wp-content/media/2007/03/domain-name-registration.jpg)
+![Domain Name Registration]({{'/wp-content/media/2007/03/domain-name-registration.jpg' | relative_url}})
 
 Given the rate that .com names are snaffled up, wouldn't it be cool if gay-friendly websites could be registered in a special ".gay" community? Well, don't count on it!
 

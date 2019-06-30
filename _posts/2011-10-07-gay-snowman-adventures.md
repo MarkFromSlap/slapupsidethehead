@@ -23,13 +23,13 @@ comments: []
 ---
 &nbsp;
 
-![Gay Snowman Adventures](/wp-content/media/2011/10/gay-snowman-adventures-1.jpg "Gay Snowman Adventures")
+![Gay Snowman Adventures]({{'/wp-content/media/2011/10/gay-snowman-adventures-1.jpg' | relative_url}} "Gay Snowman Adventures")
 
 &nbsp;
 
-![A snowman stands outside with a Pride flag:](/wp-content/media/2011/10/gay-snowman-adventures-2.jpg)
+![A snowman stands outside with a Pride flag:]({{'/wp-content/media/2011/10/gay-snowman-adventures-2.jpg' | relative_url}})
 
 &nbsp;
 
-![287 seconds later. The snowman has melted because it's summer.](/wp-content/media/2011/10/gay-snowman-adventures-3.jpg "Pride is in the summer, you see.")
+![287 seconds later. The snowman has melted because it's summer.]({{'/wp-content/media/2011/10/gay-snowman-adventures-3.jpg' | relative_url}} "Pride is in the summer, you see.")
 

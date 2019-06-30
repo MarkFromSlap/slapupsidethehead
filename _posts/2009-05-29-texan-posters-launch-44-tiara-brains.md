@@ -26,7 +26,7 @@ tags:
 - Texas
 comments: []
 ---
-![Ew.](/wp-content/media/2009/05/pile-o-slaps-6.jpg "Ew.")
+![Ew.]({{'/wp-content/media/2009/05/pile-o-slaps-6.jpg' | relative_url}} "Ew.")
 
 In my web travels, I often collect stories that I _intend_ to share, but then become distracted by newer, shinier stories---or feel too lazy to illustrate them individually. This is what becomes of those stories: a **[Pile o' Slaps](/category/pile-o-slaps/ "Part six of the ongoing saga, like sands in the hourglass...")**!
 

@@ -23,7 +23,7 @@ tags:
 - Youth Tarbiyah Conference
 comments: []
 ---
-![Spreading Joy](/wp-content/media/2006/06/spread_joy.jpg)
+![Spreading Joy]({{'/wp-content/media/2006/06/spread_joy.jpg' | relative_url}})
 
 The Government of Canada has told Sheik Abu Yousef Riyadh ul-Haq, a radical cleric from Britain, that he is not welcome in Canada to speak to a youth conference this weekend.
 

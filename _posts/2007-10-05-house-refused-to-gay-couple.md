@@ -25,7 +25,7 @@ tags:
 - Housing
 comments: []
 ---
-![Off the market](/wp-content/media/2007/10/off-the-market.jpg)
+![Off the market]({{'/wp-content/media/2007/10/off-the-market.jpg' | relative_url}})
 
 The British Columbia Human Rights Tribunal has agreed to hear a case from a lesbian couple who claims they were refused a house because they're gay. Although the couple had signed an offer for the property, they say that the seller, Alexander Berry, backed out once he discovered they were lesbians. Berry said he didn't know the two women were a couple and changed his mind because of the short time limit on their agreement. The property was sold to a young family two days after the gay couple had signed the offer.
 

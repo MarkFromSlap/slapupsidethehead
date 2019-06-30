@@ -25,7 +25,7 @@ tags:
 - Bill C-389
 comments: []
 ---
-![](/wp-content/media/2011/02/stephen-harper-it-gets-better.jpg "Not bloodly likely.")
+![]({{'/wp-content/media/2011/02/stephen-harper-it-gets-better.jpg' | relative_url}} "Not bloodly likely.")
 
 Canada's historic [trans rights bill](http://www.slapupsidethehead.com/2010/11/charles-mcvety-throws-fits-over-gender-rights-bill/ "Which was met with the usual hysteria"), C-389, passed its third and final reading in the House of Commons on Wednesday.
 

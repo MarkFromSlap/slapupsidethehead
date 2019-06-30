@@ -24,7 +24,7 @@ tags:
 - Proposition 8
 comments: []
 ---
-![This makes very little sense, but so does the California ruling.](/wp-content/media/2009/05/california-consolation.jpg "This really doesn't make sense, but then again neither does the California ruling.")
+![This makes very little sense, but so does the California ruling.]({{'/wp-content/media/2009/05/california-consolation.jpg' | relative_url}} "This really doesn't make sense, but then again neither does the California ruling.")
 
 Well, the big news is no doubt yesterday's decision by the California Supreme Court that [Proposition 8](http://www.slapupsidethehead.com/2008/11/proposition-8-is-discriminatory-nonsense/ "And you're always welcome in Canada, if no where else!"), a referendum banning same-sex marriage in the state, is a legally valid constitutional amendment. While I'm disappointed, I'm not sure I can add to what many other commentators have put more eloquently than I could.
 

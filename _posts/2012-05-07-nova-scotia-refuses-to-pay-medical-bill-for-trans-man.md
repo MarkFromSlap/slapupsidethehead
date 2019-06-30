@@ -24,7 +24,7 @@ tags:
 - Jessiah MacDonald
 comments: []
 ---
-![](/wp-content/media/2012/05/tiered-pricing-trans.jpg "Is this how the system is supposed to work?")
+![]({{'/wp-content/media/2012/05/tiered-pricing-trans.jpg' | relative_url}} "Is this how the system is supposed to work?")
 
 The province of Nova Scotia has refused to pay for a trans man's hysterectomy, leaving him with a surprise $3,400 bill.
 

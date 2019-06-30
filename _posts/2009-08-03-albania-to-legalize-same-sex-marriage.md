@@ -23,7 +23,7 @@ tags:
 - Sali Berisha
 comments: []
 ---
-![That's how they'll be given out, too.](/wp-content/media/2009/08/albanian-marriage-license.jpg "That's how they'll be given out, too.")
+![That's how they'll be given out, too.]({{'/wp-content/media/2009/08/albanian-marriage-license.jpg' | relative_url}} "That's how they'll be given out, too.")
 
 Albanian Prime Minister, Sali Berisha, has proposed the nationwide legalisation of same-sex marriage last week. This would be a massive step forward for the country, where homosexuality was illegal as recent as 1995.
 

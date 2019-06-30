@@ -23,7 +23,7 @@ tags:
 - Supreme Court of Canada
 comments: []
 ---
-![Timely Court Ruling](/wp-content/media/2007/02/timely-court-decision.jpg)
+![Timely Court Ruling]({{'/wp-content/media/2007/02/timely-court-decision.jpg' | relative_url}})
 
 Remember [George Hislop](http://www.slapupsidethehead.com/2006/05/pension-battle/)? He's involved in a lengthy court battle to get same-sex survivor's benefits. And he's dead.
 

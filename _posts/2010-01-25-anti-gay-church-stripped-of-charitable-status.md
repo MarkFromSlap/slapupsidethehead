@@ -28,7 +28,7 @@ tags:
 - Kings Glory Fellowship
 comments: []
 ---
-![](/wp-content/media/2010/01/politically-active.jpg "The bullhorn isn't an exaggeration")
+![]({{'/wp-content/media/2010/01/politically-active.jpg' | relative_url}} "The bullhorn isn't an exaggeration")
 
 The Kings Glory Fellowship, a Protestant church in Calgary, Alberta, has lost their tax exempt status because they spent too much time involved in political activities outside the church, including actively campaigning against gay rights.
 

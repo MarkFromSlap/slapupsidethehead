@@ -23,7 +23,7 @@ tags:
 - Donna Blackburn
 comments: []
 ---
-![](/wp-content/media/2011/08/school-bus-pride.jpg "Rainbow trails do not a Magic School Bus make.")
+![]({{'/wp-content/media/2011/08/school-bus-pride.jpg' | relative_url}} "Rainbow trails do not a Magic School Bus make.")
 
 The Ottawa-Carleton District School Board will be marching in the Capital Pride Parade for the first time this weekend. It's a great way to send a message to all the board's GLBT students and staff that it takes their unique issues seriously, but not everyone is happy with the gesture.
 

@@ -25,7 +25,7 @@ tags:
 - Terry Kemple
 comments: []
 ---
-![Praise-uh JUH-HE-SUHS-UH!](/wp-content/media/2009/09/led-astray.jpg "Praise-uh JUH-HE-SUHS-UH!")
+![Praise-uh JUH-HE-SUHS-UH!]({{'/wp-content/media/2009/09/led-astray.jpg' | relative_url}} "Praise-uh JUH-HE-SUHS-UH!")
 
 A megachurch in Brandon, Florida has removed all of their Pepsi vending machines (ten in total) and replaced them with Coca-Cola machines because they say Pepsi has been "advocating for the normalization of homosexual behaviour in our culture."
 

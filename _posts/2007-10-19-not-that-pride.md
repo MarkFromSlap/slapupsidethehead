@@ -25,7 +25,7 @@ tags:
 - Manitoba
 comments: []
 ---
-![Giant, Mouthwatering Gay Cocks LLC](/wp-content/media/2007/10/giant-mouthwatering-gay-cocks.jpg)
+![Giant, Mouthwatering Gay Cocks LLC]({{'/wp-content/media/2007/10/giant-mouthwatering-gay-cocks.jpg' | relative_url}})
 
 Take Pride Winnipeg, an organisation devoted to picking up litter and removing graffiti in Manitoba, might be changing its name. Board member and City councilor Grant Nordman sent a letter to the Winnipeg city council expressing concern that the current name promotes an "alternative lifestyle," adding that the misconception is "a fairly common occurrence."
 

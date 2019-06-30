@@ -25,9 +25,9 @@ tags:
 - Sonoma County
 comments: []
 ---
-![We asked a genetic hybrid of 7 literary villains and Sarah Palin what it thought of this story:](/wp-content/media/2010/04/villain-poll-text.png "Poll by Slapsis Reid")
+![We asked a genetic hybrid of 7 literary villains and Sarah Palin what it thought of this story:]({{'/wp-content/media/2010/04/villain-poll-text.png' | relative_url}} "Poll by Slapsis Reid")
 
-![Evil queen in throne says: That's messed up, y'all!](/wp-content/media/2010/04/villain.jpg "Maybe a bit of the Red Queen, a dash of Cruella DeVille, a bit of Margaret Thatcher...")
+![Evil queen in throne says: That's messed up, y'all!]({{'/wp-content/media/2010/04/villain.jpg' | relative_url}} "Maybe a bit of the Red Queen, a dash of Cruella DeVille, a bit of Margaret Thatcher...")
 
 Clay Greene and Harold Scull, an elderly gay couple in Sonoma County, California, thought they had all their inheritance and legal paperwork sorted out. They couldn't legally marry, but they had named each other in their wills, giving each other powers of attorney, and granted themselves control over medical decisions should something happen.
 

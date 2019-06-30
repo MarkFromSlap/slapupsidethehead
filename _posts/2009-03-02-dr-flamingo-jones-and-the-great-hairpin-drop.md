@@ -22,7 +22,7 @@ tags:
 - Stonewall riots
 comments: []
 ---
-![This photo may or may not be historically accurate.](/wp-content/media/2009/03/flamingo-jones-stonewall.jpg "This photo may or may not be historically accurate.")
+![This photo may or may not be historically accurate.]({{'/wp-content/media/2009/03/flamingo-jones-stonewall.jpg' | relative_url}} "This photo may or may not be historically accurate.")
 
 I'm exceptionally pleased to present today's Guest Slap. The author, Dr. Flamingo Jones, is a world-renowned archaeologist and researcher at the University of Oxbridgeshire. While I know little about his reclusive past and current whereabouts, he has kindly agreed to share with us, occasionally, his knowledge, discoveries, and insights.
 

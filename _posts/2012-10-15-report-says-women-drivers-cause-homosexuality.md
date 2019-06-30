@@ -22,7 +22,7 @@ tags:
 - Women
 comments: []
 ---
-![The New Fjord Focus: Shoots intense rainbow beams from its headlights! Anyone caught by their prismatic splendor WILL question their sexuality.](/wp-content/media/2012/10/fjord-focus.jpg "By the way, this works even with illustrations of the headlights; so I'm afraid you are now questioning your sexuality.")
+![The New Fjord Focus: Shoots intense rainbow beams from its headlights! Anyone caught by their prismatic splendor WILL question their sexuality.]({{'/wp-content/media/2012/10/fjord-focus.jpg' | relative_url}} "By the way, this works even with illustrations of the headlights; so I'm afraid you are now questioning your sexuality.")
 
 &nbsp;
 

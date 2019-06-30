@@ -25,7 +25,7 @@ tags:
 - Court decisions
 comments: []
 ---
-![](/wp-content/media/2010/01/russian-dolls.jpg "I wonder what the world record is for these things?")
+![]({{'/wp-content/media/2010/01/russian-dolls.jpg' | relative_url}} "I wonder what the world record is for these things?")
 
 Two lesbians that wed in Canada last October will not be seen as married in their homeland. A Russian court threw out their case this week, saying that same-sex foreign marriages simply won't be recognized. "I will have to uphold the decision made by the registry office in May," said judge Boris Gerbekov, "foreign marriages accepted in Russia must involve a couple of opposite sex."
 

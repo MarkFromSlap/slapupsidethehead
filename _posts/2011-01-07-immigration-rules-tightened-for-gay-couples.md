@@ -23,7 +23,7 @@ tags:
 - Citizenship and Immigration Canada
 comments: []
 ---
-![A woman stands over a gay couple, saying](/wp-content/media/2011/01/immigration-requirement.jpg "Ahem: ")
+![A woman stands over a gay couple, saying]({{'/wp-content/media/2011/01/immigration-requirement.jpg' | relative_url}} "Ahem: ")
 
 Gay Canadians who were married to foreign partners in embassies will only be able to sponsor their spouse for Canadian citizenship if the host country recognizes same-sex marriage, according to recent changes in immigration policy.
 

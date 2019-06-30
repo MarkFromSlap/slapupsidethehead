@@ -23,7 +23,7 @@ tags:
 - Workplace discrimination
 comments: []
 ---
-![A gay man sits at his desk looking sad:](/wp-content/media/2011/11/bad-career-choice.jpg "Adventures in bad career choices")
+![A gay man sits at his desk looking sad:]({{'/wp-content/media/2011/11/bad-career-choice.jpg' | relative_url}} "Adventures in bad career choices")
 
 A new poll released by Angus Reid this month suggstes that anti-gay discrimination is still a reality for some people in the GLBT community.
 

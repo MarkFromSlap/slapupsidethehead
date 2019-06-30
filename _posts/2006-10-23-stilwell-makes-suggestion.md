@@ -25,7 +25,7 @@ tags:
 - Alternative Delivery Policy
 comments: []
 ---
-![Heather StilWell Suggests](/wp-content/media/2006/10/out_of_schools.jpg)
+![Heather StilWell Suggests]({{'/wp-content/media/2006/10/out_of_schools.jpg' | relative_url}})
 
 Hmm... I wonder what our favourite Surrey school board trustee, Heather Stilwell, is up to? The last time we checked up on her, after all, [she was announcing](http://www.slapupsidethehead.com/2006/09/gay-friendly-courses/ "Eeek! Our Children will miss school and society will crumble!") that a gay-friendly school curriculum would directly cause student absences and a "loss of confidence in the community."
 

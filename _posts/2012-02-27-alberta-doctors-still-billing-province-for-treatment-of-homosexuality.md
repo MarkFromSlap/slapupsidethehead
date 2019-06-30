@@ -22,7 +22,7 @@ tags:
 - Doctors
 comments: []
 ---
-![An old timey doctor attempts to cure a homosexual with an unusually large leech.](/wp-content/media/2012/02/bad-doctor.jpg "Nurse, I need two spoonfuls of castor oil and a rectal thermometer, STAT!")
+![An old timey doctor attempts to cure a homosexual with an unusually large leech.]({{'/wp-content/media/2012/02/bad-doctor.jpg' | relative_url}} "Nurse, I need two spoonfuls of castor oil and a rectal thermometer, STAT!")
 
 Last year, Alberta [_finally_ removed homosexuality from its list of disorders](http://www.slapupsidethehead.com/2011/01/alberta-delists-homosexuality-as-mental-disorder/ "It's understandable; messages are still delivered by horseback there.") that doctors in the province could bill the government for treating. This was 38 years after the disorder was delisted by the American Psychological Association, of course, but Alberta's a little slow and deserved some congratulations for taking the leap forward into about _four decades ago_.
 

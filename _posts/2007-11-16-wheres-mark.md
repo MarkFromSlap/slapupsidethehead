@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-![Road Slap](/wp-content/media/2007/09/road-slap.jpg)
+![Road Slap]({{'/wp-content/media/2007/09/road-slap.jpg' | relative_url}})
 
 If you're reading this, it means I wasn't able to find Internet access in time for today's post. Well, that---or I've met an untimely demise.
 

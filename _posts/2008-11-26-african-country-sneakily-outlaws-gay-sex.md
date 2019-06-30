@@ -23,7 +23,7 @@ tags:
 - Africa
 comments: []
 ---
-![](/wp-content/media/2008/11/gay-burundi.jpg "Pink Burundi Airlines' stock will plummet, I just know it...")
+![]({{'/wp-content/media/2008/11/gay-burundi.jpg' | relative_url}} "Pink Burundi Airlines' stock will plummet, I just know it...")
 
 The African nation of Burundi has snuck a law that criminalizes homosexuality into an omnibus bill that abolishes the death sentence and outlaws torture. The bill, which passed Burundi's first house unanimously, also included provisions and stiffer sentences against genocide, rape, and war crimes.
 

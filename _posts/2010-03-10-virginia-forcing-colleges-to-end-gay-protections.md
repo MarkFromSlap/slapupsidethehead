@@ -26,7 +26,7 @@ tags:
 - Ken Cuccinelli II
 comments: []
 ---
-![Virginia is for (a restricted subset) of lovers](/wp-content/media/2010/03/virginia-is-for-lovers.jpg "Virginia versus Loving")
+![Virginia is for (a restricted subset) of lovers]({{'/wp-content/media/2010/03/virginia-is-for-lovers.jpg' | relative_url}} "Virginia versus Loving")
 
 Ken Cuccinelli II, the Attorney General for the U.S. state of Virginia has formally warned all of the state's colleges and universities that they must rescind their non-discrimination policies for gays, or face legal consequences.
 

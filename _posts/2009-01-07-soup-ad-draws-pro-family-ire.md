@@ -25,7 +25,7 @@ tags:
 - Swanson
 comments: []
 ---
-![No soup for nobody!](/wp-content/media/2009/01/soup-gandhi.jpg "No soup for nobody!")
+![No soup for nobody!]({{'/wp-content/media/2009/01/soup-gandhi.jpg' | relative_url}} "No soup for nobody!")
 
 The anti-gay lobby group _American Family Association_ is steaming---boiling in rich, silky broth---after Campbell's Soup placed an ad for Swanson's brand stock in The Advocate, a gay magazine.
 

@@ -25,7 +25,7 @@ tags:
 - Environment
 comments: []
 ---
-![A man plants a rainbow flag in a disgusting tar sands pit.](/wp-content/media/2011/08/tar-sands.jpg "Even we gays can't help decorate this dump.")
+![A man plants a rainbow flag in a disgusting tar sands pit.]({{'/wp-content/media/2011/08/tar-sands.jpg' | relative_url}} "Even we gays can't help decorate this dump.")
 
 Well, here's a very special way to have your struggle for equality used by large corporations!
 

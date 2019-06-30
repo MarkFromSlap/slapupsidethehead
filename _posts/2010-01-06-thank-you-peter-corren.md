@@ -23,7 +23,7 @@ tags:
 - Obituaries
 comments: []
 ---
-![](/wp-content/media/2010/01/peter-corren.jpg "Peter Corren")
+![]({{'/wp-content/media/2010/01/peter-corren.jpg' | relative_url}} "Peter Corren")
 
 I was saddened to learn that Canada has lost one of its most influential gay rights activists over the holiday.
 

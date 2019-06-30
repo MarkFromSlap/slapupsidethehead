@@ -24,7 +24,7 @@ tags:
 - Diane Finley
 comments: []
 ---
-![Gay Deportation Policy](/wp-content/media/2007/08/deportation-policy.jpg)
+![Gay Deportation Policy]({{'/wp-content/media/2007/08/deportation-policy.jpg' | relative_url}})
 
 Looks like [Alvaro](http://www.slapupsidethehead.com/2007/08/gay-refugee-deported/ "How many of these cases are there?") isn't the only gay refugee desperately trying to stay in Canada to avoid homophobia and violence. Leonardo Zuniga, a gay Mexican, is slated for deportation from Canada after exhausting all avenues for appeal.
 

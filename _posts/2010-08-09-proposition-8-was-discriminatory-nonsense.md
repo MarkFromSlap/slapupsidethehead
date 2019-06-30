@@ -25,7 +25,7 @@ tags:
 - Court decisions
 comments: []
 ---
-![Warning: Extreme pressure may build up in closed minds](/wp-content/media/2010/08/closed-mind-warning.jpg "Actually befriending a gay person is like getting a pressure valve installed")
+![Warning: Extreme pressure may build up in closed minds]({{'/wp-content/media/2010/08/closed-mind-warning.jpg' | relative_url}} "Actually befriending a gay person is like getting a pressure valve installed")
 
 On Wednesday, just days after my wedding, a federal judge declared that California's Proposition 8---a constitutional amendment banning same-sex marriage---violated the constitutional rights guaranteed to all U.S. citizens.
 

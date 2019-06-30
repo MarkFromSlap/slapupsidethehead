@@ -25,7 +25,7 @@ tags:
 - Religion
 comments: []
 ---
-![Blessings for (almost) everyone!](/wp-content/media/2007/11/blessings-for-everyone.jpg)
+![Blessings for (almost) everyone!]({{'/wp-content/media/2007/11/blessings-for-everyone.jpg' | relative_url}})
 
 Montréal and Niagara are the two latest Anglican churches to approve the blessing of same-sex couples within the past month, defying a national decree to disallow such blessings.
 

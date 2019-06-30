@@ -23,7 +23,7 @@ tags:
 - Citizenship and Immigration Canada
 comments: []
 ---
-![A man with a magnifying glass announced](/wp-content/media/2011/03/citizens-guide-shoutout.jpg "One sentence is better than nothing, right?")
+![A man with a magnifying glass announced]({{'/wp-content/media/2011/03/citizens-guide-shoutout.jpg' | relative_url}} "One sentence is better than nothing, right?")
 
 Canada's immigration guide for newcomers, as you may remember, has been a little sparse when it comes to any mention of equal rights for GLBT citizens. In fact, the guide [didn't contain a single mention](http://www.slapupsidethehead.com/2009/11/canadas-new-immigrants-guide-leaves-out-gays/ "Canada's New Immigrants Guide Leaves Out Gays") of these rights; that information was [deliberately nixed](http://www.slapupsidethehead.com/2010/03/gay-rights-deliberately-nixed-from-immigrants-guide/ "Gay Rights Deliberately Nixed From Immigrants Guide") in 2009 by the office of Jason Kenny, the Conservative minister for Immigration and Citizenship.
 

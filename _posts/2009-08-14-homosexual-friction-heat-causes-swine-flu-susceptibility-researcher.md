@@ -25,7 +25,7 @@ tags:
 - Quackery
 comments: []
 ---
-![Quack, quack, quack...](/wp-content/media/2009/08/swing-flu-quack.jpg "Quack, quack, quack...")
+![Quack, quack, quack...]({{'/wp-content/media/2009/08/swing-flu-quack.jpg' | relative_url}} "Quack, quack, quack...")
 
 Masturbation and "homosexual activities" will significantly increase the body's susceptibility to Swine Flu---at least according to Dr. V. M. Palaniappan, a Malaysian practitioner of complimentary therapy.
 

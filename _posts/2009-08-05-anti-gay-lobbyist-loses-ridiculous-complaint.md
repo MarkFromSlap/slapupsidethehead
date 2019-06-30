@@ -24,7 +24,7 @@ tags:
 - Kari Simpson
 comments: []
 ---
-![Can this even be called martyrdom?](/wp-content/media/2009/08/kari-simpson.jpg "Can this even be called martyrdom?")
+![Can this even be called martyrdom?]({{'/wp-content/media/2009/08/kari-simpson.jpg' | relative_url}} "Can this even be called martyrdom?")
 
 Kari Simpson, an anti-gay lobbyist, has lost her Human Rights Complaint [against the B.C. Education Ministry](http://www.slapupsidethehead.com/2009/03/anti-gay-human-rights-complaint-is-a-dud/ "No one took up my offer to bet otherwise! "), which she claimed had not done enough to help schoolchildren who "suffer from homosexuality and other dysfunctional sexual orientations."
 

@@ -24,7 +24,7 @@ tags:
 - Gay village
 comments: []
 ---
-![](/wp-content/media/2008/08/gay-village.jpg "No community required.")
+![]({{'/wp-content/media/2008/08/gay-village.jpg' | relative_url}} "No community required.")
 
 Plans to turn six blocks of Ottawa's Bank Street into a gay village have been put on hold after contradicting surveys put a chill on the proposal. Two surveys commissioned by the Bank Street Promenade Business Improvement Area failed to conclusively state whether or not area businesses would be open to branding the street as a gay neighbourhood. The first survey suggested that 75% of business owners in the area opposed the idea, while the second suggested that 73% were in favour.
 

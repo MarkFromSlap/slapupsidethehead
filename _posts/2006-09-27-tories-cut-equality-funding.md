@@ -25,7 +25,7 @@ tags:
 - Canadian Heritage
 comments: []
 ---
-![Conservative Explanation Theatre](/wp-content/media/2006/09/tory_explanation.jpg)
+![Conservative Explanation Theatre]({{'/wp-content/media/2006/09/tory_explanation.jpg' | relative_url}})
 
 Well, that didn't take long! The Conservative Government announced yesterday that they have cut funding for the gay-friendly [Canadian Heritage Department](http://www.pch.gc.ca/index_e.cfm "I think they produce those 'Heritage Moments' too.") and turfed the gay-friendly [Court Challenges Program](http://www.ccppcj.ca/e/ccp.shtml "Think this link will stay alive long?") _entirely_. (The gay-friendliness is surely just a coincidence, don't you think?)
 

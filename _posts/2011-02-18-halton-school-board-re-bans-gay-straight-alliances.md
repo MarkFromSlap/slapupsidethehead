@@ -25,7 +25,7 @@ tags:
 - Halton Catholic School District School Board
 comments: []
 ---
-![A student asks for help with a specific math question. The teacher suggests to touch on all questions about all homework instead because it's more inclusive.](/wp-content/media/2011/02/school-help.jpg "Let's start with English. Question 1...")
+![A student asks for help with a specific math question. The teacher suggests to touch on all questions about all homework instead because it's more inclusive.]({{'/wp-content/media/2011/02/school-help.jpg' | relative_url}} "Let's start with English. Question 1...")
 
 The Halton Catholic School Board received a lot of flack this year over banning Gay-Straight Alliances---important peer support systems---in their school system. "We don't have Nazi groups either," a representative [told the media](http://www.slapupsidethehead.com/2011/01/catholic-school-board-bans-gay-straight-alliances/ "HITLER!!!") back in January.
 

@@ -27,7 +27,7 @@ tags:
 - Doug Elliot
 comments: []
 ---
-![A lawyer brings some good news](/wp-content/media/2006/05/supreme_court.jpg)
+![A lawyer brings some good news]({{'/wp-content/media/2006/05/supreme_court.jpg' | relative_url}})
 
 Think you can be too old for a lengthy court battle? Think again! George Hislop's class-action suit to receive same-sex survivor benefits will face the Supreme Court of Canada tomorrow. The kicker? If Hislop gets to keep his partner's pension, he won't be able to enjoy it; he died in October at 78.
 

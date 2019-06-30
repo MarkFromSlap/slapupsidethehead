@@ -26,7 +26,7 @@ tags:
 - Alternative Delivery Policy
 comments: []
 ---
-![Skipping School](/wp-content/media/2006/09/skipping_school.jpg)
+![Skipping School]({{'/wp-content/media/2006/09/skipping_school.jpg' | relative_url}})
 
 A more gay-friendly curriculum would directly cause student absenses and a "loss of confidence in the community," according to Heather Stilwell, a Surrey School Board trustee. (Holy crap, can you imagine? Our children will learn _nothing_!)
 

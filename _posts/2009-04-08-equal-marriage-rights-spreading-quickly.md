@@ -25,7 +25,7 @@ tags:
 - Iowa
 comments: []
 ---
-![War room on loan from Nixon, I gather](/wp-content/media/2009/04/war-room.jpg "War room on loan from Nixon, I gather")
+![War room on loan from Nixon, I gather]({{'/wp-content/media/2009/04/war-room.jpg' | relative_url}} "War room on loan from Nixon, I gather")
 
 In just this past week, [Sweden](http://www.slapupsidethehead.com/2009/04/sweden-gets-equal-marriage-rights/ "Finally, gays can end their boycott on ABBA and IKEA"), Iowa and Vermont have all either passed legislation giving equal marriage rights to same-sex couples, or have had laws banning same-sex marriage struck down as unconstitutional. Clearly, equality is unstoppable!
 

@@ -22,7 +22,7 @@ tags:
 - Dr. Flamingo Jones
 comments: []
 ---
-![](/wp-content/media/2008/08/dr-flamingo-jones-jungle.jpg "Dr. Flamingo Jones")
+![]({{'/wp-content/media/2008/08/dr-flamingo-jones-jungle.jpg' | relative_url}} "Dr. Flamingo Jones")
 
 I'm exceptionally pleased to present today's Guest Slap. The author, Dr. Flamingo Jones, is a world-renowned archaeologist and researcher at the University of Oxbridgeshire. While I know little about his reclusive past and current whereabouts, he has kindly agreed to share with us, occasionally, his knowledge, discoveries, and insights.
 

@@ -24,7 +24,7 @@ tags:
 - '300'
 comments: []
 ---
-![THIS... IS... A REALLY GAY MOVIE](/wp-content/media/2009/01/spartans.jpg "THIS... IS... A REALLY GAY MOVIE")
+![THIS... IS... A REALLY GAY MOVIE]({{'/wp-content/media/2009/01/spartans.jpg' | relative_url}} "THIS... IS... A REALLY GAY MOVIE")
 
 I'm exceptionally pleased to present today's Guest Slap. The author, Dr. Flamingo Jones, is a world-renowned archaeologist and researcher at the University of Oxbridgeshire. While I know little about his reclusive past and current whereabouts, he has kindly agreed to share with us, occasionally, his knowledge, discoveries, and insights.
 

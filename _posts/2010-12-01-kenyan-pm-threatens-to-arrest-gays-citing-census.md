@@ -24,7 +24,7 @@ tags:
 - Kenya
 comments: []
 ---
-![There's an odd number of us. Guess there means you're gay, Toby!](/wp-content/media/2010/11/excluded.jpg "Perfectly logical")
+![There's an odd number of us. Guess there means you're gay, Toby!]({{'/wp-content/media/2010/11/excluded.jpg' | relative_url}} "Perfectly logical")
 
 Raila Odinga, the Prime Minister of Kenya, has declared his intentions to arrest gay people in the country. "We want a country that is clean," the Prime Minister said during a speech on Sunday, "a clean way of doing thing [sic] has clean mannerisms; we do not want things to do with sodomy."
 

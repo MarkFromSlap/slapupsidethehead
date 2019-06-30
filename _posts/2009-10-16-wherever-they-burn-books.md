@@ -30,7 +30,7 @@ tags:
 - Books
 comments: []
 ---
-![There was a hot shirtless guy in the middle.](/wp-content/media/2009/10/burned.jpg "There was a hot shirtless guy in the middle.")
+![There was a hot shirtless guy in the middle.]({{'/wp-content/media/2009/10/burned.jpg' | relative_url}} "There was a hot shirtless guy in the middle.")
 
 Earlier this year, a Wisconsin Christian group sued the American Library Association for the right to burn a library book entitled [Baby Be-Bop](http://www.amazon.ca/Baby-Be-Bop-Francesca-Lia-Block/dp/0064471764/ "I haven't read it, but I always encourage the reading of banned books"). The book is a charming young adult novel about a gay boy struggling to come to terms with his sexual orientation after being attacked by a homophobic gang. Totally unacceptable, according to the religious extremist group who---backed by legal aid from the Christian Civil Liberties Union---demanded not only the rights to burn the book publicly, but also sought $120,000 in compensatory damages because the elderly plaintiffs' "mental and emotional well-being was damaged by this book at the library."
 

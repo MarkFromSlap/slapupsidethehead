@@ -27,7 +27,7 @@ tags:
 - Mayors
 comments: []
 ---
-![Mayor Whatcott](/wp-content/media/2007/06/mayor-whatcott.jpg)
+![Mayor Whatcott]({{'/wp-content/media/2007/06/mayor-whatcott.jpg' | relative_url}})
 
 Bill Whatcott, the [male nurse](http://www.slapupsidethehead.com/2006/07/anti-gay-nurse-suspended/ "He must be so charming with the patients.") who has dedicated his life to [hysterically opposing gay rights](http://www.slapupsidethehead.com/2006/11/human-rights-fine/ "And has been fined along the way, naturally"), is running for mayor of Edmonton.
 

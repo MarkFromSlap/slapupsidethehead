@@ -25,7 +25,7 @@ tags:
 - Camping
 comments: []
 ---
-![Gay people go camping while a senator is alarmed that they've pitched a tent and have now taken out their wieners.](/wp-content/media/2010/05/gay-camping.jpg "It's camp!")
+![Gay people go camping while a senator is alarmed that they've pitched a tent and have now taken out their wieners.]({{'/wp-content/media/2010/05/gay-camping.jpg' | relative_url}} "It's camp!")
 
 A Republican senator from Iowa is severely irked over the idea that gay couples should be allowed alongside heterosexual families on state campsites.
 

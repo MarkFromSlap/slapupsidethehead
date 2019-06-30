@@ -25,7 +25,7 @@ tags:
 - Brad Bostock
 comments: []
 ---
-![Bigot Haven](/wp-content/media/2006/07/bigot_haven.jpg)
+![Bigot Haven]({{'/wp-content/media/2006/07/bigot_haven.jpg' | relative_url}})
 
 With the [1<sup>st</sup> World Outgames](http://www.montreal2006.org/) in Montréal set to be an amazing success, it's time for the spinoffs! In fact, the 1<sup>st</sup> Contentental Outgames for North America are already set to be held in April next year! And the host city is...
 

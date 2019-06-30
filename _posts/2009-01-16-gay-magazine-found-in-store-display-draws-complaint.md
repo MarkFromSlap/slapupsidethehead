@@ -27,7 +27,7 @@ tags:
 - Silly complaints
 comments: []
 ---
-![Where you can go to look like a Koodo ad](/wp-content/media/2009/01/american-apparel.jpg "Where you can go to look like a Koodo ad")
+![Where you can go to look like a Koodo ad]({{'/wp-content/media/2009/01/american-apparel.jpg' | relative_url}} "Where you can go to look like a Koodo ad")
 
 A Vancouver woman has complained to the press after discovering a gay magazine while rummaging through a display at American Apparel.
 

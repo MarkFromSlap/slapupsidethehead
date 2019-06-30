@@ -23,7 +23,7 @@ tags:
 - Viktor Yanukovych
 comments: []
 ---
-![Hi. I'm gay and happy. If you're viewing this in the Ukraine you are in possession of illegal material and the police are on their way. Have a nice day.](/wp-content/media/2012/07/illegal-material.jpg "Run. RUN NOW!")
+![Hi. I'm gay and happy. If you're viewing this in the Ukraine you are in possession of illegal material and the police are on their way. Have a nice day.]({{'/wp-content/media/2012/07/illegal-material.jpg' | relative_url}} "Run. RUN NOW!")
 
 Lawmakers in the Ukraine have introduced an anti-gay bill that would punish "propaganda of homosexuality" with fines and up to five years in prison.
 

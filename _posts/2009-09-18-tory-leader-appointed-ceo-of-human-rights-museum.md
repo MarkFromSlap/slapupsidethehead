@@ -22,7 +22,7 @@ tags:
 - Stu Murray
 comments: []
 ---
-![from SPACE!](/wp-content/media/2009/09/subterranean-moss-monsters.jpg "from SPACE!")
+![from SPACE!]({{'/wp-content/media/2009/09/subterranean-moss-monsters.jpg' | relative_url}} "from SPACE!")
 
 Can I get a "_ **whaaaa** __ **?!** _"
 

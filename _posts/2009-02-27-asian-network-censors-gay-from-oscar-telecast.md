@@ -25,7 +25,7 @@ tags:
 - Asia
 comments: []
 ---
-![For legal purposes, these are actually the Stintflones.](/wp-content/media/2009/02/flintstones-in-asia.jpg "For legal purposes, these are actually the Stintflones.")
+![For legal purposes, these are actually the Stintflones.]({{'/wp-content/media/2009/02/flintstones-in-asia.jpg' | relative_url}} "For legal purposes, these are actually the Stintflones.")
 
 STAR, a Pan-Asian television network owned by Rupert Murdoch, is drawing criticism this week for its decision to censor their broadcasting of the Oscar telecast on Monday morning.
 

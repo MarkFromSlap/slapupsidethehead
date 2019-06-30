@@ -26,7 +26,7 @@ tags:
 - United Nations
 comments: []
 ---
-![](/wp-content/media/2008/12/anti-gay-vatican.jpg "For the record, yes, I know that David is actually in Florence, but Birth of Man apparently takes four years to draw.")
+![]({{'/wp-content/media/2008/12/anti-gay-vatican.jpg' | relative_url}} "For the record, yes, I know that David is actually in Florence, but Birth of Man apparently takes four years to draw.")
 
 The Vatican is opposing a French-led U.N. resolution that calls on worldwide governments to abolish laws that criminalize homosexuality. Many developing countries around the world still imprison gay people just for being gay, and several even go as far to enforce a death penalty.
 

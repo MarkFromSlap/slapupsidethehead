@@ -23,7 +23,7 @@ tags:
 - Chris Gregoire
 comments: []
 ---
-![How can you ask for equal rights during a time of such economic turmoil?](/wp-content/media/2012/01/equal-rights-economy.jpg "And you didn't even think of the environment!")
+![How can you ask for equal rights during a time of such economic turmoil?]({{'/wp-content/media/2012/01/equal-rights-economy.jpg' | relative_url}} "And you didn't even think of the environment!")
 
 Chris Gregoire, the governor of Washington, has announced her support of full, equal marriage rights in the state.
 

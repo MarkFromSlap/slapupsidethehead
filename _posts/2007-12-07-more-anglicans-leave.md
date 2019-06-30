@@ -22,7 +22,7 @@ tags:
 - Archie Pell
 comments: []
 ---
-![Church shut down](/wp-content/media/2007/12/church-shut-down.jpg)
+![Church shut down]({{'/wp-content/media/2007/12/church-shut-down.jpg' | relative_url}})
 
 Two more parishes have split from the Canadian Anglican Church over same-sex blessings. The churches will now serve under an orthodox Argentinian archibishop who wholeheartedly opposes blessings for gay couples.
 

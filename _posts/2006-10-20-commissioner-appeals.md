@@ -24,7 +24,7 @@ tags:
 - Kevin Kisilowsky
 comments: []
 ---
-![Fishing License](/wp-content/media/2006/10/fishing_license.jpg)
+![Fishing License]({{'/wp-content/media/2006/10/fishing_license.jpg' | relative_url}})
 
 A Manitoba civil marriage commissioner is appealing to the Queen's Bench after his commissioner's license was suspended for denying public services to a same-sex couple. Kevin Kisilowsky claims that by having to serve all people equally, his religious freedoms as a Christian were horribly violated. The poor dear!
 

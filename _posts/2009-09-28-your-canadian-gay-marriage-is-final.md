@@ -22,7 +22,7 @@ tags:
 - Same-sex divorce
 comments: []
 ---
-![That should lower the divorce rate.](/wp-content/media/2009/09/extreme-divorce.jpg "That should lower the divorce rate.")
+![That should lower the divorce rate.]({{'/wp-content/media/2009/09/extreme-divorce.jpg' | relative_url}} "That should lower the divorce rate.")
 
 Canada's pretty cool. No matter who you are or where you're from, you can make your marriage commitments official up here---including gay couples from countries where same-sex marriages are not recognized. Just, maybe, don't expect to get divorced if things don't work out.
 

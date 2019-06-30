@@ -31,7 +31,7 @@ tags:
 - Will Goerten
 comments: []
 ---
-![A man riding a giraffe shoots octopi at pedestrians, shouting 'Stand aside, for I have religious freedom!'](/wp-content/media/2010/06/religious-freedom.jpg "I'm doing this for GOD.")
+![A man riding a giraffe shoots octopi at pedestrians, shouting 'Stand aside, for I have religious freedom!']({{'/wp-content/media/2010/06/religious-freedom.jpg' | relative_url}} "I'm doing this for GOD.")
 
 Will Goertzen, a landlord in Yellowknife, signed a one-year apartment lease for a young gay couple last year. Three weeks before the couple was set to move in, Goertzen discovered they were gay. He re-listed the property without notifying the couple, rented it to a different family, stole the couple's $1,150 damage deposit, and left them for homeless.
 

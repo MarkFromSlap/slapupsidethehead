@@ -22,7 +22,7 @@ tags:
 - Policy conventions
 comments: []
 ---
-![](/wp-content/media/2008/11/conservative-convention.jpg "Godzilla and Clover are mating! I'm dead serious!")
+![]({{'/wp-content/media/2008/11/conservative-convention.jpg' | relative_url}} "Godzilla and Clover are mating! I'm dead serious!")
 
 Conservative Party members gathered in fabulous Winnipeg last weekend for a policy convention that steered the party to the right on many social issues.
 

@@ -23,7 +23,7 @@ tags:
 - Communion
 comments: []
 ---
-![Sunday Mass](/wp-content/media/2006/11/sunday_mass.jpg)
+![Sunday Mass]({{'/wp-content/media/2006/11/sunday_mass.jpg' | relative_url}})
 
 A group of U.S. Catholic bishops decided last week that the Church ought to be more accepting of gay people. In fact, after lengthy deliberation, they've officially adopted new guidelines acknowledging that gay people do not choose their orientation and should therefore receive communion! Well, with some provisions, of course. If you have sex, try to marry your partner, or tell anyone you're gay, then there's **no communion for you!**
 

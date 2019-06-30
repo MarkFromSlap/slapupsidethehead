@@ -23,7 +23,7 @@ tags:
 - John Mar
 comments: []
 ---
-![I'll call him Angry Wally.](/wp-content/media/2009/09/angry-wall.jpg "I'll call him Angry Wally.")
+![I'll call him Angry Wally.]({{'/wp-content/media/2009/09/angry-wall.jpg' | relative_url}} "I'll call him Angry Wally.")
 
 An attempt to designate a section of a Calgary skate park as a legal spraypainting zone backfired last month, in what one alderman has called "a barrage of visual diarrhea."
 

@@ -20,9 +20,9 @@ categories:
 tags: []
 comments: []
 ---
-![King Harper](/wp-content/media/2011/05/king-harper.jpg "King Harper")
+![King Harper]({{'/wp-content/media/2011/05/king-harper.jpg' | relative_url}} "King Harper")
 
-Last summer, I got married. To the greatest husband in the world, I should add! We were surrounded by family and friends, outdoors on one of the most beautiful days of the year. I wish I were poetic enough to describe it, because I had never experienced so much joy in a single day, but those of you with an _Emotion-o-tronic 5000_ can attach their USB BrainLinkâ„¢ connector and [click here to experience my wedding day memories](/wp-content/media/2011/05/emotion-o-tronic.html "Emotion-o-tronic required.") via a direct brain emotion transfer.
+Last summer, I got married. To the greatest husband in the world, I should add! We were surrounded by family and friends, outdoors on one of the most beautiful days of the year. I wish I were poetic enough to describe it, because I had never experienced so much joy in a single day, but those of you with an _Emotion-o-tronic 5000_ can attach their USB BrainLinkâ„¢ connector and [click here to experience my wedding day memories]({{'/wp-content/media/2011/05/emotion-o-tronic.html' | relative_url}} "Emotion-o-tronic required.") via a direct brain emotion transfer.
 
 Anyway, my wedding day was important to me, but it might not have happened had the political landscape been different. On the very first day of campaigning for the 2006 election, Stephen Harper promised to have a Conservative-controlled parliament re-vote on my right to marry. If he had sufficient numbers, it would have damaged my life intimately. I wouldn't be wearing a ring right now.
 

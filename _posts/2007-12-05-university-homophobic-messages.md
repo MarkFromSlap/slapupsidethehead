@@ -25,7 +25,7 @@ tags:
 - Fliers
 comments: []
 ---
-![Hateful Fliers For Campus Security](/wp-content/media/2007/12/hateful-fliers.jpg)
+![Hateful Fliers For Campus Security]({{'/wp-content/media/2007/12/hateful-fliers.jpg' | relative_url}})
 
 Campus police at the [University of Windsor](http://www.uwindsor.ca/ "That's Windsor Ontario, not Windsor Castle") have issued a security alert after several homophobic and racist messages were found across campus. While the content of the messages is a mystery, it was disturbing enough for the Office of the President to issue an open letter to the university community:
 

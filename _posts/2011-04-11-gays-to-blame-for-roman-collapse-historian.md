@@ -25,7 +25,7 @@ tags:
 - Roberto De Mattei
 comments: []
 ---
-![A gladiator.](/wp-content/media/2011/04/sissy-romans.jpg "Figure A. A Gay Roman")
+![A gladiator.]({{'/wp-content/media/2011/04/sissy-romans.jpg' | relative_url}} "Figure A. A Gay Roman")
 
 As many of you know, we gays possess supernatural powers capable of untold terrors. Religious ambassadors have identified gay people as the source of everything from [mass bird deaths](http://www.slapupsidethehead.com/2011/01/ministry-blames-gays-for-mysterious-bird-deaths/ "Ministry Blames Gays For Mysterious Bird Deaths") to [Earthquakes](http://www.slapupsidethehead.com/2008/02/homosexuality-causes-earthquakes/ "Research Breakthrough: Homosexuality Causes Earthquakes!") (and even more mundane things like the [widespread implementation of airport security patdowns](http://www.slapupsidethehead.com/2010/12/u-s-politician-blames-airport-pat-downs-on-gays/ "U.S. Politician Blames Airport Pat-Downs On Gays")). Until now, though, I don't think we've ever been blamed for the collapse of world empires.
 

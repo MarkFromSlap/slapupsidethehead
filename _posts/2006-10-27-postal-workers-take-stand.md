@@ -24,7 +24,7 @@ tags:
 - Hate mail
 comments: []
 ---
-![Canada Postal Worker](/wp-content/media/2006/10/postal_worker.jpg)
+![Canada Postal Worker]({{'/wp-content/media/2006/10/postal_worker.jpg' | relative_url}})
 
 Over 70 Vancouver postal workers walked off the job yesterday morning after discovering they were to deliver unaddressed homophobic pamphlets. The 28-page pamphlets, published by an Ontario church, tells gay readers that they are "ungodly, unhealthy, and unnatural" and calls AIDS "the consequences of homosexuality."
 
@@ -32,7 +32,7 @@ Over 70 Vancouver postal workers walked off the job yesterday morning after disc
 
 Of course, in fairness, I haven't seen the pamphlets so I can't verify whether or not they'd qualify as hate mail under Canadian law. It's my strong belief that---barring the incitement of hatred---every Canadian has the right to speak their mind. But, to the person that crafted the fliers... Dude, seriously, that can't be your excuse...
 
-![Religious Freedom Against Gays](/wp-content/media/2006/10/religious_freedom.jpg)
+![Religious Freedom Against Gays]({{'/wp-content/media/2006/10/religious_freedom.jpg' | relative_url}})
 
 Sending lengthy, unsolicited homophobic pamphlets _half-way across the country_? Talk about misplaced zeal! Just because you have the right to do something doesn't make it the right thing to do, bucko!
 

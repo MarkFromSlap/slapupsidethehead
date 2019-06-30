@@ -25,7 +25,7 @@ tags:
 - Thunder Bay
 comments: []
 ---
-![I think a](/wp-content/media/2009/09/gay-bash.jpg "I think a ")
+![I think a]({{'/wp-content/media/2009/09/gay-bash.jpg' | relative_url}} "I think a ")
 
 The Thunder Bay community gathered to take a stand against homophobic violence on Friday after a gay man endured a vicious attack just one week before. Jake Raynard says he and some friends were assaulted outside a local bar because they were gay, with Jake bearing the brunt of the attack---ultimately requiring reconstruction surgery to repair multiple fractures to his head and face.
 

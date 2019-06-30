@@ -25,7 +25,7 @@ tags:
 - Julie MacRae
 comments: []
 ---
-![And go bug your sister, while you're at it.](/wp-content/media/2009/02/study-permission.jpg "And go bug your sister, while you're at it.")
+![And go bug your sister, while you're at it.]({{'/wp-content/media/2009/02/study-permission.jpg' | relative_url}} "And go bug your sister, while you're at it.")
 
 The Abbotsford school board has reversed [its decision to yank a social justice course](http://www.slapupsidethehead.com/2008/09/social-justice-course-yanked-by-religious-groups/ "Yoink!") from its schools. The course, a grade 12 elective featuring a unit on gay rights, was nixed after anti-gay groups and vocal parents [lobbied to have it pulled](http://www.slapupsidethehead.com/2006/08/parents-protest-new-course/ "I decide for ALL students!").
 

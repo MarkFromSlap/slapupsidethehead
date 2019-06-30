@@ -25,7 +25,7 @@ tags:
 - BioWare
 comments: []
 ---
-![A gay star wars character waves a rainbow lightsabre through the air to create a rainbow.](/wp-content/media/2012/04/star-wars-gay.jpg "Rainbow whoosh sounds!")
+![A gay star wars character waves a rainbow lightsabre through the air to create a rainbow.]({{'/wp-content/media/2012/04/star-wars-gay.jpg' | relative_url}} "Rainbow whoosh sounds!")
 
 BioWare, an Edmonton-based game development company, is being targeted by anti-gay groups over the option to make your character gay in their latest video game, Star Wars: The Old Republic.
 

@@ -26,5 +26,5 @@ Well, I'm off to the prairies for the holidays, spreading all sorts of seasonal 
 
 Until then, have a great Christmanukkahwanzoliday and an insanely spectacular new year! As always, feel free to interact with me and other Slap fans on the [Slap Facebook Page](http://www.facebook.com/slapupsidethehead "Face it, booky!"), via [@MarkFromSlap on Twitter](http://twitter.com/MarkFromSlap "Ittertrotter"), and the brand new [Slap Google+ Page](http://plus.google.com/108080544335917602368 "Googley Boogley"). Also, here's an octopus attacking Santa.
 
-![Santa claus being attacked by a large octopus.](/wp-content/media/2011/12/santa-and-octopus.jpg "In watercolour for a change, why not?")
+![Santa claus being attacked by a large octopus.]({{'/wp-content/media/2011/12/santa-and-octopus.jpg' | relative_url}} "In watercolour for a change, why not?")
 

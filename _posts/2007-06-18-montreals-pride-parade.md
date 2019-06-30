@@ -25,7 +25,7 @@ tags:
 - C&Atilde;&copy;l&Atilde;&copy;brations de la fiert&Atilde;&copy;
 comments: []
 ---
-![Beer Garden](/wp-content/media/2007/06/beer-garden.jpg)
+![Beer Garden]({{'/wp-content/media/2007/06/beer-garden.jpg' | relative_url}})
 
 [Divers/Cité](http://www.diverscite.org/ "Because sales are what matters most") has completely turfed Montréal's Gay Pride parade after a survey suggested that the traditional gay rights march didn't improve beer sales enough to justify the insurance and security costs.
 

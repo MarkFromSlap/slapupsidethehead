@@ -28,7 +28,7 @@ tags:
 - Constitutional amendments
 comments: []
 ---
-![Buck And Peggy Hamilton Cancel Your Wedding](/wp-content/media/2006/11/buck_and_peggy.jpg)
+![Buck And Peggy Hamilton Cancel Your Wedding]({{'/wp-content/media/2006/11/buck_and_peggy.jpg' | relative_url}})
 
 > Dear committed gay couple somewhere in [Tennessee](http://www.cnn.com/ELECTION/2006//pages/results/states/TN/index.html "Bigots"), [South Carolina](http://www.cnn.com/ELECTION/2006//pages/results/states/SC/index.html "More bigots"), [Virginia](http://www.cnn.com/ELECTION/2006//pages/results/states/VA/index.html "Even more bigots"), [Wisconsin](http://www.cnn.com/ELECTION/2006//pages/results/states/WI/index.html "It's like a bigot parade!"), or one of [several other states](http://www.cnn.com/ELECTION/2006/pages/results/ballot.measures/ "Behold the bigotry!")...
 > 
@@ -45,7 +45,7 @@ OK, in all seriousness... Though the results of yesterday's marriage-banning bal
 
 Oh, and on a semi-local note, I just gotta share this headline courtesy of the Ottawa Sun: ['I am a liar' admits meth-gay sex pastor](http://ottsun.canoe.ca/News/National/2006/11/06/2252835-sun.html "What the?"). I'm, err, not sure what a "meth-gay sex pastor" is, so I'll just assume they're talking about the whole [Ted Haggard](http://www.slapupsidethehead.com/2006/11/ted-haggard/ "Haggard the Horrible") deal.
 
-![Meth-Gay Sex Pastor](/wp-content/media/2006/11/meth-gay_sex_pastor.jpg)
+![Meth-Gay Sex Pastor]({{'/wp-content/media/2006/11/meth-gay_sex_pastor.jpg' | relative_url}})
 
 Well, until Friday, folks!
 

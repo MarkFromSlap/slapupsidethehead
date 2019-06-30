@@ -26,7 +26,7 @@ tags:
 - Stephen Harper
 comments: []
 ---
-![Stephen Harper marches at a gay pride parade shirtless.](/wp-content/media/2010/08/harper-pride.jpg "Noooo! Not like this!")
+![Stephen Harper marches at a gay pride parade shirtless.]({{'/wp-content/media/2010/08/harper-pride.jpg' | relative_url}} "Noooo! Not like this!")
 
 Last Sunday was Montréal's 18<sup><small>th</small></sup> annual Pride parade, and it was fantastic! Organizations, businesses, churches, sports groups, hobby groups, and tons of other equal-rights supporters marched down a brand new parade route in view of over 100,000 spectators. The parade even included politicians from every party---except one.
 

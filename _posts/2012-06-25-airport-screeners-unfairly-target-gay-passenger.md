@@ -24,7 +24,7 @@ tags:
 - Gatwick Airport
 comments: []
 ---
-![A man stops an elderly lady at the airport security:](/wp-content/media/2012/06/ninja-assassin.jpg "We found a ribbon in your bag. Ninjas use ribbons. Therefore...")
+![A man stops an elderly lady at the airport security:]({{'/wp-content/media/2012/06/ninja-assassin.jpg' | relative_url}} "We found a ribbon in your bag. Ninjas use ribbons. Therefore...")
 
 An inspection of staff behaviour at London's Gatwick airport has uncovered an incident where a gay passenger was searched under suspicion of pedophilia "because he had a camera and a boyfriend."
 

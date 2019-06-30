@@ -26,5 +26,5 @@ Well, I'm headed out west for the holidays, visiting family in Edmonton, Vancouv
 
 Until then, have a super Christmanukkahwanza, and a fantastically amazing new year! Feel free to interact with me and other Slap fans on the [Slap Facebook Page](http://www.facebook.com/slapupsidethehead "Face it, booky!"), and on [Twitter](http://twitter.com/MarkFromSlap "Twerpity twoppity ittertrotter twet"). Also, here's a zombie Santa.
 
-![Zombie Santa holding a candy cane.](/wp-content/media/2010/12/zombie-santa.jpg "Ho Ho Braaaiiinnnssss....")
+![Zombie Santa holding a candy cane.]({{'/wp-content/media/2010/12/zombie-santa.jpg' | relative_url}} "Ho Ho Braaaiiinnnssss....")
 

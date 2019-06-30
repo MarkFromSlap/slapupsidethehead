@@ -25,7 +25,7 @@ tags:
 - Silly priorities
 comments: []
 ---
-![It's a priority.](/wp-content/media/2009/02/ethiopian-priority.jpg "It's a priority.")
+![It's a priority.]({{'/wp-content/media/2009/02/ethiopian-priority.jpg' | relative_url}} "It's a priority.")
 
 The Roman Catholic, Orthodox, and Protestant churches in Ethiopia have gathered to formally call on their government to enact a constitutional ban on homosexuality. Being gay is already illegal in Ethiopia with prison sentences of up to five years---but why settle for boring, old _illegal_ when it can be _constitutionally_ _illegal!_
 

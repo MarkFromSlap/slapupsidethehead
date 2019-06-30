@@ -24,7 +24,7 @@ tags:
 - Institute for Canadian Values
 comments: []
 ---
-![Charles McVety appears in an ad:](/wp-content/media/2011/10/mcvety-ad.jpg "As a lobbyist, I just won't be able to handle it.")
+![Charles McVety appears in an ad:]({{'/wp-content/media/2011/10/mcvety-ad.jpg' | relative_url}} "As a lobbyist, I just won't be able to handle it.")
 
 The National Post, Canada's largest right-leaning national newspaper, has apologised for publishing a transphobic advertisement from the Institute for Canadian Values, headed by anti-gay lobbyist Charles McVety. The ad---which pretends to be written by a doe-eyed, four-year-old girl---is headed by the phrase "Please! Don't confuse me!"
 

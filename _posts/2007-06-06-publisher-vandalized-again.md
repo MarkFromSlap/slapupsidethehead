@@ -24,7 +24,7 @@ tags:
 - Xtra
 comments: []
 ---
-![Capital Xtra is Flaming](/wp-content/media/2007/06/flaming-xtra.jpg)
+![Capital Xtra is Flaming]({{'/wp-content/media/2007/06/flaming-xtra.jpg' | relative_url}})
 
 Poor [Capital Xtra](http://www.xtra.ca/public/main.aspx?AFF_TYPE=2 "A great little mag"). The popular gay community newspaper just can't get a break from vandalism. In the past few years, their distribution boxes have been spray painted, covered in slurs, bolted shut, [robbed](http://www.slapupsidethehead.com/2007/01/vandal-attacks-publisher/ "Nothing says "), [illegally removed from public facilities](http://www.slapupsidethehead.com/2007/03/ottawa-pulls-newspaper/ "Won't someone think of the children!?"), and now burned!
 

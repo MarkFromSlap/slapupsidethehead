@@ -24,7 +24,7 @@ tags:
 - Lloyd Snelgrove
 comments: []
 ---
-![LA-LA-LA-LA! I CAN'T HEAR YOU!](/wp-content/media/2009/04/lalala-i-cant-hear-you.jpg "LA-LA-LA-LA! I CAN'T HEAR YOU!")
+![LA-LA-LA-LA! I CAN'T HEAR YOU!]({{'/wp-content/media/2009/04/lalala-i-cant-hear-you.jpg' | relative_url}} "LA-LA-LA-LA! I CAN'T HEAR YOU!")
 
 Well, this is getting bizarre! Wednesday's [silly little story](http://www.slapupsidethehead.com/2009/04/alberta-defines-gay-spouses-as-benefits-partners/ "Who'd have thought it'd prompt two Slaps in one week?") about the Alberta government defining same-sex couples as "benefit partners" instead of "spouses" in their employee benefit plan is causing more of a stir than expected.
 

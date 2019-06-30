@@ -26,7 +26,7 @@ tags:
 - Saskatchewan Court of Appeal
 comments: []
 ---
-![Maurice Vellacott declares:](/wp-content/media/2011/01/maurice-vellacott.jpg "Ladies and gentlemen, Maurice Vellacott!")
+![Maurice Vellacott declares:]({{'/wp-content/media/2011/01/maurice-vellacott.jpg' | relative_url}} "Ladies and gentlemen, Maurice Vellacott!")
 
 The Saskatchewan Court of Appeal ruled on Monday that civil marriage commissioners---individuals licensed by the government to perform non-religious civil marriage ceremonies---cannot refuse to marry same-sex couples.
 

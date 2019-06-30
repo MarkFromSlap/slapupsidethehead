@@ -25,7 +25,7 @@ tags:
 - Christian Horizons
 comments: []
 ---
-![The Golden Rule](/wp-content/media/2008/04/bible-quote.jpg "We call this the King Dobson version...")
+![The Golden Rule]({{'/wp-content/media/2008/04/bible-quote.jpg' | relative_url}} "We call this the King Dobson version...")
 
 Connie Heintz, a Christian worker at a shelter for developmentally delayed adults, has won a human rights case against her former employer.
 

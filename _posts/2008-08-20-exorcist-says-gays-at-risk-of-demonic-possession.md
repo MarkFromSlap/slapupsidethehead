@@ -23,7 +23,7 @@ tags:
 - Exorcisms
 comments: []
 ---
-![](/wp-content/media/2008/08/gay-possession.jpg "The power of Christ compels you! The power of Christ compels you!")
+![]({{'/wp-content/media/2008/08/gay-possession.jpg' | relative_url}} "The power of Christ compels you! The power of Christ compels you!")
 
 A 73 year old Catholic exorcist, Father Jeremy Davies, has warned that gays are at serious risk of demonic possession, if they aren't already controlled by Satan.
 

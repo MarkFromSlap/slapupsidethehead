@@ -26,7 +26,7 @@ tags:
 - Rocky Sharma
 comments: []
 ---
-![Next time try Escaped Convict Murder Land instead.](/wp-content/media/2009/10/unspeakable-terror-island.jpg "Next time try Escaped Convict Murder Land instead.")
+![Next time try Escaped Convict Murder Land instead.]({{'/wp-content/media/2009/10/unspeakable-terror-island.jpg' | relative_url}} "Next time try Escaped Convict Murder Land instead.")
 
 Xtra is covering a [vacation horror story](http://www.xtra.ca/public/National/Nightmare_in_Dubai_for_Toronto_gay_couple-7567.aspx "I'll remove that from my list of favourite vacation spots, howabout?") experienced by a Canadian gay couple this summer. A one day stopover in Dubai turned nightmarish after the couple was targeted for a full security search, then jailed for possessing a bottle of prescription arthritis medication.
 

@@ -24,7 +24,7 @@ tags:
 - University of Winnipeg
 comments: []
 ---
-![A threatening-looking man startles a student:](/wp-content/media/2011/05/dire-warning.jpg "Jean Chretien?")
+![A threatening-looking man startles a student:]({{'/wp-content/media/2011/05/dire-warning.jpg' | relative_url}} "Jean Chretien?")
 
 A new study being released today by the University of Winnipeg has found that homophobia has become a normal part of school life in Canada, with a direct impact on student safety.
 

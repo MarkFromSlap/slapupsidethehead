@@ -23,7 +23,7 @@ tags:
 - Religion
 comments: []
 ---
-![](/wp-content/media/2008/08/confessional.jpg "Confessional")
+![]({{'/wp-content/media/2008/08/confessional.jpg' | relative_url}} "Confessional")
 
 Worldwide Anglican bishops have ended their once-a-decade conference with a "wide agreement" on implementing a moratorium on gay blessings. In a statement, Anglican Leader Archbishop of Canterbury Rowan Williams said that non-acceptance of the moratorium would put the entire church in "grave peril."
 

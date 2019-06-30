@@ -27,7 +27,7 @@ tags:
 - Phil Horgan
 comments: []
 ---
-![Union Master](/wp-content/media/2007/04/union-master.jpg)
+![Union Master]({{'/wp-content/media/2007/04/union-master.jpg' | relative_url}})
 
 The excruciatingly slow rickshaw of justice has, at last, stated the obvious. Susan Comstock, who decided to sue her union over its support of same-sex marriage, has lost her case.
 

@@ -25,7 +25,7 @@ tags:
 - Pride Education Network
 comments: []
 ---
-![Teacher holds a mystical pink triangle, whose chime turns students gay.](/wp-content/media/2010/04/music-teacher.jpg "She's holding it upside down, I think.")
+![Teacher holds a mystical pink triangle, whose chime turns students gay.]({{'/wp-content/media/2010/04/music-teacher.jpg' | relative_url}} "She's holding it upside down, I think.")
 
 A Vancouver music teacher has been suspended from teaching at a Catholic high school after parents found out that she was a lesbian, according to a news release from the Pride Education Network this week.
 

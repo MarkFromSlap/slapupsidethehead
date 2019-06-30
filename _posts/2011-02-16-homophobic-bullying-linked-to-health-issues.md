@@ -25,7 +25,7 @@ tags:
 - Concordia University
 comments: []
 ---
-![A blob of skin laments that his bone density has depleted and will therefore be subject to more bullying.](/wp-content/media/2011/02/bullying-health-issues.jpg "On the plus side, this shape make me look like the owner of several multinational corporations.")
+![A blob of skin laments that his bone density has depleted and will therefore be subject to more bullying.]({{'/wp-content/media/2011/02/bullying-health-issues.jpg' | relative_url}} "On the plus side, this shape make me look like the owner of several multinational corporations.")
 
 A new study out of Montréal's Concordia University has linked homophobic bullying to hormonal disruptions that can make youth more prone to memory loss, cardiovascular problems, bone density depletion, and even higher rates of suicide.
 

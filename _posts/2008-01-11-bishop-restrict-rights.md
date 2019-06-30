@@ -23,7 +23,7 @@ tags:
 - Fred Henry
 comments: []
 ---
-![Bishop Fred Henry: Religious Freedom](/wp-content/media/2008/01/religious-freedom.jpg)
+![Bishop Fred Henry: Religious Freedom]({{'/wp-content/media/2008/01/religious-freedom.jpg' | relative_url}})
 
 Fred Henry, the Calgarian bishop who [refused holy communion](http://www.slapupsidethehead.com/2006/08/wafer-nazi/ "a.k.a The Wafer Nazi") to politicians that supported gay rights and [announced](http://www.slapupsidethehead.com/2006/09/fred-henry-off-the-deep-end/ "I really ought to make an award for such nonsense") that same-sex marriage "is the worst betrayal of children I've ever seen---even moreso than the Church sex scandals," is now calling to completely overhaul the Human Rights Commission.
 

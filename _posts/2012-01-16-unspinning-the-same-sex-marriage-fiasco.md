@@ -25,7 +25,7 @@ tags:
 - Department of Justice
 comments: []
 ---
-![Stephen Harper tapdances with a cane and top hat.](/wp-content/media/2012/01/stephen-harper-tapdance.jpg "Well, he's no Fred Astaire, but he'll do.")
+![Stephen Harper tapdances with a cane and top hat.]({{'/wp-content/media/2012/01/stephen-harper-tapdance.jpg' | relative_url}} "Well, he's no Fred Astaire, but he'll do.")
 
 On Thursday, an article in the Globe and Mail declared that Stephen Harper's Conservatives had annulled over five thousand Canadian same-sex marriages issued to non-residents since 2005. Worldwide panic and probably cannibalism ensued, with the government rapidly trying to diffuse the situation, and the media using a mixture of government-fed information and political spin to make things supremely confusing for anyone hoping to understand exactly what happened in the first place.
 

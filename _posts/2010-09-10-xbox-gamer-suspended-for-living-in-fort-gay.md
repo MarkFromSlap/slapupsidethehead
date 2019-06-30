@@ -26,7 +26,7 @@ tags:
 - Josh Moore
 comments: []
 ---
-![A pink fort with a rainbow and the words Fort Gay](/wp-content/media/2010/09/fort-gay.jpg "The Queer Frontier")
+![A pink fort with a rainbow and the words Fort Gay]({{'/wp-content/media/2010/09/fort-gay.jpg' | relative_url}} "The Queer Frontier")
 
 An American gamer was surprised to find that his XBox Live account had been suspended by Microsoft because the name of his town, _Fort Gay, West Virginia_, was deemed to be offensive.
 

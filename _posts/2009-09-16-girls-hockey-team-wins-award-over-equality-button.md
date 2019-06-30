@@ -25,7 +25,7 @@ tags:
 - Woodstock High School
 comments: []
 ---
-![Slap(tm) Shot.](/wp-content/media/2009/09/hockey-button.jpg "Slap(tm) Shot.")
+![Slap(tm) Shot.]({{'/wp-content/media/2009/09/hockey-button.jpg' | relative_url}} "Slap(tm) Shot.")
 
 The world of sports is notoriously homophobic, but one girls' high school hockey team in New Brunswick has come up with a novel way to counter it. After experiencing negativity and discrimination first-hand over having two lesbian teammates, the Woodstock High School Lady Thunder hockey team distributed tons of rainbow buttons for supporters to wear at their games. Eventually, teammates, coaches, parents---and even rival teams---began wearing the buttons.
 

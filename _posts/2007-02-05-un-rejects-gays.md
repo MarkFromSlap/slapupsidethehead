@@ -23,7 +23,7 @@ tags:
 - Yvan Lapointe
 comments: []
 ---
-![The Wonderful World of Bigotry](/wp-content/media/2007/02/world-of-bigotry.jpg)
+![The Wonderful World of Bigotry]({{'/wp-content/media/2007/02/world-of-bigotry.jpg' | relative_url}})
 
 Today, on Slap Upside The Head's _The Wonderful World of Bigotry_, we bring news of the UN's decision to grant observer status to the [Coalition gaie et lesbienne du Québec](http://www.cglq.org/ "Je l'adore!") (CGLQ)!
 

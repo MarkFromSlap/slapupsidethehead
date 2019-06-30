@@ -23,7 +23,7 @@ tags:
 - Workplace discrimination
 comments: []
 ---
-![Water cooler talk](/wp-content/media/2006/05/workplace.jpg)
+![Water cooler talk]({{'/wp-content/media/2006/05/workplace.jpg' | relative_url}})
 
 According to a survey released to coincide with the [National Day Against Homophobia](http://www.homophobiaday.org/ "Oddly located at Homophobia Day dot org...") last Wednesday, over 60% of Canadians agree that coming out in the workplace is harmful to one's career. As if that's not discouraging enough, 28% of respondents then went on to state that they've personally witnessed gay bashing at the office. Quelle horreur!
 

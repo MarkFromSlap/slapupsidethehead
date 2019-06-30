@@ -23,7 +23,7 @@ tags:
 - Barabara Kay
 comments: []
 ---
-![Toronto Same-Sex Marriages](/wp-content/media/2007/08/toronto-gay-marriages.jpg)
+![Toronto Same-Sex Marriages]({{'/wp-content/media/2007/08/toronto-gay-marriages.jpg' | relative_url}})
 
 Last June, Reuters [announced](http://ca.today.reuters.com/news/newsArticle.aspx?type=domesticNews&storyID=uri:2007-06-22T222137Z_01_N22198155_RTRIDST_0_CANADA-SAMESEX-WEDDINGS-COL.XML&pageNumber=0&summit= "Uh, fact checking anyone?") that only a single Canadian same-sex marriage was performed in Toronto so far this year, compared to 107 last year. The anti-gay crowd has, of course, framed the article, surrounded it with candles and gold, and trotted it about the country chanting something along the lines of "I told you so!"
 

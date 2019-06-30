@@ -24,7 +24,7 @@ tags:
 - Nigel Hannaford
 comments: []
 ---
-![(Furiously hiss toward camera while raking podium top.)](/wp-content/media/2009/10/new-speech-writer.jpg "(Furiously hiss toward camera while raking podium top.)")
+![(Furiously hiss toward camera while raking podium top.)]({{'/wp-content/media/2009/10/new-speech-writer.jpg' | relative_url}} "(Furiously hiss toward camera while raking podium top.)")
 
 One of the hardest things about the whole same-sex marriage debate back in 2005/2006 was simply picking up the newspaper or turning on the television and feeling attacked and maligned _every day_. It was relentless: The gays are destroying this, the gays will undermine that, they're worse than X, they have no right to Y... Unless you're LGBT, I think it's hard to understand exactly how that affects human spirit.
 

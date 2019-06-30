@@ -24,7 +24,7 @@ tags:
 - Parenting
 comments: []
 ---
-![Brian Fischer gets abducted by aliens as part of the just Skyward Railroad.](/wp-content/media/2012/08/brian-fischer-abduction.jpg "The only acceptable abduction I can think of")
+![Brian Fischer gets abducted by aliens as part of the just Skyward Railroad.]({{'/wp-content/media/2012/08/brian-fischer-abduction.jpg' | relative_url}} "The only acceptable abduction I can think of")
 
 Bryan Fischer, a U.S. pastor, has called for an organized plan to kidnap children from same-sex parents and deliver them to opposite-sex households as part of a modern-day "underground railroad."
 

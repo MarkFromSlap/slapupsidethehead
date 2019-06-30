@@ -22,7 +22,7 @@ tags:
 - Vancouver
 comments: []
 ---
-![New attack method](/wp-content/media/2008/05/new-attack-method.jpg "You have to be on the lookout for this sort of thing")
+![New attack method]({{'/wp-content/media/2008/05/new-attack-method.jpg' | relative_url}} "You have to be on the lookout for this sort of thing")
 
 Gay men are twice as likely as heterosexual men to be victimized by violent crimes in Vancouver according to a nine-year study on the subject.
 

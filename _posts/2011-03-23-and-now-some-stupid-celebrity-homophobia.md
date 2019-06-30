@@ -24,7 +24,7 @@ tags:
 - Glee
 comments: []
 ---
-![Victoria Jackson with a Glee](/wp-content/media/2011/03/victoria-jackson.jpg "Victoria Jackson")
+![Victoria Jackson with a Glee]({{'/wp-content/media/2011/03/victoria-jackson.jpg' | relative_url}} "Victoria Jackson")
 
 Victoria Jackson, a comedian and Saturday Night Live alumni, had some not-so-nice things to say this week after watching an episode of Glee wherein two of the show's gay characters finally got an on-screen kiss.
 

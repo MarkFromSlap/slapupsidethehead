@@ -23,7 +23,7 @@ tags:
 - Shaw
 comments: []
 ---
-![](/wp-content/media/2008/12/shaw-resolution.jpg "Let's face it; there are no straight OutTV subscribers.")
+![]({{'/wp-content/media/2008/12/shaw-resolution.jpg' | relative_url}} "Let's face it; there are no straight OutTV subscribers.")
 
 Shaw Cablesystems has responded to the Canadian Radio-television and Telecommunications Commission after the commission found that the cable provider [had tried to hide OutTV](http://www.slapupsidethehead.com/2008/11/crtc-rules-against-shaw-for-hiding-gay-channel/ "They just stuffed it in the closet"), a gay and lesbian television station.
 

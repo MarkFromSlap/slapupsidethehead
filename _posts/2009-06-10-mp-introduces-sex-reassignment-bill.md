@@ -24,7 +24,7 @@ tags:
 - Federal NDP
 comments: []
 ---
-![Or, if you prefer the non-technical term,](/wp-content/media/2009/06/province-reassignment-surgery.jpg "Or, if you prefer the non-technical term, ")
+![Or, if you prefer the non-technical term,]({{'/wp-content/media/2009/06/province-reassignment-surgery.jpg' | relative_url}} "Or, if you prefer the non-technical term, ")
 
 NDP MP Bill Siksay, fresh off of introducing the [trans-friendly Bill C-389](http://www.slapupsidethehead.com/2009/05/mp-keeps-on-trying-for-transgender-rights-bill/ "Hasn't passed yet, but there's hope!"), has introduced a new bill that would ensure gender reassignment surgery is available and covered by our health care system.
 

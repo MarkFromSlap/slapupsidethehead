@@ -24,7 +24,7 @@ tags:
 - Members of Parliament
 comments: []
 ---
-![Government Wikipedia Vandal](/wp-content/media/2007/08/wikipedia-vandal.jpg)
+![Government Wikipedia Vandal]({{'/wp-content/media/2007/08/wikipedia-vandal.jpg' | relative_url}})
 
 Office computers belonging to the Parliament Buildings in Ottawa have been used to vandalize [Wikipedia](http://www.wikipedia.org/) articles with anti-gay comments. (Wikipedia, for the benefit of the recently non-comatose, is an online encyclopedia to which anyone can contribute.)
 

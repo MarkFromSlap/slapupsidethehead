@@ -33,7 +33,7 @@ tags:
 - Jan Buterman
 comments: []
 ---
-![So very tragic.](/wp-content/media/2009/10/transgender-teacher.jpg "So very tragic.")
+![So very tragic.]({{'/wp-content/media/2009/10/transgender-teacher.jpg' | relative_url}} "So very tragic.")
 
 The St. Albert Catholic School Board has fired a transgendered substitute teacher for being, well, transgenered.
 

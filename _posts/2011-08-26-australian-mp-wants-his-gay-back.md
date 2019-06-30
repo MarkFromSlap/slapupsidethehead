@@ -23,7 +23,7 @@ tags:
 - Australia
 comments: []
 ---
-![Slap Upside The Head Presents: The Visual Bigot Test. Is this man a bigot? (An old man with a cowboy hat scowls.) Answer: By the HAMMER OF THOR, YES!](/wp-content/media/2011/08/the-visual-bigot-test.jpg "And for those who think my illustration is an exaggeration. Google the guy. Seriously.")
+![Slap Upside The Head Presents: The Visual Bigot Test. Is this man a bigot? (An old man with a cowboy hat scowls.) Answer: By the HAMMER OF THOR, YES!]({{'/wp-content/media/2011/08/the-visual-bigot-test.jpg' | relative_url}} "And for those who think my illustration is an exaggeration. Google the guy. Seriously.")
 
 Same-sex marriage has been a fact of life in Canada for so long now that many of us have long forgotten the silly hysteria that led up to it. Yet, alas, anyone reading future history books will find that the mere discussion of allowing equal marriage rights for same-sex couples had prompted all kinds of vitriol about homosexuality in general throughout media and politics.
 

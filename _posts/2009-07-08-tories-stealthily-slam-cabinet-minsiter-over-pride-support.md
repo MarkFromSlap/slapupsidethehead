@@ -24,7 +24,7 @@ tags:
 - Brad Trost
 comments: []
 ---
-![It's like looking into the face of pure anger](/wp-content/media/2009/07/lyfesyratu.jpg "It's like looking into the face of pure anger")
+![It's like looking into the face of pure anger]({{'/wp-content/media/2009/07/lyfesyratu.jpg' | relative_url}} "It's like looking into the face of pure anger")
 
 Conservative cabinet minister Diane Ablonczy is being torn a new one by a fellow Tory over a decision to help fund Toronto's Gay Pride Week. The pummelling, however, appears to be limited to some pretty obscure venues, consisting of mostly extreme, social conservative websites.
 

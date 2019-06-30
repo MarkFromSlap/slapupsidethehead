@@ -25,7 +25,7 @@ tags:
 - Lorne Guy
 comments: []
 ---
-![Snowstorm Homophobia](/wp-content/media/2007/06/snowstorm-reasoning.jpg)
+![Snowstorm Homophobia]({{'/wp-content/media/2007/06/snowstorm-reasoning.jpg' | relative_url}})
 
 An Inuvialuit high school student in the Northwest Territories has been barred from singing a sexually suggestive song about a "gay Eskimo" at her school's fundraiser. The staff's rationale for the ban: The word "Eskimo" is culturally insensitive. Uh, yeah.
 

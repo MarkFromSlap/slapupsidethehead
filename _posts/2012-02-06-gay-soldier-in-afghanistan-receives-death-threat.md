@@ -23,7 +23,7 @@ tags:
 - Military
 comments: []
 ---
-![A sudden tear in the Bigotverse delivers hateful sentiment from the annals of yesteryear.](/wp-content/media/2012/02/military-hate-mail.jpg "I never did trust those temporal wormholes...")
+![A sudden tear in the Bigotverse delivers hateful sentiment from the annals of yesteryear.]({{'/wp-content/media/2012/02/military-hate-mail.jpg' | relative_url}} "I never did trust those temporal wormholes...")
 
 Gays in the military isn't exactly a new thing for Canada, but you might not know it from the experiences of Andrew McLean, a Warrant Officer working at Kandahar Airfield.
 

@@ -25,7 +25,7 @@ tags:
 - Surrey school board
 comments: []
 ---
-![A child couldn't possibly understand this, my dear Watson.](/wp-content/media/2006/05/sophisticated.jpg)
+![A child couldn't possibly understand this, my dear Watson.]({{'/wp-content/media/2006/05/sophisticated.jpg' | relative_url}})
 
 Once upon a time, there was a young prince who "never cared much for princesses." Although his mother introduced him to several potential suitors, he just couldn't find someone to marry. But one fine day, he was elated to discover another handsome young prince! They married and lived happily ever after! _The end_.
 

@@ -21,7 +21,7 @@ tags:
 - Same-sex marriage
 comments: []
 ---
-![Ruining an otherwise perfect wedding, a pterodactyl crashes through the window just as the cake is being cut.](/wp-content/media/2011/09/wedding-disaster.jpg "Unfortunately, this really happened. Oh well, no wedding can be perfect.")
+![Ruining an otherwise perfect wedding, a pterodactyl crashes through the window just as the cake is being cut.]({{'/wp-content/media/2011/09/wedding-disaster.jpg' | relative_url}} "Unfortunately, this really happened. Oh well, no wedding can be perfect.")
 
 The following article was one that I originally wrote for the September, 2010 issue of Outlooks magazine. Although I've now already celebrated my first wedding anniversary, I figured this would be a worthwhile time to reflect on a very special group of lobbyists that tried their hardest to force us out of a wedding in the first place. Enjoy!
 

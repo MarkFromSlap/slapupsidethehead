@@ -23,7 +23,7 @@ tags:
 - Votes
 comments: []
 ---
-![Phantom Mare](/wp-content/media/2006/12/phantom_mare.jpg)
+![Phantom Mare]({{'/wp-content/media/2006/12/phantom_mare.jpg' | relative_url}})
 
 Today's the big day! The day where gay people and anti-gay crazies unite in watching a mind-numbingly boring debate on [CPAC](http://www.cpac.ca/ "The, uh, Channel Pour Agonizing Chattering?"). Ah, what fun we'll all have! The debate, of course, is over this motion:
 

@@ -28,7 +28,7 @@ tags:
 - Jocelyn Palmer
 comments: []
 ---
-![A giant, clenched fist. Solve much?](/wp-content/media/2010/11/hitting-on-someone.jpg "Violence answers nothing; no more needless tragedies.")
+![A giant, clenched fist. Solve much?]({{'/wp-content/media/2010/11/hitting-on-someone.jpg' | relative_url}} "Violence answers nothing; no more needless tragedies.")
 
 Shaun Woodward, a 37 year old construction worker, was in a Vancouver gay pub last March when he was offered a beer by Richard Dowrey, a 62 year old gay man out celebrating his retirement. Woodward, who is straight, was angered by the gesture, sucker punching the retiree amidst a stream of homophobic slurs. Dowrey suffered permanent brain damage, leaving him with severe memory problems. He will require assisted living for the rest of his life.
 

@@ -23,7 +23,7 @@ tags:
 - American Library Association
 comments: []
 ---
-![Evil... EVIL... Magic... BEWARE...](/wp-content/media/2009/04/book-burning.jpg "Evil... EVIL... Magic... BEWARE...")
+![Evil... EVIL... Magic... BEWARE...]({{'/wp-content/media/2009/04/book-burning.jpg' | relative_url}} "Evil... EVIL... Magic... BEWARE...")
 
 _And Tango Makes Three_, a children's picture book about penguins at the Central Park Zoo was the most challenged book for the third consecutive year, according to the American Library Association.
 

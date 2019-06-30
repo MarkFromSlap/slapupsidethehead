@@ -23,7 +23,7 @@ tags:
 - Greece
 comments: []
 ---
-![DOES NOT COMPUTE! DOES NOT COMPUTE!](/wp-content/media/2009/05/humanoid-couple.jpg "DOES NOT COMPUTE! DOES NOT COMPUTE!")
+![DOES NOT COMPUTE! DOES NOT COMPUTE!]({{'/wp-content/media/2009/05/humanoid-couple.jpg' | relative_url}} "DOES NOT COMPUTE! DOES NOT COMPUTE!")
 
 The Greek courts have annulled the country's only two same-sex marriages after hysterical opposition from the government and religious organisations.
 

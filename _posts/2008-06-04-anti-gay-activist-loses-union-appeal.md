@@ -23,7 +23,7 @@ tags:
 - Catholics
 comments: []
 ---
-![Sue-Happy Susan](/wp-content/media/2008/06/sue-happy-sue.jpg "Let's call her Sue-Happy Susan")
+![Sue-Happy Susan]({{'/wp-content/media/2008/06/sue-happy-sue.jpg' | relative_url}} "Let's call her Sue-Happy Susan")
 
 Susan Comstock, the Ontario woman who sued her employee union over their support of same-sex marriage, has lost her case---again. The Federal Court of Appeal sided with [an earlier court ruling](http://www.slapupsidethehead.com/2007/04/activist-loses-case/ "And, boy, what a nail-biter of a case that was.") saying that the Public Service Alliance of Canada did not violate Ms. Comstock's religious rights when it used a fraction of its union dues to promote social justice programs.
 

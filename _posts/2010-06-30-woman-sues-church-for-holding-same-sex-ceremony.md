@@ -26,7 +26,7 @@ tags:
 - Yvonne Moore
 comments: []
 ---
-![WWJS: Who would Jesus sue?](/wp-content/media/2010/06/wwjs.jpg "He'd sue churches; totally.")
+![WWJS: Who would Jesus sue?]({{'/wp-content/media/2010/06/wwjs.jpg' | relative_url}} "He'd sue churches; totally.")
 
 Here's a bit of oddness. Yvonne Moore, a southern Baptist in Washington, D.C. sued her church for performing a same-sex union ceremony back in 2007.
 

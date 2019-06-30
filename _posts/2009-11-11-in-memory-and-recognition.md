@@ -21,5 +21,5 @@ tags:
 - Remembrance Day
 comments: []
 ---
-![Remembrance Day poppy](/wp-content/media/2009/11/remembrance-day.jpg "Remembrance Day poppy")
+![Remembrance Day poppy]({{'/wp-content/media/2009/11/remembrance-day.jpg' | relative_url}} "Remembrance Day poppy")
 

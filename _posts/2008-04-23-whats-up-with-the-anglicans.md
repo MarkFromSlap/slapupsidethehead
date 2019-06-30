@@ -22,7 +22,7 @@ tags:
 - Religion
 comments: []
 ---
-![Anglican Drama Queen](/wp-content/media/2008/04/anglican-drama.jpg "Ah, drama. People just can't help being people, can they?")
+![Anglican Drama Queen]({{'/wp-content/media/2008/04/anglican-drama.jpg' | relative_url}} "Ah, drama. People just can't help being people, can they?")
 
 If you're a regular of this site, you've no doubt noticed the bizarre rift that has emerged in the Canadian Anglican community over gay parishioners. [Churches have split](http://www.slapupsidethehead.com/2007/12/more-anglicans-leave/ "We didn't want to be a part of your group anyway!"), [priests have been fired](http://www.slapupsidethehead.com/2007/10/another-priest-suspended-for-performing-same-sex-wedding/ "Do as I say or you're gone!"), [bishops have fled](http://www.slapupsidethehead.com/2007/11/bishop-leaves-canada/ "Running away from home..."), discussions have amounted to [meaningless decrees](http://www.slapupsidethehead.com/2007/06/anglican-mixed-message/ "Flip-flops for all!"), and everything is generally all going to hell in a hand basket---and all because the church just can't decide whether or not God would bless gay couples.
 

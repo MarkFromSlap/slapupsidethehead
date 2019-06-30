@@ -24,7 +24,7 @@ tags:
 - Spying
 comments: []
 ---
-![Spy Vs. Gay](/wp-content/media/2007/05/spy-vs-gay.jpg)
+![Spy Vs. Gay]({{'/wp-content/media/2007/05/spy-vs-gay.jpg' | relative_url}})
 
 The Toronto police used undercover detectives to spy on the city's gay community throughout the 1980s, according to a surveillance report leaked to the media this week. Community members under surveillance included gay business owners, conference attendees, and candidates running for city council.
 

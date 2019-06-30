@@ -23,7 +23,7 @@ tags:
 - Legion
 comments: []
 ---
-![Male Stripper](/wp-content/media/2008/07/male-stripper.jpg "Or deliver a pizza... OR arrest some naughty girls!")
+![Male Stripper]({{'/wp-content/media/2008/07/male-stripper.jpg' | relative_url}} "Or deliver a pizza... OR arrest some naughty girls!")
 
 A group of male strippers from Las Vegas danced for a Legion fundraiser in Prince Edward Island last week, prompting one member to complain to the media. The dancers, who stripped down to their undies for an audience of cheering women (and some cheering men) were booked by the Legion, who called the event a great success.
 

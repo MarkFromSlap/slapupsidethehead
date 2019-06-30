@@ -24,7 +24,7 @@ tags:
 - Nicolas Demers
 comments: []
 ---
-![Things not to wear in Edmonton](/wp-content/media/2006/04/what_not_to_wear.jpg)
+![Things not to wear in Edmonton]({{'/wp-content/media/2006/04/what_not_to_wear.jpg' | relative_url}})
 
 Here's an oldie: What do you get when you wear a fur coat, white jeans, suede boots, and a "Drama Queen" t-shirt to [Edmonton's Gay Pride Week](http://www.prideedmonton.org/ "Pride Edmonton") celebrations? Give up? A punch in the face from a crazy, anti-gay stranger!
 

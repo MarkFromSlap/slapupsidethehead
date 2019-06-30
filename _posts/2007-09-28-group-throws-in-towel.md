@@ -23,7 +23,7 @@ tags:
 - David Quist
 comments: []
 ---
-![Flying Pig](/wp-content/media/2007/09/flying-pig.jpg)
+![Flying Pig]({{'/wp-content/media/2007/09/flying-pig.jpg' | relative_url}})
 
 Anchor your bacon, kids! The euphemistically titled Institute of Marriage and Family Canada has officially given up lobbying against same-sex marriage. Dave Quist, the executive director of the (ordinarily quite rabidly anti-gay) organization, cited the "incredibly low" numbers of same-sex marriages in census figures as the reason for abandoning the group's original purpose. (Same-sex marriages in Canada [have risen 32%](http://www.xtra.ca/public/viewstory.aspx?AFF_TYPE=1&STORY_ID=3582&PUB_TEMPLATE_ID=2 "Not exactly low...") since the last Census.)
 

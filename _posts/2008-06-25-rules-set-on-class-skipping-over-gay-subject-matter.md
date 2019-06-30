@@ -25,7 +25,7 @@ tags:
 - Vancouver
 comments: []
 ---
-![Lesson Interuption](/wp-content/media/2008/06/lesson-interuption.jpg "Gee that\'s so... brave.")
+![Lesson Interuption]({{'/wp-content/media/2008/06/lesson-interuption.jpg' | relative_url}} "Gee that\'s so... brave.")
 
 The Vancouver Board of Education has outlined rules in which parents may pull their students out of class due to familial religious beliefs. In a formal policy, the board said that while parents may request that students be pulled out of lessons dealing with gay issues in Health class, this does not apply to other classes---and any missed material still must be learned through either home instruction or self-directed studying.
 

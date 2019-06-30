@@ -20,11 +20,11 @@ categories:
 tags: []
 comments: []
 ---
-![Guest Slap](/wp-content/media/2007/09/guest-slap.jpg)
+![Guest Slap]({{'/wp-content/media/2007/09/guest-slap.jpg' | relative_url}})
 
 I'm super happy to present today's guest author-slash-illustrator for the second time this week! Premee is an environmental specialist and native Albertan, proving once and for all that not all correspondance coming out of my home province is hate mail.
 
-![A boy plays around with homoerotic action figures while his parents feel relieved that he's finally playing with boys stuff.](/wp-content/media/2011/02/boy-toys.jpg "Manly Movie II was better")
+![A boy plays around with homoerotic action figures while his parents feel relieved that he's finally playing with boys stuff.]({{'/wp-content/media/2011/02/boy-toys.jpg' | relative_url}} "Manly Movie II was better")
 
 So the ruggedly testosterone-tacular hunk of mustachioed maleness that is Dr. Phil recently suggested that a mom not contribute to her five year-old son's "confusion" by buying him "girl toys." He tried to soften the blow by saying he knows that toys usually attributed to the opposite gender don't usually cause _teh gay_, but he still deserves a slap, even if I have to get up on a stepladder to deliver it.
 

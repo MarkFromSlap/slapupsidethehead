@@ -25,7 +25,7 @@ tags:
 - Marc Dalton
 comments: []
 ---
-![Just like those gosh darn prostitutes and gamblers, Billy.](/wp-content/media/2009/04/teacher-candidate.jpg "Just like those gosh darn prostitutes and gamblers, Billy.")
+![Just like those gosh darn prostitutes and gamblers, Billy.]({{'/wp-content/media/2009/04/teacher-candidate.jpg' | relative_url}} "Just like those gosh darn prostitutes and gamblers, Billy.")
 
 Marc Dalton, a candidate in the upcoming B.C. election, has drawn criticism over the surfacing of a homophobic email that he authored back in 1997. The email, which was sent while Dalton was an elementary school teacher, tiresomely equates gay people to adulterers and gamblers:
 

@@ -24,7 +24,7 @@ tags:
 - Shaw
 comments: []
 ---
-![](/wp-content/media/2008/11/shaw-hiding.jpg "Plus, all their channels are just different pastel colours.")
+![]({{'/wp-content/media/2008/11/shaw-hiding.jpg' | relative_url}} "Plus, all their channels are just different pastel colours.")
 
 The Canadian Radio-television and Telecommunications Commission has ruled against Shaw Communications, a Calgary-based cable provider, for subjecting [OUTtv](http://www.outtv.ca/ "It's so gay."), a GLBT channel, to "undue disadvantage."
 

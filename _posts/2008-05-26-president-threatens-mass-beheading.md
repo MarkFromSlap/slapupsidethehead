@@ -24,7 +24,7 @@ tags:
 - The Gambia
 comments: []
 ---
-![Gay Ichabod Crane](/wp-content/media/2008/05/gay-ichabod-crane.jpg "I wonder if, someday, this will be my last sight.")
+![Gay Ichabod Crane]({{'/wp-content/media/2008/05/gay-ichabod-crane.jpg' | relative_url}} "I wonder if, someday, this will be my last sight.")
 
 Yahya Jammeh, the president of The Gambia, Africa, announced last week that he will introduce laws "stricter than Iran" in dealing with homosexuality. He said that gay people in the country have exactly 24 hours to leave, and that he will "cut off the head" of any gay person he finds left.
 

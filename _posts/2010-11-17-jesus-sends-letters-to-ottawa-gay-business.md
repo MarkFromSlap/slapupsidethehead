@@ -24,7 +24,7 @@ tags:
 - Jesus
 comments: []
 ---
-![A large, slovenly man is caught delivering a letter claiming to be from Jesus. The recipient notes that he looks nothing like the paintings suggest.](/wp-content/media/2010/11/jesus-mail.jpg "He does have a Halo, as well as Halo II and Halo III.")
+![A large, slovenly man is caught delivering a letter claiming to be from Jesus. The recipient notes that he looks nothing like the paintings suggest.]({{'/wp-content/media/2010/11/jesus-mail.jpg' | relative_url}} "He does have a Halo, as well as Halo II and Halo III.")
 
 Monumental news! Jesus Christ---a tremendously influential historical figure, human incarnation of **the** Christian deity, and inspiration for the yearly increments of _both_ the Julian _and_ Gregorian Calendar---has communicated from beyond the earthly realm! For the first time since his bodily ascension into the sky nearly 2000 years ago, Jesus has spoken with humans in a way that leaves actual, physical proof.
 

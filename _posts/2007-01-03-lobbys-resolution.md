@@ -23,7 +23,7 @@ tags:
 - Royal commissions
 comments: []
 ---
-![Lobby New Year](/wp-content/media/2007/01/lobby_new_year.jpg)
+![Lobby New Year]({{'/wp-content/media/2007/01/lobby_new_year.jpg' | relative_url}})
 
 Hey there, kiddos! I'm back from my little website holiday, and let me be the first---well, more likely the several dozen-th person to wish you a happy and prosperous new year!
 

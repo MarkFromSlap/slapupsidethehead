@@ -19,7 +19,7 @@ categories: []
 tags: []
 comments: []
 ---
-![Slap Into Action](/wp-content/media/2010/09/slap-into-action.jpg "Slap Into Action")
+![Slap Into Action]({{'/wp-content/media/2010/09/slap-into-action.jpg' | relative_url}} "Slap Into Action")
 
 **Update:** I've set up a sub-page to help organize a campaign. Visit [http://www.slapupsidethehead.com/action/](http://www.slapupsidethehead.com/action/)
 

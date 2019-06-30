@@ -24,7 +24,7 @@ tags:
 - Unions
 comments: []
 ---
-![Crazy Woman Sues Union](/wp-content/media/2006/04/union_bunnies.jpg)
+![Crazy Woman Sues Union]({{'/wp-content/media/2006/04/union_bunnies.jpg' | relative_url}})
 
 Now _this_ is odd. An Ontario woman is suing her union, the [Public Service Alliance of Canada](http://www.psac.com/ "An honorable union"), for supporting the federal same-sex marriage bill last year. Susan Comstock claims that by allocating some of her union dues to support social justice, her religious freedom was violated. The poor dear! Now she's demanding that her union divert money to a charity of her choice (probably---but not necessarily---one that protects furry animals; it usually is).
 

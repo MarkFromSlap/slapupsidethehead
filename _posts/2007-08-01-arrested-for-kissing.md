@@ -24,7 +24,7 @@ tags:
 - Kissing
 comments: []
 ---
-![Gay Romans](/wp-content/media/2007/07/gay-romans.jpg)
+![Gay Romans]({{'/wp-content/media/2007/07/gay-romans.jpg' | relative_url}})
 
 Two gay men were arrested in Rome after they shared a kiss outside the Colosseum. Gay rights organizations are now protesting the incident by holding a mass "protest kiss" at the same location, August 2<sup>nd</sup>.
 

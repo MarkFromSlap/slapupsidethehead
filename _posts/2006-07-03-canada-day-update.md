@@ -27,7 +27,7 @@ tags:
 - Canada Day
 comments: []
 ---
-![The Canada Day Update](/wp-content/media/2006/07/canada_day.jpg)
+![The Canada Day Update]({{'/wp-content/media/2006/07/canada_day.jpg' | relative_url}})
 
 Well, it's the long weekend! And to celebrate, I've prepared this amazing **Canada Day Update** in advance to let you know how some of the stories I've been tracking have progressed. Uh, also I'd like to take some time off to bask in the hot Canadian sun...
 

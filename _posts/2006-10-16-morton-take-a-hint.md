@@ -24,7 +24,7 @@ tags:
 - Bill 208
 comments: []
 ---
-![The Bill That Wouldn't Die](/wp-content/media/2006/10/wouldnt_die.jpg)
+![The Bill That Wouldn't Die]({{'/wp-content/media/2006/10/wouldnt_die.jpg' | relative_url}})
 
 Ah, Halloween! That time of year when the undead drag their rheumatic limbs through the streets, assorted ghouls knock door to door, and the conservative campaign for a new Alberta premier kicks off...
 

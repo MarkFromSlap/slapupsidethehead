@@ -21,7 +21,7 @@ tags:
 - Halloween
 comments: []
 ---
-![](/wp-content/media/2008/10/halloween-greeting.png "And now... Stephen Harper entertains the children with a shower of free candy.")
+![]({{'/wp-content/media/2008/10/halloween-greeting.png' | relative_url}} "And now... Stephen Harper entertains the children with a shower of free candy.")
 
-![](/wp-content/media/2008/10/harper-slug.jpg "Yipeee!")
+![]({{'/wp-content/media/2008/10/harper-slug.jpg' | relative_url}} "Yipeee!")
 

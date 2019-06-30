@@ -25,7 +25,7 @@ tags:
 - Zesty's
 comments: []
 ---
-![Road Slap](/wp-content/media/2007/09/road-slap.jpg)
+![Road Slap]({{'/wp-content/media/2007/09/road-slap.jpg' | relative_url}})
 
 Still on the road, kids! But here are some stories and updates that caught my eye:
 

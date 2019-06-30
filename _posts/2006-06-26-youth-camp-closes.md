@@ -23,7 +23,7 @@ tags:
 - Knights of Columbus
 comments: []
 ---
-![Sorry, Children...](/wp-content/media/2006/06/camp_closed.jpg)
+![Sorry, Children...]({{'/wp-content/media/2006/06/camp_closed.jpg' | relative_url}})
 
 The [Ontario Catholic Youth Leadership Camp](http://www.osc-koc.com/leadership_camp.htm "Closed to ") has officially closed its doors after one of its employees, James Loney, turned out to be gay. Loney, incidentally, was the Christian aid worker that was [kidnapped](http://www.cbc.ca/story/canada/national/2006/03/27/newloney-home060327.html "with his orientation kept secret, of course") earlier this year in Iraq. Uh, good thing he's now back in Canada where people are more tolerant...
 

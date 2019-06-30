@@ -24,7 +24,7 @@ tags:
 - Scholastic
 comments: []
 ---
-![Pink isn't always very gay](/wp-content/media/2009/11/censorship.jpg "Pink isn't always very gay")
+![Pink isn't always very gay]({{'/wp-content/media/2009/11/censorship.jpg' | relative_url}} "Pink isn't always very gay")
 
 _Luv Ya Bunche_s, a short novel for ages nine to twelve, has been pulled from U.S. book fairs by the Scholastic publishing company because one of the book's characters, Milla, has two mommies.
 

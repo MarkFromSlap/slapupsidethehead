@@ -23,7 +23,7 @@ tags:
 - Washington D.C.
 comments: []
 ---
-![If anyone should obj---aw, crap...](/wp-content/media/2009/12/gay-wedding-objection.jpg "If anyone should obj---aw, crap...")
+![If anyone should obj---aw, crap...]({{'/wp-content/media/2009/12/gay-wedding-objection.jpg' | relative_url}} "If anyone should obj---aw, crap...")
 
 Slap reader John writes in with some good news coming out of Washington, DC. The city council has voted in favour of legalizing equal marriage rights for gay couples!
 

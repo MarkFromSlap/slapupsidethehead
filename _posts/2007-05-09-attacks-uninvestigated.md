@@ -24,7 +24,7 @@ tags:
 - Stan Belza
 comments: []
 ---
-![Lavender Oil Attack](/wp-content/media/2007/05/lavender-oil-attack.jpg)
+![Lavender Oil Attack]({{'/wp-content/media/2007/05/lavender-oil-attack.jpg' | relative_url}})
 
 A noxious gas introduced into the ventilation systems of two gay bars in Toronto last weekend is going uninvestigated.
 

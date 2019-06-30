@@ -25,7 +25,7 @@ tags:
 - Alaska
 comments: []
 ---
-![Bystander mistake a charred pride float as modern art.](/wp-content/media/2010/07/modern-art.jpg "It's brilliant; I'll give you twenty thousand for it.")
+![Bystander mistake a charred pride float as modern art.]({{'/wp-content/media/2010/07/modern-art.jpg' | relative_url}} "It's brilliant; I'll give you twenty thousand for it.")
 
 The annual gay pride float was a little different this year at Anchorage, Alaska's fourth of July parade after it burned down in what is being treated as possible arson.
 

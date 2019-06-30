@@ -24,7 +24,7 @@ tags:
 - Bill 44
 comments: []
 ---
-![Sorry about that, Cheif.](/wp-content/media/2009/04/cone-of-silence.jpg "Sorry about that, Cheif.")
+![Sorry about that, Cheif.]({{'/wp-content/media/2009/04/cone-of-silence.jpg' | relative_url}} "Sorry about that, Cheif.")
 
 Alberta is amending its Human Rights Act with a provision that will force school teachers to exclude any student whose parents object to the acknowledgement of sexual orientation in classroom discussions. Failure to pull a student from such a discussion---even ones that arise from student questions---could result in a human rights complaint.
 

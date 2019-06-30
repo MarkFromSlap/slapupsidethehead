@@ -24,7 +24,7 @@ tags:
 - Calgary Stampede
 comments: []
 ---
-![](/wp-content/media/2010/01/dunk-the-queer.jpg "Well, as long as they're just baby sharks...")
+![]({{'/wp-content/media/2010/01/dunk-the-queer.jpg' | relative_url}} "Well, as long as they're just baby sharks...")
 
 The Calgary Stampede, Calgary's annual carnival and rodeo, has launched a marketing research survey that asks respondents for opinions on blatantly sexist and homophobic statements. Gems include "The only acceptable definition of a family is a husband, wife and children," and "Some jobs are best suited to men. Women should just accept this."
 

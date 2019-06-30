@@ -26,7 +26,7 @@ tags:
 - Brazil
 comments: []
 ---
-![People in traditional and business attire, hold a Straight Pride banner, featuring a brown, beige, and grey rainbow.](/wp-content/media/2011/08/straight-pride-copie.jpg "Can't wait.")
+![People in traditional and business attire, hold a Straight Pride banner, featuring a brown, beige, and grey rainbow.]({{'/wp-content/media/2011/08/straight-pride-copie.jpg' | relative_url}} "Can't wait.")
 
 The city of São Paulo approved legislation last week that would bring a heterosexual pride day to the city, if the Mayor approves it. Carlos Apolinario, the bill's sponsor, said the legislation was "not anti-gay," but rather "a protest against the privileges the gay community enjoys."
 

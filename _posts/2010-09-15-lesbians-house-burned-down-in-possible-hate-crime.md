@@ -26,7 +26,7 @@ tags:
 - Laura Stuttle
 comments: []
 ---
-![A witch burning](/wp-content/media/2010/09/witch-burning.jpg "How far is 2010 from 1610?")
+![A witch burning]({{'/wp-content/media/2010/09/witch-burning.jpg' | relative_url}} "How far is 2010 from 1610?")
 
 A two-story house was burned to the ground in what is suspected to be an anti-gay hate crime. Carol and Laura Stuttle moved to Tennessee five years ago, and had been threatened and harassed by a neighbour ever since. Two Saturdays ago, while the couple was celebrating their anniversary in Nashville, their home was burned to the ground and the word "queers" was spraypainted on their garage.
 

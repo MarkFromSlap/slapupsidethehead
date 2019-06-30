@@ -24,7 +24,7 @@ tags:
 - David Popescu
 comments: []
 ---
-![Why won't you let me hate you?](/wp-content/media/2009/03/religious-opression.jpg "Why won't you let me hate you?")
+![Why won't you let me hate you?]({{'/wp-content/media/2009/03/religious-opression.jpg' | relative_url}} "Why won't you let me hate you?")
 
 David Popescu, the crazy fringe candidate from Sudbury who [declared that all gays should be killed during a federal election debate](http://www.slapupsidethehead.com/2008/10/candidate-declares-gays-should-be-killed/ "Yeah, that guy."), has been charged by the Greater Sudbury Police Service for two counts of the wilful promotion of violence and hatred toward an identifiable group.
 

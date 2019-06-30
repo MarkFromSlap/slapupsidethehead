@@ -24,7 +24,7 @@ tags:
 - Toronto
 comments: []
 ---
-![This is silly. Sorry.](/wp-content/media/2009/02/anglicanbot-9000.jpg "This is silly. Sorry.")
+![This is silly. Sorry.]({{'/wp-content/media/2009/02/anglicanbot-9000.jpg' | relative_url}} "This is silly. Sorry.")
 
 The gravely divided Anglican church is super interesting for some reason. The issue of same-sex blessings, of all things, has become the epicentre of a massive fracture, and their attempts to stay united has led to some of the most bizarre declarations I've heard from any religion.
 

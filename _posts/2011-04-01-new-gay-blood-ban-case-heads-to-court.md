@@ -28,7 +28,7 @@ comments: []
 
 **Update, April 2:** For anyone who doesn't like to check calendars on a regular basis: Yes, this announcement---and the accompanying terrible illustration---was an April Fools joke. The rest of the post is real though, so good luck to Mr. Lomaga with his blood ban case!
 
-![A terrible illustration.](/wp-content/media/2011/03/old-style-zombie-blood.jpg)
+![A terrible illustration.]({{'/wp-content/media/2011/03/old-style-zombie-blood.jpg' | relative_url}})
 
 If you're a gay man in Canada and have had sex even once since 1977, you are permanently banned from donating blood in the country. If you're surprised by this, you likely haven't tried donating blood for a very, very long time. This policy has been on the books for about thirty years now, despite having organisations like the Red Cross come out against it.
 

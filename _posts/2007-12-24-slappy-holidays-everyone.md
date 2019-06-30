@@ -22,7 +22,7 @@ tags:
 - Santa Claus
 comments: []
 ---
-![Gay Christmas Gift](/wp-content/media/2007/12/gay-xmas-gift.jpg)
+![Gay Christmas Gift]({{'/wp-content/media/2007/12/gay-xmas-gift.jpg' | relative_url}})
 
 Hey kids!
 

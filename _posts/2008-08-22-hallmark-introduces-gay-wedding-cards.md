@@ -22,7 +22,7 @@ tags:
 - Hallmark
 comments: []
 ---
-![](/wp-content/media/2008/08/generic-union.jpg "I've never been so touched...")
+![]({{'/wp-content/media/2008/08/generic-union.jpg' | relative_url}} "I've never been so touched...")
 
 Hallmark, the internationally beloved greeting card company, is introducing a handful of cards suitable for presentation at gay weddings this year. While the company made a special point of mentioning the new products were due to demand and not to make any sort of political statement, the cards are surprisingly neutral. The card cover features, at the buyer's option: A pair of tuxedos, roses, or hearts with a simple offering of best wishes on the inside. The word "marriage" isn't to be found anywhere.
 

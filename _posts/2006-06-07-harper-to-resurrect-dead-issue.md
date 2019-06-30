@@ -25,7 +25,7 @@ tags:
 - Loyola Hearn
 comments: []
 ---
-![Dead Issue](/wp-content/media/2006/06/dead_issue.jpg)
+![Dead Issue]({{'/wp-content/media/2006/06/dead_issue.jpg' | relative_url}})
 
 Horror fans rejoice? Canadian prime minister Stephen Harper is raising the dead! Well, kinda.
 
@@ -37,7 +37,7 @@ As Liberal MP Keith Martin put it:
 
 A good observation. But what do our wacky Conservative MPs have to say?
 
-![The Stephen Harper Seal of Approval](/wp-content/media/2006/06/harper_seal.png)
+![The Stephen Harper Seal of Approval]({{'/wp-content/media/2006/06/harper_seal.png' | relative_url}})
 
 Well, despite receiving Stevey's official "Let's do it!", some tories are _actually using_ _common sense_, openly pondering why it's necessary to revisit the, well, causeless issue. Fisheries Minister Loyola Hearn even described it as being more divisive than the mission to Afghanistan.
 

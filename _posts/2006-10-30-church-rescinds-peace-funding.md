@@ -23,7 +23,7 @@ tags:
 - Roman Catholic Diocese of Hamilton
 comments: []
 ---
-![Peace Forum](/wp-content/media/2006/10/peace_forum.jpg)
+![Peace Forum]({{'/wp-content/media/2006/10/peace_forum.jpg' | relative_url}})
 
 The Roman Catholic Diocese of Hamilton has rescinded their annual funding for the Challenge for Change peace forum because this year's keynote speaker, James Loney, is gay.
 

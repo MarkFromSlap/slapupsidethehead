@@ -25,7 +25,7 @@ tags:
 - Stellenbosch
 comments: []
 ---
-![Gay men kiss: The earth explodes.](/wp-content/media/2010/08/gay-kiss-consequence.jpg "How come this site never causes this sort of controversy?")
+![Gay men kiss: The earth explodes.]({{'/wp-content/media/2010/08/gay-kiss-consequence.jpg' | relative_url}} "How come this site never causes this sort of controversy?")
 
 Considering that South Africa is now part of the same-sex marriage club, you'd think simply publishing a photo of a gay kiss in a university campus newspaper wouldn't be particularly controversial. Yet, alas, editors of a student-run newspaper at Stellenbosch University, just about 50 kilometers east of Cape Town, have found themselves dealing with what they're calling an overwhelming controversy.
 

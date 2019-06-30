@@ -25,7 +25,7 @@ tags:
 - The Game of LIFE
 comments: []
 ---
-![With real taser action!](/wp-content/media/2009/03/game-of-life.jpg "With real taser action!")
+![With real taser action!]({{'/wp-content/media/2009/03/game-of-life.jpg' | relative_url}} "With real taser action!")
 
 A mother has complained to the media after discovering that her daughter was able to select two females as marriage partners in the free trial of _The Game of Life_, a computer version of the popular Milton Bradley board game.
 

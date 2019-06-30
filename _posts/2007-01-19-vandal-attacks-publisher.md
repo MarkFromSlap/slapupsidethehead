@@ -25,7 +25,7 @@ tags:
 - Gareth Kirkby
 comments: []
 ---
-![Gay Paper Theif](/wp-content/media/2007/01/paper_theif.jpg)
+![Gay Paper Theif]({{'/wp-content/media/2007/01/paper_theif.jpg' | relative_url}})
 
 Poor [Capital Xtra](http://www.xtra.ca/public/main.aspx?AFF_TYPE=2 "A great little independent weekly")---the weekly, non-profit gay newspaper is being attacked again! Just one year after a 47-year old man was fined for bolting the publisher's distribution boxes shut with power tools, dousing them in brown paint, and spray-painting "HIV" and swastikas on them, the paper's distribution channel has been targeted again. This time, thousands of copies of the paper are being stolen from Ottawa's downtown locations.
 

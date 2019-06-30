@@ -25,7 +25,7 @@ tags:
 - St Joseph Catholic Secondary School
 comments: []
 ---
-![And as a symbol of his covenant to never again flood the earth, God summoned to the sky a beautiful rainb---IRREDUCIBLY COMPLEX BACTERIAL FLAGELLUM. THE END.](/wp-content/media/2011/06/alternate-ending-to-noahs-ark.jpg "Now find your own way down off that mountain, k thnx bye.")
+![And as a symbol of his covenant to never again flood the earth, God summoned to the sky a beautiful rainb---IRREDUCIBLY COMPLEX BACTERIAL FLAGELLUM. THE END.]({{'/wp-content/media/2011/06/alternate-ending-to-noahs-ark.jpg' | relative_url}} "Now find your own way down off that mountain, k thnx bye.")
 
 An unofficial Gay-Straight Alliance at St Joseph Catholic Secondary School in Mississauga, Ontario has been forbidden from displaying any rainbows at their information booth.
 

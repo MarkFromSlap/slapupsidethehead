@@ -22,7 +22,7 @@ tags:
 - Isreal
 comments: []
 ---
-![Oh, the ironing!](/wp-content/media/2007/06/oh-the-ironing.jpg)
+![Oh, the ironing!]({{'/wp-content/media/2007/06/oh-the-ironing.jpg' | relative_url}})
 
 Gays seeking equal rights will no longer be allowed to congregate and demonstrate in Israel. The Knesset passed two bills through their first reading last week. If enacted into law, these bills will forcibly silence gay rallies across Israel.
 

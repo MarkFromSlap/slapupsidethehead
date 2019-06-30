@@ -25,7 +25,7 @@ tags:
 - David Cameron
 comments: []
 ---
-![Next on BBC TWO: David Cameron Kisses Another David Cameron](/wp-content/media/2011/05/david-cameron-kissing.jpg "Oh David, Oh David!")
+![Next on BBC TWO: David Cameron Kisses Another David Cameron]({{'/wp-content/media/2011/05/david-cameron-kissing.jpg' | relative_url}} "Oh David, Oh David!")
 
 British Prime Minister David Cameron will unveil a plan to ban same-sex kisses on prime-time television, according to multiple media sources. The gay kiss ban, an amendment to existing television censorship rules, is part of a Cameron-backed inquiry into stopping children from "being exposed to indecent images."
 

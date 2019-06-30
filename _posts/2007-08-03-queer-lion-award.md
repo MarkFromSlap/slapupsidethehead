@@ -25,7 +25,7 @@ tags:
 - Queer Lion Award
 comments: []
 ---
-![Queer Lion Award](/wp-content/media/2007/08/queer-lion-award.jpg)
+![Queer Lion Award]({{'/wp-content/media/2007/08/queer-lion-award.jpg' | relative_url}})
 
 The Venice Film Festival has officially introduced the "Queer Lion Award," which will be bestowed upon films that accurately portray gay characters.
 

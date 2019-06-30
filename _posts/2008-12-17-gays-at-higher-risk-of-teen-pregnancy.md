@@ -26,7 +26,7 @@ tags:
 - University of British Columbia
 comments: []
 ---
-![Hey, if Arnold Schwarzenegger can do it...](/wp-content/media/2008/12/gay-pregnancy.jpg "Hey, if Arnold Schwarzenegger can do it...")
+![Hey, if Arnold Schwarzenegger can do it...]({{'/wp-content/media/2008/12/gay-pregnancy.jpg' | relative_url}} "Hey, if Arnold Schwarzenegger can do it...")
 
 Researchers at the University of British Columbia have found that gay, lesbian, and bisexual teens are at a significantly higher risk of becoming pregnant or causing pregnancy than their straight counterparts.
 

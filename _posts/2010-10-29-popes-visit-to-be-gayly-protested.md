@@ -26,7 +26,7 @@ tags:
 - Barcelona
 comments: []
 ---
-![The pope, in his pope mobile, surrounded by kissing gay couples, shields his eyes and cries](/wp-content/media/2010/10/pope-kiss-in.jpg "Next time try goggles.")
+![The pope, in his pope mobile, surrounded by kissing gay couples, shields his eyes and cries]({{'/wp-content/media/2010/10/pope-kiss-in.jpg' | relative_url}} "Next time try goggles.")
 
 The world's most famous gay-disliker, Pope Benedict XVI, is being toted about Europe in his Popemobileâ„¢ this autumn, including a stopover in Barcelona. And while he's poping it up Spanish style, he'll be treated to quite the spectacle!
 

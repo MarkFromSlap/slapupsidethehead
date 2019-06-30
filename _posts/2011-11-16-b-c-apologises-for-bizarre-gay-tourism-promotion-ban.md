@@ -25,7 +25,7 @@ tags:
 - Tourism BC
 comments: []
 ---
-![Come to Canada, Land of Beavers and Heterosexuality!](/wp-content/media/2011/11/beavers-and-heterosexuality.jpg "That's one heterosexual beaver!")
+![Come to Canada, Land of Beavers and Heterosexuality!]({{'/wp-content/media/2011/11/beavers-and-heterosexuality.jpg' | relative_url}} "That's one heterosexual beaver!")
 
 Tourism BC has apologized after distributing a marketing brochure telling business owners in the province that they are not allowed to promote gay tourism in China.
 

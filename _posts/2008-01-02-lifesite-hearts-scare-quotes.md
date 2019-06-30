@@ -26,7 +26,7 @@ tags:
 - Scare quotes
 comments: []
 ---
-![Sneer Quotes](/wp-content/media/2008/01/sneer-quotes.jpg)
+![Sneer Quotes]({{'/wp-content/media/2008/01/sneer-quotes.jpg' | relative_url}})
 
 Bill Siksay, the New Democratic Party MP for Burnaby-Douglas, has introduced a bill that would explicitly add transgendered people to the list of identifiable minorities protected from violent hate crimes.
 

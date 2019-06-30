@@ -25,7 +25,7 @@ tags:
 - Federal Tories
 comments: []
 ---
-![Floor Crossing](/wp-content/media/2007/06/floor-xing.jpg)
+![Floor Crossing]({{'/wp-content/media/2007/06/floor-xing.jpg' | relative_url}})
 
 Joe Comuzzi, the Liberal MP who resigned his cabinet position over same-sex marriage in 2005, is now the Tories' latest member.
 

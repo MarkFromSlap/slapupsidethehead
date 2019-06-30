@@ -24,7 +24,7 @@ tags:
 - Ontario NDP
 comments: []
 ---
-![What about the toilets!?](/wp-content/media/2012/11/toilet-on-the-brain.jpg "What do you think of when you hear the phrase ")
+![What about the toilets!?]({{'/wp-content/media/2012/11/toilet-on-the-brain.jpg' | relative_url}} "What do you think of when you hear the phrase ")
 
 Let's do some quick word association. When I say "gender identity," say the first thing tha---OMG TOILETS!!!!
 

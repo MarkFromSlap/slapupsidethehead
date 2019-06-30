@@ -26,7 +26,7 @@ tags:
 - Journal of Adolescent Health
 comments: []
 ---
-![](/wp-content/media/2010/01/bullying.jpg "Alternate reality...")
+![]({{'/wp-content/media/2010/01/bullying.jpg' | relative_url}} "Alternate reality...")
 
 Gay teens are nearly twice as likely to be bullied as straight ones, according to a new study conducted out of the Nationwide Children's Hospital in Columbus, Ohio.
 

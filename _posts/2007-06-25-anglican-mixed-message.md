@@ -24,7 +24,7 @@ tags:
 - Religion
 comments: []
 ---
-![Anglican Church Flip Flops](/wp-content/media/2007/06/church-flip-flops.jpg)
+![Anglican Church Flip Flops]({{'/wp-content/media/2007/06/church-flip-flops.jpg' | relative_url}})
 
 The Canadian Anglican Church has decreed that the blessing of same-sex unions is perfectly compatible with their core doctrine. Hours later, they forbid the blessing of same-sex unions.
 

@@ -26,7 +26,7 @@ tags:
 - Michael Phair
 comments: []
 ---
-![Day of Silence](/wp-content/media/2007/03/day-of-silence.jpg)
+![Day of Silence]({{'/wp-content/media/2007/03/day-of-silence.jpg' | relative_url}})
 
 If you're in Edmonton today, you might get a sneaking suspicion that people are giving you the silent treatment.
 

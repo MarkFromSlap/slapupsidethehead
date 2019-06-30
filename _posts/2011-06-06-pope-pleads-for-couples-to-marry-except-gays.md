@@ -24,7 +24,7 @@ tags:
 - Roman Catholic Church
 comments: []
 ---
-![A now a word from your exceptionally creepy pope.](/wp-content/media/2011/06/creepy-pope.jpg "A now a message from Nosfera---I mean, the pope.")
+![A now a word from your exceptionally creepy pope.]({{'/wp-content/media/2011/06/creepy-pope.jpg' | relative_url}} "A now a message from Nosfera---I mean, the pope.")
 
 Pope Benedict XVI appeared before an audience in Croatia yesterday to plead for couples to marry instead of simply living together as common-law partners. In his anticipated homily, the pope lamented a "secularized mentality which proposes living together as preparation, or even a substitute as marriage."
 

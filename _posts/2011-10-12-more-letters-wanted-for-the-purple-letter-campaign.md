@@ -23,7 +23,7 @@ tags:
 - Ryan Clayton
 comments: []
 ---
-![A purple mailbox monster asks to be fed in both of Canada's official languages.](/wp-content/media/2011/10/purple-letters.jpg "Mailboxes may not be exactly as pictured.")
+![A purple mailbox monster asks to be fed in both of Canada's official languages.]({{'/wp-content/media/2011/10/purple-letters.jpg' | relative_url}} "Mailboxes may not be exactly as pictured.")
 
 The Purple Letter Campaign is a really great letter-writing campaign in B.C. with a simple goal: Get the government to adopt official policies to make schools safer for GLBT students and staff.
 

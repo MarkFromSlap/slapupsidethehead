@@ -23,7 +23,7 @@ tags:
 - Charter of Rights
 comments: []
 ---
-![Free Warning Sticker](/wp-content/media/2008/04/free-warning-sticker.jpg "Print it out; don\'t cut your fancy, flat-panel monitor!")
+![Free Warning Sticker]({{'/wp-content/media/2008/04/free-warning-sticker.jpg' | relative_url}} "Print it out; don\'t cut your fancy, flat-panel monitor!")
 
 Alberta Premier Ed Stelmach has announced that he will not bring Alberta's Human Rights code up to date with the rest Canada this legislative session.
 

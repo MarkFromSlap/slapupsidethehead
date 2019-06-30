@@ -21,7 +21,7 @@ tags:
 - Age of consent
 comments: []
 ---
-![Sex Education discusses the age of consent](/wp-content/media/2008/05/sex-education-age-of-consent.jpg "Kids will totally remember all this before they try it")
+![Sex Education discusses the age of consent]({{'/wp-content/media/2008/05/sex-education-age-of-consent.jpg' | relative_url}} "Kids will totally remember all this before they try it")
 
 Teenagers have some brushing up to do on their sex education after the federal Tories updated the law books this month.
 

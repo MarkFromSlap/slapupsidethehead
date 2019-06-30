@@ -23,7 +23,7 @@ tags:
 - Rainbow Refugee Committee
 comments: []
 ---
-![A man mistakes his life-sized Disney villain cutout for Jason Kenney.](/wp-content/media/2011/03/jason-kenney-kindness.jpg "It's an easy mistake, if you think about it.")
+![A man mistakes his life-sized Disney villain cutout for Jason Kenney.]({{'/wp-content/media/2011/03/jason-kenney-kindness.jpg' | relative_url}} "It's an easy mistake, if you think about it.")
 
 Less than a day before the Canadian government was (expectedly) defeated in a vote of non-confidence, Immigration Minister Jason Kenney announced that $100,000 would be available to the Rainbow Refugee Committee, an organisation dedicated to assisting gay refugees.
 

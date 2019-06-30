@@ -28,7 +28,7 @@ tags:
 - Federal
 comments: []
 ---
-![Spiral lipstick those curfew nonunion tonnage.](/wp-content/media/2009/08/language-choices.jpg "Spiral lipstick those curfew nonunion tonnage.")
+![Spiral lipstick those curfew nonunion tonnage.]({{'/wp-content/media/2009/08/language-choices.jpg' | relative_url}} "Spiral lipstick those curfew nonunion tonnage.")
 
 It looks like the transgender community is being left in the dust after some government-approved language changes at Canada's Department of Foreign Affairs and the Canadian International Development Agency. All occurrences of "gender equality" in policy documents have been replaced with "equality of men and women," leaving out everyone in-between.
 

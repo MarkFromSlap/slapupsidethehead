@@ -24,7 +24,7 @@ tags:
 - Iran
 comments: []
 ---
-![Road Slap](/wp-content/media/2007/09/road-slap.jpg)
+![Road Slap]({{'/wp-content/media/2007/09/road-slap.jpg' | relative_url}})
 
 Iran's president, Mahmoud Ahmadinejad, visited Columbia University on Monday. When pressed by a student about Iran's treatment of gays, Ahmadinejad had this to say:
 

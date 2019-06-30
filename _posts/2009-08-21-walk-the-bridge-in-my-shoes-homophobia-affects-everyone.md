@@ -26,7 +26,7 @@ tags:
 - Walk The Bridge In My Shoes
 comments: []
 ---
-![Alexandra Bridge](/wp-content/media/2009/08/alexandra-bridge-vigil.jpg "Alexandra Bridge")
+![Alexandra Bridge]({{'/wp-content/media/2009/08/alexandra-bridge-vigil.jpg' | relative_url}} "Alexandra Bridge")
 
 Twenty years ago today, Alain Brosseau was walking home from his job waiting tables at the Chateau Laurier Hotel in Ottawa when he was attacked and killed by a group of men because they thought he was gay. He wasn't.
 

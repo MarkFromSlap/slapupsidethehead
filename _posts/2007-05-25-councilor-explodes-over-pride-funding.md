@@ -25,7 +25,7 @@ tags:
 - Rob Ford
 comments: []
 ---
-![Rob Ford Explodes](/wp-content/media/2007/05/councilor-explodes.jpg)
+![Rob Ford Explodes]({{'/wp-content/media/2007/05/councilor-explodes.jpg' | relative_url}})
 
 Rob Ford, a Toronto city councilor, has once again burst an eye vessel over gay issues at a city council meeting. Here's what our delightful urban hayseed had to say before voting against the funding of Toronto's Gay Pride Parade:
 

@@ -25,7 +25,7 @@ tags:
 - Kampala
 comments: []
 ---
-![](/wp-content/media/2010/02/batshit-freakin-insane.jpg "Step 1: GO COMPLETELY AND UNNATURALLY INSANE")
+![]({{'/wp-content/media/2010/02/batshit-freakin-insane.jpg' | relative_url}} "Step 1: GO COMPLETELY AND UNNATURALLY INSANE")
 
 There was a human rights forum in Kampala late last week, with speakers largely discussing the horrifyingly anti-gay bill currently before parliament in Uganda. Otto Odonga, an MP in said parliament, decided to take the opportunity to declare that he would kill his own son if he ever found out that he were gay.
 

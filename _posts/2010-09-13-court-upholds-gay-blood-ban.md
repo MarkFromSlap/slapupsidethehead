@@ -24,7 +24,7 @@ tags:
 - Kyle Freeman
 comments: []
 ---
-![CBS spokesperson says that blood contaminants are highest in donors over the age of 1, and are therefore deferred.](/wp-content/media/2010/09/new-blood-ban-policy.jpg "Baby donations: Disturbing, but safe from STDs!")
+![CBS spokesperson says that blood contaminants are highest in donors over the age of 1, and are therefore deferred.]({{'/wp-content/media/2010/09/new-blood-ban-policy.jpg' | relative_url}} "Baby donations: Disturbing, but safe from STDs!")
 
 An Ontario court has ruled that Kyle Freeman, a gay man who was sued by Canadian Blood Services for lying on his blood donation questionnaire, was negligent and does not have the right to donate blood. Freeman indicated on his form, untruthfully, that he had not had sex with other men because answering honestly would have deferred him as a donor for life. CBS has a long-standing policy on permanently banning blood donations from any man who has had sex with another man---even once---since 1979.
 

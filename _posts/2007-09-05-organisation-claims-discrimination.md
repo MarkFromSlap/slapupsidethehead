@@ -24,7 +24,7 @@ tags:
 - Peter LaBarbara
 comments: []
 ---
-![Anti-Gay](/wp-content/media/2007/09/protester-discrimination.jpg)
+![Anti-Gay]({{'/wp-content/media/2007/09/protester-discrimination.jpg' | relative_url}})
 
 Americans For Truth Against Homosexuality, one of the United State's largest anti-gay rights organizations, had their banquet room reservation canceled by the Naperville Holiday Inn Select after it was learned what the hall was to be used for.
 

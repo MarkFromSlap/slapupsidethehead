@@ -23,7 +23,7 @@ tags:
 - Homelessness
 comments: []
 ---
-![Santa arrives with a bag.](/wp-content/media/2011/07/early-christmas-gift.jpg "This ain't gonna happen, sadly.")
+![Santa arrives with a bag.]({{'/wp-content/media/2011/07/early-christmas-gift.jpg' | relative_url}} "This ain't gonna happen, sadly.")
 
 One in four GLBT high school students in Massachusetts are classified as homeless, according to a new study from the Children's Hospital Boston, published in the American Journal of Public Health last week.
 

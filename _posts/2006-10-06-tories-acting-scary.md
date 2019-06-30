@@ -25,7 +25,7 @@ tags:
 - Defense of Religions Act
 comments: []
 ---
-![Conservatives Aren't Scary, Are They?](/wp-content/media/2006/10/not_scary.jpg)
+![Conservatives Aren't Scary, Are They?]({{'/wp-content/media/2006/10/not_scary.jpg' | relative_url}})
 
 Justice Minister [Vic Toews](http://www.slapupsidethehead.com/2006/07/justice-the-vic-toews-way/ "Justice Minister Extrodinare!") confirmed in an interview this week that the government is planning to introduce the "Defence of Religions Act." The new act would permit a civil marriage commissioner or a justice of the peace to refuse their public services to gays without consequence.
 

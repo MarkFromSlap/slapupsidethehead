@@ -23,7 +23,7 @@ tags:
 - Barack Obama
 comments: []
 ---
-![Rated G for violence, 18A for gayness.](/wp-content/media/2009/05/dont-ask-dont-tell.jpg "Rated G for violence, 18A for gayness.")
+![Rated G for violence, 18A for gayness.]({{'/wp-content/media/2009/05/dont-ask-dont-tell.jpg' | relative_url}} "Rated G for violence, 18A for gayness.")
 
 The United States Department of Defense is asking for more time before an end to the ban on gays and lesbians serving in the military is considered. U.S. president Barack Obama had campaigned to repeal the ridiculous "don't ask, don't tell" policy, which forbids gays from serving, but has since been silent on the issue.
 

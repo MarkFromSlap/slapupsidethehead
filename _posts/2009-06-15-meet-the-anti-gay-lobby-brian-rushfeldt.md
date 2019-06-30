@@ -34,7 +34,7 @@ Who'd have thought one could make an entire career out of being scared of change
 
 **Actual quote:**"It's interesting that they would have chosen Alberta to film [Brokeback Mountain] in. I think that was a deliberate move on the part of some of the homosexual activists and some of the directors from corrupt, immoral Hollywood."
 
-[caption id="attachment\_2534" align="alignright" width="200" caption="Brian Rushfeldt reacts to a Pride flag fluttering in the breeze."] ![Brian Rushfeldt reacts to a Pride flag fluttering in the breeze.](/wp-content/media/2009/06/brian-rushfeldt.jpg "File Photo")[/caption]
+[caption id="attachment\_2534" align="alignright" width="200" caption="Brian Rushfeldt reacts to a Pride flag fluttering in the breeze."] ![Brian Rushfeldt reacts to a Pride flag fluttering in the breeze.]({{'/wp-content/media/2009/06/brian-rushfeldt.jpg' | relative_url}} "File Photo")[/caption]
 
 **What he does:** Rushfeldt is a former Bible college dean and air traffic controller. He's now the executive director of the Canada Family Action Coalition, which has lobbied against (among other things) same-sex marriage, tax credits for gay-themed films, and the adding of sexual orientation to the list of minorities protected by hate crimes. Brian was instrumental in legislation that forces teachers to require parental permission before acknowledging the existence of gay marriage in classrooms.
 

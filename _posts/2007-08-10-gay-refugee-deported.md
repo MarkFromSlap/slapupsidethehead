@@ -24,7 +24,7 @@ tags:
 - Deborah Lamont
 comments: []
 ---
-![Refugee Test](/wp-content/media/2007/08/refugee-test.jpg)
+![Refugee Test]({{'/wp-content/media/2007/08/refugee-test.jpg' | relative_url}})
 
 Alvaro Orozco, the 21-year-old refugee who was denied Canadian citizenship because [he didn't look â€œgay enoughâ€](http://www.slapupsidethehead.com/2007/02/not-gay-enough/ "Should he have worked on his lisp more?") now faces immediate deportation. Alvaro originally fled Nicaragua, where homosexuality is illegal, and made his way up to Toronto, where he has been living for the past two-and-a-half years.
 

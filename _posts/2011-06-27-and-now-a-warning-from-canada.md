@@ -23,7 +23,7 @@ tags:
 - Votes
 comments: []
 ---
-![A man stares at a rainbow warning sign.](/wp-content/media/2011/06/warning-sign.jpg "I should install one of these outside my building.")
+![A man stares at a rainbow warning sign.]({{'/wp-content/media/2011/06/warning-sign.jpg' | relative_url}} "I should install one of these outside my building.")
 
 So, I hear that New York State has finally legalized same-sex marriage. That's fantastic news!
 

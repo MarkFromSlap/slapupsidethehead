@@ -26,7 +26,7 @@ tags:
 - Music
 comments: []
 ---
-![Elephant Man Performance](/wp-content/media/2007/10/elephant-man.jpg)
+![Elephant Man Performance]({{'/wp-content/media/2007/10/elephant-man.jpg' | relative_url}})
 
 The federal New Democrats have called for a boycott of Jamaican musicians Elephant Man and Sizzla. Both are currently touring in Canada, though several venues have canceled performances and refunded tickets after the nature of their lyrics, which calls for the murder of gays, was brought to their attention.
 

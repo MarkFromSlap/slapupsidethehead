@@ -25,7 +25,7 @@ tags:
 - Shane Wallis
 comments: []
 ---
-![Human Right's Complaint](/wp-content/media/2006/07/human_rights_complaint.jpg)
+![Human Right's Complaint]({{'/wp-content/media/2006/07/human_rights_complaint.jpg' | relative_url}})
 
 Well, I guess even studying history doesn't mean you won't repeat it!
 

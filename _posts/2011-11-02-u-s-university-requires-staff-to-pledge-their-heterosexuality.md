@@ -26,7 +26,7 @@ tags:
 - Shorter University
 comments: []
 ---
-![Jack is crestfallen to discover he is unable to join the](/wp-content/media/2011/11/we-hate-gays-club.jpg "Who'd have though the We Hate Gays club could be so discriminatory?")
+![Jack is crestfallen to discover he is unable to join the]({{'/wp-content/media/2011/11/we-hate-gays-club.jpg' | relative_url}} "Who'd have though the We Hate Gays club could be so discriminatory?")
 
 Shorter University, a small university in Rome, Georgia that you've likely never heard of before today, has announced that it will now be requiring each of its employees sign a "pledge of personal lifestyle." The pledge is an assertion that the employee is not gay, and does not "engage in all sexuality not in agreement with the Bible, including, but not limited to premarital sex, adultery, and homosexuality."
 

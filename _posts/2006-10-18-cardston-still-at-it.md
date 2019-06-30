@@ -28,7 +28,7 @@ tags:
 - Ed Gibbons
 comments: []
 ---
-![Mayor of Cardston](/wp-content/media/2006/10/cardston_mayor.jpg)
+![Mayor of Cardston]({{'/wp-content/media/2006/10/cardston_mayor.jpg' | relative_url}})
 
 Well, after all the recent federal news, I think it's about time I gave some attention to small town Alberta!
 

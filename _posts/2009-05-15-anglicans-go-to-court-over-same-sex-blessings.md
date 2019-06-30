@@ -23,7 +23,7 @@ tags:
 - Silly priorities
 comments: []
 ---
-![Jesus would so approve](/wp-content/media/2009/05/anglican-prayer.jpg "Jesus would so approve")
+![Jesus would so approve]({{'/wp-content/media/2009/05/anglican-prayer.jpg' | relative_url}} "Jesus would so approve")
 
 Same-sex blessings have been the epicentre of a bizarrely deep rift in the Anglican Church. Now the divisive issue has culminated in.. well, in pretty much the same way as all ridiculous issues: A court case.
 

@@ -23,7 +23,7 @@ tags:
 - Morgan Gerard
 comments: []
 ---
-![](/wp-content/media/2010/01/kraft-anthropologist.jpg "Are those real apples, or Kraft Calorie-Reduced, Apple-Flavoured Orcherene??")
+![]({{'/wp-content/media/2010/01/kraft-anthropologist.jpg' | relative_url}} "Are those real apples, or Kraft Calorie-Reduced, Apple-Flavoured Orcherene??")
 
 Dr. Morgan Gerard, an anthropologist hired by Kraft Canada to do market research, has sent the company president to Ontario to personally observe a gay family.
 

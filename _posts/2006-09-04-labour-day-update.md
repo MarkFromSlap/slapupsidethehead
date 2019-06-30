@@ -27,7 +27,7 @@ tags:
 - Labour Day
 comments: []
 ---
-![Labour Day](/wp-content/media/2006/09/labour_day.jpg)
+![Labour Day]({{'/wp-content/media/2006/09/labour_day.jpg' | relative_url}})
 
 Ah, Labour Day, the ironically named holiday where we get absolutely no work done. And, of course, this site is no exception. _However_, I've prepared this lovely **Labour Day Update** in advance, especially for you!
 

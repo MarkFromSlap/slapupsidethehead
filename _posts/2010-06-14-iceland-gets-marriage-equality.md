@@ -23,7 +23,7 @@ tags:
 - Iceland
 comments: []
 ---
-![Global equality loading screen with progress bar inching forward.](/wp-content/media/2010/06/global-equality-loading-screen.jpg "Inches forward.")
+![Global equality loading screen with progress bar inching forward.]({{'/wp-content/media/2010/06/global-equality-loading-screen.jpg' | relative_url}} "Inches forward.")
 
 Great news coming out of Iceland this month, as it became the ninth country in the world to offer full marriage equality to all its citizens! The parliamentary vote passed unanimously, 49 to 0, making Iceland join the ranks of Canada, Belgium, Netherlands, Norway, Portugal, South Africa, Spain and Sweden in legalizing same-sex marriage.
 

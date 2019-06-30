@@ -24,7 +24,7 @@ tags:
 - Maria Aragon
 comments: []
 ---
-![Maria Aragon announces her next number,](/wp-content/media/2011/04/maria-aragon-stephen-harper.jpg "To the tune of Ride of the Valkyries...")
+![Maria Aragon announces her next number,]({{'/wp-content/media/2011/04/maria-aragon-stephen-harper.jpg' | relative_url}} "To the tune of Ride of the Valkyries...")
 
 Canadian Internet sensation and all around sweetheart, Maria Aragon, was paid a visit by Stephen Harper last week to help kick start his election campaign for the Conservative party.
 

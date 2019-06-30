@@ -23,7 +23,7 @@ tags:
 - Tourism
 comments: []
 ---
-![Calgary Gay Tourism](/wp-content/media/2007/01/calgary_gay_tourism.jpg)
+![Calgary Gay Tourism]({{'/wp-content/media/2007/01/calgary_gay_tourism.jpg' | relative_url}})
 
 Ah, the power of the pink dollar! Tourism Calgary has started promoting the city to gay and lesbian tourists after the Gay and Lesbian Chamber of Commerce announced that Canada's gay travelers spend over $7 billion annually. Joe Connelly, the vice president of Tourism Calgary, was especially quick to chime in, announcing that "Calgary is very gay friendly."
 

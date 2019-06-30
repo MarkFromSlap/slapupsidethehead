@@ -23,7 +23,7 @@ tags:
 - Votes
 comments: []
 ---
-![A stained glass image depicts the sacred flogging of the homosexualicus.](/wp-content/media/2011/05/sacred-flogging.jpg "As depicted in the largest Anglican cathedral, I believe.")
+![A stained glass image depicts the sacred flogging of the homosexualicus.]({{'/wp-content/media/2011/05/sacred-flogging.jpg' | relative_url}} "As depicted in the largest Anglican cathedral, I believe.")
 
 The Anglican Church in Nova Scotia and Prince Edward Island approved a motion last week that would allow for individual churches to bless same-sex couples.
 

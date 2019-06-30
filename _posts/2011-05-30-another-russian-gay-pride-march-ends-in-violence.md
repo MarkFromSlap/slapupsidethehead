@@ -25,7 +25,7 @@ tags:
 - Moscow
 comments: []
 ---
-![Circle the date on the calendar: Annual Russian gay-bashing.](/wp-content/media/2011/05/gay-bashing-calendar.jpg "One day, it'll go well. Until then...")
+![Circle the date on the calendar: Annual Russian gay-bashing.]({{'/wp-content/media/2011/05/gay-bashing-calendar.jpg' | relative_url}} "One day, it'll go well. Until then...")
 
 For the sixth consecutive year, Moscow has forbidden a peaceful gay rights demonstration from happening within the city, and for the sixth consecutive year, equal rights advocates have defied the ban---with violent consequences.
 

@@ -27,7 +27,7 @@ tags:
 - Martha Weins
 comments: []
 ---
-![Life before the policy update was rough](/wp-content/media/2009/11/bullying-policy.jpg "Life before the policy update was rough")
+![Life before the policy update was rough]({{'/wp-content/media/2009/11/bullying-policy.jpg' | relative_url}} "Life before the policy update was rough")
 
 Good news coming out of Chilliwack, British Columbia. The Chilliwack Board of Education has voted to update their bullying and harassment policies to directly address the homophobic bullying that has been making life very difficult for gay students there.
 

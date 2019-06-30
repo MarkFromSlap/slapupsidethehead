@@ -24,7 +24,7 @@ tags:
 - Raids
 comments: []
 ---
-![Hint: It's the difference with the big red circle around it](/wp-content/media/2009/07/spot-the-difference.jpg "Hint: It's the difference with the big red circle around it")
+![Hint: It's the difference with the big red circle around it]({{'/wp-content/media/2009/07/spot-the-difference.jpg' | relative_url}} "Hint: It's the difference with the big red circle around it")
 
 Police in Fort Worth, Texas have violently raided a newly-opened gay bar on the 40<sup><small>th</small></sup> anniversary of the Stonewall riots, arresting seven people for "public intoxication" (inside a bar?) and sending one to intensive care with brain injuries.
 

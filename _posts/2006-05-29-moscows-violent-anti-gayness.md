@@ -25,7 +25,7 @@ tags:
 - John Fisher
 comments: []
 ---
-![What a lovely place...](/wp-content/media/2006/05/moscow.jpg)
+![What a lovely place...]({{'/wp-content/media/2006/05/moscow.jpg' | relative_url}})
 
 Even _moose and squirrel_ must be shaking their heads at this news. Moscow's first gay pride parade, which was to peacefully conclude by placing flowers on the Tomb of the Unknown Soldier, was met by hordes of violent protesters who started punching and kicking the participants. What's even sadder, the authorities did little to stop the violence, instead condemning the parade. The mayor and courts even banned the march, citing, well... nothing, really.
 

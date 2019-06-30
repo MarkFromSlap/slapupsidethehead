@@ -24,7 +24,7 @@ tags:
 - Google
 comments: []
 ---
-![Well, do ya? Punk?](/wp-content/media/2009/01/google-equality.jpg "Well, do ya? Punk?")
+![Well, do ya? Punk?]({{'/wp-content/media/2009/01/google-equality.jpg' | relative_url}} "Well, do ya? Punk?")
 
 Google, the California-based search giant that I've just totally wasted my first sentence even bothering to describe, is continuing to follow through with its support of same-sex marriage. The company announced on Thursday that they had officially signed an amicus brief in support of court challenges aiming to strike down the ill-conceived Proposition 8:
 

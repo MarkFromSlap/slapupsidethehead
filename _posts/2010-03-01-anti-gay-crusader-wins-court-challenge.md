@@ -24,7 +24,7 @@ tags:
 - Court decisions
 comments: []
 ---
-![](/wp-content/media/2010/02/bill-whatcott.jpg "They're $1 each, is what I'm implying here.")
+![]({{'/wp-content/media/2010/02/bill-whatcott.jpg' | relative_url}} "They're $1 each, is what I'm implying here.")
 
 Bill Whatcott, Canada's most hysterically obsessed anti-gay activist, does not have to pay $17,500 in fines after successfully challenging a Human Rights Tribunal ruling in Saskatchewan.
 

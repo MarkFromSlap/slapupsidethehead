@@ -25,7 +25,7 @@ tags:
 - Family Action Council
 comments: []
 ---
-![Gay Juice](/wp-content/media/2007/03/gay-juice.jpg)
+![Gay Juice]({{'/wp-content/media/2007/03/gay-juice.jpg' | relative_url}})
 
 Since 1983, gay men have been permanently banned from donating blood in Canada. Now [Canadian Blood Services](http://www.bloodservices.ca/ "Full of bloody goodness") has finally promised to review the policy this April.
 

@@ -23,7 +23,7 @@ tags:
 - Bill 208
 comments: []
 ---
-![A Horrible Ogre](/wp-content/media/2006/10/ogre.jpg)
+![A Horrible Ogre]({{'/wp-content/media/2006/10/ogre.jpg' | relative_url}})
 
 Ted Morton---who seems to be recovering quite nicely from [his anti-gay bill](http://www.slapupsidethehead.com/2006/08/bill-208-is-back/ "It even came back from the dead!")'s delightfully [brutal slaying](http://www.slapupsidethehead.com/2006/09/labour-day-update/ "But it'll be back again; The evil un-dead always rise again!")---has now set his sights country-wide, urging MPs to ban same-sex marriage. At a press conference last Thursday, Morton announced that "the evidence is absolutely overwhelming that same-sex marriage is not a basic human right."
 

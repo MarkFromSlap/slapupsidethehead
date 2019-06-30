@@ -22,7 +22,7 @@ tags:
 - David Popescu
 comments: []
 ---
-![That especially goes for his followers.](/wp-content/media/2009/08/god.jpg "That especially goes for his followers.")
+![That especially goes for his followers.]({{'/wp-content/media/2009/08/god.jpg' | relative_url}} "That especially goes for his followers.")
 
 David Popescu, the fringe candidate from Sudbury who [declared that all gay people should be killed](http://www.slapupsidethehead.com/2009/03/thats-not-religious-freedom/ "Pathetic.") while speaking in front of high school students at a candidate's debate, has been found guilty of inciting hatred under Canada's criminal code.
 

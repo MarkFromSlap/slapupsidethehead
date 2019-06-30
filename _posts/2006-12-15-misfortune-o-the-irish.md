@@ -24,7 +24,7 @@ tags:
 - Civil unions
 comments: []
 ---
-![Leprechaun](/wp-content/media/2006/12/leprechaun.jpg)
+![Leprechaun]({{'/wp-content/media/2006/12/leprechaun.jpg' | relative_url}})
 
 Ah, Ireland; the ol' land of ire. Well, at least that's how I imagine an Irish lesbian couple married in Canada saw it yesterday after an Irish judge ruled that their marriage doesn't count.
 

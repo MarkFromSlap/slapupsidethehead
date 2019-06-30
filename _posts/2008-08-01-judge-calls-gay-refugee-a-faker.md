@@ -24,7 +24,7 @@ tags:
 - Yves de Montigny
 comments: []
 ---
-![](/wp-content/media/2008/07/gay-proof.jpg "With that, I'm officially out of gay refugee jokes.")
+![]({{'/wp-content/media/2008/07/gay-proof.jpg' | relative_url}} "With that, I'm officially out of gay refugee jokes.")
 
 A refugee claimant in Winnipeg is set to be deported to his native Nigeria after failing to prove that he's gay. The anonymous refugee said that, as a gay man, life for him was not safe in his home country. Indeed, homosexuality is illegal in Nigeria, and violators can face lengthy prison terms.
 

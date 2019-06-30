@@ -24,17 +24,17 @@ comments: []
 Hey kids! I'm taking a vacation to celebrate my birthday this week. Fret not, though! To make up for my absence, there will be a brand new, exceptionally low-quality comic strip **every day** this week. (Now with even less effort than last year!) It's the [return of **Terrible Birthday Comics**](http://www.slapupsidethehead.com/tag/terrible-birthday-comics/)!
 
 **Monday Edition**  
- ![](/wp-content/media/2010/07/tbc2010-ice-cream.png "Based on a true story.")
+ ![]({{'/wp-content/media/2010/07/tbc2010-ice-cream.png' | relative_url}} "Based on a true story.")
 
 **Tuesday Edition**  
- ![](/wp-content/media/2010/07/tbc2010-ghost.png "Poor guy. His new house is haunted!")
+ ![]({{'/wp-content/media/2010/07/tbc2010-ghost.png' | relative_url}} "Poor guy. His new house is haunted!")
 
 **Wednesday Edition**  
- ![](/wp-content/media/2010/07/tbc2010-gay-bar.png "Now what? Oh, hey, a gay cruise!")
+ ![]({{'/wp-content/media/2010/07/tbc2010-gay-bar.png' | relative_url}} "Now what? Oh, hey, a gay cruise!")
 
 **L'Ã‰dition du jeudi**  
- ![](/wp-content/media/2010/07/tbc2010-wizard.png "Maybe they just don't speak Engli---oh, wait, they are.")
+ ![]({{'/wp-content/media/2010/07/tbc2010-wizard.png' | relative_url}} "Maybe they just don't speak Engli---oh, wait, they are.")
 
 **Friday Edition**  
- ![](/wp-content/media/2010/07/tbc2010-cinema.png "The reviews said it was explosive.")
+ ![]({{'/wp-content/media/2010/07/tbc2010-cinema.png' | relative_url}} "The reviews said it was explosive.")
 

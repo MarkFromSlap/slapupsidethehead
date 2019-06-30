@@ -24,7 +24,7 @@ tags:
 - Marines
 comments: []
 ---
-![Military report: How to Treat Gay Colleagues in the Marines. Page Two: Just like everyone else.](/wp-content/media/2011/04/gay-military-report.png "Why the report needs to be any longer than this is a mystery to me.")
+![Military report: How to Treat Gay Colleagues in the Marines. Page Two: Just like everyone else.]({{'/wp-content/media/2011/04/gay-military-report.png' | relative_url}} "Why the report needs to be any longer than this is a mystery to me.")
 
 The United States Marine Corps has produced some new training material in anticipation of the official revocation of the country's Don't Ask, Don't Tell policy later this year.
 

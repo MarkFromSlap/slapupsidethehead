@@ -20,11 +20,11 @@ categories:
 tags: []
 comments: []
 ---
-![Guest Slap](/wp-content/media/2007/09/guest-slap.jpg)
+![Guest Slap]({{'/wp-content/media/2007/09/guest-slap.jpg' | relative_url}})
 
 I'm super happy to welcome back today's guest author-slash-illustrator! Premee is an environmental specialist (which may or may not have anything to do with curating spider monkeys), currently living in Edmonton, Alberta.
 
-![Two spider monkeys steal Elton John's glasses.](/wp-content/media/2011/02/spider-monkeys.jpg "Now might be a good time for that 'stealing is bad' talk too")
+![Two spider monkeys steal Elton John's glasses.]({{'/wp-content/media/2011/02/spider-monkeys.jpg' | relative_url}} "Now might be a good time for that 'stealing is bad' talk too")
 
 An "inseparable" and hopelessly PDA-committing same-sex spider monkey couple at Drayton Park Zoo have been named Elton and David by their keepers.
 

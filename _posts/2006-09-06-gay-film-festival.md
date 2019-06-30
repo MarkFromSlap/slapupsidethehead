@@ -27,7 +27,7 @@ tags:
 - Vancouver Queer Film Festival
 comments: []
 ---
-![Film Festival](/wp-content/media/2006/09/film_festival.jpg)
+![Film Festival]({{'/wp-content/media/2006/09/film_festival.jpg' | relative_url}})
 
 The [Vancouver Queer Film Festival](http://www.outonscreen.com/ "Artsy and gay!"), a prominent LGBT arts media event, was met with great success last month, thanks very much to a standard grant from the [Department of Canadian Heritage](http://www.pch.gc.ca/index_e.cfm "Are they the ones that produce those 'heritage moments?'").
 

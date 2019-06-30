@@ -24,7 +24,7 @@ tags:
 - Religion
 comments: []
 ---
-![Leaving Canada](/wp-content/media/2007/11/leaving-canada.jpg)
+![Leaving Canada]({{'/wp-content/media/2007/11/leaving-canada.jpg' | relative_url}})
 
 Don Harvey, an Anglican bishop, has become so distraught over gays being able to marry in Canada that he has decamped the country entirely. His destination: Southern Cone, a province in South America where gay rights are presumably unlikely to advance for several hundred dozen fiscal years.
 

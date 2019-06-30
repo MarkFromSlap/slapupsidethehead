@@ -22,7 +22,7 @@ tags:
 - Hate speech
 comments: []
 ---
-![Stephen Boisson: Irresponsible](/wp-content/media/2009/12/stephen-boisson.jpg "Stephen Boisson: Irresponsible")
+![Stephen Boisson: Irresponsible]({{'/wp-content/media/2009/12/stephen-boisson.jpg' | relative_url}} "Stephen Boisson: Irresponsible")
 
 An Alberta court has ruled that a hateful, anti-gay letter published in 2002 does not violate the Alberta human rights code. The letter (which has been [republished on Xtra](http://www.xtra.ca/public/National/Homosexual_Agenda_Wicked-4014.aspx "Caution: The letter is not very nice at all.") for analysis) was penned by Stephen Boisson, an evangelical youth pastor. In it, Boisson uses violent war metaphors as a call to arms to stop "the homosexual machine" by "taking whatever steps are necessary."
 

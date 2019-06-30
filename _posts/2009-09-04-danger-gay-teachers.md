@@ -23,7 +23,7 @@ tags:
 - Peru
 comments: []
 ---
-![Hiiiiisssssss!!!!!](/wp-content/media/2009/09/vampire-teacher.jpg "Hiiiiisssssss!!!!!")
+![Hiiiiisssssss!!!!!]({{'/wp-content/media/2009/09/vampire-teacher.jpg' | relative_url}} "Hiiiiisssssss!!!!!")
 
 A new poll conducted in Peru has revealed that a substantial majority of Peruvians believe gay teachers to be "dangerous," posing an immediate threat to children.
 

@@ -24,7 +24,7 @@ tags:
 - Stephen Lewis
 comments: []
 ---
-![Where's Harper?](/wp-content/media/2006/08/wheres_harper.jpg)
+![Where's Harper?]({{'/wp-content/media/2006/08/wheres_harper.jpg' | relative_url}})
 
 The International AIDS Conference---the bi-annual event said to bring nearly 27,000 researchers, patients, journalists, and activists to the fine city of Toronto---kicked off yesterday with an evening of, well, really exciting stuff!
 

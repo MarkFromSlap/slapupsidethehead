@@ -24,7 +24,7 @@ tags:
 - Vancouver
 comments: []
 ---
-![A landlord with a cigar, monocle, and top hat, addresses his gay, potential clients:](/wp-content/media/2011/08/landlord.jpg "Yes, all Vancouver landlords dress like this.")
+![A landlord with a cigar, monocle, and top hat, addresses his gay, potential clients:]({{'/wp-content/media/2011/08/landlord.jpg' | relative_url}} "Yes, all Vancouver landlords dress like this.")
 
 Housing discrimination has always been a little difficult to measure. Yet, even in a city as diverse and vibrant as Vancouver, it's reported to happen. While it's illegal to deny a gay couple housing simply because of their sexual orientation anywhere in Canada, proving this kind of discrimination is not easy; landlords don't normally admit to such prejudice. (At least, not the cowardly ones.)
 

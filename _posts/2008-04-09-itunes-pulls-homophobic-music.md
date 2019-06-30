@@ -29,7 +29,7 @@ tags:
 - Music
 comments: []
 ---
-![iPod Murder Music](/wp-content/media/2008/04/ipod-murder-music.jpg "How trendy!")
+![iPod Murder Music]({{'/wp-content/media/2008/04/ipod-murder-music.jpg' | relative_url}} "How trendy!")
 
 iTunes Canada has removed several songs by Jamaican artists Elephant Man, TOK, and Buju Banton because they call on listeners to murder gay men. Stop Murder Music Canada and Egale called on Apple to remove the songs, which contained lyrics translating to "Join our dance and let's burn the queer man" and "Boom Boom, queers must be killed."
 

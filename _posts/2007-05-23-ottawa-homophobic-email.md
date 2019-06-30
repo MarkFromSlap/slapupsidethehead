@@ -23,7 +23,7 @@ tags:
 - Hate mail
 comments: []
 ---
-![Inappropriate Email](/wp-content/media/2007/05/inappropriate-email.jpg)
+![Inappropriate Email]({{'/wp-content/media/2007/05/inappropriate-email.jpg' | relative_url}})
 
 The city of Ottawa is investigating two of its senior employees after a vulgar joke was emailed to staff members. The email, titled "Gentlemen, it's time for your annual 'Am I Gay' self-examination," contained a series of quick tests to determine one's own sexual orientation. This included such gems as: "If you have a cat, you are a Flaaaaming homo," "if you know more than six names of colors [...] you might as well be handing out free passes to your ass," and, for those that like lollipops, "you are in training to suck El Dicko and undeniably a fag."
 

@@ -23,7 +23,7 @@ tags:
 - France
 comments: []
 ---
-![Wikipedia War](/wp-content/media/2007/11/wikipedia-war.jpg)
+![Wikipedia War]({{'/wp-content/media/2007/11/wikipedia-war.jpg' | relative_url}})
 
 Three French nationals have lost their defamation lawsuit against Wikipedia. The three sued Wikipedia for 69,000 euros each after an article about them claimed they were gay activists.
 

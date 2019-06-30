@@ -25,7 +25,7 @@ tags:
 - Silly priorities
 comments: []
 ---
-![En nomine Harperus, matrimonium gayus invitamus resurgere a moruis! Lorem ipsum!!](/wp-content/media/2011/06/dead-issue.jpg "Actual photo evidence")
+![En nomine Harperus, matrimonium gayus invitamus resurgere a moruis! Lorem ipsum!!]({{'/wp-content/media/2011/06/dead-issue.jpg' | relative_url}} "Actual photo evidence")
 
 Well, that didn't take very long, did it?
 

@@ -25,7 +25,7 @@ tags:
 - Stephen Harper
 comments: []
 ---
-![Harper's To-Do List](/wp-content/media/2006/04/harper_todo.jpg)
+![Harper's To-Do List]({{'/wp-content/media/2006/04/harper_todo.jpg' | relative_url}})
 
 Newly elected prime minister Stephen Harper (or little Bush---that adorable tyke), has vowed to introduce legislation revoking same-sex marriage in Canada. Although this bill [would be unconstitutional](http://www.cbc.ca/story/canada/national/2005/01/25/lawyer-samesex050125.html "10 out of 10 Lawyers agree!") and [only 30% of Canadians](http://www.cbc.ca/story/canadavotes2006/national/2006/01/24/vote-poll060124.html "Canadians are a smart group, sometimes") polled said they want it to happen, he's still trying his best. He's such a little trooper!
 

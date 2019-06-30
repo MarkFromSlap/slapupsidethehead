@@ -25,7 +25,7 @@ tags:
 - South Africa
 comments: []
 ---
-![UNjust](/wp-content/media/2010/11/un-just.jpg "Not that any UN declaration means much in practical terms...")
+![UNjust]({{'/wp-content/media/2010/11/un-just.jpg' | relative_url}} "Not that any UN declaration means much in practical terms...")
 
 The United Nations has voted to remove sexual orientation from a resolution against immoral executions. Sexual orientation had been on the list for the past ten years, alongside religion, ethnicity, and language as unacceptable reasons to execute civilians.
 

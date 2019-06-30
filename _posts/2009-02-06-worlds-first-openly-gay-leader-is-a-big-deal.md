@@ -24,7 +24,7 @@ tags:
 - Iceland
 comments: []
 ---
-![Cue the 70s synthesizer sting](/wp-content/media/2009/02/super-johanna.jpg "Cue the 70s synthesizer sting")
+![Cue the 70s synthesizer sting]({{'/wp-content/media/2009/02/super-johanna.jpg' | relative_url}} "Cue the 70s synthesizer sting")
 
 Last week, the world got its first openly gay leader: 66 year-old Johanna Sigurdardottir, the Prime Minister of Iceland. While a lot of people---especially the gay community---are turning somersaults over this rather spiffy milestone, I've encountered a somewhat less celebratory reaction across the web and in the traditional media, and it's not exactly what you'd expect:
 

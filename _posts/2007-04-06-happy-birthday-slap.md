@@ -21,7 +21,7 @@ tags:
 - Anniversaries
 comments: []
 ---
-![Happy Birthday Slap](/wp-content/media/2007/04/happy-birthday-slap.png)
+![Happy Birthday Slap]({{'/wp-content/media/2007/04/happy-birthday-slap.png' | relative_url}})
 
 Can you believe it, kids? Yesterday marked **Slap Upside The Head**'s first birthday!
 

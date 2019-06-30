@@ -25,7 +25,7 @@ tags:
 - Bill 208
 comments: []
 ---
-![Cold Virus Makes Me Post A Mailbag Segment](/wp-content/media/2007/02/virus-mail-bag.jpg)
+![Cold Virus Makes Me Post A Mailbag Segment]({{'/wp-content/media/2007/02/virus-mail-bag.jpg' | relative_url}})
 
 Well, folks, a gang of microscopic germs have decided it would be convenient to set up shop inside my throat. I'm feeling lousy. So, I'm posting a response from the _Slap Upside The Head Mailbag!_
 

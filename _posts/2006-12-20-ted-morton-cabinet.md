@@ -25,7 +25,7 @@ tags:
 - Members of Parliament
 comments: []
 ---
-![Alberta Cabinet](/wp-content/media/2006/12/alberta_cabinet.jpg)
+![Alberta Cabinet]({{'/wp-content/media/2006/12/alberta_cabinet.jpg' | relative_url}})
 
 Aw, isn't that just adorable? After losing the premiership race for Alberta in a distant third place, Ted Morton has been given a nice sympathy position as the Minister of Sustainable Resource Development by incoming premier Ed Stelmach.
 

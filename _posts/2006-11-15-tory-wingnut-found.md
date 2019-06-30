@@ -25,7 +25,7 @@ tags:
 - Glen Pearson
 comments: []
 ---
-![Homophobe in Sheep's Clothing](/wp-content/media/2006/11/sheeps_clothes.jpg)
+![Homophobe in Sheep's Clothing]({{'/wp-content/media/2006/11/sheeps_clothes.jpg' | relative_url}})
 
 If anyone's missing their sheepskin rug in London, Ontario, I think we have a new lead! Dave Burghardt, a Liberal campaign volunteer, was dismissed from his post yesterday after news broke about his, uh, _interesting_ blog. Dave was originally hired as the communication's director for Liberal MP candidate Glen Pearson.
 

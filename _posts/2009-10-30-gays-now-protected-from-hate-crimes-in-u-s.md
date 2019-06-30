@@ -22,7 +22,7 @@ tags:
 - Hate crimes
 comments: []
 ---
-![Yeah, I couldn't think of anything to draw...](/wp-content/media/2009/10/flag.jpg "Yeah, I couldn't think of anything to draw...")
+![Yeah, I couldn't think of anything to draw...]({{'/wp-content/media/2009/10/flag.jpg' | relative_url}} "Yeah, I couldn't think of anything to draw...")
 
 The United States has passed and signed into law _The Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act_. The new law carries stiffer penalties for anyone who intends to terrorize the entire gay community by selecting and violently assaulting gay people at random.
 

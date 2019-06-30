@@ -25,7 +25,7 @@ tags:
 - Kamelika Elias
 comments: []
 ---
-![What does that head reflector thingy do, anyway? And why don't doctors wear them anymore?](/wp-content/media/2009/02/doctor-responsibility.jpg "What does that head reflector thingy do, anyway? And why don't doctors wear them anymore?")
+![What does that head reflector thingy do, anyway? And why don't doctors wear them anymore?]({{'/wp-content/media/2009/02/doctor-responsibility.jpg' | relative_url}} "What does that head reflector thingy do, anyway? And why don't doctors wear them anymore?")
 
 A human rights complaint has been filed against a Winnipeg family doctor who allegedly refused a lesbian couple as patients.
 

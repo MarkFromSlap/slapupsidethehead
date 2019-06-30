@@ -22,7 +22,7 @@ tags:
 - Australia
 comments: []
 ---
-![A man in an airplane wonders midflight:](/wp-content/media/2012/09/australia-airplane.jpg "It's the closest thing we've got for now.")
+![A man in an airplane wonders midflight:]({{'/wp-content/media/2012/09/australia-airplane.jpg' | relative_url}} "It's the closest thing we've got for now.")
 
 I've always thought that Canada and Australia are similar in a lot of ways. It's kind of like a parallel Canada with a warmer climate, more poisonous animals, and a superior electoral system. And now, like Canada once did, it's going through some setbacks in its transition on the path to equal marriage rights.
 

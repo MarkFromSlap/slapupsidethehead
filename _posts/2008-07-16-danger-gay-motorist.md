@@ -23,7 +23,7 @@ tags:
 - Danilo Giuffrida
 comments: []
 ---
-![Gay Driver](/wp-content/media/2008/07/gay-driver.jpg "Runaway vehicles are required to hit firehydrants.")
+![Gay Driver]({{'/wp-content/media/2008/07/gay-driver.jpg' | relative_url}} "Runaway vehicles are required to hit firehydrants.")
 
 Italy's Ministry of Transport has been found guilty of discrimination after they told a gay man that he must re-take his drivers test due to a "sexual identity disturbance."
 

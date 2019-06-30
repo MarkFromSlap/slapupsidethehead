@@ -29,7 +29,7 @@ tags:
 - Evangelical Lutheran Church in America
 comments: []
 ---
-![Look out!](/wp-content/media/2009/08/jesus-tornado.jpg "Look out!")
+![Look out!]({{'/wp-content/media/2009/08/jesus-tornado.jpg' | relative_url}} "Look out!")
 
 Looks like there's even more evidence that us gays control the weather! A Minnesota pastor has announced that a tornado which terrorized Minneapolis last week is the direct consequence of an effort to allow the Evangelical Lutheran Church in America to bless celibate, gay couples who vow to remain "chaste, monogamous, and lifelong."
 

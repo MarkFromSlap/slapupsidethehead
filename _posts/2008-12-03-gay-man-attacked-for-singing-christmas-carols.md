@@ -25,7 +25,7 @@ tags:
 - Christmas
 comments: []
 ---
-![](/wp-content/media/2008/12/gay-christmas-carol.jpg "One of our sneakiest gay agenda successes...")
+![]({{'/wp-content/media/2008/12/gay-christmas-carol.jpg' | relative_url}} "One of our sneakiest gay agenda successes...")
 
 A young man has been arrested in Vancouver after punching a gay man in the face for singing Christmas carols.
 

@@ -25,7 +25,7 @@ tags:
 - Michael Coren
 comments: []
 ---
-![Michael Coren declares:](/wp-content/media/2010/11/michael-coren.jpg "Ann Coulter Wannabe.")
+![Michael Coren declares:]({{'/wp-content/media/2010/11/michael-coren.jpg' | relative_url}} "Ann Coulter Wannabe.")
 
 Last week, CBC employees [released their own contribution to the It Gets Better Project](http://www.cbc.ca/arts/media/blogs/popculture/2010/11/it-gets-better-cbc-style.html "Go check it out!"), encouraging bullied gay teens to stick through the tough years and reap the rewards that life offers afterwards. Like most contributions to the project, it's heartwarming and very badly needed.
 

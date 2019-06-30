@@ -24,7 +24,7 @@ tags:
 - Bill 44
 comments: []
 ---
-![In-flight movie: Return of the Killer Ironing Board](/wp-content/media/2009/06/alberta-arrival.jpg "In-flight movie: Return of the Killer Ironing Board")
+![In-flight movie: Return of the Killer Ironing Board]({{'/wp-content/media/2009/06/alberta-arrival.jpg' | relative_url}} "In-flight movie: Return of the Killer Ironing Board")
 
 The Alberta legislature has passed a bill that requires teachers to receive parental permission before discussing or acknowledging topics of sexual orientation in the curriculum, or else face being brought before the Human Rights Commission for violating parental rights.
 

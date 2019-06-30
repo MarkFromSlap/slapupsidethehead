@@ -23,7 +23,7 @@ tags:
 - American Library Association
 comments: []
 ---
-![Penguin Hate](/wp-content/media/2008/05/penguin-hate.jpg "Why must people hate penguins so?")
+![Penguin Hate]({{'/wp-content/media/2008/05/penguin-hate.jpg' | relative_url}} "Why must people hate penguins so?")
 
 The American Library Association released their annual list of most challenged books on Tuesday. Topping the list for the second consecutive year is _And Tango Makes Three_, a true story about a couple of male penguins at the New York Central Park Zoo.
 

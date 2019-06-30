@@ -32,14 +32,14 @@ comments: []
 
 ## Friday's Tidbits
 
-![A cat walks on the moon.](/wp-content/media/2011/07/astro-cat.jpg "Astro Cat")
+![A cat walks on the moon.]({{'/wp-content/media/2011/07/astro-cat.jpg' | relative_url}} "Astro Cat")
 
 - An interesting story about Gay parenting: [Glad to be gay parents](http://www.independent.co.uk/life-style/health-and-families/features/glad-to-be-gay-parents-2306947.html) [The Independent] (Hat tip to Slap reader Morgan.)
 - Slap has been mentioned on the anti-gay megasite, Lifesite: [Canada's opposition NDP call for removal of charitable status for â€˜ex-gay' groups](http://www.lifesitenews.com/?/news/canadas-opposition-ndp-call-for-removal-of-charitable-status-for-ex-gay-gro) [Lifesite] (Hat tip to Slap reader Gregory.)
 
 ## Monday's Tidbits
 
-![President cat.](/wp-content/media/2011/07/president-cat.jpg "MEOW!")
+![President cat.]({{'/wp-content/media/2011/07/president-cat.jpg' | relative_url}} "MEOW!")
 
 - Rob Ford's right-hand man, Giorgio Mammoliti, has [failed in his attempt to de-fund Toronto Pride](http://www.xtra.ca/public/Toronto/Mammoliti_fails_in_attempt_to_defund_Pride_Toronto-10484.aspx) after creepily filming parts of the Dyke March searching for participation from a banned group. [Xtra] (Hat tip to Slap reader Mark.)
 - South African police are [refusing to call the murder of Noxolo Nogwaza a hate crime](http://www.care2.com/causes/activists-say-murder-of-lesbian-in-south-africa-a-hate-crime.html), despite ample evidence that it is. [Care 2] (Hat tip to Slap reader Rachel.)
@@ -47,7 +47,7 @@ comments: []
 
 ## Wednesday's Tidbits
 
-![Catzilla!](/wp-content/media/2011/07/cat-zilla.jpg "Catzilla!")
+![Catzilla!]({{'/wp-content/media/2011/07/cat-zilla.jpg' | relative_url}} "Catzilla!")
 
 - Gay blood bans are pretty ridiculous, but now blood donation clinics are, apparently, [turning away heterosexual donors if they _seem_ gay](http://news.yahoo.com/blogs/lookout/man-says-rejected-blood-bank-seeming-gay-151627659.html). [Yahoo! News] (Hat tip to Slap reader Caleb.)
 - A lesbian couple has been [kicked out of a museum for holding hands](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/07/19/BA7N1KBVVI.DTL) by a security guard. In San Francisco. At an exhibit by a lesbian artist. Yeah. [San Francisco Chronicle]

@@ -24,7 +24,7 @@ tags:
 - Qu&Atilde;&copy;bec City
 comments: []
 ---
-![Quebec Community Support](/wp-content/media/2007/07/quebec-community.jpg)
+![Quebec Community Support]({{'/wp-content/media/2007/07/quebec-community.jpg' | relative_url}})
 
 Quebec City's gay community is assembling to denounce homophobia after a local man was severely beaten. The 24-year-old man, who wishes to be known only as Philippe, said four men followed him after he emerged from Le Drague, a gay bar. After being called derogatory names, he was pushed to the ground and kicked several times. Eight screws were required to reassemble his jaw.
 

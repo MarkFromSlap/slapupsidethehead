@@ -24,7 +24,7 @@ tags:
 - Manitoba NDPs
 comments: []
 ---
-![And I speak for all taxpayers, too.](/wp-content/media/2009/08/transgender-tax-issue.jpg "And I speak for all taxpayers, too.")
+![And I speak for all taxpayers, too.]({{'/wp-content/media/2009/08/transgender-tax-issue.jpg' | relative_url}} "And I speak for all taxpayers, too.")
 
 Not long after Alberta's decision to [eliminate all forms of gender reassignment surgery](http://www.slapupsidethehead.com/2009/04/alberta-fixes-the-economy/ "Thus solving the economy for everyone.") from its public health care, Manitoba has followed suit, calling it an "unnecessary treatment" and citing savings for the economy. The surgery would affect only an estimated 20 Manitobans per year.
 

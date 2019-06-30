@@ -25,7 +25,7 @@ tags:
 - Irina Shipitko
 comments: []
 ---
-![Nuff said.](/wp-content/media/2009/10/russian-marriage.jpg "Nuff said.")
+![Nuff said.]({{'/wp-content/media/2009/10/russian-marriage.jpg' | relative_url}} "Nuff said.")
 
 A Russian court has blocked what would have been the country's first same-sex marriage. Irina Fedotova-Fet and Irina Shipitko were told that they couldn't get married like other couples because of their sex. Shipitko has now told the media that they will fight the decision:
 

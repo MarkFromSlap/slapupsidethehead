@@ -23,7 +23,7 @@ tags:
 - Harold Camping
 comments: []
 ---
-![A man stands in a destroyed city, lamenting:](/wp-content/media/2011/05/end-of-the-world.jpg "Oh well. Earth was fun while it lasted.")
+![A man stands in a destroyed city, lamenting:]({{'/wp-content/media/2011/05/end-of-the-world.jpg' | relative_url}} "Oh well. Earth was fun while it lasted.")
 
 Sad news, everyone. Harold Camping, an 89 year old pastor and expert on the Christian bible, has discovered the date of the rapture. And it's this Saturday, May 21<sup><small>st</small></sup>.
 

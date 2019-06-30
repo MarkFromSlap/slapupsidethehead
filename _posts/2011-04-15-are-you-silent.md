@@ -21,7 +21,7 @@ tags:
 - Day of Silence
 comments: []
 ---
-![DOS: Disk Operating System (official sponsor of the Day of Silence)](/wp-content/media/2011/04/dos.jpg "C:\> CD DAYOFS~1")
+![DOS: Disk Operating System (official sponsor of the Day of Silence)]({{'/wp-content/media/2011/04/dos.jpg' | relative_url}} "C:\> CD DAYOFS~1")
 
 Today is the [Day of Silence](http://www.dayofsilence.org/ "Help break the silence by using it."), an annual awareness event aimed at eliminating homophobic bullying. The daily name-calling, harassment, and bullying that GLBT students experience creates fear---and when afraid to speak out about it, they end up silenced. Participants in today's event choose not to speak throughout the day (except in class---the intent isn't to be disruptive) as a way to mirror this silence and get people to think about the voices they aren't hearing on a daily basis.
 

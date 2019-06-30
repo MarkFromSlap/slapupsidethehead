@@ -25,7 +25,7 @@ tags:
 - Sharon Farrell
 comments: []
 ---
-![Answering Machine](/wp-content/media/2007/08/answering-machine.jpg)
+![Answering Machine]({{'/wp-content/media/2007/08/answering-machine.jpg' | relative_url}})
 
 Sharon Laura Farrell of Nova Scotia was baffled by the abusive, homophobic telephone calls she received this week. That is, until she discovered that she had the same name as a Truro woman who organized a gay rights rally on Monday. The rally was held in protest of [Mayor Bill Wills' comparison of gays to pedophiles](http://www.slapupsidethehead.com/2007/08/gay-pride-flag/ "Ignorant.") after the town voted to not fly a gay pride flag at city hall.
 

@@ -25,7 +25,7 @@ tags:
 - Malawi
 comments: []
 ---
-![Figure 1-A: Riding a bike; An unnatural act.](/wp-content/media/2010/05/unnatural-act.jpg "Bike riding does not happen in nature. It is an affront to morality!")
+![Figure 1-A: Riding a bike; An unnatural act.]({{'/wp-content/media/2010/05/unnatural-act.jpg' | relative_url}} "Bike riding does not happen in nature. It is an affront to morality!")
 
 Steven Monjeza and Tiwonge Chimbalanga, a gay couple in their twenties have been found guilty of "unnatural acts" in a Malawian court yesterday. The two were arrested in late December while celebrating their recent engagement with a party. Now that the verdict has been delivered, they could face a prison term of up to 14 years.
 

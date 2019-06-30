@@ -22,7 +22,7 @@ tags:
 - Canada Revenue Agency
 comments: []
 ---
-![Gay Taxes](/wp-content/media/2006/04/canada_revenue_agency.jpg)
+![Gay Taxes]({{'/wp-content/media/2006/04/canada_revenue_agency.jpg' | relative_url}})
 
 Well, today is the last day to file your 2005 taxes in Canada. **But** , for the first time in history, the astonishingly dull _Income Tax Act_ has been amended to recognize married same-sex couples! Additionally, all references to "natural parent" have been removed, so adoptive couples' children will be recognized equally, too.
 

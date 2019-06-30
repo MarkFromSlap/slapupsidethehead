@@ -24,7 +24,7 @@ tags:
 - Vic Toews
 comments: []
 ---
-![Destruction of the Family](/wp-content/media/2006/09/family_destroyer.jpg)
+![Destruction of the Family]({{'/wp-content/media/2006/09/family_destroyer.jpg' | relative_url}})
 
 Ah, mid-September. That time of year when all of our gleeful politicians return to that magical parliament building in Ottawa and discuss matters at the forefront of the Canadian consciousness. Now, what issue do you suppose will be one of the earliest priorities this autumn?
 

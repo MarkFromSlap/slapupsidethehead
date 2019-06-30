@@ -22,7 +22,7 @@ tags:
 - Votes
 comments: []
 ---
-![We at the UN are pleased to release this list of places you must flee from immediately.](/wp-content/media/2011/06/un-declaration.jpg "As well as a list of places to move to. How convenient!")
+![We at the UN are pleased to release this list of places you must flee from immediately.]({{'/wp-content/media/2011/06/un-declaration.jpg' | relative_url}} "As well as a list of places to move to. How convenient!")
 
 The United Nations, for the first time in history, endorsed the equal rights of GLBT people worldwide, condemning any country who discriminates or harms people for their sexual orientation.
 

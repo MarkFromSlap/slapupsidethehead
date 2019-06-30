@@ -26,7 +26,7 @@ tags:
 - Queers Against Israeli Apartheid
 comments: []
 ---
-![Queers Against Llamas](/wp-content/media/2011/03/queers-against-llamas.jpg "My one wish is that this sign actually appears at some point during the Toronto Pride parade.")
+![Queers Against Llamas]({{'/wp-content/media/2011/03/queers-against-llamas.jpg' | relative_url}} "My one wish is that this sign actually appears at some point during the Toronto Pride parade.")
 
 Rob Ford, the mayor of Toronto, has announced that he will deny $100,000 in funding for this year's Pride Week celebrations---_unless_ the parade portion of the festival excludes a group called Queers Against Israeli Apartheid from marching.
 

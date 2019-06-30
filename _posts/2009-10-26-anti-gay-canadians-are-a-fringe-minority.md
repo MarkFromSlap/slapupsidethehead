@@ -22,7 +22,7 @@ tags:
 - Surveys
 comments: []
 ---
-![Doug from Trading Spaces and Moving Up seems angry today, doesn't he?](/wp-content/media/2009/10/loudest.jpg "Doug from Trading Spaces and Moving Up seems angry today, doesn't he?")
+![Doug from Trading Spaces and Moving Up seems angry today, doesn't he?]({{'/wp-content/media/2009/10/loudest.jpg' | relative_url}} "Doug from Trading Spaces and Moving Up seems angry today, doesn't he?")
 
 Last week, I said that people who hold anti-gay views were a small and shrinking minority. Behind their loud and obnoxious rally cries, there just isn't any real support.
 

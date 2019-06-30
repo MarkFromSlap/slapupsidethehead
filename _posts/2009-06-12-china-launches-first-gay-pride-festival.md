@@ -23,7 +23,7 @@ tags:
 - Shanghai
 comments: []
 ---
-![Gay-Tor, The bigot-eating dragon](/wp-content/media/2009/06/chinese-pride.jpg "Gay-Tor, The bigot-eating dragon")
+![Gay-Tor, The bigot-eating dragon]({{'/wp-content/media/2009/06/chinese-pride.jpg' | relative_url}} "Gay-Tor, The bigot-eating dragon")
 
 Shanghai's first ever Gay Pride festival is going on this week, and while not as spectacular as other Pride events elsewhere on the globe, the festival is the first of its kind in China.
 

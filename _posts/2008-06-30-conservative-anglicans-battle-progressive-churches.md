@@ -22,7 +22,7 @@ tags:
 - Anglicans
 comments: []
 ---
-![Gospel fight](/wp-content/media/2008/06/gospel-fight.jpg "Bible Fight!")
+![Gospel fight]({{'/wp-content/media/2008/06/gospel-fight.jpg' | relative_url}} "Bible Fight!")
 
 Conservative leaders of the Anglican church have resolved to create their own council of bishops to separate themselves symbolically from more progressive congregations. Their central issue: gay blessings.
 

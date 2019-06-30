@@ -25,7 +25,7 @@ tags:
 - Ivy Chan
 comments: []
 ---
-![It's 1993](/wp-content/media/2007/01/1993.jpg)
+![It's 1993]({{'/wp-content/media/2007/01/1993.jpg' | relative_url}})
 
 Richmond Hill High School will be getting a Gay Straight Alliance after all! That, according to a great little email I received from Maya, one of the students who was fighting for the support group's formation:
 

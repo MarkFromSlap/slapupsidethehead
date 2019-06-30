@@ -24,7 +24,7 @@ tags:
 - Civil marriage commissioners
 comments: []
 ---
-![Draft Religious Freedom Bill](/wp-content/media/2007/04/draft-bill.jpg)
+![Draft Religious Freedom Bill]({{'/wp-content/media/2007/04/draft-bill.jpg' | relative_url}})
 
 It's... It's _aliiiiiiiive!_ Well, almost.
 

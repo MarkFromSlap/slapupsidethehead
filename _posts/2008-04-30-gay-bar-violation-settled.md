@@ -23,7 +23,7 @@ tags:
 - Audrey Vachon
 comments: []
 ---
-![Insecure bar owner](/wp-content/media/2008/04/insecure-bar-owner.jpg "They're ruining everything! With their breasts and... nice-smelling hair...")
+![Insecure bar owner]({{'/wp-content/media/2008/04/insecure-bar-owner.jpg' | relative_url}} "They're ruining everything! With their breasts and... nice-smelling hair...")
 
 A straight woman has settled her [human rights complaint against Bar Le Stud](http://www.slapupsidethehead.com/2007/06/woman-kicked-out-of-gay-bar/ "It's not hypocritical at all, I assure you..."), a Montréal gay bar.
 

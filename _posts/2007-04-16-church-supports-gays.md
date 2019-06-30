@@ -24,7 +24,7 @@ tags:
 - Terrance Finlay
 comments: []
 ---
-![Church Bulletin](/wp-content/media/2007/04/church-bulletin.jpg)
+![Church Bulletin]({{'/wp-content/media/2007/04/church-bulletin.jpg' | relative_url}})
 
 [Scott Tribe](http://scottdiatribe.gluemeat.com/2007/04/15/us-branch-of-anglican-church-takes-a-stand-for-gay-rights-canada-expected-to-follow/) writes in with an interesting story: The U.S. Episcopal Church has voted to face expulsion from the Anglican hierarchy rather than reject gay rights. The Anglican Church [issued an ultimatum](http://www.slapupsidethehead.com/2007/02/church-threatened-shutdown/) in February for what it called "errant" churches, which support gay clergy and bless same-sex marriages.
 

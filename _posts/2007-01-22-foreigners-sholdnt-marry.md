@@ -23,7 +23,7 @@ tags:
 - Brian Rushfeldt
 comments: []
 ---
-![Brian Rushfeldt Scolds Us All](/wp-content/media/2007/01/rushfeldt_scolds.jpg)
+![Brian Rushfeldt Scolds Us All]({{'/wp-content/media/2007/01/rushfeldt_scolds.jpg' | relative_url}})
 
 Foreigners should not be allowed to marry in Canada. At least, that's what Brian Rushfeldt of the Canadian Family Action Coalition announced to the press late last week. "To me, it's unconscionable," he stated. "Why is Canada issuing marriage licences to people from another country? We wouldn't issue a business licence to a company that had no intention of staying in the country."
 

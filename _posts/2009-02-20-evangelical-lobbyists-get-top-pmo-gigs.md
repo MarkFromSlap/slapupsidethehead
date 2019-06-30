@@ -25,7 +25,7 @@ tags:
 - Paul Wilson
 comments: []
 ---
-![It's beautifully unjust, isn't it?](/wp-content/media/2009/02/stained-glass-ceiling.jpg "It's beautifully unjust, isn't it?")
+![It's beautifully unjust, isn't it?]({{'/wp-content/media/2009/02/stained-glass-ceiling.jpg' | relative_url}} "It's beautifully unjust, isn't it?")
 
 The Prime Minister's office has shuffled some top positions this week, and the appointments are raising some eyebrows.
 

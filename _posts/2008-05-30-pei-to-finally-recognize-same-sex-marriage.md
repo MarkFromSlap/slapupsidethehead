@@ -22,7 +22,7 @@ tags:
 - Prince Edward Island
 comments: []
 ---
-![Oblivious PEI](/wp-content/media/2008/05/obliviousness.jpg "Obliviousness can be so adorable")
+![Oblivious PEI]({{'/wp-content/media/2008/05/obliviousness.jpg' | relative_url}} "Obliviousness can be so adorable")
 
 No, that's not an old headline or a misprint. Prince Edward Island, the place that brought us [the book](http://en.wikipedia.org/wiki/Anne_of_green_gables "Would it be hypocritical if I called this book ") that inspired just about every gay bed and breakfast out there, is _finally_ updating the law books to officially recognize same-sex marriages.
 

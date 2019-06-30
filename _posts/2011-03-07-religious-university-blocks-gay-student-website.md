@@ -27,7 +27,7 @@ tags:
 - HU Queer Press
 comments: []
 ---
-![A man angrily screams,](/wp-content/media/2011/03/censorship.jpg "Not as dramatic as I had hoped...")
+![A man angrily screams,]({{'/wp-content/media/2011/03/censorship.jpg' | relative_url}} "Not as dramatic as I had hoped...")
 
 It shouldn't come as a surprise that gay people, from all different walks of life, are everywhere, including some not-so-gay-friendly places. Take, for example, Christian universities in the middle of Arkansas. But if you still demand proof, visit this heart-tuggingly amazing website by the gay students at Harding University: [HU Queer Press](http://huqueerpress.com/ "Amazing, inspiring stuff. With a great design to boot!").
 

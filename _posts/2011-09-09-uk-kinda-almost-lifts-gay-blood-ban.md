@@ -23,7 +23,7 @@ tags:
 - Bans
 comments: []
 ---
-![A vampire lunges through a doorway while a man remarks:](/wp-content/media/2011/09/vampire-waiting.jpg "He set a reminder on his smart phone calendar, you see.")
+![A vampire lunges through a doorway while a man remarks:]({{'/wp-content/media/2011/09/vampire-waiting.jpg' | relative_url}} "He set a reminder on his smart phone calendar, you see.")
 
 The United Kingdom has removed its lifetime ban on blood donations from gay men, replacing it with a one year deferral since the last time a donor has had sex with someone of the same gender.
 

@@ -24,7 +24,7 @@ tags:
 - Toronto
 comments: []
 ---
-![Alvaro Orozco for Senate](/wp-content/media/2011/05/alvaro-for-senate.jpg "It's the only way...")
+![Alvaro Orozco for Senate]({{'/wp-content/media/2011/05/alvaro-for-senate.jpg' | relative_url}} "It's the only way...")
 
 Alvaro Orozco, a gay Nicaraguan who unsuccessfully attempted a refugee claim in 2007, was arrested late last week in Toronto while waiting for a bus on his way out to dinner with a friend. He's now being held in detention without bail, and can be deported at any moment---unless he gets some serious community help.
 

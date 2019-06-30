@@ -21,7 +21,7 @@ tags:
 - Brigitte Bardot
 comments: []
 ---
-![Brigitte Bardot](/wp-content/media/2006/04/brigitte_bardot.jpg)
+![Brigitte Bardot]({{'/wp-content/media/2006/04/brigitte_bardot.jpg' | relative_url}})
 
 Aging sex kitten [Brigitte Bardot](http://www.imdb.com/name/nm0000003/ "IMDB Entry for Brigitte") has visited Canada to protest the annual seal hunt. Bienvenue au Canada, Brigitte! It's a pleasure to have you here again.
 

@@ -22,7 +22,7 @@ tags:
 - Coalition gaie et lesbienne du Qu&Atilde;&copy;bec
 comments: []
 ---
-![UN Consultive Status](/wp-content/media/2007/07/consultive-status.jpg)
+![UN Consultive Status]({{'/wp-content/media/2007/07/consultive-status.jpg' | relative_url}})
 
 After being initially [rejected](http://www.slapupsidethehead.com/2007/02/un-rejects-gays/), the [Coalition gaie et lesbienne du Québec](http://www.cglq.org/ "Mille mercis") (CGLQ) has finally been granted consultive status at the UN.
 
@@ -32,7 +32,7 @@ Alongside CGLQ, [The Swedish Federation for Lesbian, Gay, Bisexual and Transgend
 
 Say, what do they have against the Swedish?
 
-![Swedish Box Store of some kind...](/wp-content/media/2007/07/swedish-store.jpg)
+![Swedish Box Store of some kind...]({{'/wp-content/media/2007/07/swedish-store.jpg' | relative_url}})
 
 - [UN reverses rejection of Quebec gay rights group](http://www.canada.com/montrealgazette/news/story.html?id=3a1a173d-1160-4cb1-ae5a-669ab5c116ff) [Montréal Gazette]
 - [Coalition set for role on world state](http://www.canada.com/montrealgazette/news/story.html?id=51e64969-4f0c-4908-bb69-529e46f3ac54&k=58973) [Montréal Gazette]

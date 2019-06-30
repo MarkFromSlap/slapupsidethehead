@@ -26,7 +26,7 @@ tags:
 - Alice Anne LeMay
 comments: []
 ---
-![A student suggests a new club, the](/wp-content/media/2011/01/god-loving-blackboard-teamsters.jpg "How about: ")
+![A student suggests a new club, the]({{'/wp-content/media/2011/01/god-loving-blackboard-teamsters.jpg' | relative_url}} "How about: ")
 
 Gay-Straight Alliances---student-run support groups---are recommended by the Ontario Ministry of Education and the American Psychological Association to provide visible support to gay youth, encourage safer schools, and help curb recent gay teen suicides. The Halton Catholic School District School Board isn't too fond of them, however. They've forbidden the formation of GSAs in their schools.
 

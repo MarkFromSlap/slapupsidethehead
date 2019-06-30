@@ -26,7 +26,7 @@ tags:
 - Religion
 comments: []
 ---
-![Another Priest Suspended](/wp-content/media/2007/10/another-priest-suspension.jpg)
+![Another Priest Suspended]({{'/wp-content/media/2007/10/another-priest-suspension.jpg' | relative_url}})
 
 OK, I've lost count.
 

@@ -24,7 +24,7 @@ tags:
 - Courts
 comments: []
 ---
-![New Judge](/wp-content/media/2006/09/new_judge.jpg)
+![New Judge]({{'/wp-content/media/2006/09/new_judge.jpg' | relative_url}})
 
 So what does a right-wing government do when 8 provincial courts independently rule that a ban on same-sex marriage is unconstitutional? Why, it appoints new judges, of course! And that's exactly what our prime minister did this week. And, surprisingly, it's not the appointment of a former president of the Conservative party into the Quebec high court that's drawing the most criticism---it's the new Ontario Judge.
 

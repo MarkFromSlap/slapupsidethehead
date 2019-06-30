@@ -22,7 +22,7 @@ tags:
 - Hospitals
 comments: []
 ---
-![A man wonders what kind of doctor would forbid him from visiting his partner in the hospital. In the corner, a picture of Doctor Evil hangs on the wall.](/wp-content/media/2011/01/doctor-evil.jpg "For those unfamiliar with Mike Myers characters and any sort of pop culture, the man pictured in the corner is Stephen Harper.")
+![A man wonders what kind of doctor would forbid him from visiting his partner in the hospital. In the corner, a picture of Doctor Evil hangs on the wall.]({{'/wp-content/media/2011/01/doctor-evil.jpg' | relative_url}} "For those unfamiliar with Mike Myers characters and any sort of pop culture, the man pictured in the corner is Stephen Harper.")
 
 The United States effected new regulations on Tuesday that finally allow gay people to have the hospital visitation rights as straight partners.
 

@@ -26,7 +26,7 @@ tags:
 - Jim Corcoran
 comments: []
 ---
-![Not that I'm calling the Church zombies or anything...](/wp-content/media/2009/07/society-of-flesh-eating-zombies.jpg "Not that I'm calling the church zombies, or anything.")
+![Not that I'm calling the Church zombies or anything...]({{'/wp-content/media/2009/07/society-of-flesh-eating-zombies.jpg' | relative_url}} "Not that I'm calling the church zombies, or anything.")
 
 Here's a neat lesson to start off your Friday: If you want to join a notoriously unwelcoming community, maybe try not to be surprised when you feel unwelcomed.
 

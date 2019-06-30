@@ -25,7 +25,7 @@ tags:
 - Spain
 comments: []
 ---
-![Activity Page](/wp-content/media/2006/07/activity_page.jpg)
+![Activity Page]({{'/wp-content/media/2006/07/activity_page.jpg' | relative_url}})
 
 Pope Benedict visited Spain over the weekend. His mission: to "protect the family." And, as we all know by now, this actually means something more along the lines of "attack and malign the gays."
 

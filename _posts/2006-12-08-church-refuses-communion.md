@@ -29,7 +29,7 @@ tags:
 - Jack Murphy
 comments: []
 ---
-![Billy The Roman Catholic Commuion Wafer](/wp-content/media/2006/12/communion_wafer.jpg)
+![Billy The Roman Catholic Commuion Wafer]({{'/wp-content/media/2006/12/communion_wafer.jpg' | relative_url}})
 
 An anti-gay archbishop? _Unthinkable!_ Well, OK, maybe not.
 

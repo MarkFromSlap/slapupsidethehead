@@ -25,7 +25,7 @@ tags:
 - Dyke marches
 comments: []
 ---
-![Dyke March Poster Vandal](/wp-content/media/2007/08/poster-vandal.jpg)
+![Dyke March Poster Vandal]({{'/wp-content/media/2007/08/poster-vandal.jpg' | relative_url}})
 
 An Ottawa vandal has been searching out and defacing posters promoting the city's annual Dyke March. The posters, which encouraged people to support the march and attend the family BBQ and concert afterwards, had crosses scratched over faces in black marker, accompanied by the words "sin" and "repent."
 

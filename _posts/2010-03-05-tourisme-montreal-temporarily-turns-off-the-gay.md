@@ -24,7 +24,7 @@ tags:
 - Tourisme Montr&Atilde;&copy;al
 comments: []
 ---
-![](/wp-content/media/2010/03/gay-switch.jpg "Rural towns would have one of these, if they had a gay village.")
+![]({{'/wp-content/media/2010/03/gay-switch.jpg' | relative_url}} "Rural towns would have one of these, if they had a gay village.")
 
 James over at [Gay Persons of Color](http://gay-persons-of-color.blogspot.com/ "Another awesome Montréal gay blog") noticed [something odd](http://gay-persons-of-color.blogspot.com/2010/03/tourism-blog-montreal-buzz-turns-off.html "Something very odd indeed") the other day. Tourisme Montréal, which recently launched a new promotional blog called [The Montréal Buzz](http://www.tourisme-montreal.org/blog/ "It's actually pretty great, despite...") to replace the five separate ones they started last summer, had added an on/off switch to the top of their page labelled "LGBT Content." It was off by default.
 
@@ -44,7 +44,7 @@ Personally, I'd recommend fairer category filters that don't single out any comm
 
 Whatever they end up doing now, I'm happy to see that Tourisme Montréal recognized their mistake and got rid of the switch so quickly. In fact, to facilitate the matter, it has been moved here. I don't think I'll put it at the top of the page, but it'll be well taken care of, I promise!
 
-[![Gay toggle button](/wp-content/media/2010/03/slap-gay-off-switch.png "Click to turn off gay content.")](/wp-content/media/2010/03/lgbt-off.html "Click to turn off gay content.")
+[![Gay toggle button]({{'/wp-content/media/2010/03/slap-gay-off-switch.png' | relative_url}} "Click to turn off gay content.")](/wp-content/media/2010/03/lgbt-off.html "Click to turn off gay content.")
 
 <small>A tremendous hat tip to James over at Gay Persons of Color for alerting me to the story.<br>
 </small>

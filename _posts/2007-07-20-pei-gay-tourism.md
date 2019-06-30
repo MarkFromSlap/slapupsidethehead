@@ -22,7 +22,7 @@ tags:
 - Prince Edward Island
 comments: []
 ---
-![PEI's Gay Tourism Models](/wp-content/media/2007/07/pei-tourism-models.jpg)
+![PEI's Gay Tourism Models]({{'/wp-content/media/2007/07/pei-tourism-models.jpg' | relative_url}})
 
 Prince Edward Island's tourism department is searching for gay couples to model for some upcoming advertisements designed to bring in the ol' pink tourism dollars. Like [Toronto](http://www.slapupsidethehead.com/2007/06/toronto-wants-more-gays/ "I've been there once; it was nice.") and [Calgary](http://www.slapupsidethehead.com/2007/01/calgary-gay-friendly/ "Not gay friendly, incidentally")'s recent campaigns, PEI is trying to market itself as a gay-friendly vacation spot. One small hitch: Potential gay tourists may not have forgotten the nationally-reported incident in which a couple was [turned away](http://www.cbc.ca/news/story/2001/05/23/peibnb20010523.html) from their reserved bed and breakfast after the owner discovered they were gay.
 

@@ -26,7 +26,7 @@ tags:
 - St. John&acirc;&euro;&trade;s Greek Orthodox Church
 comments: []
 ---
-![Monkey Genie](/wp-content/media/2006/11/monkey_genie.jpg)
+![Monkey Genie]({{'/wp-content/media/2006/11/monkey_genie.jpg' | relative_url}})
 
 An enormously improbable 94% of Scarborough constituents want to re-open the marriage debate. At least, that's the world according to their MP, John Cannis, who derived these results from the responses to his own uniquely-worded survey.
 

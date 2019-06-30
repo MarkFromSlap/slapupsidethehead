@@ -23,7 +23,7 @@ tags:
 - Stupid arguments
 comments: []
 ---
-![A half-formed human emerges from a swamp:](/wp-content/media/2012/09/not-fully-developed.jpg "A half-developed human out to destroy families")
+![A half-formed human emerges from a swamp:]({{'/wp-content/media/2012/09/not-fully-developed.jpg' | relative_url}} "A half-developed human out to destroy families")
 
 In a speech to French bishops last week, Pope Benedict XVI announced that gay people aren't fully developed humans and are threatening families. While I'm sure very few gay people actually care what the pope thinks of us, sometimes this guy just evokes imagery I really want to draw.
 

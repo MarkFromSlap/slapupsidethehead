@@ -26,7 +26,7 @@ tags:
 - Transit
 comments: []
 ---
-![Payback for all the Wheels On The Bus songs?](/wp-content/media/2009/08/bus-driver.jpg "Payback for all the Wheels On The Bus songs?")
+![Payback for all the Wheels On The Bus songs?]({{'/wp-content/media/2009/08/bus-driver.jpg' | relative_url}} "Payback for all the Wheels On The Bus songs?")
 
 A Lesbian couple in Vancouver is complaining to the media after a bus driver told them the city's Sunday family special didn't apply to lesbian couples.
 

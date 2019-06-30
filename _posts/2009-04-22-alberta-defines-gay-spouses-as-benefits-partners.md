@@ -24,7 +24,7 @@ tags:
 - Scott Mair
 comments: []
 ---
-![It's an Alberta Headâ„¢](/wp-content/media/2009/04/stubborn-alberta.jpg "It's an Alberta Headâ„¢")
+![It's an Alberta Headâ„¢]({{'/wp-content/media/2009/04/stubborn-alberta.jpg' | relative_url}} "It's an Alberta Headâ„¢")
 
 Gay government workers in Alberta are not allowed to list a same-sex partner as a "spouse" in their benefits package, according to a government booklet.
 

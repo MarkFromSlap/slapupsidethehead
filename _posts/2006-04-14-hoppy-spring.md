@@ -21,7 +21,7 @@ tags:
 - Easter
 comments: []
 ---
-![Spring Bunny](/wp-content/media/2006/04/spring_bunny.jpg)
+![Spring Bunny]({{'/wp-content/media/2006/04/spring_bunny.jpg' | relative_url}})
 
 Since I'm out of town to visit family for Easter, there'll be no making fun of the anti-gay crazies today. Instead, enjoy this picture of the Entirely Secular Vernal Equinox Bunny, bounding through the grass with a basket of non-religious April eggs! Happy Spring, everyone!
 

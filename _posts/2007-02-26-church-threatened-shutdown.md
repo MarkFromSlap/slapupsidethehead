@@ -24,7 +24,7 @@ tags:
 - Churches
 comments: []
 ---
-![Anglican Church](/wp-content/media/2007/02/church-shut-down.jpg)
+![Anglican Church]({{'/wp-content/media/2007/02/church-shut-down.jpg' | relative_url}})
 
 B.C. Anglican churches may be forced to shut down if they don't stop blessing gays. The Anglican Communion, a global collection of Anglican authorities, issued this ultimatum to "errant" churches last week in Tanzania.
 

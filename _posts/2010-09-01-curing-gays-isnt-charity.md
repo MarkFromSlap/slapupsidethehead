@@ -25,7 +25,7 @@ tags:
 - Exodus Global Alliance
 comments: []
 ---
-![A man asks for charity status for his organization which shoves gays head first into boxes of spiders.](/wp-content/media/2010/08/gay-spider-charity.jpg "The box of spiders returns!")
+![A man asks for charity status for his organization which shoves gays head first into boxes of spiders.]({{'/wp-content/media/2010/08/gay-spider-charity.jpg' | relative_url}} "The box of spiders returns!")
 
 New Zealand has tossed a purely anti-gay organization to the curb after it had applied for charitable status in the country.
 

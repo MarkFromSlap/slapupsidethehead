@@ -23,7 +23,7 @@ tags:
 - Immigration
 comments: []
 ---
-![Ghosts are an important part of Canadian society](/wp-content/media/2009/11/diversity.jpg "Ghosts are an important part of Canadian society")
+![Ghosts are an important part of Canadian society]({{'/wp-content/media/2009/11/diversity.jpg' | relative_url}} "Ghosts are an important part of Canadian society")
 
 The Government of Canada has released a new guide directed toward new immigrants to help them adjust to Canadian culture. Not a bad idea, actually!
 

@@ -22,7 +22,7 @@ tags:
 - Court Challenges Program
 comments: []
 ---
-![Court Challenges Ejection](/wp-content/media/2008/07/court-challenges-ejection.jpg "A very ad siuaion.")
+![Court Challenges Ejection]({{'/wp-content/media/2008/07/court-challenges-ejection.jpg' | relative_url}} "A very ad siuaion.")
 
 The Court Challenges Program, a means to ensure that unconstitutional laws could be challenged by those who otherwise couldn't afford it, was [scrapped by the Federal Tories](http://www.slapupsidethehead.com/2006/09/tories-cut-equality-funding/ "Because protecting the people isn't the role of the government so much as controlling them?") in 2006. The program, which cost a pittance, was cut largely due to [lobbying from anti-gay groups](http://www.slapupsidethehead.com/2006/09/go-fund-yourself/ "Rights only for the self-righteous") who were angry that the program was helping to strike down laws that illegally infringed upon gay rights.
 

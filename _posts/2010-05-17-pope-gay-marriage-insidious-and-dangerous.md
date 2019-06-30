@@ -22,7 +22,7 @@ tags:
 - Pope Benedict XVI
 comments: []
 ---
-![Person cowers in terror by being in the vicinity of a happy gay couple.](/wp-content/media/2010/05/gay-danger.jpg "HIDE! RUN! ")
+![Person cowers in terror by being in the vicinity of a happy gay couple.]({{'/wp-content/media/2010/05/gay-danger.jpg' | relative_url}} "HIDE! RUN! ")
 
 Pope Benedict XVI has called same-sex marriage one of the two most "insidious and dangerous threats" facing the world today. (The other being abortion.)
 

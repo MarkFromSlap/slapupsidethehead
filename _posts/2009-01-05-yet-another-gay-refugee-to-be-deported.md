@@ -25,7 +25,7 @@ tags:
 - Samuel Kyambadde
 comments: []
 ---
-![They like to make it extra formal](/wp-content/media/2009/01/formal-invitation.jpg "They like to make it extra formal")
+![They like to make it extra formal]({{'/wp-content/media/2009/01/formal-invitation.jpg' | relative_url}} "They like to make it extra formal")
 
 Yep; I've lost count.
 

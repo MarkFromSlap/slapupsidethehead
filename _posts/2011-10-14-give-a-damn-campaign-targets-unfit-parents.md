@@ -24,7 +24,7 @@ tags:
 - Give a Damn Campaign
 comments: []
 ---
-![An ogre family](/wp-content/media/2011/10/ogre-family.jpg "Snarl!")
+![An ogre family]({{'/wp-content/media/2011/10/ogre-family.jpg' | relative_url}} "Snarl!")
 
 Cyndi Lauper has been promoting an important anti-homophobia campaign with a new message aimed squarely at parents who harm and discriminate against their own children.
 

@@ -25,7 +25,7 @@ tags:
 - Health
 comments: []
 ---
-![Terminology's a bitch sometimes](/wp-content/media/2009/01/terminology.jpg "Terminology's a bitch sometimes")
+![Terminology's a bitch sometimes]({{'/wp-content/media/2009/01/terminology.jpg' | relative_url}} "Terminology's a bitch sometimes")
 
 A human rights complaint has been filed against the Capital district health authority for insensitive comments made toward a gay patient and his husband.
 

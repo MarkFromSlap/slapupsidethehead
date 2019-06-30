@@ -24,7 +24,7 @@ tags:
 - Xtra
 comments: []
 ---
-![A man looks at a vandalised newspaper box:](/wp-content/media/2010/12/effective-vandalism.jpg "Who knew?")
+![A man looks at a vandalised newspaper box:]({{'/wp-content/media/2010/12/effective-vandalism.jpg' | relative_url}} "Who knew?")
 
 Xtra, a gay community newspaper published by Pink Triangle Press and distributed nationwide, has been targeted by vandals in the Toronto area. Several distribution boxes have been spray painted with homophobic slurs, glued shut, turned upside down, filled with garbage, and set on fire.
 

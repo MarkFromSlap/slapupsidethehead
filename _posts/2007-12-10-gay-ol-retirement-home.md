@@ -23,7 +23,7 @@ tags:
 - Retirement homes
 comments: []
 ---
-![Retirement Home](/wp-content/media/2007/12/retirement-home.jpg)
+![Retirement Home]({{'/wp-content/media/2007/12/retirement-home.jpg' | relative_url}})
 
 Retirement homes aren't always the most welcoming environment for elderly gays. Homophobia and rejection are common, and Dean Malone and Darren Stoltz have decided to help put an end to it.
 

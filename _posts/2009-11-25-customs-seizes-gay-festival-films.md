@@ -29,9 +29,9 @@ tags:
 - I Can't Think Straight
 comments: []
 ---
-![Adorable family dramas are so terribly inappropriate.](/wp-content/media/2009/11/alternate-presentation.jpg "Adorable family dramas are so terribly inappropriate.")
+![Adorable family dramas are so terribly inappropriate.]({{'/wp-content/media/2009/11/alternate-presentation.jpg' | relative_url}} "Adorable family dramas are so terribly inappropriate.")
 
-![ROOOOSSEEEBUUUUUD!!!!](/wp-content/media/2009/11/citizen-war-zombie.jpg "ROOOOSSEEEBUUUUUD!!!!")
+![ROOOOSSEEEBUUUUUD!!!!]({{'/wp-content/media/2009/11/citizen-war-zombie.jpg' | relative_url}} "ROOOOSSEEEBUUUUUD!!!!")
 
 Ottawa's Inside Out Film festival had to make some urgent, last minute arrangements after the Canadian Border Services Agency seized three films scheduled to be presented. The seized films include Patrik 1.5 (Rated PG), Clapham Junction (Rated R), and I Can't Think Straight (Rated PG-13).
 

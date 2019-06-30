@@ -22,7 +22,7 @@ tags:
 - Diplomats
 comments: []
 ---
-![Diplomat in India](/wp-content/media/2007/05/diplomat-in-india.jpg)
+![Diplomat in India]({{'/wp-content/media/2007/05/diplomat-in-india.jpg' | relative_url}})
 
 Two Canadians have been barred from receiving diplomatic status in India because they're gay. The gay man and lesbian woman would ordinarily receive diplomatic-spousal status, but homosexuality is illegal in India and government officials declared spousal recognition out of the question.
 

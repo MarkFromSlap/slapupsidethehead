@@ -25,7 +25,7 @@ tags:
 - Calgary Outlink
 comments: []
 ---
-![Bus Ads:](/wp-content/media/2011/08/bus-ads.jpg "Actually, I kind of like the blandness of bus ads")
+![Bus Ads:]({{'/wp-content/media/2011/08/bus-ads.jpg' | relative_url}} "Actually, I kind of like the blandness of bus ads")
 
 A Calgary mom has launched a new anti-homophobia campaign that will be gracing various public transit vessels in the city starting this September.
 

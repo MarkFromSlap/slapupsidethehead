@@ -26,7 +26,7 @@ tags:
 - Naheed Nenshi
 comments: []
 ---
-![People parade through a field of hay.](/wp-content/media/2011/09/calgary-pride.jpg "Calgary may not actually be as pictured.")
+![People parade through a field of hay.]({{'/wp-content/media/2011/09/calgary-pride.jpg' | relative_url}} "Calgary may not actually be as pictured.")
 
 Calgary may not have the reputation of being a particularly tolerant city, but that perception could change sooner than one might think. For one, Calgarians elected a surprisingly progressive mayor last year. Naheed Nenshi won by a comfortable margin thanks in large to an active youth vote, assembled into action via social media. And now, from this involved base of progressives, the city's mayor has---for the first time ever---led the city's annual Pride parade.
 

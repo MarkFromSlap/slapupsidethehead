@@ -21,7 +21,7 @@ tags:
 - Religion
 comments: []
 ---
-![Do unto others as is personally convenient unto you.](/wp-content/media/2011/08/slapreacher.jpg "A Slapreacher")
+![Do unto others as is personally convenient unto you.]({{'/wp-content/media/2011/08/slapreacher.jpg' | relative_url}} "A Slapreacher")
 
 I originally wrote the following article---rated the greatest article of all time by an independent body that I just formed---for the July 2010 edition of Outlooks magazine. Despite being published under the Slap banner, I never actually posted it on this site. Practically unforgivable, I know. But it's here now! So, enjoy!
 

@@ -21,17 +21,17 @@ tags:
 - Gay Snowman Adventures
 comments: []
 ---
-![Gay Lavaman Adventures!](/wp-content/media/2011/11/gay-lavaman-adventures-1.jpg "Gay Lavaman Adventures!")
+![Gay Lavaman Adventures!]({{'/wp-content/media/2011/11/gay-lavaman-adventures-1.jpg' | relative_url}} "Gay Lavaman Adventures!")
 
 &nbsp;
 
 &nbsp;
 
-![Moving day for the gay lavaman.](/wp-content/media/2011/11/gay-lavaman-adventures-2.jpg "What could go wrong?")
+![Moving day for the gay lavaman.]({{'/wp-content/media/2011/11/gay-lavaman-adventures-2.jpg' | relative_url}} "What could go wrong?")
 
 &nbsp;
 
 &nbsp;
 
-![In Canada, the gay lavaman freezes immediately.](/wp-content/media/2011/11/gay-lavaman-adventures-3.jpg "And that's how the gay snowman was born.")
+![In Canada, the gay lavaman freezes immediately.]({{'/wp-content/media/2011/11/gay-lavaman-adventures-3.jpg' | relative_url}} "And that's how the gay snowman was born.")
 

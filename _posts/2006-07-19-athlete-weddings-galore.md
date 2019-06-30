@@ -24,7 +24,7 @@ tags:
 - Outgames
 comments: []
 ---
-![Speed Weddings](/wp-content/media/2006/07/speed_weddings.jpg)
+![Speed Weddings]({{'/wp-content/media/2006/07/speed_weddings.jpg' | relative_url}})
 
 Well, this shouldn't come as a surprise. Numerous gay couples and athletes attending the [1<sup>st</sup> World Outgames](http://www.montreal2006.org/ "Think of it as the gay olympics...") in Montréal this month have chosen to wed while they're here!
 

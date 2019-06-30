@@ -21,7 +21,7 @@ tags:
 - Taxes
 comments: []
 ---
-![Tax Overload!](/wp-content/media/2007/04/tax-overload.jpg)
+![Tax Overload!]({{'/wp-content/media/2007/04/tax-overload.jpg' | relative_url}})
 
 Finally, a tax break for the hard-working gay guy!
 

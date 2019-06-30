@@ -21,9 +21,9 @@ tags:
 - Gay Snowman Adventures
 comments: []
 ---
-![Gay Snowman Adventures](/wp-content/media/2011/10/gay-snowman-adventures-1.jpg "Gay Snowman Adventures")
+![Gay Snowman Adventures]({{'/wp-content/media/2011/10/gay-snowman-adventures-1.jpg' | relative_url}} "Gay Snowman Adventures")
 
 &nbsp;
 
-![A hat blows onto a snowman, who decides to utter the magic words:](/wp-content/media/2011/12/gay-snowman-adventures-magic-hat.jpg "I am a TXL Series 4 Computer; I do not comprehend snowmen.")
+![A hat blows onto a snowman, who decides to utter the magic words:]({{'/wp-content/media/2011/12/gay-snowman-adventures-magic-hat.jpg' | relative_url}} "I am a TXL Series 4 Computer; I do not comprehend snowmen.")
 

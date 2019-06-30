@@ -26,7 +26,7 @@ tags:
 - Federal Court
 comments: []
 ---
-![Uncle Sam's a jerk](/wp-content/media/2009/11/dadt.jpg "Uncle Sam's a jerk")
+![Uncle Sam's a jerk]({{'/wp-content/media/2009/11/dadt.jpg' | relative_url}} "Uncle Sam's a jerk")
 
 Bethany Smith, a lesbian seeking refugee status in Canada from the U.S., will get a second chance to have her case heard by the Immigration and Refugee Board after the Federal Court ruled that her previous plea was wrongfully dismissed.
 

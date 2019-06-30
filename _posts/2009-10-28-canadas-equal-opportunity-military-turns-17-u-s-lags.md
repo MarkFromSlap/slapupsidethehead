@@ -22,7 +22,7 @@ tags:
 - Military
 comments: []
 ---
-![It's an explosion of gay!](/wp-content/media/2009/10/gay-explosion.jpg "It's an explosion of gay!")
+![It's an explosion of gay!]({{'/wp-content/media/2009/10/gay-explosion.jpg' | relative_url}} "It's an explosion of gay!")
 
 Yesterday marked 17-years since the reversal of CFAO 19-20, Canada's shameful equivalent of the United State's _Don't Ask, Don't Tell_ policy. Before October 27, 1992, members of Canada's armed forces suspected of being gay were put through internal investigations and fired, even if their service records were exemplary.
 

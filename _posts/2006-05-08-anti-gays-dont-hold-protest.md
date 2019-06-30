@@ -23,7 +23,7 @@ tags:
 - Protests
 comments: []
 ---
-![How to Not Hold a Protest](/wp-content/media/2006/05/not_a_protest.jpg)
+![How to Not Hold a Protest]({{'/wp-content/media/2006/05/not_a_protest.jpg' | relative_url}})
 
 The not-so-influential lobby group, ~~Attack Gay Marriage~~ , uh, "Defend Traditional Marriage," was protesting outside governement offices in Ontario last week---or so it would look _at first glance_. When asked about the protest, spokesperson Jack Fonseca responded "This is **not** a protest." Instead, he indicated that it was a "positive rally."
 

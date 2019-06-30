@@ -23,7 +23,7 @@ tags:
 - Pope Benedict XVI
 comments: []
 ---
-![All Hail Xartak!](/wp-content/media/2006/09/xartak.jpg)
+![All Hail Xartak!]({{'/wp-content/media/2006/09/xartak.jpg' | relative_url}})
 
 Pope Benedict, fresh from [blaming Canada's low birth rate](http://www.slapupsidethehead.com/2006/05/chilling-message/ "I'm still scratching my head over that one...") on same-sex marriage, has once again instructed lawmakers to strip away gay rights. Because, you know, it just _tears families apart_ to think that one could allow loving gay couples to equally enjoy the legal institution of civil marriage. The paperwork is just _far_ too sacred, I'm told.
 

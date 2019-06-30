@@ -26,7 +26,7 @@ tags:
 - Netherlands
 comments: []
 ---
-![Jailed Soldiers](/wp-content/media/2007/10/jailed-soldiers.jpg)
+![Jailed Soldiers]({{'/wp-content/media/2007/10/jailed-soldiers.jpg' | relative_url}})
 
 It looks like two Canadian soldiers have completely forgotten what it is they're supposed to be defending.
 

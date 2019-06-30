@@ -27,9 +27,9 @@ tags:
 - Raymond Chan
 comments: []
 ---
-![Homosexual Sex Marriage](/wp-content/media/2006/07/homosexual_sex_marriage.jpg)
+![Homosexual Sex Marriage]({{'/wp-content/media/2006/07/homosexual_sex_marriage.jpg' | relative_url}})
 
-![Retroactive Slap](/wp-content/media/2006/07/retroactive.jpg)Ah, Rob Anders. My former MP. Although he's probably best known for being the sole dissenter in a vote to give [Nelson Mandela](http://en.wikipedia.org/wiki/Nelson_Mandella "Read about the man, I dare you!"), international hero, honorary Canadian citizenship (Anders said Mandela is a "communist and a terrorist"), I remember him for some equally baffling shenanigans.
+![Retroactive Slap]({{'/wp-content/media/2006/07/retroactive.jpg)Ah,' | relative_url}} Rob Anders. My former MP. Although he's probably best known for being the sole dissenter in a vote to give [Nelson Mandela](http://en.wikipedia.org/wiki/Nelson_Mandella "Read about the man, I dare you!"), international hero, honorary Canadian citizenship (Anders said Mandela is a "communist and a terrorist"), I remember him for some equally baffling shenanigans.
 
 Now how did it go again? Oh, yes! Anders used taxpayer money (rather than money from his party) to print flyers, emblazoned with a scary masked gunman, linking crystal meth usage and crime to---and I quote: " **homosexual sex marriage.**" Then he mailed them to constituents _in another province_!
 

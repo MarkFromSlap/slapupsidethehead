@@ -24,7 +24,7 @@ tags:
 - Italy
 comments: []
 ---
-![Soccer Gayness](/wp-content/media/2008/04/soccer-gayness.jpg "Or, as it is called in Europe, Footywhopping")
+![Soccer Gayness]({{'/wp-content/media/2008/04/soccer-gayness.jpg' | relative_url}} "Or, as it is called in Europe, Footywhopping")
 
 Luciano Moggi, the former managing director of Juventus, Italy's largest soccer club, went on a bizarre tirade against gays this week during a televised interview. The controversial official, who is currently being tried for corruption scandals, said that...
 

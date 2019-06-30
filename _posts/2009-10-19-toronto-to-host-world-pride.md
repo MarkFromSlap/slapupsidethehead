@@ -24,7 +24,7 @@ tags:
 - Toronto Pride
 comments: []
 ---
-![Also, Canada will now be known as Gaybonia.](/wp-content/media/2009/10/toronto-announcement.jpg "Also, Canada will now be known as Gaybonia.")
+![Also, Canada will now be known as Gaybonia.]({{'/wp-content/media/2009/10/toronto-announcement.jpg' | relative_url}} "Also, Canada will now be known as Gaybonia.")
 
 Good news! Toronto has been chosen to host the 2014 World Pride celebrations, an international gay rights and cultural event. Toronto will be the fourth city to host the event (joining Rome, Jerusalem and London) since it started in 2000. The event includes outdoor concerts, festivals, a large parade, and is expected to contribute an estimated **$680 million** to the city's economy---five times more than the city's usual Pride income.
 

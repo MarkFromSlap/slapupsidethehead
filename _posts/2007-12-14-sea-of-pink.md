@@ -25,7 +25,7 @@ tags:
 - Saskatchewan
 comments: []
 ---
-![Pink Tidal Wave](/wp-content/media/2007/12/pink-tidal-wave.jpg)
+![Pink Tidal Wave]({{'/wp-content/media/2007/12/pink-tidal-wave.jpg' | relative_url}})
 
 There was a story back in September about a grade 9 kid who was bullied and called homophobic names for wearing a pink shirt on the first day of school.
 

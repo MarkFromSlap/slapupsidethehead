@@ -26,7 +26,7 @@ tags:
 - WorldNetDaily
 comments: []
 ---
-![Ann Coulter giving a speech with bags of money in the corner.](/wp-content/media/2010/08/ann-coulter.jpg "Blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah...")
+![Ann Coulter giving a speech with bags of money in the corner.]({{'/wp-content/media/2010/08/ann-coulter.jpg' | relative_url}} "Blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah, blah...")
 
 Ann Coulter, a professional controversialist and media darling of the extreme right-wing in the U.S., has been dropped as the keynote speaker for an ultra socially conservative  website's conference because organizers found her too "unconservative."
 

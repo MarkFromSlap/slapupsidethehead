@@ -23,7 +23,7 @@ tags:
 - Bans
 comments: []
 ---
-![](/wp-content/media/2010/05/blood-donor.jpg "It's a horrifying procedure, but it saves lives.")
+![]({{'/wp-content/media/2010/05/blood-donor.jpg' | relative_url}} "It's a horrifying procedure, but it saves lives.")
 
 A group of doctors has come forward in support of lifting Canadian Blood Services' permanent deferral of gay men donating blood. In a medical paper published in yesterday's issue of the Canadian Medical Association Journal, several doctors submitted that the ban is unscientific, harmful and must be reconsidered. A step in the right direction, if Canadian Blood Services takes notice.
 

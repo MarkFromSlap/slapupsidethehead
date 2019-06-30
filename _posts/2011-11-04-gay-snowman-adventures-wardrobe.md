@@ -23,5 +23,5 @@ comments: []
 ---
 &nbsp;
 
-![A snowman laments his wardrobe:](/wp-content/media/2011/11/gay-snowman-adventures-fashion.jpg "And no monocle either?")
+![A snowman laments his wardrobe:]({{'/wp-content/media/2011/11/gay-snowman-adventures-fashion.jpg' | relative_url}} "And no monocle either?")
 

@@ -24,7 +24,7 @@ tags:
 - Retirements
 comments: []
 ---
-![King Ralph](/wp-content/media/2006/04/king_ralph.jpg)
+![King Ralph]({{'/wp-content/media/2006/04/king_ralph.jpg' | relative_url}})
 
 Pinch me! Alberta's conservative premier and super kook extraordinaire, [Ralph Klein](http://en.wikipedia.org/wiki/Ralph_Klein "Read about Ralphy on Wikipedia"), has announced that he'll [abdicate his throne](http://www.theglobeandmail.com/servlet/story/LAC.20060405.KLEIN05/TPStory/) after receiving only 55% support in last week's party leadership review. If this amazing bit of luck hadn't happened so early in this site's lifetime, Ralphy would have been a shoe-in as a regular on this site.
 
@@ -37,7 +37,7 @@ Now how can I even begin describing ol' [King Ralph](http://www.imdb.com/title/t
 - Said he'll introduce legislation making it legal for civil marriage commissioners to deny filing paperwork for same-sex couples
 - Justified all of this nonsense by stating "I have friends who are gays and friends who are lesbian and they're wonderful people." (Let's not hold our breath waiting for me to say I have a friend who's a wonderful premier...)
 
-![Ralph Justifies](/wp-content/media/2006/04/ralph_justifies.png)
+![Ralph Justifies]({{'/wp-content/media/2006/04/ralph_justifies.png' | relative_url}})
 
 Oh, Ralph! I'm so sorry to see you go. You'd have been my most favourite regular ever!
 

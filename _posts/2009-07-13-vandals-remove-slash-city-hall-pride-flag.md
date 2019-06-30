@@ -26,7 +26,7 @@ tags:
 - Gerard Velhoven
 comments: []
 ---
-![Pride Slasher Flick](/wp-content/media/2009/07/pride-flag-attack.jpg "Pride Slasher Flick")
+![Pride Slasher Flick]({{'/wp-content/media/2009/07/pride-flag-attack.jpg' | relative_url}} "Pride Slasher Flick")
 
 I guess someone in Amherst, Nova Scotia isn't too fond of rainbows.
 

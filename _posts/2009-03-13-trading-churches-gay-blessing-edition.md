@@ -24,7 +24,7 @@ tags:
 - Roman Catholic Church
 comments: []
 ---
-![Sorry. No Homers.](/wp-content/media/2009/03/trading-churches.jpg "Sorry. No Homers.")
+![Sorry. No Homers.]({{'/wp-content/media/2009/03/trading-churches.jpg' | relative_url}} "Sorry. No Homers.")
 
 The  Traditional Anglican Communion, a group of Anglicans who abandoned the global Anglican church over same-sex blessings and the ordination of women, has decided to go back to their very early roots and re-join the Roman Catholic Church, if The Vatican will let them.
 

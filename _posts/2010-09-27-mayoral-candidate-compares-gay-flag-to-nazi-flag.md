@@ -25,7 +25,7 @@ tags:
 - Ajax
 comments: []
 ---
-![You flew a pride flag, therefore you have to fly the international infant-eating flag. QED.](/wp-content/media/2010/09/infant-eaters.jpg "I wonder if this flag has been registered with the international flag committee?")
+![You flew a pride flag, therefore you have to fly the international infant-eating flag. QED.]({{'/wp-content/media/2010/09/infant-eaters.jpg' | relative_url}} "I wonder if this flag has been registered with the international flag committee?")
 
 Sherry Clymer, a first-time mayoral candidate in Ajax, Ontario, is feeling a little out of her league after lashing out at the incumbent mayor during a public debate late last week.
 

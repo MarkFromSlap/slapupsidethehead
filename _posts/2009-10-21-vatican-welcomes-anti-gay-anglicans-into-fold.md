@@ -24,7 +24,7 @@ tags:
 - Vatican
 comments: []
 ---
-![File photo](/wp-content/media/2009/10/church-merger.jpg "File photo")
+![File photo]({{'/wp-content/media/2009/10/church-merger.jpg' | relative_url}} "File photo")
 
 As far as religions go, I suppose you could do worse than the Anglicans. They at least entertain discussions about how to best integrate their doctrine with reality. They bless gay couples, for example, and extend to them the same dignities as any other parishioner---including eligibility for ordination.
 

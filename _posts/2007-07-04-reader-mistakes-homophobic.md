@@ -23,7 +23,7 @@ tags:
 - Hate mail
 comments: []
 ---
-![Mailbag Explosion](/wp-content/media/2007/07/mailbag-explosion.jpg)
+![Mailbag Explosion]({{'/wp-content/media/2007/07/mailbag-explosion.jpg' | relative_url}})
 
 Let's do the mailbag thing today! A (somewhat confused) reader writes:
 
@@ -45,5 +45,5 @@ your pal,
 
 Well, that's all for today! If you'd like to submit something to the Slap Mailbag, fire off an email to:
 
-![Email](/wp-content/media/2006/04/email.png)
+![Email]({{'/wp-content/media/2006/04/email.png' | relative_url}})
 

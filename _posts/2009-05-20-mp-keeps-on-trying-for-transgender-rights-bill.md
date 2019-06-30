@@ -24,7 +24,7 @@ tags:
 - Private member bills
 comments: []
 ---
-![I took a brief vacation in the future to research this illustration.](/wp-content/media/2009/05/keep-on-truckin.jpg "I took a brief vacation in the future to research this illustration.")
+![I took a brief vacation in the future to research this illustration.]({{'/wp-content/media/2009/05/keep-on-truckin.jpg' | relative_url}} "I took a brief vacation in the future to research this illustration.")
 
 NDP MP Bill Siksay, one of Canada's first openly gay MPs, is once again introducing a private member's bill to add transsexual and transgendered people to the list of minorities protected from hate crimes.
 

@@ -27,7 +27,7 @@ tags:
 - Florida
 comments: []
 ---
-![Robo-John, the robotic toilet gay sex stopper](/wp-content/media/2007/07/robo-john.jpg)
+![Robo-John, the robotic toilet gay sex stopper]({{'/wp-content/media/2007/07/robo-john.jpg' | relative_url}})
 
 Slap reader John Kelly writes in with a story that just can't be made up.
 

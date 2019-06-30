@@ -24,7 +24,7 @@ tags:
 - Federal Government
 comments: []
 ---
-![Census 2006: You're Not Married!](/wp-content/media/2006/05/census_2006.jpg)
+![Census 2006: You're Not Married!]({{'/wp-content/media/2006/05/census_2006.jpg' | relative_url}})
 
 Well, it's census time in Canada again. Ah, Cenususeses... Censii? Those dainty twice-a-decade questionnaires where you get to inform the government of _all_ your personal relationships. But, for all the happily married gay couples out there this year, don't be so quick to check the "husband or wife" bubble when describing your partner's relationship to you! The government has provided _special_ instructions for _your_ type.
 

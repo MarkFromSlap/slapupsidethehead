@@ -30,7 +30,7 @@ Ssempa began showing the sexually explicit videos, which he downloaded from the 
 
 Well, that's all kinds of crazy. I mean, can you imagine if homophobes like Ssempa treated straight people the same way they treat gays?
 
-![](/wp-content/media/2010/02/church-wedding.jpg "Bowchikah wow, chikah wow")
+![]({{'/wp-content/media/2010/02/church-wedding.jpg' | relative_url}} "Bowchikah wow, chikah wow")
 
 Still, as unbelievable as it sounds, it has come to this: Gay porn in church. And, naturally, it's the anti-gay people that have done it. The method is entertaining (I joked on Twitter that Ssempa's sermon would have kept me in the pews), but the thinking behind it is really tired. In retrospect, I shouldn't even be surprised.
 

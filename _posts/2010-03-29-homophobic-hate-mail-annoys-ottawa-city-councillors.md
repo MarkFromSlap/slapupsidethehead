@@ -26,7 +26,7 @@ tags:
 - Rick Chiarelli
 comments: []
 ---
-![Hate mail sent; hate mail deleted.](/wp-content/media/2010/03/hate-mail-response.jpg "Hate mail is so productive.")
+![Hate mail sent; hate mail deleted.]({{'/wp-content/media/2010/03/hate-mail-response.jpg' | relative_url}} "Hate mail is so productive.")
 
 Ottawa City Councillors are annoyed to have been flooded with angry, homophobic hate emails this month. The messages---which originated from one man, but were sent from multiple email accounts to presumably bypass the councillor's email filters---railed hysterically against Alex Munter and the Youth Services Bureau of Ottawa, which he heads.
 

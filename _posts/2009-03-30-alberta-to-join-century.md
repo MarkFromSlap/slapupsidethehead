@@ -22,7 +22,7 @@ tags:
 - Lindsay Blackett
 comments: []
 ---
-![Also relieves fear caused by crazy delusion.](/wp-content/media/2009/03/rights-medication.jpg "Also relieves fear caused by crazy delusion.")
+![Also relieves fear caused by crazy delusion.]({{'/wp-content/media/2009/03/rights-medication.jpg' | relative_url}} "Also relieves fear caused by crazy delusion.")
 
 Alberta will amend their provincial human rights legislation to explicitly protect gays from discrimination.
 

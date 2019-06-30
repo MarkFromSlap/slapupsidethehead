@@ -24,7 +24,7 @@ tags:
 - Deborah Lamont
 comments: []
 ---
-![Gayometer](/wp-content/media/2007/02/gayometer.jpg)
+![Gayometer]({{'/wp-content/media/2007/02/gayometer.jpg' | relative_url}})
 
 A gay Nicaraguan man who fled his country at the age of 12 will be deported from Canada.
 

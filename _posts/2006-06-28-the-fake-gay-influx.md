@@ -24,7 +24,7 @@ tags:
 - Immigration
 comments: []
 ---
-![Not-So-Gay Immigrant](/wp-content/media/2006/06/gay_immigrant.jpg)
+![Not-So-Gay Immigrant]({{'/wp-content/media/2006/06/gay_immigrant.jpg' | relative_url}})
 
 Canadian Embassies are on the look-out for straight guys in sheep's fabulous, designer clothing, as young men in India have been **pretending to be gay** in order to immigrate to Canada. The crazy scheme uses India's discriminatory ban on homosexuality as a basis for visa applications. Since Canada is one of the few countries that treats same-sex couples equally for immigration purposes, it's an easy target.
 

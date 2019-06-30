@@ -22,7 +22,7 @@ tags:
 - Immigration
 comments: []
 ---
-![Harper Fairy](/wp-content/media/2006/12/harper_fairy.jpg)
+![Harper Fairy]({{'/wp-content/media/2006/12/harper_fairy.jpg' | relative_url}})
 
 Here's a neat little tidbit from Canada's Citizenship and Immigration policy with regards to same-sex spousal partnership:
 

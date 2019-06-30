@@ -26,7 +26,7 @@ tags:
 - Bill C-10
 comments: []
 ---
-![Determining Film Taxes](/wp-content/media/2008/04/determining-taxes.jpg "Holy Mother Of Sweet Interjections!")
+![Determining Film Taxes]({{'/wp-content/media/2008/04/determining-taxes.jpg' | relative_url}} "Holy Mother Of Sweet Interjections!")
 
 [Breakfast With Scot](http://www.imdb.com/title/tt0910847/ "Sewiously, it's adowable..."), an unbelievably sweet comedy about a closeted gay couple who unexpectedly finds themselves raising a bubbly 11-year old boy, is under attack once again by anti-gay lobbyists.
 

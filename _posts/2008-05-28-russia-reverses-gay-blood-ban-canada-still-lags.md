@@ -25,7 +25,7 @@ tags:
 - Russia
 comments: []
 ---
-![A bloody goodbye](/wp-content/media/2008/05/bloody-goodbye.jpg "A bloody goodbye")
+![A bloody goodbye]({{'/wp-content/media/2008/05/bloody-goodbye.jpg' | relative_url}} "A bloody goodbye")
 
 The Russian Health Ministry announced this week that it has ended its ban on gay blood donors.
 

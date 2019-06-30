@@ -23,7 +23,7 @@ tags:
 - James Loney
 comments: []
 ---
-![Church Gay Barrier](/wp-content/media/2008/05/church-gay-barrier.jpg "My old church had one of these installed")
+![Church Gay Barrier]({{'/wp-content/media/2008/05/church-gay-barrier.jpg' | relative_url}} "My old church had one of these installed")
 
 Poor James Loney. The Christian peace worker, made internationally famous after being held hostage in Iraq for several months, has been barred from speaking at another religious shindig simply because he's gay.
 

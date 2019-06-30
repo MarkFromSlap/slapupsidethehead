@@ -27,7 +27,7 @@ tags:
 - Nicholas Groth
 comments: []
 ---
-![Gay Drill!](/wp-content/media/2006/11/gay_drill.jpg)
+![Gay Drill!]({{'/wp-content/media/2006/11/gay_drill.jpg' | relative_url}})
 
 [Bill Whatcott](http://www.slapupsidethehead.com/2006/07/anti-gay-nurse-suspended/ "Helloooo anti-gay nurse!"), the anti-gay activist who had his nurse's license suspended, has been ordered to pay $17,000 for repeated human rights violations. The kicker? He's refusing to pay.
 

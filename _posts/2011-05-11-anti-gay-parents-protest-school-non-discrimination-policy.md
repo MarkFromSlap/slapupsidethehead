@@ -26,7 +26,7 @@ tags:
 - Burnaby school district
 comments: []
 ---
-![Protesters hold signs including](/wp-content/media/2011/05/protesters.jpg "Won't somebody PLEASE think of the children!?")
+![Protesters hold signs including]({{'/wp-content/media/2011/05/protesters.jpg' | relative_url}} "Won't somebody PLEASE think of the children!?")
 
 A group of parents, organised by a handful of churches, rallied yesterday to protest a non-discrimination policy introduced by the Burnaby school district. The draft policy, which has yet to be finalized, addresses the unacceptably high levels of bullying that GLBT students face in comparison to other students.
 

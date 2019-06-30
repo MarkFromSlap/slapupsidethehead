@@ -21,7 +21,7 @@ tags:
 - Halloween
 comments: []
 ---
-![A Slap-o-Lantern, a pumpkin that looks like a Slap face](/wp-content/media/2010/10/slappy-halloween-pumpkin.png "A Slap-o-Lantern")Well, it's Halloween, and since I'm probably a tad past the trick-or-treating age, I'm spending the evening watching cheesy horror movies.
+![A Slap-o-Lantern, a pumpkin that looks like a Slap face]({{'/wp-content/media/2010/10/slappy-halloween-pumpkin.png' | relative_url}} "A Slap-o-Lantern")Well, it's Halloween, and since I'm probably a tad past the trick-or-treating age, I'm spending the evening watching cheesy horror movies.
 
 There'll be no post on Monday---I'll be far too frightened---but things will be back to normal on Wednesday. Until then, have an unsettling evening of terror!
 

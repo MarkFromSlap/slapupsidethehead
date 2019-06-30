@@ -26,7 +26,7 @@ tags:
 - Rainbow High Vacations
 comments: []
 ---
-![Gay Travel Agency](/wp-content/media/2007/07/travel-agency.jpg)
+![Gay Travel Agency]({{'/wp-content/media/2007/07/travel-agency.jpg' | relative_url}})
 
 An Ontario man has pulled his son out of an Oshawa high school after learning the school's student trip to Europe was booked by a gay and lesbian travel agency.
 

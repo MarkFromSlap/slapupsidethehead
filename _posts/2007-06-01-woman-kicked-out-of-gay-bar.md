@@ -25,7 +25,7 @@ tags:
 - Gay bars
 comments: []
 ---
-![A Girl in a Gay Bar](/wp-content/media/2007/05/girl-in-gay-bar.jpg)
+![A Girl in a Gay Bar]({{'/wp-content/media/2007/05/girl-in-gay-bar.jpg' | relative_url}})
 
 Stop me if you've heard this one: A woman walks into a gay bar and sits down for a beer. The waiter comes up to her and says: "This establishment is for men only; please leave." (_rimshot_)
 

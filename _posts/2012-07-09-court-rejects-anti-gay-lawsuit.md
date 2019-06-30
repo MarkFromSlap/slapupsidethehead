@@ -24,7 +24,7 @@ tags:
 - New Yorkers for Constitutional Freedoms
 comments: []
 ---
-![Lady justice punches a man in the face:](/wp-content/media/2012/07/justice.jpg "Lady justice has got an attitude.")
+![Lady justice punches a man in the face:]({{'/wp-content/media/2012/07/justice.jpg' | relative_url}} "Lady justice has got an attitude.")
 
 An anti-gay group calling themselves New Yorkers for Constitutional Freedoms filed a lawsuit late last year to reverse the state's equal marriage law. Like most attempts to get same-sex marriage overturned, they gave themselves a delightfully ironic name;  unlike other groups, however, they didn't seem to rely on the usual arguments about how families would be instantly vaporized or how children would now be used for cattle feed, etc. Instead they suggested that same-sex marriage is invalid in New York because two meetings of the Republican Senate's majority should have been held in public instead of privately leading up to the vote.
 

@@ -24,7 +24,7 @@ tags:
 - Bills
 comments: []
 ---
-![My religion is clear: Thou shalt be a total dorkwad.](/wp-content/media/2010/05/religious-freedom.jpg "Religious Freedom!")
+![My religion is clear: Thou shalt be a total dorkwad.]({{'/wp-content/media/2010/05/religious-freedom.jpg' | relative_url}} "Religious Freedom!")
 
 A discriminatory bill that would allow civil marriage commissioners to refuse their public services to gay couples went before the Saskatchewan Court of Appeal yesterday. The bill was, strangely enough, brought to court by the government that's ultimately trying to introduce it in an attempt to predetermine its constitutionality.
 

@@ -24,7 +24,7 @@ tags:
 - Nigeria
 comments: []
 ---
-![Nigeria Redecorating](/wp-content/media/2007/02/nigeria-redecorating.jpg)
+![Nigeria Redecorating]({{'/wp-content/media/2007/02/nigeria-redecorating.jpg' | relative_url}})
 
 Get ready for some _serious closet_!
 

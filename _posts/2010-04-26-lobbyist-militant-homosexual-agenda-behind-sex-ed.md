@@ -25,7 +25,7 @@ tags:
 - Sex education
 comments: []
 ---
-![Charles McVety interrupts sex ed lesson by screaming 'Noooo!'](/wp-content/media/2010/04/sex-ed-objection.jpg "Incoming ball o' crazy!")
+![Charles McVety interrupts sex ed lesson by screaming 'Noooo!']({{'/wp-content/media/2010/04/sex-ed-objection.jpg' | relative_url}} "Incoming ball o' crazy!")
 
 Charles McVety, one of Canada's most frothy anti-gay lobbyists, has warned that a proposed sexual education curriculum reform currently being held for review in Ontario is "part of a militant homosexual agenda to normalize homosexuality in everyone's mind and thereby promote homosexuality."
 

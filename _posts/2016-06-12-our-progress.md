@@ -23,7 +23,7 @@ tags:
 - Pulse
 comments: []
 ---
-[![13403247_10154215762405645_8191831369697933681_o](/wp-content/media/2016/06/13403247_10154215762405645_8191831369697933681_o.jpg)](/wp-content/media/2016/06/13403247_10154215762405645_8191831369697933681_o.jpg)
+[![13403247_10154215762405645_8191831369697933681_o]({{'/wp-content/media/2016/06/13403247_10154215762405645_8191831369697933681_o.jpg)](/wp-content/media/2016/06/13403247_10154215762405645_8191831369697933681_o.jpg' | relative_url}})
 
 The LGBT community is a community of fighters. We may never make sense of the tragedy in Orlando, but look at the reaction; look at the outpouring of love, compassion, and support. Compare it to the widespread indifference after the 1973 UpStairs Lounge attack, which claimed 32 lives. That's our progress. And that's what we will continue to fight for.
 

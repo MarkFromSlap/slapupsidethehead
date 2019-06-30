@@ -21,7 +21,7 @@ tags:
 - American Family Association
 comments: []
 ---
-![An AFA Christmas](/wp-content/media/2008/07/an-afa-christmas.jpg "They have the same problem with The Flintstones")
+![An AFA Christmas]({{'/wp-content/media/2008/07/an-afa-christmas.jpg' | relative_url}} "They have the same problem with The Flintstones")
 
 The American Family Association, an anti-gay lobby group based in the United States, is well-known for altering copy from Associated Press stories on their OneNewsNow website. In particular, they invariably change all occurrences of the word "gay" to "homosexual." It's dishonest journalism and against AP policies, but hey---they like their obsessions.
 

@@ -26,7 +26,7 @@ tags:
 - Canadian Bar Association
 comments: []
 ---
-![Boxes of Spiders](/wp-content/media/2006/09/boxes_of_spiders.jpg)
+![Boxes of Spiders]({{'/wp-content/media/2006/09/boxes_of_spiders.jpg' | relative_url}})
 
 Goodness knows why, but anti-gay lobbyists and the new conservative government are now trying their hardest to scrap The Court Challenge program. The program, run by the [oft-attacked](http://www.slapupsidethehead.com/2006/09/gay-film-festival/ "What do these groups have against heritage, anyway?") [Heritage department](http://www.pch.gc.ca/ "It's full of heritagey goodness"), was set up to help fund groups that wish to challenge potentially unconstitutional laws. It has been awarded in the past to several minority representation groups, such as [EGALE](http://www.egale.ca/ "I've linked to them before, I'll link to them again") (Equality for Gays and Lesbians Everywhere), aboriginal groups, groups for persons with disabilities, and [LEAF](http://www.leaf.ca/ "Equality for Women, can you imagine?") (The Women's Legal Education and Action Fund).
 

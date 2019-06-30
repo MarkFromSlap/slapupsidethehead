@@ -25,7 +25,7 @@ tags:
 - Moscow
 comments: []
 ---
-![No irony here.](/wp-content/media/2008/12/protest-ban.jpg "No irony here.")
+![No irony here.]({{'/wp-content/media/2008/12/protest-ban.jpg' | relative_url}} "No irony here.")
 
 Moscow's mayor Yuri Luzhkov has vowed to continue bans on gay rights marches, calling homosexuality "satanic," and blaming the gay rights movement for the spread of AIDS:
 

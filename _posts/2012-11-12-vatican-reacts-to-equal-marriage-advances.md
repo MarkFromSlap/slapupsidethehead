@@ -24,7 +24,7 @@ tags:
 - Federico Lombardi
 comments: []
 ---
-![POPEye!](/wp-content/media/2012/11/pope-ye.jpg "Ruby slippers included.")
+![POPEye!]({{'/wp-content/media/2012/11/pope-ye.jpg' | relative_url}} "Ruby slippers included.")
 
 Last Tuesday saw some pretty big wins for equal marriage rights in the United States. Voters in Maryland, Washington, and Maine solidly supported same-sex marriage, marking the first time that a popular vote granted marriage rights to same-sex couples in the country.
 

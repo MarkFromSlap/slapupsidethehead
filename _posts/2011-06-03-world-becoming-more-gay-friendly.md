@@ -23,7 +23,7 @@ tags:
 - University of Chicago
 comments: []
 ---
-[![Calvin and Hobbes look under their cardboard Transmogrifier, confirming that the globe they put under it is changing](/wp-content/media/2011/06/transmogrifier.jpg "With the utmost reverence to Bill Watterson")](/wp-content/media/2011/06/transmogrifier.jpg)
+[![Calvin and Hobbes look under their cardboard Transmogrifier, confirming that the globe they put under it is changing]({{'/wp-content/media/2011/06/transmogrifier.jpg' | relative_url}} "With the utmost reverence to Bill Watterson")](/wp-content/media/2011/06/transmogrifier.jpg)
 
 For anyone who feels like equal rights have been regressing, here's a bit of encouraging news. According to a report from the University of Chicago, the world is steadily becoming more and more gay-friendly.
 

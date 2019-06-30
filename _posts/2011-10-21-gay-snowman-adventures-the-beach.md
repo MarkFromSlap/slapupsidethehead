@@ -21,9 +21,9 @@ tags:
 - Gay Snowman Adventures
 comments: []
 ---
-![Gay Snowman Adventures](/wp-content/media/2011/10/gay-snowman-adventures-1.jpg "Gay Snowman Adventures")
+![Gay Snowman Adventures]({{'/wp-content/media/2011/10/gay-snowman-adventures-1.jpg' | relative_url}} "Gay Snowman Adventures")
 
 &nbsp;
 
-![A snowman turns the page of a calendar:](/wp-content/media/2011/10/gay-snowman-adventures-two.jpg "Poor gay snowman...")
+![A snowman turns the page of a calendar:]({{'/wp-content/media/2011/10/gay-snowman-adventures-two.jpg' | relative_url}} "Poor gay snowman...")
 

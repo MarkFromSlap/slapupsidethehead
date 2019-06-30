@@ -24,7 +24,7 @@ tags:
 - Defend Marriage Canada
 comments: []
 ---
-![Grassroots](/wp-content/media/2006/12/grassroots.jpg)
+![Grassroots]({{'/wp-content/media/2006/12/grassroots.jpg' | relative_url}})
 
 Ah, the poor anti-gay lobby. They seem so lost now---like a big-eyed, cuddly... manta-ray. But, hey, after investing so much time and money into a destined-to-fail cause, they've got to do something to keep up their spirits. And that's why they've started their very own grassroots movement! (Or, at the very least, some sort of astroturf underpadding movement.)
 

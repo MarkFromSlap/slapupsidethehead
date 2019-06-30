@@ -30,7 +30,7 @@ tags:
 - Poli
 comments: []
 ---
-![The Flying Nun Returns: Rapidly redistributing homophobia from public schools into Catholic ones during times of postal lock-outs!](/wp-content/media/2011/06/flying-nun-returns.jpg "If Hawaii Five 0 can come back on the air, so can this.")
+![The Flying Nun Returns: Rapidly redistributing homophobia from public schools into Catholic ones during times of postal lock-outs!]({{'/wp-content/media/2011/06/flying-nun-returns.jpg' | relative_url}} "If Hawaii Five 0 can come back on the air, so can this.")
 
 The Burnaby School Board unanimously adopted its anti-homophobia policy last week, after months of debating and church-organized protests. A crowd of about 400 students and supporters cheered outside the Burnaby School Board offices when Kaitlin Burnett, a supporter of the policy, emerged to announce its passage.
 

@@ -25,7 +25,7 @@ tags:
 - Donald Trump
 comments: []
 ---
-![Jenna Talackova is accosted by a pagent official:](/wp-content/media/2012/03/former-penis-detector-3000.jpg "Or the FPD, as I call it.")
+![Jenna Talackova is accosted by a pagent official:]({{'/wp-content/media/2012/03/former-penis-detector-3000.jpg' | relative_url}} "Or the FPD, as I call it.")
 
 Jenna Talackova, a contestant in this year's Miss Universe Canada pageant, has been disqualified from the competition after organisers discovered that she's trans.
 

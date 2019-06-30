@@ -22,7 +22,7 @@ tags:
 - Guy Earle
 comments: []
 ---
-![Michael Richards Guest Stars](/wp-content/media/2008/07/tirade-gala-michael-richards.jpg "Giddy-Up!")
+![Michael Richards Guest Stars]({{'/wp-content/media/2008/07/tirade-gala-michael-richards.jpg' | relative_url}} "Giddy-Up!")
 
 Here's a story that's getting weirder: Guy Earle, the Toronto comedian who responded to some lesbian hecklers by going on a massive, anti-lesbian tirade and snapping one of their sunglasses in half is now facing a human rights complaint over the incident. He's holding a benefit gala on the 19<sup>th</sup> to raise funds for a legal defense.
 

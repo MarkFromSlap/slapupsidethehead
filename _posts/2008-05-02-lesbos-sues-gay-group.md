@@ -22,7 +22,7 @@ tags:
 - Lesbos
 comments: []
 ---
-![Two lesbians](/wp-content/media/2008/05/lesbians.jpg "A Lesbian and a lesbian")
+![Two lesbians]({{'/wp-content/media/2008/05/lesbians.jpg' | relative_url}} "A Lesbian and a lesbian")
 
 Here's something new: Three residents from the Greek island of Lesbos are suing the Homosexual and Lesbian Community of Greece for using the term "Lesbian" in their title. Dimitris Lambrou, one of the plantiffs, explains:
 

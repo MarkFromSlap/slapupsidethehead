@@ -21,7 +21,7 @@ tags:
 - Anglicans
 comments: []
 ---
-![Contention Prevention](/wp-content/media/2008/07/prevent-contention.jpg "Welcome!")
+![Contention Prevention]({{'/wp-content/media/2008/07/prevent-contention.jpg' | relative_url}} "Welcome!")
 
 The Lambeth Conference meeting of Anglican bishops, a once-a-decade event in the worldwide Anglican community, has banned one of their own Bishops, Gene Robinson, from attending because he is gay.
 

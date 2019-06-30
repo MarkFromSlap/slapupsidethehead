@@ -25,7 +25,7 @@ tags:
 - Dmitry Medvedev
 comments: []
 ---
-![Yuri Luzhkov melts by the gaze of a Pride flag.](/wp-content/media/2010/10/flag-power.jpg "That's Yuri Luzhkov. And he's melting. It made more sense in my head than on paper.")
+![Yuri Luzhkov melts by the gaze of a Pride flag.]({{'/wp-content/media/2010/10/flag-power.jpg' | relative_url}} "That's Yuri Luzhkov. And he's melting. It made more sense in my head than on paper.")
 
 The city of Moscow has been fined â‚¬29,510 by the European Court of Human Rights for banning equal rights demonstrations in the city.
 

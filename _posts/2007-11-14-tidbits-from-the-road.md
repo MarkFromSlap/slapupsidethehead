@@ -25,7 +25,7 @@ tags:
 - Remembrance Day
 comments: []
 ---
-![Road Slap](/wp-content/media/2007/09/road-slap.jpg)
+![Road Slap]({{'/wp-content/media/2007/09/road-slap.jpg' | relative_url}})
 
 Well, I'm on the road---gone to Atlanta, U.S.A. for a lovely few days of unbearable boredom, followed by a trip out west to see family before flights get expensive.
 

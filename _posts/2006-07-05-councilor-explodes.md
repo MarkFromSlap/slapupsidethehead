@@ -26,7 +26,7 @@ tags:
 - Rob Ford
 comments: []
 ---
-![Toronto's City Council Votes](/wp-content/media/2006/07/council_vote.jpg)
+![Toronto's City Council Votes]({{'/wp-content/media/2006/07/council_vote.jpg' | relative_url}})
 
 Have you ever wondered how a crazy, anti-gay city councilor would react to AIDS prevention programs? Well, wonder no longer, folks! Rob Ford, a Toronto city councilor, voted against granting city funds toward AIDS education. And while that's not particularly shocking, his five minute, on-the-record, angry rant is _magnificently_ loony:
 

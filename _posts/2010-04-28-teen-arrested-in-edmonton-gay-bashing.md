@@ -23,7 +23,7 @@ tags:
 - Edmonton
 comments: []
 ---
-![Father tells child that hating gays doesn't actually mean you should attack them. A mixed message.](/wp-content/media/2010/04/mixed-message.jpg "Mixed message.")
+![Father tells child that hating gays doesn't actually mean you should attack them. A mixed message.]({{'/wp-content/media/2010/04/mixed-message.jpg' | relative_url}} "Mixed message.")
 
 A 31-year old lesbian was violently assaulted in Edmonton last week in what she and her friends are calling a hate-motivated attack. Shannon Barry required two facial plate implants to repair a broken jaw and crushed eye socket after being kicked in the face while her assailants shouted anti-gay slurs.
 

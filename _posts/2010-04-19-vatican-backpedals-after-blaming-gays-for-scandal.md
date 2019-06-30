@@ -23,7 +23,7 @@ tags:
 - Scandals
 comments: []
 ---
-![Brain leaves Vatican official for greener pastures.](/wp-content/media/2010/04/vatican-claims.jpg "Brain may be larger in illustration than real life.")
+![Brain leaves Vatican official for greener pastures.]({{'/wp-content/media/2010/04/vatican-claims.jpg' | relative_url}} "Brain may be larger in illustration than real life.")
 
 The Vatican released a statement on Friday asserting that their officials are not "competent" to talk about psychological matters. The unusual (but fair) assessment came after one of their cardinals, Tarcisio Bertone, declared---without sound reference---that homosexuality, and not mandated celibacy, was responsible for the church's paedophilia scandal. ([No link between paedophilia and homosexuality](http://www.boxturtlebulletin.com/Articles/000,002.htm "An excellent survey of current research into the matter.") has ever been demonstrated.)
 

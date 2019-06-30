@@ -30,7 +30,7 @@ tags:
 - Out Traveler
 comments: []
 ---
-![Pro-Family Migration Patterns](/wp-content/media/2007/04/pro-family-migration.jpg)
+![Pro-Family Migration Patterns]({{'/wp-content/media/2007/04/pro-family-migration.jpg' | relative_url}})
 
 [Out Traveler](http://www.outtraveler.com/ "For travelers who are out, of course."), a gay and lesbian travel magazine, has named Canada's top 5 gayest cities. While I'm not going to list them here, let's just say that Vancouver, Edmonton, Winnipeg, Toronto, and Montréal should be expecting a few extra gay tourists this year! Wait, that might be a little too obvious. How about: Vancouver, Edmonton, Winnipeg, Toronto and Montreal should be expecting a few fewer intolerant tourists this year. Yes, that'll do.
 

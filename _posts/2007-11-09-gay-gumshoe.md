@@ -25,7 +25,7 @@ tags:
 - Russell Quant
 comments: []
 ---
-![Gay Film Noir](/wp-content/media/2007/11/gay-film-noir.jpg)
+![Gay Film Noir]({{'/wp-content/media/2007/11/gay-film-noir.jpg' | relative_url}})
 
 It's Friday; let's go for some fun news today!
 

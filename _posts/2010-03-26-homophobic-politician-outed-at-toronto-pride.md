@@ -26,7 +26,7 @@ tags:
 - Andr&Atilde;&iexcl;s Kir&Atilde;&iexcl;ly
 comments: []
 ---
-![Hungry, Hungary Hypocrite](/wp-content/media/2010/03/hungry-hungary-hypocrite.jpg "I think I know what he's hungry for...")
+![Hungry, Hungary Hypocrite]({{'/wp-content/media/2010/03/hungry-hungary-hypocrite.jpg' | relative_url}} "I think I know what he's hungry for...")
 
 If you're a politician belonging to Hungary's most radical right-wing political party, you might want to leave your camera at home the next time you go vacationing in Canada.
 

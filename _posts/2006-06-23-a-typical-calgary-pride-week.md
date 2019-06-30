@@ -27,7 +27,7 @@ tags:
 - Tyson McCann Cormack
 comments: []
 ---
-![Pride Parade](/wp-content/media/2006/06/pride_parade.jpg)
+![Pride Parade]({{'/wp-content/media/2006/06/pride_parade.jpg' | relative_url}})
 
 Calgary's police chief, Jack Beaton, warned anti-gay protesters that "there's such a thing as provocation" last week, after a protester who chased and called a gay man a "_disgusting homo_" was given a hefty, retaliatory tackle.
 

@@ -23,7 +23,7 @@ tags:
 - Egale
 comments: []
 ---
-![DUH Magazine](/wp-content/media/2008/05/duh-magazine.jpg "Hot off the presses")
+![DUH Magazine]({{'/wp-content/media/2008/05/duh-magazine.jpg' | relative_url}} "Hot off the presses")
 
 More than two thirds of gay students in Canada feel their safety is threatened at school according to a survey conducted by Egale Canada. The 1,200-student questionnaire was distributed in schools across the country, except for several Catholic school boards which declined participation.
 

@@ -25,7 +25,7 @@ tags:
 - Fines
 comments: []
 ---
-![Anti-Gay Nurse](/wp-content/media/2006/07/suspended_nurse.jpg)
+![Anti-Gay Nurse]({{'/wp-content/media/2006/07/suspended_nurse.jpg' | relative_url}})
 
 Bill Whatcott, a nutty Saskatchewan nurse, lost an appeal to have his nursing license un-suspended this week for defaming the health association [Planned Parenthood](http://www.ppfc.ca/ "A reality-based organisation"). Whatcott was picketing Planned Parenthood's Regina office in 2003, harassing their patients, shouting derogatory slogans, and calling the workers there "sodomites," "murderers," and "disseminators of AIDS." Charming lad, no?
 

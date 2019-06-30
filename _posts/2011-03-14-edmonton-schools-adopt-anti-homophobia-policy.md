@@ -23,7 +23,7 @@ tags:
 - Edmonton
 comments: []
 ---
-![In 2028, the city of Edmonton, having finally broken free, sailed the world.](/wp-content/media/2011/03/edmonton-breakaway.jpg "You can leave the politicians, though.")
+![In 2028, the city of Edmonton, having finally broken free, sailed the world.]({{'/wp-content/media/2011/03/edmonton-breakaway.jpg' | relative_url}} "You can leave the politicians, though.")
 
 Let's start the week with some good news, why not?
 

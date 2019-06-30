@@ -25,7 +25,7 @@ tags:
 - Ottawa-Carleton District School Board
 comments: []
 ---
-![Question six: Tell us the secret you're desperately trying to hide from everyone.](/wp-content/media/2010/11/secret-question.jpg "Because we totally can't look up statistics ourselves.")
+![Question six: Tell us the secret you're desperately trying to hide from everyone.]({{'/wp-content/media/2010/11/secret-question.jpg' | relative_url}} "Because we totally can't look up statistics ourselves.")
 
 The Ottawa-Carleton District School Board is handing out surveys to each of its students in grades 7 to 12, asking---among other things---whether or not they're gay.
 

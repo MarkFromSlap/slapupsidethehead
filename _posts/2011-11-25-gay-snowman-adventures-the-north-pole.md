@@ -21,9 +21,9 @@ tags:
 - Gay Snowman Adventures
 comments: []
 ---
-![Gay Snowman Adventures](/wp-content/media/2011/10/gay-snowman-adventures-1.jpg "Gay Snowman Adventures")
+![Gay Snowman Adventures]({{'/wp-content/media/2011/10/gay-snowman-adventures-1.jpg' | relative_url}} "Gay Snowman Adventures")
 
 &nbsp;
 
-![](/wp-content/media/2011/11/gay-snowman-adventures-north-pole.jpg "Don't worry, though. He'll reconstitute somehow.")
+![]({{'/wp-content/media/2011/11/gay-snowman-adventures-north-pole.jpg' | relative_url}} "Don't worry, though. He'll reconstitute somehow.")
 

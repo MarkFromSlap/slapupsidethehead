@@ -26,7 +26,7 @@ tags:
 - Settlements
 comments: []
 ---
-![](/wp-content/media/2010/01/eharmony.jpg "Multiple lawsuits tried to stop me from giving you money, but now who's laughing?")
+![]({{'/wp-content/media/2010/01/eharmony.jpg' | relative_url}} "Multiple lawsuits tried to stop me from giving you money, but now who's laughing?")
 
 eHarmony, a popular online matchmaking service, has settled a lawsuit regarding their refusal to match same-sex couples. The California-based company was taken to court two years ago over its heterosexual-only policy, with the company steadfastly refusing to have any part in matching gay couples throughout most of the suit.
 

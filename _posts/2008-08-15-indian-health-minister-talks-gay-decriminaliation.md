@@ -23,7 +23,7 @@ tags:
 - Anbumani Ramadoss
 comments: []
 ---
-![](/wp-content/media/2008/08/the-decriminizer-2008.jpg "It was late, OK?")
+![]({{'/wp-content/media/2008/08/the-decriminizer-2008.jpg' | relative_url}} "It was late, OK?")
 
 Anbumani Ramadoss, India's Union Health Minister, has garnered praise from the Indian gay community after publically advocating the decriminalisation of homosexuality in the country.
 

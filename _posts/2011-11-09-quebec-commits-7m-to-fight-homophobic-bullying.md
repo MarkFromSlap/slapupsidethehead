@@ -23,7 +23,7 @@ tags:
 - Funding grants
 comments: []
 ---
-![A man rides a pink unicorn through the clouds carrying a Quebec flag.](/wp-content/media/2011/11/quebec-unicorn-rainbow.jpg "It's like this every day in Montreal, actually")
+![A man rides a pink unicorn through the clouds carrying a Quebec flag.]({{'/wp-content/media/2011/11/quebec-unicorn-rainbow.jpg' | relative_url}} "It's like this every day in Montreal, actually")
 
 How about I share some encouraging news for a change? The Québec government has officially launched their _Lutte contre l'homophobie_, a five-year program to combat homophobic bullying and discrimination.
 

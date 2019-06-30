@@ -26,7 +26,7 @@ tags:
 - Exams
 comments: []
 ---
-![Bar exam question case](/wp-content/media/2007/07/bar-exam-case.jpg)
+![Bar exam question case]({{'/wp-content/media/2007/07/bar-exam-case.jpg' | relative_url}})
 
 Stephen Dunne, a 30-year-old Boston man, refused to answer a question on his state's bar exam involving the property rights of a married lesbian couple. After learning he didn't score high enough to pass the exam and earn his lawyer's license, he's now doing the only thing he knows how: He's suing.
 

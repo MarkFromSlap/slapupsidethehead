@@ -26,7 +26,7 @@ tags:
 - Vancouver School Board
 comments: []
 ---
-![Denike and Woo appear in an It Shouldn't Get Better Project video.](/wp-content/media/2012/01/it-shouldnt-get-better.jpg "The It Shouldn't Get Better Project is much older than its counterpart.")
+![Denike and Woo appear in an It Shouldn't Get Better Project video.]({{'/wp-content/media/2012/01/it-shouldnt-get-better.jpg' | relative_url}} "The It Shouldn't Get Better Project is much older than its counterpart.")
 
 Ken Denike and Sophia Woo, two trustees at the Vancouver School Board, were publicly reprimanded last week after misrepresenting the school board's anti-homophobia policy.
 

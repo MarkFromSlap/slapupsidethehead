@@ -25,7 +25,7 @@ tags:
 - Briton
 comments: []
 ---
-![](/wp-content/media/2010/02/pope.jpg "And now I will FEAST ON YOUR LUNGS")
+![]({{'/wp-content/media/2010/02/pope.jpg' | relative_url}} "And now I will FEAST ON YOUR LUNGS")
 
 Pope Benedict XVI issued a strong condemnation against Britain on Monday for enacting legislation protecting gays from workplace and housing discrimination.
 

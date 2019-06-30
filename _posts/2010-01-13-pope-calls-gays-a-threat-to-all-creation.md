@@ -23,7 +23,7 @@ tags:
 - Stupid arguments
 comments: []
 ---
-![](/wp-content/media/2010/01/adventures-in-papal-logic.jpg "This could easily become a series, right?")
+![]({{'/wp-content/media/2010/01/adventures-in-papal-logic.jpg' | relative_url}} "This could easily become a series, right?")
 
 Pope Benedict, speaking to several diplomats in Vatican City last week, called gay men and women---and the laws that protect their human rights---a threat to no less than _all of humankind_.
 

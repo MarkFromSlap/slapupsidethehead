@@ -22,7 +22,7 @@ tags:
 - Spirit Day
 comments: []
 ---
-![Everyone's dressed in purple except for one guy.](/wp-content/media/2010/10/purple-posse.jpg "The Purple Posse")
+![Everyone's dressed in purple except for one guy.]({{'/wp-content/media/2010/10/purple-posse.jpg' | relative_url}} "The Purple Posse")
 
 Today is [Spirit Day](http://www.glaad.org/spiritday "Join the purple posse"), and I'm wearing purple. Anti-gay bullying has always been unacceptable, but with the increased reporting of teen suicides in the past months, people are finally starting to notice the gravity of the problem. In the original Pride flag, the purple stripe represents spirit---something that we will not allow to be extinguished, and that's the essence of Spirit Day.
 

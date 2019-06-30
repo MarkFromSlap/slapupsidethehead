@@ -24,7 +24,7 @@ tags:
 - Bans
 comments: []
 ---
-![Blood Bank](/wp-content/media/2007/05/blood-bank.jpg)
+![Blood Bank]({{'/wp-content/media/2007/05/blood-bank.jpg' | relative_url}})
 
 Despite a recommendation from the Red Cross, the FDA has refused to lift their ban on gay blood donors.
 

@@ -25,7 +25,7 @@ tags:
 - New Brunswick Conservatives
 comments: []
 ---
-![The Eleventh Commandment](/wp-content/media/2007/03/eleventh-commandment.jpg)
+![The Eleventh Commandment]({{'/wp-content/media/2007/03/eleventh-commandment.jpg' | relative_url}})
 
 I guess there's an ill-reported _eleventh commandment_ to note!
 

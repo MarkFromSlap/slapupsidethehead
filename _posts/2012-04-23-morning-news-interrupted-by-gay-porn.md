@@ -23,7 +23,7 @@ tags:
 - CHCH
 comments: []
 ---
-![A man looks very happy while eating his breakfast in front of the television.](/wp-content/media/2012/04/chch-porn-news.jpg "Good morning!")
+![A man looks very happy while eating his breakfast in front of the television.]({{'/wp-content/media/2012/04/chch-porn-news.jpg' | relative_url}} "Good morning!")
 
 Television viewers in Hamilton, Ontario last week found their breakfast interrupted (_enhanced?_) by nearly three minutes of "eye-popping hardcore gay pornography."
 

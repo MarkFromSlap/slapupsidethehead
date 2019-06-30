@@ -25,7 +25,7 @@ tags:
 - Food
 comments: []
 ---
-![Cock: Does eating it make you gay?](/wp-content/media/2010/04/cock.jpg "There was nothing I could do to resist this joke, sorry.")
+![Cock: Does eating it make you gay?]({{'/wp-content/media/2010/04/cock.jpg' | relative_url}} "There was nothing I could do to resist this joke, sorry.")
 
 Evo Morales, the president of Bolivia, has cocked many-an-eyebrow this week after declaring that eating chicken will turn straight men gay.
 

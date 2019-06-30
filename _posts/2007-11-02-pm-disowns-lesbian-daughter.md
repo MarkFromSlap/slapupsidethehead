@@ -22,7 +22,7 @@ tags:
 - Hun Sen
 comments: []
 ---
-![First Daughter](/wp-content/media/2007/11/first-daughter.jpg)
+![First Daughter]({{'/wp-content/media/2007/11/first-daughter.jpg' | relative_url}})
 
 Here's a tidbit delivered to recent school graduates by Cambodian Prime Minister Hun Sen on Tuesday:
 

@@ -26,7 +26,7 @@ tags:
 - Fondation &Atilde;&permil;mergence
 comments: []
 ---
-![Poster Censor](/wp-content/media/2008/06/poster-censor.jpg "And happy faces symbolize... forbidden badness.")
+![Poster Censor]({{'/wp-content/media/2008/06/poster-censor.jpg' | relative_url}} "And happy faces symbolize... forbidden badness.")
 
 The Mission Public School District in B.C. has banned an anti-homophobia poster from all of its staff rooms for the second time in two years. The poster, which was to be displayed in locations only visible to staff members, featured a gloved hand holding a medical syringe accompanied by the tag line "homosexuality is not an illness."
 

@@ -25,9 +25,9 @@ tags:
 - Ken Epp
 comments: []
 ---
-![Annual Robot Show](/wp-content/media/2007/01/annual_robot_show.jpg)
+![Annual Robot Show]({{'/wp-content/media/2007/01/annual_robot_show.jpg' | relative_url}})
 
-![Retroactive Slap](/wp-content/media/2006/07/retroactive.jpg "Retroactive Slap")Every now and then I come across an argument against same-sex marriage that's _so_ unbelievably illogical, it transcends time itself. And, so, I begin this **_retroactive slap_** with a [Hansard](http://en.wikipedia.org/wiki/Hansard "Invaluable, for those who are bored enough to search it")-recorded question by Maurice Vellacott (Tory MP for Saskatoon-Wanuskewin):
+![Retroactive Slap]({{'/wp-content/media/2006/07/retroactive.jpg' | relative_url}} "Retroactive Slap")Every now and then I come across an argument against same-sex marriage that's _so_ unbelievably illogical, it transcends time itself. And, so, I begin this **_retroactive slap_** with a [Hansard](http://en.wikipedia.org/wiki/Hansard "Invaluable, for those who are bored enough to search it")-recorded question by Maurice Vellacott (Tory MP for Saskatoon-Wanuskewin):
 
 > Unless I missed something in history, and I am certainly open to being enlightened, has there ever been a time where, when extending the right to vote, women have been termed men?
 

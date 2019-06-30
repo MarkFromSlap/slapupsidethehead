@@ -25,7 +25,7 @@ tags:
 - Murray Coren
 comments: []
 ---
-![Super Helicopter Mom! Assuming the authority to hover over ALL students and regulate their elective studies.](/wp-content/media/2011/05/super-helicopter-mom.jpg "It's an annoying bird! It's an annoying plane! It's...")
+![Super Helicopter Mom! Assuming the authority to hover over ALL students and regulate their elective studies.]({{'/wp-content/media/2011/05/super-helicopter-mom.jpg' | relative_url}} "It's an annoying bird! It's an annoying plane! It's...")
 
 The British Columbia Supreme Court has ruled that a pending human rights challenge regarding a cancelled, optional high school course can go ahead, despite concentrated lobbying efforts by a few parents and lobbyists.
 

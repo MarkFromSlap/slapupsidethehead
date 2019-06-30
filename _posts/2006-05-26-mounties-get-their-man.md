@@ -24,7 +24,7 @@ tags:
 - David Connors
 comments: []
 ---
-![Mountie gets his man](/wp-content/media/2006/05/mounties.jpg)
+![Mountie gets his man]({{'/wp-content/media/2006/05/mounties.jpg' | relative_url}})
 
 Adorable news! The [RCMP](http://www.rcmp-grc.gc.ca/ "That's Royal Canadian Mounted Police") will be celebrating their first official same-sex marriage ceremony this summer! Longtime couple Const. Jason Tree and Const. David Connors will be exchanging vows in full Mountie getup on June 30th, although they haven't decided if they want an honour guard performed for them.
 

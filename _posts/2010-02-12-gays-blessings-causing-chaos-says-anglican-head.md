@@ -24,7 +24,7 @@ tags:
 - Rowan Williams
 comments: []
 ---
-![](/wp-content/media/2010/02/chaos.jpg "Chaos! CHAOS, I TELL YOU!")
+![]({{'/wp-content/media/2010/02/chaos.jpg' | relative_url}} "Chaos! CHAOS, I TELL YOU!")
 
 Archbishop of Canterbury Rowan Williams has warned that gay blessings and the ordination of women in the Anglican church had caused "chaos."
 

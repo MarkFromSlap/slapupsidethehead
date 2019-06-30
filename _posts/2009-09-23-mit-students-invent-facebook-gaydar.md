@@ -24,7 +24,7 @@ tags:
 - Privacy
 comments: []
 ---
-![No, I will not let you live this down, Microsoft!](/wp-content/media/2009/09/paperclip-gaydar.jpg "No, I will not let you live this down, Microsoft!")
+![No, I will not let you live this down, Microsoft!]({{'/wp-content/media/2009/09/paperclip-gaydar.jpg' | relative_url}} "No, I will not let you live this down, Microsoft!")
 
 Students at MIT have written a program that identifies gay men through a simple analysis of their Facebook profiles. The program, which has been lovingly dubbed the Gaydar Project, accurately verifies the sexual orientation of people who use the social networking service by looking at the "interested in" field of their friends, and weighing the numbers accordingly. The program's interpretation was correct for all students independently known to be gay, even when their profiles didn't mention it explicitly.
 

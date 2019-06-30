@@ -24,7 +24,7 @@ tags:
 - Ranvinder Robbie Bassi
 comments: []
 ---
-![Man runs off in the distance](/wp-content/media/2010/07/coward.jpg "Hit and run")
+![Man runs off in the distance]({{'/wp-content/media/2010/07/coward.jpg' | relative_url}} "Hit and run")
 
 Parminder Singh Peter Bassi and Ravinder Robbie Bassi, two gay bashers facing charges for a vicious assault on a Vancouver gay couple after urinating on their house, have skipped out on their first scheduled court appearance.
 

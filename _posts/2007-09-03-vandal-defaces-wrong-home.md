@@ -24,7 +24,7 @@ tags:
 - Newfoundland
 comments: []
 ---
-![Anti-Gay Vandal](/wp-content/media/2007/09/home-vandal.jpg)
+![Anti-Gay Vandal]({{'/wp-content/media/2007/09/home-vandal.jpg' | relative_url}})
 
 A St. John's family was shocked and disturbed Thursday morning to find their home and vehicle defaced with homophobic graffiti. The words "fag," "queer," and various other profanities were spray-painted across the family's property in large, black letters. The kicker: no one in the home identifies as gay.
 

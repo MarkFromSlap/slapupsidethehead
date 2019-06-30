@@ -25,7 +25,7 @@ tags:
 - Margaret Somerville
 comments: []
 ---
-![Pride Week Quiz](/wp-content/media/2006/06/pride_quiz.jpg)
+![Pride Week Quiz]({{'/wp-content/media/2006/06/pride_quiz.jpg' | relative_url}})
 
 It's that time of year! Cities everywhere are celebrating Pride, and Canada's largest, [Toronto Pride Week](http://www.pridetoronto.com/ "I was there last year; it was amazing!"), is exactly one week away! But one urban university---located a stone-throw away from the heart of Toronto's vibrant gay community---is celebrating in a very _special_ way.
 
@@ -33,7 +33,7 @@ It's that time of year! Cities everywhere are celebrating Pride, and Canada's la
 
 Anyway, Margaret---actually, shall we call her Margey? Margey is an "ethicist" and played a vital role in the equal marriage debate's losing anti-gay side. Uh, let me see if I can recall her arguments here...
 
-![Margaret Somerville](/wp-content/media/2006/06/margaret_somerville.jpg)
+![Margaret Somerville]({{'/wp-content/media/2006/06/margaret_somerville.jpg' | relative_url}})
 
 Oh, yes, of course. Margey [claimed](http://www.catholiceducation.org/articles/homosexuality/ho0062.html "Warning: Anti-gay link") that children of same-sex parents (whom she calls " **gaybies** ," I kid you not) lose their fundamental human rights through same-sex marriage. Oh, but "civil unions" for same-sex couples are OK with her. You know, because "civil unioned" couples can provide _so_ much more for children than couples under the "marriage" label.
 

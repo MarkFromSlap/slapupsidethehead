@@ -24,7 +24,7 @@ tags:
 - Taylor Center
 comments: []
 ---
-![Thomas Amons sits with his hands folded beside a red button:](/wp-content/media/2012/09/blow-up-everything.jpg "I never thought it would come to this, but... a gay student?")
+![Thomas Amons sits with his hands folded beside a red button:]({{'/wp-content/media/2012/09/blow-up-everything.jpg' | relative_url}} "I never thought it would come to this, but... a gay student?")
 
 The lengths people go to in order to stop gay people from enjoying their life...
 

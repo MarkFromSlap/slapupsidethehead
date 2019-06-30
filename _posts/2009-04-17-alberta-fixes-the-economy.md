@@ -23,7 +23,7 @@ tags:
 - Health
 comments: []
 ---
-![Finally the interest rate of my savings account will go back to normal](/wp-content/media/2009/04/economy-solved.jpg "Finally the interest rate of my savings account will go back to normal")
+![Finally the interest rate of my savings account will go back to normal]({{'/wp-content/media/2009/04/economy-solved.jpg' | relative_url}} "Finally the interest rate of my savings account will go back to normal")
 
 The province of Alberta has completely eliminated all forms of gender reassignment surgery from its public health care, cloaked as a cost-saving measure to improve the economy. The surgery, which was recommended to about twelve Albertans per year, can demonstrably improve the lives of transgendered individuals at virtually no cost to the health care system.
 

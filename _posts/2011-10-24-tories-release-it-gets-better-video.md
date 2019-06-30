@@ -24,7 +24,7 @@ tags:
 - It Gets Better Project
 comments: []
 ---
-![Vic Toews declares:](/wp-content/media/2011/10/vic-toews-it-gets-better.jpg "A lot of gall...")
+![Vic Toews declares:]({{'/wp-content/media/2011/10/vic-toews-it-gets-better.jpg' | relative_url}} "A lot of gall...")
 
 The federal Conservative party has released an "It Gets Better" video, telling GLBT teens to stick through the tough times after another bullying-related suicide made headlines last week.
 

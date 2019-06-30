@@ -20,5 +20,5 @@ categories:
 tags: []
 comments: []
 ---
-![Mario stands beside a heartbroken Toad, who asks:](/wp-content/media/2011/11/in-another-castle.jpg "Awww... (In a gravelly voice)")
+![Mario stands beside a heartbroken Toad, who asks:]({{'/wp-content/media/2011/11/in-another-castle.jpg' | relative_url}} "Awww... (In a gravelly voice)")
 

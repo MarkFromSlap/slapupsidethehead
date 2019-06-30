@@ -25,7 +25,7 @@ tags:
 - Hate speech
 comments: []
 ---
-![Next up on Whatcott Brain-o-Vision: GAY! GAY! GAY! Followed by: GAAAAAAAAAAAY!](/wp-content/media/2010/11/whatcott-brain-o-vision.jpg "You're watching Whatcott Brain-o-Vision: All gay, all the time.")
+![Next up on Whatcott Brain-o-Vision: GAY! GAY! GAY! Followed by: GAAAAAAAAAAAY!]({{'/wp-content/media/2010/11/whatcott-brain-o-vision.jpg' | relative_url}} "You're watching Whatcott Brain-o-Vision: All gay, all the time.")
 
 Bill Whatcott, Canada's most strangely obsessed anti-gay activist, will soon be the subject of quizzical contemplation by Canada's highest court.
 

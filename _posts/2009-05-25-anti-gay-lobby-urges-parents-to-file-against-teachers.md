@@ -26,7 +26,7 @@ tags:
 - Bill 44
 comments: []
 ---
-![No](/wp-content/media/2009/05/sex-ed-class.jpg "No ")
+![No]({{'/wp-content/media/2009/05/sex-ed-class.jpg' | relative_url}} "No ")
 
 One of Canada's largest anti-gay lobby groups is seizing on Alberta's Bill 44, a proposed amendment to the Human Rights Act that would [disallow teachers from mentioning or discussing gay topics](http://www.slapupsidethehead.com/2009/05/teachers-forced-to-warn-parents-of-gay-material/ "I'd tell you more, but I need your parent's permission first.") in front of students that did not receive parental permission.
 

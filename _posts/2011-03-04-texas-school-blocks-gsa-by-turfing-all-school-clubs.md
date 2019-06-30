@@ -29,7 +29,7 @@ tags:
 - Flour Bluff Intermediate School
 comments: []
 ---
-![A guy wearing an](/wp-content/media/2011/03/everythings-bigot-in-texas.jpg "Everything's Bigot in Texas")
+![A guy wearing an]({{'/wp-content/media/2011/03/everythings-bigot-in-texas.jpg' | relative_url}} "Everything's Bigot in Texas")
 
 Flour Bluff Intermediate School---a high school in Corpus Christi, Texas---has shut down all its extracurricular clubs after a student requested the formation of a Gay-Straight Alliance, a peer support group that encourages tolerance and anti-bullying initiatives.
 

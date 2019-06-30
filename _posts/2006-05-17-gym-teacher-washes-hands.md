@@ -28,7 +28,7 @@ tags:
 - Unjust firings
 comments: []
 ---
-![Aaaaah! The Gays!](/wp-content/media/2006/05/snap_accusation.jpg)
+![Aaaaah! The Gays!]({{'/wp-content/media/2006/05/snap_accusation.jpg' | relative_url}})
 
 Lindsay Willow is a gym teacher. She is also a lesbian. One fine September, Ms. Willow was busy organizing an equipment storage room with a student helper. After the room was all tidy, they both washed their hands and stepped into the hallway. The end.
 

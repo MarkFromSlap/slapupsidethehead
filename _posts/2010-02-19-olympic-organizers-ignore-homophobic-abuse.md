@@ -24,7 +24,7 @@ tags:
 - Harassment
 comments: []
 ---
-![](/wp-content/media/2010/02/agent-mannequin.jpg "Gotta keep up appearances, you know.")
+![]({{'/wp-content/media/2010/02/agent-mannequin.jpg' | relative_url}} "Gotta keep up appearances, you know.")
 
 A man who was harassed with homophobic slurs and physical assaults by a woman at the Vancouver Olympics opening ceremonies is wondering why the venue's ushers, security, and organizers have ignored the whole incident.
 

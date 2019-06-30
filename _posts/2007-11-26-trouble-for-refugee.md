@@ -24,7 +24,7 @@ tags:
 - Nicaragua
 comments: []
 ---
-![Deportation](/wp-content/media/2007/11/deportation.jpg)
+![Deportation]({{'/wp-content/media/2007/11/deportation.jpg' | relative_url}})
 
 Alvaro Orozco, a gay refugee facing deportation to Nicaragua, is struggling to remain in Canada after his home country has started the process to decriminalize gay sex. While the reversal of Nicaragua's invasive and discriminatory law is ultimately good news for gays in the country, homophobia and violence remains a problem.
 

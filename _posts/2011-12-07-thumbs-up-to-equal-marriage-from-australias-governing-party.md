@@ -24,7 +24,7 @@ tags:
 - Julia Gillard
 comments: []
 ---
-![Crocodile Dundee waves a magic rainbow wand, shooting sparkles at a mugger.](/wp-content/media/2011/12/dundee.jpg "Yes, there are more relevant references out there than Crocodile Dundee, but none are quite as likely to annoy Australians. ;)")
+![Crocodile Dundee waves a magic rainbow wand, shooting sparkles at a mugger.]({{'/wp-content/media/2011/12/dundee.jpg' | relative_url}} "Yes, there are more relevant references out there than Crocodile Dundee, but none are quite as likely to annoy Australians. ;)")
 
 The Australian Labor Party officially adopted policies in support of full equal marriage rights for same-sex couples last week.
 

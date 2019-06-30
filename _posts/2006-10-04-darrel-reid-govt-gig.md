@@ -23,7 +23,7 @@ tags:
 - Rona Ambrose
 comments: []
 ---
-![Chief of Staff, Darrel Reid](/wp-content/media/2006/10/chief_of_staff.jpg)
+![Chief of Staff, Darrel Reid]({{'/wp-content/media/2006/10/chief_of_staff.jpg' | relative_url}})
 
 Conservative Environment Minister Rona Ambrose quietly appointed the president of a notorious anti-gay lobby group as her new Chief of Staff last week.
 

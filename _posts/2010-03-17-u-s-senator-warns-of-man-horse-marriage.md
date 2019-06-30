@@ -24,7 +24,7 @@ tags:
 - J.D. Hayworth
 comments: []
 ---
-![](/wp-content/media/2010/03/mareage-contract.jpg "My dear Winnie.")
+![]({{'/wp-content/media/2010/03/mareage-contract.jpg' | relative_url}} "My dear Winnie.")
 
 J.D. Hayworth, Senator John McCain's primary challenger in the United State's upcoming senate elections, is trying to ban same-sex marriage nationwide. Rather than offering any reasons why gay marriage is bad (they are awfully hard to come by, after all), he had this explanation:
 

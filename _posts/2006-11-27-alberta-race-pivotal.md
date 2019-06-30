@@ -24,7 +24,7 @@ tags:
 - Votes
 comments: []
 ---
-![Alberta Leadership Race](/wp-content/media/2006/11/ab_leadership_race.jpg)
+![Alberta Leadership Race]({{'/wp-content/media/2006/11/ab_leadership_race.jpg' | relative_url}})
 
 So how far can hysterical anti-gayness get you in a race for Alberta's premier? Well, pretty far, actually!
 

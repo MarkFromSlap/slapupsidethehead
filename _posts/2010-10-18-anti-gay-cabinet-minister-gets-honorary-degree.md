@@ -25,7 +25,7 @@ tags:
 - Erin Larson
 comments: []
 ---
-![This illustration is to certify Vic Toews as the first recipient of an Honorary Slap.](/wp-content/media/2010/10/honorary-slap-vic-toews.jpg "Slap of Honour")
+![This illustration is to certify Vic Toews as the first recipient of an Honorary Slap.]({{'/wp-content/media/2010/10/honorary-slap-vic-toews.jpg' | relative_url}} "Slap of Honour")
 
 Conservative MP Vic Toews, the Minister of Public Saftey, was awarded an honorary Law degree from the University of Winnipeg yesterday admist student protest. Standing on stage with Toews, valedictorian Erin Larson said she was not proud of the University's decision to confer the degree, adding that the school had lost its integrity. Outside, students protested with signs.
 

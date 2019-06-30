@@ -22,7 +22,7 @@ tags:
 - Hate crimes
 comments: []
 ---
-![I've got nothing witty to say about this.](/wp-content/media/2009/06/hate-crimes-climb.jpg "I've got nothing witty to say about this.")
+![I've got nothing witty to say about this.]({{'/wp-content/media/2009/06/hate-crimes-climb.jpg' | relative_url}} "I've got nothing witty to say about this.")
 
 The number of bias-motivated, anti-gay murders in the United States rose 28% last year, reaching its highest level since 1999 according to a report released by a national advocacy coalition. The research, which was coordinated by a group called the New York City Anti-Violence Project, also found a general trend of increasingly severe violence toward GLBT people.
 

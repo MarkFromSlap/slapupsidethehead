@@ -22,7 +22,7 @@ tags:
 - Saskatchewan
 comments: []
 ---
-![They used to have a door-to-door campaign, but it resulted in too many damaged contact lenses.](/wp-content/media/2009/07/eyepokitarian.jpg "They used to have a door-to-door campaign, but it resulted in too many damaged contact lenses.")
+![They used to have a door-to-door campaign, but it resulted in too many damaged contact lenses.]({{'/wp-content/media/2009/07/eyepokitarian.jpg' | relative_url}} "They used to have a door-to-door campaign, but it resulted in too many damaged contact lenses.")
 
 The conservative Saskatchewan Party has decided to introduce legislation that will allow government-licensed civil marriage commissioners to deny their services to same-sex couples in the province.
 

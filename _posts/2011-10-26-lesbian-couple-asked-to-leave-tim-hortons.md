@@ -26,7 +26,7 @@ tags:
 - Patricia Pattenden
 comments: []
 ---
-![A Tim Hortons manager approaches a lesbian couple, saying:](/wp-content/media/2011/10/tim-hortons-eviction.jpg "With apologies to non-Canadian readers who will have no idea what's going on here.")
+![A Tim Hortons manager approaches a lesbian couple, saying:]({{'/wp-content/media/2011/10/tim-hortons-eviction.jpg' | relative_url}} "With apologies to non-Canadian readers who will have no idea what's going on here.")
 
 A young lesbian couple was asked to leave a Tim Hortons restaurant in Blenheim, Ontario after a pastor complained to the manager that the two were kissing.
 

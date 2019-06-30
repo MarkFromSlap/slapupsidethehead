@@ -26,7 +26,7 @@ tags:
 - Mark Scott
 comments: []
 ---
-![](/wp-content/media/2008/11/homophobe.jpg "This may be too generous a depiction.")
+![]({{'/wp-content/media/2008/11/homophobe.jpg' | relative_url}} "This may be too generous a depiction.")
 
 A court date has been set for a violent attacker who assaulted a lesbian couple as they were picking up their children from elementary school in Oshawa. The attack, which bloodied one of the mothers, was witnessed by numerous children, including the assailant's own son.
 

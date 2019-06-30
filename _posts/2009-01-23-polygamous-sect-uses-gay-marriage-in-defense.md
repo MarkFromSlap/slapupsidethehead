@@ -27,7 +27,7 @@ tags:
 - Stupid arguments
 comments: []
 ---
-![Gee, what happened to all those people defending religious freedom?](/wp-content/media/2009/01/polygamy-justification.jpg "Gee, what happened to all those people defending religious freedom?")
+![Gee, what happened to all those people defending religious freedom?]({{'/wp-content/media/2009/01/polygamy-justification.jpg' | relative_url}} "Gee, what happened to all those people defending religious freedom?")
 
 The leaders of a religious, polygamous sect in Bountiful, British Columbia will use same-sex marriage as a court defense in a trial that could see them jailed for having up to 20 wives. Winston Blackmore and James Oler will claim that since gay couples can wed legally, polygamy laws should be struck down as invalid.
 

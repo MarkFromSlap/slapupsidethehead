@@ -26,7 +26,7 @@ tags:
 - Parents' Voice
 comments: []
 ---
-![A campaign ad for Parent's Voice, featuring a chiuaua with the slogan:](/wp-content/media/2011/11/parents-voice-campaign.jpg "Although this image is deeply unfair to Chiauaus, which are no where near as annoying as Parent's Voice.")
+![A campaign ad for Parent's Voice, featuring a chiuaua with the slogan:]({{'/wp-content/media/2011/11/parents-voice-campaign.jpg' | relative_url}} "Although this image is deeply unfair to Chiauaus, which are no where near as annoying as Parent's Voice.")
 
 Parent's Voice, the municipal political party whose [sole purpose](http://www.slapupsidethehead.com/2011/10/parents-start-new-party-against-school-anti-bullying-policies/ "Parents Start New Party Against School Anti-Bullying Policies") revolved around revoking the Burnaby District School Board's anti-homophobia and anti-bullying policy, has been soundly defeated.
 

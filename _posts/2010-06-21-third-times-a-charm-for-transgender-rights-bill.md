@@ -25,7 +25,7 @@ tags:
 - Bills
 comments: []
 ---
-![An unstoppable trans machine: a cybernetic transbot](/wp-content/media/2010/06/robotrans.jpg "She won't quit until everyone gets their rights")A private member's bill that would explicitly add human rights protections for transgender and transsexual persons has made it past second reading in the House of Commons this month.
+![An unstoppable trans machine: a cybernetic transbot]({{'/wp-content/media/2010/06/robotrans.jpg' | relative_url}} "She won't quit until everyone gets their rights")A private member's bill that would explicitly add human rights protections for transgender and transsexual persons has made it past second reading in the House of Commons this month.
 
 This is the third time that Bill Siksay has attempted to add these protections into Canada's Human Rights Act and Criminal Code. The previous attempts had been thwarted when parliament was strategically suspended by the Conservative Party, once for an election, and again when parliament was prorogued in January.
 

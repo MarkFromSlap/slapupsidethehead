@@ -24,7 +24,7 @@ tags:
 - Ottawa
 comments: []
 ---
-![Blessed Oven Mitt and Homosexual](/wp-content/media/2007/10/blessed-oven-mit-and-homosexual.jpg)
+![Blessed Oven Mitt and Homosexual]({{'/wp-content/media/2007/10/blessed-oven-mit-and-homosexual.jpg' | relative_url}})
 
 Ottawa Anglicans have voted to allow priests to approach the bishop to request that they can bless same-sex couples.
 

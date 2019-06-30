@@ -23,7 +23,7 @@ tags:
 - Europe
 comments: []
 ---
-![Illustration is blocked by a sign 'Due to a lack of EU consensus, your right to see this is revoked.'](/wp-content/media/2010/06/too-controversial.jpg "This is an illustration you can live your life by")
+![Illustration is blocked by a sign 'Due to a lack of EU consensus, your right to see this is revoked.']({{'/wp-content/media/2010/06/too-controversial.jpg' | relative_url}} "This is an illustration you can live your life by")
 
 A European human rights court has ruled that the legality of same-sex unions should be left up to individual European countries since there is no Europe-wide consensus on whether or not equal marriage recognition for everyone is a fundamental right.
 

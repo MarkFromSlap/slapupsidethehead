@@ -25,7 +25,7 @@ tags:
 - Doug Elniski
 comments: []
 ---
-![Actual photos from the parade](/wp-content/media/2009/06/alberta-pride-guest.jpg "Actual photos from the parade")
+![Actual photos from the parade]({{'/wp-content/media/2009/06/alberta-pride-guest.jpg' | relative_url}} "Actual photos from the parade")
 
 When Edmonton's Pride Parade organisers invited Conservative MLA Doug Elniski to join in the festivities last week and be among the first-ever Tory participants, they probably hadn't guessed he'd be Twittering and posting to his conservative blog at the same time. While waving to the crowd alongside three of his colleagues, Elniski proceeded to mock the event and its participants in real-time on his public Twitter account. Class act, that Doug!
 

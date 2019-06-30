@@ -23,7 +23,7 @@ tags:
 - Society for the Protection of Unborn Children
 comments: []
 ---
-![A man with green hair, being eaten by an alien, holds his grape-producing tree-like arm in the air so an ostrich with a vacuum cleaner can suck up the grapes.](/wp-content/media/2012/09/makes-sense.jpg "Christmas Cheer")
+![A man with green hair, being eaten by an alien, holds his grape-producing tree-like arm in the air so an ostrich with a vacuum cleaner can suck up the grapes.]({{'/wp-content/media/2012/09/makes-sense.jpg' | relative_url}} "Christmas Cheer")
 
 The Society for the Protection of Unborn Children (SPUC), an anti-choice and anti-gay lobby group based in the UK, has distributed fliers suggesting that legal same-sex marriage will lead to an increased number of abortions.
 

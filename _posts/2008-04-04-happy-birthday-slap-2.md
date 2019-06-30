@@ -21,7 +21,7 @@ tags:
 - Anniversaries
 comments: []
 ---
-![Happy Birthday, Slap!](/wp-content/media/2008/04/happy-birthday-slap.png "For the graph geek in all of us...")
+![Happy Birthday, Slap!]({{'/wp-content/media/2008/04/happy-birthday-slap.png' | relative_url}} "For the graph geek in all of us...")
 
 Can you believe it? Tomorrow is **Slap Upside The Head**'s second anniversary!
 

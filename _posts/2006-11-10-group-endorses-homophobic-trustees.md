@@ -25,7 +25,7 @@ tags:
 - Rob McNeil
 comments: []
 ---
-![School Board Monster](/wp-content/media/2006/11/school_board_monster.jpg)
+![School Board Monster]({{'/wp-content/media/2006/11/school_board_monster.jpg' | relative_url}})
 
 Remember the obsessively anti-gay lobby group Defend Traditional Marriage and Family? (They're the ones who [publicly demanded](http://www.slapupsidethehead.com/2006/10/counseling-centre-attacked/ "Heaven forbid that gay people actually meet to discuss matters!") that a _non-religious_ counseling centre stop providing meeting space to a gay rights group.) Well, now they're pestering candidates for their local **public** school board with homophobic questionnaires!
 

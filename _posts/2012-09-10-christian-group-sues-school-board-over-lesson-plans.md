@@ -25,7 +25,7 @@ tags:
 - Parental Rights in Education Defense Fund
 comments: []
 ---
-![A man dressed in black guards an encyclopedia.](/wp-content/media/2012/09/encyclopedia-guard.jpg "You are only permitted to read pages 6, 42, and 518.")
+![A man dressed in black guards an encyclopedia.]({{'/wp-content/media/2012/09/encyclopedia-guard.jpg' | relative_url}} "You are only permitted to read pages 6, 42, and 518.")
 
 A group calling itself the "Parental Rights in Education Defense Fund" along with an anonymous "beleaguered parent" is suing the Ontario school system for not providing advance notice of gay subject matter.
 

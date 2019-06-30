@@ -25,7 +25,7 @@ tags:
 - United States
 comments: []
 ---
-![Say, Mark? How did you spend your evening? Oh, you know, the usual... sketching, inking, and painting a computer keyboard in three-point perspective before resizing it in such a way that you can barely see the joke.](/wp-content/media/2009/02/lifesite-keyboard.jpg "Say, Mark? How did you spend your evening? Oh, you know, the usual... sketching, inking, and painting a computer keyboard in three-point perspective before resizing it in such a way that you can barely see the joke.")
+![Say, Mark? How did you spend your evening? Oh, you know, the usual... sketching, inking, and painting a computer keyboard in three-point perspective before resizing it in such a way that you can barely see the joke.]({{'/wp-content/media/2009/02/lifesite-keyboard.jpg' | relative_url}} "Say, Mark? How did you spend your evening? Oh, you know, the usual... sketching, inking, and painting a computer keyboard in three-point perspective before resizing it in such a way that you can barely see the joke.")
 
 A New York judge has ruled that the surviving partner of a same-sex couple married in Canada is entitled to the deceased's estate---as stipulated in his will---without having to involve next of kin in the probate proceedings. It's a barely interesting legal case for very many, terrifically boring reasons, but it does establish some precendent in how all the "death do us part" matters are handled when it comes to foreign same-sex marriages.
 

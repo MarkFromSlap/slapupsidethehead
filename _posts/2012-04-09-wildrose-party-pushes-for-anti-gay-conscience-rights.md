@@ -26,11 +26,11 @@ tags:
 - Wildrose Party
 comments: []
 ---
-![A man asks Danielle Smith what to do with a particular document:](/wp-content/media/2012/04/charter-discussion.jpg "This whole equal rights deal is sure a pain, ain't it?")
+![A man asks Danielle Smith what to do with a particular document:]({{'/wp-content/media/2012/04/charter-discussion.jpg' | relative_url}} "This whole equal rights deal is sure a pain, ain't it?")
 
 &nbsp;
 
-![Shredder from the Ninja Turtles rips the Chater of Rights and Freedoms in half.](/wp-content/media/2012/04/shredder.jpg "GWAARRRHHH!")
+![Shredder from the Ninja Turtles rips the Chater of Rights and Freedoms in half.]({{'/wp-content/media/2012/04/shredder.jpg' | relative_url}} "GWAARRRHHH!")
 
 &nbsp;
 

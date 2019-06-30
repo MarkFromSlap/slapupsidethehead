@@ -23,7 +23,7 @@ tags:
 - Businesses
 comments: []
 ---
-![A Robot Monster gets a bank account.](/wp-content/media/2011/06/robot-monster.jpg "I didn't know he'd fill the bank with bubbles, either.")
+![A Robot Monster gets a bank account.]({{'/wp-content/media/2011/06/robot-monster.jpg' | relative_url}} "I didn't know he'd fill the bank with bubbles, either.")
 
 A gay man found that his bank card was cancelled last week for a very unusual reason: His voice has a higher than normal pitch.
 

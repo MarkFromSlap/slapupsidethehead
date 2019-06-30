@@ -25,7 +25,7 @@ tags:
 - Alfred Baldasaro
 comments: []
 ---
-![](/wp-content/media/2010/01/babies-for-sale.jpg "Need a gayby?")
+![]({{'/wp-content/media/2010/01/babies-for-sale.jpg' | relative_url}} "Need a gayby?")
 
 Alfred Baldasaro, a Republican State Representative for New Hampshire, went on a bizarre rant this week, starting with the accusation that the state government was selling children to gay couples for $10,000 a pop.
 

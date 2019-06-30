@@ -23,7 +23,7 @@ tags:
 - Edward Lee
 comments: []
 ---
-![Guest Slap](/wp-content/media/2007/09/guest-slap.jpg)
+![Guest Slap]({{'/wp-content/media/2007/09/guest-slap.jpg' | relative_url}})
 
 Edward Lee is a student of social work at McGill university, focusing on gay refugee and imigration issues. In Part I of his [two-part series](http://www.slapupsidethehead.com/2007/09/gay-refugee-speaks/ "Read part II, too!"), Ed has agreed to share his stories and insights on Alvaro Orozco, a gay refugee from Nicaragua, who faces immediate deportation from Canada and urgently needs our support.
 

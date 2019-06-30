@@ -23,7 +23,7 @@ tags:
 - Sweden
 comments: []
 ---
-![These guys are a lot more horrifying in movies than they are close up, aren't they?](/wp-content/media/2009/12/blood-cells.jpg "These guys are a lot more horrifying in movies than they are close up, aren't they?")
+![These guys are a lot more horrifying in movies than they are close up, aren't they?]({{'/wp-content/media/2009/12/blood-cells.jpg' | relative_url}} "These guys are a lot more horrifying in movies than they are close up, aren't they?")
 
 Sweden is finally lifting its lifetime ban on gay blood donors, instead implementing a deferral of one year based on responses to questions about sexual practices. The change, which takes place in March, puts Sweden beside several European countries to reverse their gay blood donor bans, a trend applauded by the American Red Cross who called such bans "medically and scientifically unwarranted" in 2007.
 

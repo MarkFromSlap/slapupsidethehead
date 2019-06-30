@@ -26,7 +26,7 @@ tags:
 - Gareth Kirkby
 comments: []
 ---
-![Vampire papers](/wp-content/media/2007/03/vampire-papers.jpg)
+![Vampire papers]({{'/wp-content/media/2007/03/vampire-papers.jpg' | relative_url}})
 
 Won't someone _please_ think of the children!?
 

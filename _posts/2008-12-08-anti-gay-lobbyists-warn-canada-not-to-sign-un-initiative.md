@@ -25,7 +25,7 @@ tags:
 - David Quist
 comments: []
 ---
-![](/wp-content/media/2008/12/hippo-crit.jpg "Now with 25% more propylene bolshytalite.")
+![]({{'/wp-content/media/2008/12/hippo-crit.jpg' | relative_url}} "Now with 25% more propylene bolshytalite.")
 
 David Quist, the executive director of the Institute of Marriage and Family Canada lobby group, has said that Ottawa should reject a UN declaration opposing the criminalization of homosexuality.
 

@@ -23,7 +23,7 @@ tags:
 - Maxime St. Pierre
 comments: []
 ---
-![GWAAAAAAAAHH! Two guys and their dog.](/wp-content/media/2009/12/shock-horror-postcard.jpg "GWAAAAAAAAHH! Two guys and their dog.")
+![GWAAAAAAAAHH! Two guys and their dog.]({{'/wp-content/media/2009/12/shock-horror-postcard.jpg' | relative_url}} "GWAAAAAAAAHH! Two guys and their dog.")
 
 Scott Brison, a gay Nova Scotia MP, sent out some really charming Christmas cards to his constituents this year. The postcard shows Brison and his husband, Maxime St. Pierre, standing in a field along with their golden retriever, Simba.
 

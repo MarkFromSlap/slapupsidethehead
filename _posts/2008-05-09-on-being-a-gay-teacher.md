@@ -21,7 +21,7 @@ tags:
 - Schools
 comments: []
 ---
-![Guest Slap](/wp-content/media/2007/09/guest-slap.jpg)
+![Guest Slap]({{'/wp-content/media/2007/09/guest-slap.jpg' | relative_url}})
 
 I'm extremely pleased to present today's [Guest Slap](http://www.slapupsidethehead.com/category/guest/ "Read other Guest Slaps, too"). The author, who prefers to remain anonymous, is a gay high school science teacher here in Canada. Today, he shares his thoughts and experiences on what it means to be gay in a complex learning environment.
 

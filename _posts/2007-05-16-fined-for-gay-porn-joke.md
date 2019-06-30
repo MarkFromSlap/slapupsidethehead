@@ -23,7 +23,7 @@ tags:
 - Christa Pennie
 comments: []
 ---
-![I (slap) Lame Pranks](/wp-content/media/2007/05/i-slap-lame-pranks.jpg)
+![I (slap) Lame Pranks]({{'/wp-content/media/2007/05/i-slap-lame-pranks.jpg' | relative_url}})
 
 You know how these police busts go down: A police officer gets a warrant to search a house, finds drug evidence, and replaces the subject's computer desktop image with the message: "I â™¥ gay porn."
 

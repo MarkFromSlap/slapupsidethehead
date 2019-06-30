@@ -25,7 +25,7 @@ tags:
 - Civil marriage commissioners
 comments: []
 ---
-![Public Service Guy](/wp-content/media/2008/06/public-service-guy.jpg "Jesus wouldn\'t serve everyone either, apparently")
+![Public Service Guy]({{'/wp-content/media/2008/06/public-service-guy.jpg' | relative_url}} "Jesus wouldn\'t serve everyone either, apparently")
 
 Orville Nichols, a civil marriage commissioner from Saskatchewan, is going to appeal a $2,500 fine he received for refusing to do his job for a gay couple. Nichols claims that performing a non-religious, civil marriage for the gay couple violated his religious beliefs.
 

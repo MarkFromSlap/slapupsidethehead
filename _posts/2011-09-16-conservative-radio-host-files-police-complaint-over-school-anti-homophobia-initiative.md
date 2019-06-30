@@ -27,7 +27,7 @@ tags:
 - Out in Schools
 comments: []
 ---
-![Kari Simpson, Batshit insane.](/wp-content/media/2011/09/kari-simpson.jpg "Cuckoo! Bat poo!")
+![Kari Simpson, Batshit insane.]({{'/wp-content/media/2011/09/kari-simpson.jpg' | relative_url}} "Cuckoo! Bat poo!")
 
 Kari Simpson, an anti-gay activist and conservative radio host, has filed a police complaint against an anti-homophobia program designed to reduce the bullying of LGBT students and foster a safer atmosphere in schools.
 

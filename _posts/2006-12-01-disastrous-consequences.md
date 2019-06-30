@@ -23,7 +23,7 @@ tags:
 - Votes
 comments: []
 ---
-![Same-Sex Marriage Consequences](/wp-content/media/2006/11/marriage_consequences.jpg)
+![Same-Sex Marriage Consequences]({{'/wp-content/media/2006/11/marriage_consequences.jpg' | relative_url}})
 
 December 6th---that's the day the motion to re-open the same-sex marriage debate will be brought forward. The vote itself can happen right then, the day after, or after the Christmas break. And you know what that means! We're one step closer to the **2006/2007 Marriage Debate Drinking Game!**
 

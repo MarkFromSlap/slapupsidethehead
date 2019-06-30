@@ -27,7 +27,7 @@ tags:
 - Connie Kopelov
 comments: []
 ---
-![La Liberté éclairant les Ã‰tats-Unis aprÃ¨s une période d'hibernation](/wp-content/media/2011/07/status-of-liberty-new-title.jpg "Bartholdi's original title")
+![La Liberté éclairant les Ã‰tats-Unis aprÃ¨s une période d'hibernation]({{'/wp-content/media/2011/07/status-of-liberty-new-title.jpg' | relative_url}} "Bartholdi's original title")
 
 Well, I'm back from my vacation abroad, so let's start up again with some short, but welcome news! New York officially started issuing same-sex marriage licenses yesterday, just days after President Barack Obama certified the end of the military's silly "don't ask, don't tell" policy that banned openly gay citizens from serving in the country.
 

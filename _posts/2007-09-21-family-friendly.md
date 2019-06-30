@@ -22,7 +22,7 @@ tags:
 - Family-friendliness
 comments: []
 ---
-![Guest Slap](/wp-content/media/2007/09/guest-slap.jpg)
+![Guest Slap]({{'/wp-content/media/2007/09/guest-slap.jpg' | relative_url}})
 
 deBeauxOs, a mother and regular contributer over at [BirthPangs](http://breadnroses.ca/birthpangs/ "Save Lives! Regulate Pregnancy"), has written an excellent article about the hijacking of the phrase "Family-friendly" by special interest groups. As someone who often feels clubbed over the head with this phrase, I'm extremely pleased that deBeauxOs has agreed to share her post with us today. Her article is reproduced here in its entirety.
 
@@ -42,7 +42,7 @@ Planned Parenthood is NOT family-friendly because it respects: women and men's c
 
 For Better or For Worse is NOT family-friendly because its creator [Lynn Johnston](http://en.wikipedia.org/wiki/Lynn_Johnston "May I call her a 'hero?'") included a sympathetic gay character inspired by her brother-in-law, in her family-oriented comic strip.
 
-![Lawrence is gay](/wp-content/media/2007/09/for-better-or-for-worse.png)
+![Lawrence is gay]({{'/wp-content/media/2007/09/for-better-or-for-worse.png' | relative_url}})
 
 Moms who breast-feed in public places are NOT family-friendly because... because some people say so.
 

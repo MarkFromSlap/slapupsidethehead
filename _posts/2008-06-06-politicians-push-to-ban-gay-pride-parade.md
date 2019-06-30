@@ -25,7 +25,7 @@ tags:
 - Eliyahu Gabbay
 comments: []
 ---
-![Protest protest](/wp-content/media/2008/06/protest-protest.jpg "It's a protest protest")
+![Protest protest]({{'/wp-content/media/2008/06/protest-protest.jpg' | relative_url}} "It's a protest protest")
 
 Religious politicians in Israel are pressuring the government to push through private legislation that will ban gay pride parades in the city of Jerusalem.
 

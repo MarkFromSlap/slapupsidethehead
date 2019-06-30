@@ -23,7 +23,7 @@ tags:
 - Travel
 comments: []
 ---
-![And you must contain less than 100ml of fluid, so you might want to use the washroom.](/wp-content/media/2009/11/airport-security.jpg "And you must contain less than 100ml of fluid, so you might want to use the washroom.")
+![And you must contain less than 100ml of fluid, so you might want to use the washroom.]({{'/wp-content/media/2009/11/airport-security.jpg' | relative_url}} "And you must contain less than 100ml of fluid, so you might want to use the washroom.")
 
 The United States will soon lift a 22-year old travel ban forbidding HIV-positive people from entering the country, even for vacation. The U.S. was one of only twelve countries to ban HIV travelers, sharing the unique distinction with Armenia, Brunei, Iraq, Libya, Moldova, Oman, Qatar, Russia, Saudi Arabia, South Korea, and Sudan.
 

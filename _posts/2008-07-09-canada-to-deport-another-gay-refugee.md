@@ -23,7 +23,7 @@ tags:
 - Jane Okojie
 comments: []
 ---
-![IRB Goggles](/wp-content/media/2008/07/irb-goggles.jpg "And with that, I\'m out of ideas on how to draw these deportation stories.")
+![IRB Goggles]({{'/wp-content/media/2008/07/irb-goggles.jpg' | relative_url}} "And with that, I\'m out of ideas on how to draw these deportation stories.")
 
 Canada is all set to deport Jane Okojie, a bisexual Nigerian woman, because the Immigration and Refugee Board did not believe that her sexuality would be an issue in her home country. Homosexuality is illegal in Nigeria, and those suspected of being gay can be jailed or worse.
 

@@ -23,7 +23,7 @@ tags:
 - Peter Stoffer
 comments: []
 ---
-![Actual WWII photo](/wp-content/media/2009/07/soldier.jpg "Actual WWII photo")
+![Actual WWII photo]({{'/wp-content/media/2009/07/soldier.jpg' | relative_url}} "Actual WWII photo")
 
 NDP MP Peter Stoffer has called on the government to formally apologise to all veterans who were dishonourably discharged from the Canadian army for being gay. Until 1992, gay men and women were not allowed to serve in the military, and anyone found to be gay would be "discharged with ignominy."
 

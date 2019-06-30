@@ -24,7 +24,7 @@ tags:
 - Milk
 comments: []
 ---
-![Gay Brand Homo Milk: Taste The Gay](/wp-content/media/2012/10/gay-brand-milk.jpg "Taste the Gay, Every Day!")
+![Gay Brand Homo Milk: Taste The Gay]({{'/wp-content/media/2012/10/gay-brand-milk.jpg' | relative_url}} "Taste the Gay, Every Day!")
 
 Other countries take note. If you enact crazy anti-gay laws forbidding any positive portrayals of homosexuality, here's what you can expect to happen:
 

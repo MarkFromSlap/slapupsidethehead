@@ -23,7 +23,7 @@ tags:
 - Kirby Dick
 comments: []
 ---
-![Film Ratings](/wp-content/media/2007/01/film_ratings.jpg)
+![Film Ratings]({{'/wp-content/media/2007/01/film_ratings.jpg' | relative_url}})
 
 Well, it looks like REAL Women of Canada and the Canadian Family Action Coalition aren't the only ones with [a grudge](http://www.slapupsidethehead.com/2006/12/nhl-film/ "I wonder how their NHL boycott is going?") against [gay-themed films](http://www.slapupsidethehead.com/2006/09/gay-film-festival/ "Gwen sure hates those gay films"). According to a documentary opening in Toronto this week entitled _This Film is Not Yet Rated_, the consequence of including gay sexuality in a film is nearly always an automatic NC-17 rating by the MPAA.
 

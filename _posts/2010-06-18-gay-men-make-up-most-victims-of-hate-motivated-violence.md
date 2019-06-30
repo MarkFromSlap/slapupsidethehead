@@ -24,7 +24,7 @@ tags:
 - Statistics
 comments: []
 ---
-![Man is crushed by rising column in hate crimes statistic bar chart.](/wp-content/media/2010/06/violent-hate-crimes-distribution.jpg "Why did I stand on top of that column, anyway?")
+![Man is crushed by rising column in hate crimes statistic bar chart.]({{'/wp-content/media/2010/06/violent-hate-crimes-distribution.jpg' | relative_url}} "Why did I stand on top of that column, anyway?")
 
 There has been a noticeable jump in the number of reported hate crimes in Canada in 2008, and gay men top the charts as victims of hate-motivated violence, according to a police services report.
 

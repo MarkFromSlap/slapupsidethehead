@@ -25,7 +25,7 @@ tags:
 - Kiana Firouz
 comments: []
 ---
-![To prove one's gayness, one must identify a ridiculous object](/wp-content/media/2010/05/gay-interrogation.jpg "It's, it's a...")
+![To prove one's gayness, one must identify a ridiculous object]({{'/wp-content/media/2010/05/gay-interrogation.jpg' | relative_url}} "It's, it's a...")
 
 A 29-year-old gay man is going to be deported from Canada to Iran, where he could face death by stoning for charges of sodomy. The young man, identified only as Yaser, had his deportation ordered after the Immigration Refugee Board determined that he could not be gay because he could not identify the rainbow flag and didn't attend a Pride parade.
 

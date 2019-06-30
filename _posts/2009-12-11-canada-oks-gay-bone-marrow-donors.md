@@ -22,7 +22,7 @@ tags:
 - Bone marrow donations
 comments: []
 ---
-![And, no, I'm not sure why a skeleton would be able to donate blood in the first place.](/wp-content/media/2009/12/mister-bonejangles.jpg "And, no, I'm not sure why a skeleton would be able to donate blood in the first place.")
+![And, no, I'm not sure why a skeleton would be able to donate blood in the first place.]({{'/wp-content/media/2009/12/mister-bonejangles.jpg' | relative_url}} "And, no, I'm not sure why a skeleton would be able to donate blood in the first place.")
 
 Canadian Blood Services has gotten a lot of heat for its unscientific ban of gay blood donors, particularly while blood is at a shortage. Gay men are permanently barred for life from donating blood, even if they have been tested and are in monogamous relationships.
 

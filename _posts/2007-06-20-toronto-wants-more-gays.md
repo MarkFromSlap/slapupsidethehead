@@ -23,7 +23,7 @@ tags:
 - Toronto
 comments: []
 ---
-![Toronto Tourist Campaign](/wp-content/media/2007/06/toronto-campaign.jpg)
+![Toronto Tourist Campaign]({{'/wp-content/media/2007/06/toronto-campaign.jpg' | relative_url}})
 
 The city of Toronto has launched an expensive new ad campaign in hopes of attracting gay travelers. The campaign, whose tagline is "as gay as it gets," is primarily targeted toward gays in the U.S.
 

@@ -24,7 +24,7 @@ tags:
 - Mission America
 comments: []
 ---
-![A man in the pose of The Thinker ponders to himself:](/wp-content/media/2011/09/the-thinker.jpg "therefore I'm maybe?")
+![A man in the pose of The Thinker ponders to himself:]({{'/wp-content/media/2011/09/the-thinker.jpg' | relative_url}} "therefore I'm maybe?")
 
 Linda Harvey, an anti-gay activist and lobbyist on behalf of Mission America, has announced that "there is no proof that there's ever anything like a gay, lesbian, or bisexual or transgendered child, or teen, or human."
 

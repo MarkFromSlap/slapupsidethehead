@@ -30,7 +30,7 @@ tags:
 - Health
 comments: []
 ---
-![Parents Gone Wild](/wp-content/media/2009/01/parents-reaction.jpg "Parents Gone Wild")
+![Parents Gone Wild]({{'/wp-content/media/2009/01/parents-reaction.jpg' | relative_url}} "Parents Gone Wild")
 
 Gay youth are at a greater risk of suicide, depression, and self-destructive behaviours if their family reacts negatively when they come out of the closet, a new study has revealed.
 

@@ -25,7 +25,7 @@ tags:
 - Yuri Ageshchev
 comments: []
 ---
-![Gay Filter](/wp-content/media/2007/06/gay-filter.jpg)
+![Gay Filter]({{'/wp-content/media/2007/06/gay-filter.jpg' | relative_url}})
 
 The Union of Orthodox Brotherhoods, a religious group in Russia, has completed a ceremonial procession along the Moscow River to purify the waters after a gay cruise ship sailed down it the previous day.
 

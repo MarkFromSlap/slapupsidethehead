@@ -26,7 +26,7 @@ tags:
 - Church courts
 comments: []
 ---
-![A judge sits below Christian iconography, below the phrase 'Judge not lest ye be judged.'](/wp-content/media/2010/08/church-court.jpg "Church Court: Starring Harry Anderson!")
+![A judge sits below Christian iconography, below the phrase 'Judge not lest ye be judged.']({{'/wp-content/media/2010/08/church-court.jpg' | relative_url}} "Church Court: Starring Harry Anderson!")
 
 A 67-year-old retired minister in San Francisco is facing a courtroom trial for having performed marriage ceremonies for 16 gay couples during the brief period that same-sex marriage was legal in California.
 

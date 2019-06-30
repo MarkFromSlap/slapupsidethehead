@@ -25,7 +25,7 @@ tags:
 - Travis Price
 comments: []
 ---
-![Three students, bundled beyond recognition in winter gear, celebrate Pink Shirt Day](/wp-content/media/2011/02/pink-shirt-day.jpg "In February, maybe Pink Parka Day would have been better?")
+![Three students, bundled beyond recognition in winter gear, celebrate Pink Shirt Day]({{'/wp-content/media/2011/02/pink-shirt-day.jpg' | relative_url}} "In February, maybe Pink Parka Day would have been better?")
 
 Two weeks from today is [Pink Shirt Day](http://www.pinkshirtday.ca/ "Wear a pink T-shirt to help stop bullying"), a movement started in 2007 by two high school students---David Shepherd and Travis Price---after they saw a new student being bullied and harassed for wearing a pink T-shirt. That evening, they purchased as many pink shirts as they could find and then distributed them around the school the next morning, flooding the halls with pink. Since then, the day has become an annual event to help put an end to bullying in schools.
 

@@ -25,7 +25,7 @@ tags:
 - Members of Parliament
 comments: []
 ---
-![I am Con-Tor!](/wp-content/media/2006/08/con-tor.jpg)
+![I am Con-Tor!]({{'/wp-content/media/2006/08/con-tor.jpg' | relative_url}})
 
 OK, in your best "soup nazi" voice: **No reason for you! _Next!_**
 

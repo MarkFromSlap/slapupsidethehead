@@ -22,7 +22,7 @@ tags:
 - Federal Liberals
 comments: []
 ---
-![What if Canada had a Gay Prime Minister?](/wp-content/media/2006/04/gay_prime_minister.jpg)
+![What if Canada had a Gay Prime Minister?]({{'/wp-content/media/2006/04/gay_prime_minister.jpg' | relative_url}})
 
 Cool beans! [Scott Brison](http://www.brison.ca/ "You go, girl!"), Canada's first openly gay federal cabinet minister, has applied for top job! Brison officially threw in his hat for the race to replace former prime minister Paul Martin on Monday. If his leadership bid is successful, and if the Liberals win the next election, Canada may get it's first fabulously gay prime minister!
 

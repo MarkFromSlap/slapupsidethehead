@@ -27,7 +27,7 @@ tags:
 - Brent Bowers
 comments: []
 ---
-![Umpire says he outed himself once, and can out others too](/wp-content/media/2010/08/gay-umpire.jpg "An out joke is the best I could come up with, sorry.")
+![Umpire says he outed himself once, and can out others too]({{'/wp-content/media/2010/08/gay-umpire.jpg' | relative_url}} "An out joke is the best I could come up with, sorry.")
 
 Gay people put up with a lot of abuse. Umpires, too. I imagine, then, it's not easy being a gay umpire. Just ask Billy Van Raaphorst.
 

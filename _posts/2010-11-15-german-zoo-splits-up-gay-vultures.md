@@ -26,7 +26,7 @@ tags:
 - Allwetter Zoo
 comments: []
 ---
-![Vultures attack a zoo keeper](/wp-content/media/2010/11/vultures.jpg "These things are scary enough when they aren't angry.")
+![Vultures attack a zoo keeper]({{'/wp-content/media/2010/11/vultures.jpg' | relative_url}} "These things are scary enough when they aren't angry.")
 
 Let's start the week off with a story about zoo animals. Cuddly ones. Like vultures!
 

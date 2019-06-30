@@ -24,7 +24,7 @@ tags:
 - Campaign Life Coalition
 comments: []
 ---
-![Social Justice ROUNDHOUSE!](/wp-content/media/2007/10/social-justice-roundhouse.jpg)
+![Social Justice ROUNDHOUSE!]({{'/wp-content/media/2007/10/social-justice-roundhouse.jpg' | relative_url}})
 
 Poor James Loney. The Roman Catholic peace activist and former Iraqi hostage has been booted from [yet another](http://www.slapupsidethehead.com/2006/10/church-rescinds-peace-funding/ "So that's what Jesus would do!") Church-sponsored shindig because he's gay.
 

@@ -21,7 +21,7 @@ tags:
 - Margaret Somerville
 comments: []
 ---
-![It's time again for...](/wp-content/media/2009/11/meet-the-anti-gay-lobby.jpg "It's time again for...")
+![It's time again for...]({{'/wp-content/media/2009/11/meet-the-anti-gay-lobby.jpg' | relative_url}} "It's time again for...")
 
 Who'd have thought one could make a career out of being scared of change and gay people? In this [exciting series](http://www.slapupsidethehead.com/category/meet-the-anti-gay-lobby/ "You thought I had forgotten about this, right?") of slaptacular mini-bios, we take a look at the very special, terrified folk who are lobbying against your rights.
 
@@ -33,7 +33,7 @@ Who'd have thought one could make a career out of being scared of change and gay
 
 **Actual quote:**"It's a big mistake to think marriage is really about two adults' public commitment to each other and a declaration of their love."
 
-[caption id="attachment\_3040" align="alignleft" width="250" caption="Margaret Somerville reacts to a gay wedding card at the Hallmark store."] ![Margaret Somerville reacts to a gay wedding card at the Hallmark store.](/wp-content/media/2009/11/margaret-somerville.jpg "Margaret Somerville")[/caption]
+[caption id="attachment\_3040" align="alignleft" width="250" caption="Margaret Somerville reacts to a gay wedding card at the Hallmark store."] ![Margaret Somerville reacts to a gay wedding card at the Hallmark store.]({{'/wp-content/media/2009/11/margaret-somerville.jpg' | relative_url}} "Margaret Somerville")[/caption]
 
 **What she does:** Margaret currently teaches a seminar on torts (not to be confused with tortes, which are much, much tastier) at the law department of McGill university, but is much better known for preparing rich, flaky, anti-gay testimony to go. Margaret has not only testified against same-sex marriage here in Canada, but regularly travels abroad acting as an expert witness to try and stop gay marriage in strange and foreign lands. Margaret calls herself an ethicist, heading the _Centre for Medicine, Ethnics, and Law_---which she created.
 

@@ -27,7 +27,7 @@ tags:
 - Williams Lake
 comments: []
 ---
-![A father angrily calls his son's school, saying that telling students to stop bullying gay kids violates his religion.](/wp-content/media/2010/09/anti-bullying-policy.jpg "I don't think I'll ever understand this logic.")
+![A father angrily calls his son's school, saying that telling students to stop bullying gay kids violates his religion.]({{'/wp-content/media/2010/09/anti-bullying-policy.jpg' | relative_url}} "I don't think I'll ever understand this logic.")
 
 Two more school districts in B.C. have joined in adopting anti-homophobia policies to help put an end to bullying.
 

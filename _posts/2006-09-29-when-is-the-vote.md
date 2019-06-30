@@ -24,7 +24,7 @@ tags:
 - National Marriage Caucus
 comments: []
 ---
-![Same-Sex Marriage Vote In A Box](/wp-content/media/2006/09/marriage-vote-in-a-box.jpg)
+![Same-Sex Marriage Vote In A Box]({{'/wp-content/media/2006/09/marriage-vote-in-a-box.jpg' | relative_url}})
 
 Remember when Stevey promised to hold a free vote on same-sex marriage this autumn? Well, according to the anti-gay lobby, the vote's been moved to winter! (I guess the summer break wasn't long enough for them to convince our MPs that society has been thrust into a _chaotic land of terror_!)
 

@@ -26,7 +26,7 @@ tags:
 - Charitable status
 comments: []
 ---
-![The Wii in the lobby is really a training simulation.](/wp-content/media/2009/02/seniors-centre.jpg "The Wii in the lobby is really a training simulation.")
+![The Wii in the lobby is really a training simulation.]({{'/wp-content/media/2009/02/seniors-centre.jpg' | relative_url}} "The Wii in the lobby is really a training simulation.")
 
 The Pride Centre of Edmonton, a non-profit organisation featuring senior's drop-in activities, a library, mentorship program, clothing bank and youth shelter, is in serious trouble. The centre, which relies entirely on donations, had its charitable status revoked in 2004 after being declared a political organisation by the federal government.
 

@@ -28,7 +28,7 @@ tags:
 - Guy Moody
 comments: []
 ---
-![](/wp-content/media/2010/01/homophobic-landlord.jpg "I'll be here next week to install the dead animal trophies")
+![]({{'/wp-content/media/2010/01/homophobic-landlord.jpg' | relative_url}} "I'll be here next week to install the dead animal trophies")
 
 Edmund Bro and Keith Scott, two gay, physically disabled, HIV-positive tenants in West Vancouver, have won their case with the Human Rights Tribunal over an abusive and homophobic landlord. Each tenant was awarded $15,000 to compensate for their year-and-a-half of relentless harassment from Michael John Moody and his son, Guy.
 

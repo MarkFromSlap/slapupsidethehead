@@ -23,7 +23,7 @@ tags:
 - Robert Mugabe
 comments: []
 ---
-![Hand Holding Arrest](/wp-content/media/2006/07/hand_holding.jpg)
+![Hand Holding Arrest]({{'/wp-content/media/2006/07/hand_holding.jpg' | relative_url}})
 
 Zimbabwe's latest anti-gay law has gone into effect this month, and the "crime" to consequence ratio is _amazing_.
 

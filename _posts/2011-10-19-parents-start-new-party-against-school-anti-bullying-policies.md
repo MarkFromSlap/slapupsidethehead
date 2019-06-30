@@ -30,7 +30,7 @@ tags:
 - Long Xue
 comments: []
 ---
-![A reporter asks a candidate a question:](/wp-content/media/2011/10/school-board-candidate.jpg "We're talking about schools here; how many issues can there be?")
+![A reporter asks a candidate a question:]({{'/wp-content/media/2011/10/school-board-candidate.jpg' | relative_url}} "We're talking about schools here; how many issues can there be?")
 
 A new civic party has been started in Burnaby, British Columbia in direct opposition to some new anti-homophobic bullying initiatives introduced by the Burnaby School Board trustees last June.
 

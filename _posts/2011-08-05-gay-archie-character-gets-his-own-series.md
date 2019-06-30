@@ -22,7 +22,7 @@ tags:
 - Kevin Keller
 comments: []
 ---
-![Jughead](/wp-content/media/2011/08/jughead.jpg "Wait, it's NOT Jughead? But I just finished drawing him and... Aw, forget it.")
+![Jughead]({{'/wp-content/media/2011/08/jughead.jpg' | relative_url}} "Wait, it's NOT Jughead? But I just finished drawing him and... Aw, forget it.")
 
 When I heard that Archie Comics was getting its first openly gay character last autumn, I was floored... that Archie Comics was still around. Not that I have anything against the series, mind you; I just assumed, somehow, that it was like Bazooka Joe, wherein the publishers continually reprint issues created sometime in the 1920s.
 

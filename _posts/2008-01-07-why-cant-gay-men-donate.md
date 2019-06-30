@@ -25,7 +25,7 @@ tags:
 - George Smitherman
 comments: []
 ---
-![Mister Swamp Blood](/wp-content/media/2008/01/mr-swamp-blood.jpg)
+![Mister Swamp Blood]({{'/wp-content/media/2008/01/mr-swamp-blood.jpg' | relative_url}})
 
 Canadian Blood Services is still amidst controversy for its heavy-handed blood donor's questionnaire. Any man who has had sex with another man, even once, since 1977 is permanently banned from donating blood for life---even if he's in a monogamous relationship and practices safe sex.
 

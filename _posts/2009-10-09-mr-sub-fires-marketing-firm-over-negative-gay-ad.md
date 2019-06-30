@@ -24,7 +24,7 @@ tags:
 - Mr. Sub
 comments: []
 ---
-![Although, in all fairness, I don't like subs.](/wp-content/media/2009/10/mr-sub-ad.jpg "Although, in all fairness, I don't like subs.")
+![Although, in all fairness, I don't like subs.]({{'/wp-content/media/2009/10/mr-sub-ad.jpg' | relative_url}} "Although, in all fairness, I don't like subs.")
 
 Mr. Sub, a moderately popular sandwich chain in Canada, has gotten themselves into a tangy, sliced pickle over one of their new television spots. The ad was one of three to be aired over the next year, and I can't help but wonder what it would have been like to be sitting around the boardroom table during the pitch...
 

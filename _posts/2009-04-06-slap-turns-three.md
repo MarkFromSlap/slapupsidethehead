@@ -21,7 +21,7 @@ tags:
 - Anniversaries
 comments: []
 ---
-![Slappy Birthday to me, Slappy birthday to me...](/wp-content/media/2009/04/slappy-birthday-2009.png "Slappy Birthday to me, Slappy birthday to me...")
+![Slappy Birthday to me, Slappy birthday to me...]({{'/wp-content/media/2009/04/slappy-birthday-2009.png' | relative_url}} "Slappy Birthday to me, Slappy birthday to me...")
 
 It's barely believable to me, but yesterday was  **Slap Upside The Head**'s third birthday! If this site were a person, it'd be walking about comfortably and have a pretty decent vocabulary.
 

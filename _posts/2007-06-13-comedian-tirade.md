@@ -24,7 +24,7 @@ tags:
 - Guy Earle
 comments: []
 ---
-![Uh oh; Hecklers.](/wp-content/media/2007/06/hecklers.jpg)
+![Uh oh; Hecklers.]({{'/wp-content/media/2007/06/hecklers.jpg' | relative_url}})
 
 Dealing with hecklers isn't Guy Earle's specialty. When a lesbian couple started kissing during the Vancouver comedian's performance, he decided to draw audience attention to them, prompting drunken heckles. Reportedly, Earle's response wasn't exactly measured:
 

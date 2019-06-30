@@ -26,7 +26,7 @@ tags:
 - Paul Winsor
 comments: []
 ---
-![An atlantic cod is hurled at a terrified young man.](/wp-content/media/2011/01/atlantic-cod-attack.jpg "At least the Glee writers chose slushies instead of this.")
+![An atlantic cod is hurled at a terrified young man.]({{'/wp-content/media/2011/01/atlantic-cod-attack.jpg' | relative_url}} "At least the Glee writers chose slushies instead of this.")
 
 Toronto's Gay Village is a little on edge recently after a rash of slushie attacks.
 

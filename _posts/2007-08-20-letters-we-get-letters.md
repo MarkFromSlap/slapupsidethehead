@@ -22,7 +22,7 @@ tags:
 - Stephen Boisson
 comments: []
 ---
-![Overloaded with work](/wp-content/media/2007/04/tax-overload.jpg "Too much work...")
+![Overloaded with work]({{'/wp-content/media/2007/04/tax-overload.jpg' | relative_url}} "Too much work...")
 
 Hey kids! I'm a tad overworked today, but that shall not stop me from answering some reader mail! (Gee, I hope no one notices the re-used illustration.)
 

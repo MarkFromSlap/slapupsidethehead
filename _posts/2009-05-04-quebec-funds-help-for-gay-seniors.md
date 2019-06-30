@@ -22,7 +22,7 @@ tags:
 - Seniors
 comments: []
 ---
-![It's either here or Unbridled Horror Meadows](/wp-content/media/2009/05/terrifying-antagonism-hills.jpg "It's either here or Unbridled Horror Meadows")
+![It's either here or Unbridled Horror Meadows]({{'/wp-content/media/2009/05/terrifying-antagonism-hills.jpg' | relative_url}} "It's either here or Unbridled Horror Meadows")
 
 Gay seniors have had to endure more homophobia than younger generations can imagine, yet those brave enough to finally come out are _still_ often treated with abuse and disdain by peers and retirement home workers.
 

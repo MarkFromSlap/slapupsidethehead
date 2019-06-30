@@ -24,7 +24,7 @@ tags:
 - Gilbert Baker
 comments: []
 ---
-![Dr. Flamingo Jones](/wp-content/media/2008/07/dr-flamingo-jones-pride-flag.jpg "Dr. Flamingo Jones and the Artifact of Many Colours")
+![Dr. Flamingo Jones]({{'/wp-content/media/2008/07/dr-flamingo-jones-pride-flag.jpg' | relative_url}} "Dr. Flamingo Jones and the Artifact of Many Colours")
 
 I'm exceptionally pleased to present today's Guest Slap. The author, Dr. Flamingo Jones, is a world-renowned archaeologist and researcher at the University of Oxbridgeshire. While I know little about his reclusive past and current whereabouts, he has kindly agreed to share with us, occasionally, his knowledge, discoveries, and insights.
 

@@ -23,7 +23,7 @@ tags:
 - Gay-straight alliances
 comments: []
 ---
-![Congratulalien!](/wp-content/media/2011/07/congratulalien.jpg "Thanks, Alien. Thalien.")
+![Congratulalien!]({{'/wp-content/media/2011/07/congratulalien.jpg' | relative_url}} "Thanks, Alien. Thalien.")
 
 Great news! Thanks to pressure from students, the Ontario government has announced that all schools receiving public funding, including Catholic schools, _must_ allow GLBT support groups starting this September.
 

@@ -22,7 +22,7 @@ tags:
 - Argentina
 comments: []
 ---
-![Cool! Strange it took so long, what with Madonna's marriage to the president in the 40s and al...](/wp-content/media/2010/07/argentina-same-sex-marriage.jpg "Don't cry for me...")
+![Cool! Strange it took so long, what with Madonna's marriage to the president in the 40s and al...]({{'/wp-content/media/2010/07/argentina-same-sex-marriage.jpg' | relative_url}} "Don't cry for me...")
 
 Argentina has become the first Latin American country (and the tenth country overall) to permit full, equal marriage to all its citizens. The vote, which passed 33-27, took place Thursday morning.
 

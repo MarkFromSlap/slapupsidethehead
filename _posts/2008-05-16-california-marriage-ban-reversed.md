@@ -22,7 +22,7 @@ tags:
 - California
 comments: []
 ---
-![Happy California](/wp-content/media/2008/05/happy-california.jpg "Not to overgeneralize or anything...")
+![Happy California]({{'/wp-content/media/2008/05/happy-california.jpg' | relative_url}} "Not to overgeneralize or anything...")
 
 The California Supreme Court reversed a state ban on same-sex marriages yesterday, allowing gay couples to legally wed in as little as 30 days. Chief Justice Ron George ushered in the ruling with a very nice annoucement:
 

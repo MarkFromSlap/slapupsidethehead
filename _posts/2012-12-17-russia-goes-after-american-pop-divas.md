@@ -25,7 +25,7 @@ tags:
 - Lady Gaga
 comments: []
 ---
-![Rocky Gaga and Maddonkle](/wp-content/media/2012/12/gaga-and-madonna.jpg)
+![Rocky Gaga and Maddonkle]({{'/wp-content/media/2012/12/gaga-and-madonna.jpg' | relative_url}})
 
 Less than a year ago, the Russian city of St. Petersburg passed a law banning "homosexual propaganda," with expected hysterical results. From equal rights marches to rainbows on milk cartons, no one seems to be safe from the accusing eyes of the ruling United Russia party in their search for violators of their new law. Over 70 arrests and countless accusations have been made since the law's introduction, and, naturally, that applies to... visiting pop divas.
 

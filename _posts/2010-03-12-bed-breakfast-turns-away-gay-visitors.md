@@ -27,7 +27,7 @@ tags:
 - Brian Thomas
 comments: []
 ---
-![A newly discovered biblical scroll.](/wp-content/media/2010/03/jesus.jpg "The Book of Extracontinuity, 22:30")
+![A newly discovered biblical scroll.]({{'/wp-content/media/2010/03/jesus.jpg' | relative_url}} "The Book of Extracontinuity, 22:30")
 
 Les and Susan Molnar, owners of a small bed and breakfast in British Columbia, have refused lodging to a young couple for no reason other than that they are gay.
 

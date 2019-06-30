@@ -24,7 +24,7 @@ tags:
 - Geneva
 comments: []
 ---
-![Yogyakarta Principles](/wp-content/media/2007/04/yogyakarta-principles.jpg)
+![Yogyakarta Principles]({{'/wp-content/media/2007/04/yogyakarta-principles.jpg' | relative_url}})
 
 Bill Siksay, the openly gay NDP MP for Burnaby--Douglas, has tabled a motion calling on the government to recognise the Yogyakarta Principles.
 

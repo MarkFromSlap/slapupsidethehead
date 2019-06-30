@@ -25,7 +25,7 @@ tags:
 - Little Pond
 comments: []
 ---
-![](/wp-content/media/2010/10/jesus-brand-molotov-cocktails.jpg "Bring a little early hellfire with WWJD Brand!")  
+![]({{'/wp-content/media/2010/10/jesus-brand-molotov-cocktails.jpg' | relative_url}} "Bring a little early hellfire with WWJD Brand!")  
 Despicable news from the east coast: Early last week, a gay couple living in Little Pond, Price Edward Island had an incendiary device thrown through their window in the middle of the night. While their house burned to the ground, the couple had to escape through a window, not knowing if anyone was outside to harm them. It took twenty firefighters nearly two hours to stop the flames.
 
 Neighbours suspect the attack was a hate crime, as the gay couple's mailbox had been set on fire a week earlier and the couple had previously complained about an anonymous harasser. Police have confirmed that they are treating the fire as arson, but haven't found any suspects.

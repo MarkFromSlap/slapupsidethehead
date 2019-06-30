@@ -29,7 +29,7 @@ tags:
 - Montreal Simon
 comments: []
 ---
-![Slap-tastic](/wp-content/media/2008/12/pile-o-slaps-5.jpg "Slap-tastic")
+![Slap-tastic]({{'/wp-content/media/2008/12/pile-o-slaps-5.jpg' | relative_url}} "Slap-tastic")
 
 In my web travels, I often collect stories that I _intend_ to share, but then become distracted by newer, shinier stories---or feel too lazy to illustrate them individually. This is what becomes of those stories: a **[Pile o' Slaps](/category/pile-o-slaps/ "Part five of the ongoing saga, like sands in the hourglass...")**!
 

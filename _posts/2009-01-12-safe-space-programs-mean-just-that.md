@@ -25,7 +25,7 @@ tags:
 - University of Victoria
 comments: []
 ---
-![This is also a commentary on the absurdity of buying ice in the winter.](/wp-content/media/2009/01/rainbow-flag-sticker.jpg "This is also a commentary on the absurdity of buying ice in Canada.")
+![This is also a commentary on the absurdity of buying ice in the winter.]({{'/wp-content/media/2009/01/rainbow-flag-sticker.jpg' | relative_url}} "This is also a commentary on the absurdity of buying ice in Canada.")
 
 Before the holidays, I linked to an excellent blog post by Montréal Simon about St. Michael's Hospital in Toronto, and how anti-gay lobbyists had [launched a campaign to tear down the rainbow Pride flag](http://montrealsimon.blogspot.com/2008/12/hospital-and-homophobes.html "Petty much?") that is hung there.
 

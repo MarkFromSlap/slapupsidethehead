@@ -24,7 +24,7 @@ tags:
 - Stalkers
 comments: []
 ---
-[![Play Insanity: A clip of an Anderson Cooper interview with Andrew Shirvell](/wp-content/media/2010/10/play-insanity.jpg "You gotta see this, seriously.")](http://www.youtube.com/watch?v=PwObjKZg9Jw)
+[![Play Insanity: A clip of an Anderson Cooper interview with Andrew Shirvell]({{'/wp-content/media/2010/10/play-insanity.jpg' | relative_url}} "You gotta see this, seriously.")](http://www.youtube.com/watch?v=PwObjKZg9Jw)
 
 Andrew Shirvell, an assistant Attorney General in the U.S. state of Michigan, has started a bizarre, one-man crusade against a gay college student.
 

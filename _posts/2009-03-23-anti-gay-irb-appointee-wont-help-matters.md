@@ -23,7 +23,7 @@ tags:
 - Doug Cryer
 comments: []
 ---
-![Mr. Wigglesworth won't let his bias affect his work too much, though.](/wp-content/media/2009/03/irb-appointee1.jpg "Mr. Wigglesworth won't let his bias affect his work too much, though.")
+![Mr. Wigglesworth won't let his bias affect his work too much, though.]({{'/wp-content/media/2009/03/irb-appointee1.jpg' | relative_url}} "Mr. Wigglesworth won't let his bias affect his work too much, though.")
 
 Well, Canada's already abysmal record in dealing with gay refugee claimants probably isn't going to get better.
 

@@ -23,7 +23,7 @@ tags:
 - John Baird
 comments: []
 ---
-![A man is being filmed while misreading an](/wp-content/media/2011/10/it-gets-butter.jpg "I can't believe it's not better.")
+![A man is being filmed while misreading an]({{'/wp-content/media/2011/10/it-gets-butter.jpg' | relative_url}} "I can't believe it's not better.")
 
 Canada's own Rick Mercer posted a [particularly good Rick Mercer Rant last week](http://youtu.be/Wh1jNAZHKIw "That means you should watch it now."), prompted in part by the Conservative Party's ill-thought-out and poorly timed [contribution to the It Gets Better project](http://www.slapupsidethehead.com/2011/10/tories-release-it-gets-better-video/ "Tories Release â€œIt Gets Betterâ€ Video").
 

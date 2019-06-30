@@ -21,7 +21,7 @@ tags:
 - Penguins
 comments: []
 ---
-![Repent! Repent so that you may waddle into the light of penguin holiness.](/wp-content/media/2009/06/penguins.jpg "Repent! Repent so that you may waddle into the light of penguin holiness.")
+![Repent! Repent so that you may waddle into the light of penguin holiness.]({{'/wp-content/media/2009/06/penguins.jpg' | relative_url}} "Repent! Repent so that you may waddle into the light of penguin holiness.")
 
 Z and Vielpunkt, two male Humboldt penguins in Germany's Bremerhaven zoo, do not like to mate with the female penguins. They, instead, have paired off together. So when a heterosexual penguin couple rejected one of their own eggs, the zookeepers decided to leave it in the care of the gay penguins.
 

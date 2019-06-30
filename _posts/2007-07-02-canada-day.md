@@ -24,7 +24,7 @@ tags:
 - Interviews
 comments: []
 ---
-![Canada Day Harper](/wp-content/media/2007/07/canada-day-harper.jpg)
+![Canada Day Harper]({{'/wp-content/media/2007/07/canada-day-harper.jpg' | relative_url}})
 
 Today is a holiday here in Canada. So, in lieu of my usual post, I present my exclusive interview with Prime Minister Stephen Harper or a reasonable facsimile:
 

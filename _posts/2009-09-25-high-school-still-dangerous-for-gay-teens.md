@@ -28,7 +28,7 @@ tags:
 - Catherine Taylor
 comments: []
 ---
-![Friendlier than the hall monitors, mind you.](/wp-content/media/2009/09/velociraptor-locker-surprise.jpg "Friendlier than the hall monitors, mind you.")
+![Friendlier than the hall monitors, mind you.]({{'/wp-content/media/2009/09/velociraptor-locker-surprise.jpg' | relative_url}} "Friendlier than the hall monitors, mind you.")
 
 A professor researching harassment of gay teens is calling high school "the land that time forgot," a place where aggressive anti-gay sentiment pervades student life.
 

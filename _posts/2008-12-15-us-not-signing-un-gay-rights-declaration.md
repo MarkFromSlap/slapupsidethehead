@@ -23,7 +23,7 @@ tags:
 - United Nations
 comments: []
 ---
-![And she's French, too.](/wp-content/media/2008/12/gay-beacon.jpg "And she's French, too.")
+![And she's French, too.]({{'/wp-content/media/2008/12/gay-beacon.jpg' | relative_url}} "And she's French, too.")
 
 Fresh off the Vatican's [refusal to support](http://www.slapupsidethehead.com/2008/12/vatican-fights-to-keep-homosexuality-criminalized/ "They're just wacky that way, aren't they?") a UN statement decrying the criminalization of homosexuality, the United States is stalling their signature approving the symbolic declaration.
 

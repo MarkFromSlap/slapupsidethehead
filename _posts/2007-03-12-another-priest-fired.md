@@ -25,7 +25,7 @@ tags:
 - Unjust firings
 comments: []
 ---
-![Priest Ejector 3000](/wp-content/media/2007/03/priest-ejector.jpg)
+![Priest Ejector 3000]({{'/wp-content/media/2007/03/priest-ejector.jpg' | relative_url}})
 
 Anyone got a golf score clicker I can use?
 

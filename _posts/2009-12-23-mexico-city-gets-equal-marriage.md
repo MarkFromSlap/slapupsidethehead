@@ -22,7 +22,7 @@ tags:
 - Mexico City
 comments: []
 ---
-![](/wp-content/media/2009/12/santa-mexico.jpg "Airspace policy prevents this from happening in the states")
+![]({{'/wp-content/media/2009/12/santa-mexico.jpg' | relative_url}} "Airspace policy prevents this from happening in the states")
 
 Great news coming out of Mexico City, just in time for Christmas!
 

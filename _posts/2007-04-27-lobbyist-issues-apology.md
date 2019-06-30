@@ -24,7 +24,7 @@ tags:
 - Overreactions
 comments: []
 ---
-![Gwen Landolt Apology](/wp-content/media/2007/04/gwen-landolt-apology.jpg)
+![Gwen Landolt Apology]({{'/wp-content/media/2007/04/gwen-landolt-apology.jpg' | relative_url}})
 
 I wonder what Gwen Landolt is up to these days. As you may know, Gwen is the spokeswoman for REAL Women of Canada, a delightfully persistent anti-gay lobby group formed in the early 80s. And since same-sex marriage is settled and here to stay, she must have moved on to something else, right?
 

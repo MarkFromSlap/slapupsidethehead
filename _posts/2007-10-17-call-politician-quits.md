@@ -24,7 +24,7 @@ tags:
 - Parti Qu&Atilde;&copy;b&Atilde;&copy;cois
 comments: []
 ---
-![Openly Gay Politician](/wp-content/media/2007/10/gay-politician.jpg)
+![Openly Gay Politician]({{'/wp-content/media/2007/10/gay-politician.jpg' | relative_url}})
 
 André Boisclair, the former leader of the Parti Québécois, has announced that he will leave politics on November 15<sup>th</sup>.
 

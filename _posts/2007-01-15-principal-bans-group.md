@@ -26,7 +26,7 @@ tags:
 - Richmond Hill
 comments: []
 ---
-![Gay Straight Alliance](/wp-content/media/2007/01/gay_straight_alliance.jpg)
+![Gay Straight Alliance]({{'/wp-content/media/2007/01/gay_straight_alliance.jpg' | relative_url}})
 
 Well, chalk up another victory for the folks who _just_ aren't comfortable with the gays! Ontario's [Richmond Hill High School](http://www.richmondhill.hs.yrdsb.edu.on.ca/ "Ah, high school...") has forbidden a student-run gay support group, the Gay Straight Alliance, from meeting or distributing posters on school property. The principal, Ms. Ivy Chan, cited "entrenched views" as the reason for the ban, saying "I could go ahead and be politically correct and have one, but a gay straight alliance---some people would be for it, but there would be a lot of parents who would oppose it."
 

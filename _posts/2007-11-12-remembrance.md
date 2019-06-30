@@ -21,7 +21,7 @@ tags:
 - Remembrance Day
 comments: []
 ---
-![Remembrance Day](/wp-content/media/2007/11/poppy.png)
+![Remembrance Day]({{'/wp-content/media/2007/11/poppy.png' | relative_url}})
 
 Today is the day after [Remembrance Day](http://en.wikipedia.org/wiki/Remembrance_day "Lest we forget").
 

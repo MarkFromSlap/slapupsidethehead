@@ -23,7 +23,7 @@ tags:
 - Neil Giuliano
 comments: []
 ---
-![Newscasts](/wp-content/media/2006/08/newscasts.jpg)
+![Newscasts]({{'/wp-content/media/2006/08/newscasts.jpg' | relative_url}})
 
 [GLAAD](http://www.glaad.org/ "How glaadening!"), the Gay and Lesbian Alliance Against Defamation, released their 2006 television study on Monday, and the results are ground shaking! A sharp drop in the occurrence of gay and lesbian characters in network TV series. That's right, folks: Instead of last year's 10 characters, there's now, uh, 9. (Hmm... I wonder if _Will & Grace_ calling it quits had anything to do with that?)
 

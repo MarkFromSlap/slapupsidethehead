@@ -23,7 +23,7 @@ tags:
 - Different From The Others
 comments: []
 ---
-![Gaytropolis: A gay version of the famous Metropolis scene](/wp-content/media/2011/12/gaytropolis.jpg "Gaytropolis")
+![Gaytropolis: A gay version of the famous Metropolis scene]({{'/wp-content/media/2011/12/gaytropolis.jpg' | relative_url}} "Gaytropolis")
 
 Gay-themed films are pretty commonplace nowadays. Nearly every major city (_metropolis_, if you will) has a GLBT film festival, and pictures that would previously have been restricted to exactly these sort of venues have slowly found their way into mainstream cinemas. Some, like Brokeback Mountain and Milk, are Oscar-winning successes.
 

@@ -24,7 +24,7 @@ tags:
 - Silly complaints
 comments: []
 ---
-![FIIBO.](/wp-content/media/2009/03/fiibo.jpg "FIIBO.")
+![FIIBO.]({{'/wp-content/media/2009/03/fiibo.jpg' | relative_url}} "FIIBO.")
 
 The United States government has indicated that it will finally sign a U.N. document denouncing the criminalization of homosexuality worldwide.
 

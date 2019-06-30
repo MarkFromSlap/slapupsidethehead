@@ -26,7 +26,7 @@ tags:
 - Islamic Defender Front
 comments: []
 ---
-![I object to what you have to say. WITH FIRE!](/wp-content/media/2010/10/objection-with-fire.jpg "This makes objections seem more reasonable, right?")
+![I object to what you have to say. WITH FIRE!]({{'/wp-content/media/2010/10/objection-with-fire.jpg' | relative_url}} "This makes objections seem more reasonable, right?")
 
 The [Q! Film Festival](http://www.q-munity.org/ "The Q stands for Q-munity."), a GLBT festival showcasing being hosted in Jakarta, has been attacked by members of an extremist group calling themselves the Islamic Defender Front.
 

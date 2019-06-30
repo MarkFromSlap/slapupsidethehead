@@ -31,7 +31,7 @@ tags:
 - Saskatoon Court of Appeal
 comments: []
 ---
-![](/wp-content/media/2010/02/prorogation.jpg "Do your job, m'kay?")
+![]({{'/wp-content/media/2010/02/prorogation.jpg' | relative_url}} "Do your job, m'kay?")
 
 The Saskatchewan Court of Appeal will consider and rule on whether or not civil marriage commissioners can deny their otherwise public services to gay couples. The case is in response to a request from the provincial government, which is seeking information on the constitutionality of a proposed legislation to allow just that sort of thing.
 

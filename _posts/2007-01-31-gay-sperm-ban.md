@@ -22,7 +22,7 @@ tags:
 - Sperm donations
 comments: []
 ---
-![Gay sperm ban](/wp-content/media/2007/01/gay-sperm-ban.jpg)
+![Gay sperm ban]({{'/wp-content/media/2007/01/gay-sperm-ban.jpg' | relative_url}})
 
 Gay men are not allowed to donate sperm, and that's OK. Well, at least that's what the Ontario Court of Appeal ruled this month after a woman was denied artificial insemination from a trusted gay friend.
 

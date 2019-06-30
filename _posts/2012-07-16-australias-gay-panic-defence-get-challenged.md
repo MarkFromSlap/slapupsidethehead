@@ -24,7 +24,7 @@ tags:
 - Queensland
 comments: []
 ---
-![Straight Panic Defence: A man punches a woman in the throat, screaming](/wp-content/media/2012/07/straight-panic.jpg "Oh no! I'll catch Teh Straight!")
+![Straight Panic Defence: A man punches a woman in the throat, screaming]({{'/wp-content/media/2012/07/straight-panic.jpg' | relative_url}} "Oh no! I'll catch Teh Straight!")
 
 Slap reader Tim writes in with this bit of news from Down Under:
 

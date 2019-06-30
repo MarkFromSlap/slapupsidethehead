@@ -25,7 +25,7 @@ tags:
 - Teachers
 comments: []
 ---
-![At least until next year, when we can pull you out altogether.](/wp-content/media/2009/09/teacher-earplugs.jpg "At least until next year, when we can pull you out altogether.")
+![At least until next year, when we can pull you out altogether.]({{'/wp-content/media/2009/09/teacher-earplugs.jpg' | relative_url}} "At least until next year, when we can pull you out altogether.")
 
 Alberta's strange new law requiring teachers to notify parents before tackling any lessons dealing with sexual orientation has been delayed until next year so that the school boards can prepare formal procedures.
 

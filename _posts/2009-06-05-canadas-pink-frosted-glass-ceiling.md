@@ -22,7 +22,7 @@ tags:
 - Workplace discrimination
 comments: []
 ---
-![Hand it in with your TPS report.](/wp-content/media/2009/06/gay-coworker.jpg "Hand it in with your TPS report.")
+![Hand it in with your TPS report.]({{'/wp-content/media/2009/06/gay-coworker.jpg' | relative_url}} "Hand it in with your TPS report.")
 
 A study on gay employees in Canada has shown that there are still barriers when it comes to advancing one's career.
 

@@ -27,7 +27,7 @@ tags:
 - Nova Scotia Teacher&acirc;&euro;&trade;s Union
 comments: []
 ---
-![Supreme Survey For Sexual Orientation](/wp-content/media/2007/01/supreme_survey.jpg)
+![Supreme Survey For Sexual Orientation]({{'/wp-content/media/2007/01/supreme_survey.jpg' | relative_url}})
 
 Less than one year after the Nova Scotia Teacher's Union scolded the Halifax Regional School Board for [asking teachers if they're gay](http://www.slapupsidethehead.com/2006/05/halifaxs-teacher-survey/ "A good indication of their abilities, I guess"), the union is doing the exact same thing.
 

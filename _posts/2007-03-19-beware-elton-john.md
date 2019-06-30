@@ -28,7 +28,7 @@ tags:
 - Caribbean
 comments: []
 ---
-![Elton John's Bolts of Pure Gay](/wp-content/media/2007/03/bolts-of-gay.jpg)
+![Elton John's Bolts of Pure Gay]({{'/wp-content/media/2007/03/bolts-of-gay.jpg' | relative_url}})
 
 Archdeacon Philip Isaac has issued a dire warning for people considering going to the the Plymouth Jazz Festival in the Caribbean island of Tobago: A scheduled performance by Elton John might turn you gay!
 

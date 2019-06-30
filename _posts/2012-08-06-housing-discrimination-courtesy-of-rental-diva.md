@@ -26,7 +26,7 @@ tags:
 - Brampton
 comments: []
 ---
-![A diva-wannabe boldly announces](/wp-content/media/2012/08/rental-diva.jpg "Such as... What's her face. And that other lady!")
+![A diva-wannabe boldly announces]({{'/wp-content/media/2012/08/rental-diva.jpg' | relative_url}} "Such as... What's her face. And that other lady!")
 
 Rental Diva, an unlicensed rental agency in Brampton Ontario, is likely to face a human rights tribunal after turning away clients because they're gay.
 

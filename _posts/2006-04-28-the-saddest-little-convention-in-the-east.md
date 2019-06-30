@@ -22,7 +22,7 @@ tags:
 - Dawn Stefanowicz
 comments: []
 ---
-![The Family Coalition Party of Ontario Convention](/wp-content/media/2006/04/family_coalition_convention.png)
+![The Family Coalition Party of Ontario Convention]({{'/wp-content/media/2006/04/family_coalition_convention.png' | relative_url}})
 
 It's that time of year again! Grab the kids---or, uh, at least some great, great grandparents that are especially set in their ways---and spend a full, long day at _The Family Coalition Party of Ontario's Annual Convention_!
 

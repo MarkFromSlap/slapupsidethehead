@@ -22,7 +22,7 @@ tags:
 - Cameroon
 comments: []
 ---
-![Gaydar Tip-Off #113: A man walks into a bar and orders the drink to the left. Watch closely! If he gives it to his boyfriend, he's probably gay.](/wp-content/media/2013/01/girly-drink.jpg)
+![Gaydar Tip-Off #113: A man walks into a bar and orders the drink to the left. Watch closely! If he gives it to his boyfriend, he's probably gay.]({{'/wp-content/media/2013/01/girly-drink.jpg' | relative_url}})
 
 Two Cameroon men who were sentenced to five years in prison for "looking gay" after ordering Bailey's Irish Cream have been acquitted of the charges by an appeals court. The two had already passed a year of their sentence before the acquittal.
 

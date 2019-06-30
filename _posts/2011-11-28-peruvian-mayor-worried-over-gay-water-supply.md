@@ -26,7 +26,7 @@ tags:
 - Absurd claims
 comments: []
 ---
-![A scientist inspects a sample of water:](/wp-content/media/2011/11/gay-water.jpg "We can either filter the water, or add 3240 ppm of straight to bring it back to its acceptable 10 to 1 ratio.")
+![A scientist inspects a sample of water:]({{'/wp-content/media/2011/11/gay-water.jpg' | relative_url}} "We can either filter the water, or add 3240 ppm of straight to bring it back to its acceptable 10 to 1 ratio.")
 
 If you're gay and ever wondered why you're not straight, perhaps you've just been drinking too much Peruvian tap water.
 

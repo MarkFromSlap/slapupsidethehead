@@ -24,7 +24,7 @@ tags:
 - Ted Morton
 comments: []
 ---
-![Bishop Fred Henry Activity Page](/wp-content/media/2006/09/fred_henry_activity.jpg)
+![Bishop Fred Henry Activity Page]({{'/wp-content/media/2006/09/fred_henry_activity.jpg' | relative_url}})
 
 Looks like Calgary's own [Bishop Fred Henry](http://www.slapupsidethehead.com/2006/08/wafer-nazi/ "No wafer for you!") has added a little something to my (unofficial) Canadian Collection Of Defamatory Quotesâ„¢:
 

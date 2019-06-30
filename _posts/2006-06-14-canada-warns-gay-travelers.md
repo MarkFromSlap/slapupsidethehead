@@ -24,7 +24,7 @@ tags:
 - Consular Affairs Bureau
 comments: []
 ---
-![Gay Travel](/wp-content/media/2006/06/gay_travel.jpg)
+![Gay Travel]({{'/wp-content/media/2006/06/gay_travel.jpg' | relative_url}})
 
 Going somewhere exotic for vacation? Somewhere boring for business? Well, Canada's [Consular Affairs Bureau](http://www.voyage.gc.ca/ "For those who enjoy reading dry government sites") would like to have a quick word with you first! They've updated their travel information booklet, entitled _[Bon Voyage, But](http://www.voyage.gc.ca/main/pubs/bon_voyage_but-en.asp "It's a fun read. Well, not really...")_, and the new 2006/2007 edition contains some lovely new warnings for us gays!
 

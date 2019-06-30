@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-![Much, much better than the annual Shame festival.](/wp-content/media/2009/08/montreal-pride-2009.jpg "Much, much better than the annual Shame festival.")
+![Much, much better than the annual Shame festival.]({{'/wp-content/media/2009/08/montreal-pride-2009.jpg' | relative_url}} "Much, much better than the annual Shame festival.")
 
 Hey kids! I'm taking a day off after an amazing Pride weekend here in Montréal. Fret not, though! Regular posting will resume Wednesday.
 

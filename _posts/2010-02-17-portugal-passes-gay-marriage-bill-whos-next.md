@@ -23,7 +23,7 @@ tags:
 - Slovenia
 comments: []
 ---
-![](/wp-content/media/2010/02/portugal-gay-marriage.jpg "Are you there yet?")
+![]({{'/wp-content/media/2010/02/portugal-gay-marriage.jpg' | relative_url}} "Are you there yet?")
 
 Good news! The Portuguese parliament passed a same-sex marriage bill last week, which will make the country the eighth in the world to have equal marriage rights nationwide.
 

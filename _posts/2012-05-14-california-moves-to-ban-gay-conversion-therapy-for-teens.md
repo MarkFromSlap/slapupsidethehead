@@ -24,7 +24,7 @@ tags:
 - Bills
 comments: []
 ---
-![Teenage Mutant Ninja Camel: Nonsensical Conversion Complete.](/wp-content/media/2012/05/teenage-mutant-ninja-camel.jpg "I don't get it either, but it came out of my pen anyway.")
+![Teenage Mutant Ninja Camel: Nonsensical Conversion Complete.]({{'/wp-content/media/2012/05/teenage-mutant-ninja-camel.jpg' | relative_url}} "I don't get it either, but it came out of my pen anyway.")
 
 Encouraging news coming out of California this week! The state senate is quickly passing some new legislation that would ban the practice of applying the unscientific and discredited practice of gay "conversion therapy" on anyone under the age of 18. The bill would also make anyone over the age of 18 sign a waver acknowledging that the practice is ineffective and harmful before seeking such therapies.
 

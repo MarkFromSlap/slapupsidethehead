@@ -25,7 +25,7 @@ A study out of York University has found that gay men are faster and more accura
 
 Say, let's try this out now:
 
-![Kermit the Frog](/wp-content/media/2010/06/facial-recognition.jpg "Guess who?")
+![Kermit the Frog]({{'/wp-content/media/2010/06/facial-recognition.jpg' | relative_url}} "Guess who?")
 
 (You can submit your time via email. I'll wait.)
 

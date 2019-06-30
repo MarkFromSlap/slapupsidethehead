@@ -29,7 +29,7 @@ tags:
 - Bill 208
 comments: []
 ---
-![Seeking Permission to State the Truth](/wp-content/media/2006/05/teachers_bill.jpg)
+![Seeking Permission to State the Truth]({{'/wp-content/media/2006/05/teachers_bill.jpg' | relative_url}})
 
 Ever notice that annoying "_Whaaah!_" sound coming from the Alberta parliament? No need to be alarmed, kids! It's just the provincial government throwing another one of its temper tantrums over same-sex marriage.
 

@@ -25,7 +25,7 @@ tags:
 - Salvation Army
 comments: []
 ---
-![Mall Directory](/wp-content/media/2006/08/mall_directory.jpg)
+![Mall Directory]({{'/wp-content/media/2006/08/mall_directory.jpg' | relative_url}})
 
 Oh, oh! I was _waiting_ for the day that someone would dare keep a gay man away from his mall!
 

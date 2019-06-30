@@ -26,7 +26,7 @@ tags:
 - Distortions
 comments: []
 ---
-![Wacky Pro-Family Spokeswoman](/wp-content/media/2006/06/pro_fam_spin.jpg)
+![Wacky Pro-Family Spokeswoman]({{'/wp-content/media/2006/06/pro_fam_spin.jpg' | relative_url}})
 
 Troubling news, folks. A British Columbia researcher [recently discovered](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1149189012992&call_pageid=991479973472&col=991929131147 "Extremely unfortunate numbers") that 38 percent of lesbian teens attempt suicide compared to only 8 percent of heterosexual girls. That's 4 out of 10; a startlingly high figure.
 

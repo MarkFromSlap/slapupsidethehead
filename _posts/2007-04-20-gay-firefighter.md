@@ -24,7 +24,7 @@ tags:
 - Russell Mack
 comments: []
 ---
-![Gay Firefighter](/wp-content/media/2007/04/gay-firefighter.jpg)
+![Gay Firefighter]({{'/wp-content/media/2007/04/gay-firefighter.jpg' | relative_url}})
 
 David MacKenzie, a gay firefighter from Pemberton, B.C., has filed a human rights complaint against his fire chief, Russell Mack. The claim asserts that Mack had repeated homophobic jokes, created an intolerable work environment, and passed David over for an "acting chief" position primarily because he's gay.
 

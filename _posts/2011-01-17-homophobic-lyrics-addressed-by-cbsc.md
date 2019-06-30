@@ -25,7 +25,7 @@ tags:
 - Dire Straits
 comments: []
 ---
-![Characters from the Dire Straits Video wonder aloud if they've been deemed obsolete.](/wp-content/media/2011/01/dire-straits-robots.jpg "Ah, the 80s.")
+![Characters from the Dire Straits Video wonder aloud if they've been deemed obsolete.]({{'/wp-content/media/2011/01/dire-straits-robots.jpg' | relative_url}} "Ah, the 80s.")
 
 The Canadian Broadcast Standards Council announced last week that the song "Money for Nothing_"_ by Dire Straits was found to be unfit for broadcast, containing lyrics in violation with the industry's code of ethics.
 

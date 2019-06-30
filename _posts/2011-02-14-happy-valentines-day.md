@@ -21,7 +21,7 @@ tags:
 - Valentine's Day
 comments: []
 ---
-![A valentine's day heart.](/wp-content/media/2011/02/valentines-day.jpg "How romantic! I love you so much.")
+![A valentine's day heart.]({{'/wp-content/media/2011/02/valentines-day.jpg' | relative_url}} "How romantic! I love you so much.")
 
 I know how hard it is to find a commercial Valentine's Day card that doesn't assume you're giving it to someone of the opposite sex, so I've decided to make the above image for you to give to that someone special in your life.
 

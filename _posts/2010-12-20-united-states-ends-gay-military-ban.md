@@ -30,13 +30,13 @@ Personally, I'd say bad soliders cost lives, and anyone who is more concerned ab
 
 If anything, Don't Ask, Don't Tell probably left the military more vulnerable to blackmail, as learning that someone is gay instantly gives anyone with shady motives leverage over a gay service member's military career. But opponents are entitled to their own narratives, I suppose...
 
-![A dictator announces:](/wp-content/media/2010/12/dadt-1.jpg "Any resemblance to dictators living or otherwise is purely coincidental. \*Cough\*")
+![A dictator announces:]({{'/wp-content/media/2010/12/dadt-1.jpg' | relative_url}} "Any resemblance to dictators living or otherwise is purely coincidental. \*Cough\*")
 
-![Several missiles launch into the sky.](/wp-content/media/2010/12/dadt-2.jpg "Fa-fa-fa-foom!")
+![Several missiles launch into the sky.]({{'/wp-content/media/2010/12/dadt-2.jpg' | relative_url}} "Fa-fa-fa-foom!")
 
-![A U.S. officer notices incoming missles on radar.](/wp-content/media/2010/12/dadt-3.jpg "Apparently soldiers have no sense of priority?")
+![A U.S. officer notices incoming missles on radar.]({{'/wp-content/media/2010/12/dadt-3.jpg' | relative_url}} "Apparently soldiers have no sense of priority?")
 
-![A politician announced](/wp-content/media/2010/12/dadt-4.jpg "Sigh.")
+![A politician announced]({{'/wp-content/media/2010/12/dadt-4.jpg' | relative_url}} "Sigh.")
 
 Canada, by the way, ended its ban in 1992.
 

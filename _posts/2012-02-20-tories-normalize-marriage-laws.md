@@ -23,7 +23,7 @@ tags:
 - Same-sex divorce
 comments: []
 ---
-![A despondent Stephen Harper thinks to himself:](/wp-content/media/2012/02/despondent-harper.jpg "He always looks despondent, but this time he feels it.")
+![A despondent Stephen Harper thinks to himself:]({{'/wp-content/media/2012/02/despondent-harper.jpg' | relative_url}} "He always looks despondent, but this time he feels it.")
 
 The federal Conservative Party introduced a bill on Friday that would explicitly confirm the validity same-sex marriages granted to foreigners in Canada, and extend the right to divorce to any foreign couple whose marriages are recognized in their country of origin.
 

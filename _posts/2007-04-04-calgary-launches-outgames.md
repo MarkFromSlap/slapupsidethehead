@@ -24,7 +24,7 @@ tags:
 - Continental Outgames
 comments: []
 ---
-![Calgary OutGames](/wp-content/media/2007/04/calgary-outgames.jpg)
+![Calgary OutGames]({{'/wp-content/media/2007/04/calgary-outgames.jpg' | relative_url}})
 
 Well, they did it! The first-ever Continental Outgames was launched this week in Calgary, Alberta. The games are supposedly the largest gay-themed event ever held in the province of Alberta (the second-biggest being the time I accidentally bumped into another guy on the C-Train).
 

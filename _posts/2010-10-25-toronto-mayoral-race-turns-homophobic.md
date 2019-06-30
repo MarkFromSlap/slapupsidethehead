@@ -26,7 +26,7 @@ tags:
 - Mayors
 comments: []
 ---
-![A man pastes a poster for Rob Ford.](/wp-content/media/2010/10/rob-ford-ad.jpg "Is this guy really in the lead today?")
+![A man pastes a poster for Rob Ford.]({{'/wp-content/media/2010/10/rob-ford-ad.jpg' | relative_url}} "Is this guy really in the lead today?")
 
 It's civic election day in Toronto today, and the polls indicate a dead heat. By the end of the day, the new mayor of Canada's largest city will likely either be George Smitherman, who happens to be gay, or Rob Ford, who has been featured on this site twice for [ridiculous](http://www.slapupsidethehead.com/2007/05/councilor-explodes-over-pride-funding/ "Gays on our streets? BLARARGH!"), [homophobic](http://www.slapupsidethehead.com/2006/07/councilor-explodes/ "AIDS education funding!? GARABLARAH!") conduct.
 

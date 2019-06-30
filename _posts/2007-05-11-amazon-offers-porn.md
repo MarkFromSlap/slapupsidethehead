@@ -23,7 +23,7 @@ tags:
 - Amazon.com
 comments: []
 ---
-![Sociology Book](/wp-content/media/2007/05/sociology-book.jpg)
+![Sociology Book]({{'/wp-content/media/2007/05/sociology-book.jpg' | relative_url}})
 
 An American dad is furious with [Amazon.ca](http://www.amazon.ca/ "Maybe you haven't heard of it...") after his daughter found a sociology book using the site's search function.
 

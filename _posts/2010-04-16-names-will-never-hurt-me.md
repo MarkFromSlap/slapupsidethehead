@@ -21,7 +21,7 @@ tags:
 - New Zealand
 comments: []
 ---
-![Guest Slap](/wp-content/media/2007/09/guest-slap.jpg)
+![Guest Slap]({{'/wp-content/media/2007/09/guest-slap.jpg' | relative_url}})
 
 I'm Ã¼ber stoked to introduce today's special guest author. Arthur is a gay American who moved to New Zealand in 1995. [Blogging](http://amerinz.blogspot.com/ "Check it out!") and [podcasting](http://amerinzpodcast.com/ "Check this out too!") as AmeriNZ, Arthur regularly offers an international perspective on culture and politics.
 

@@ -26,7 +26,7 @@ tags:
 - Iowa State University
 comments: []
 ---
-![Cyberbullying](/wp-content/media/2010/03/cyber-bully.jpg "BuLly1N9 i5 A S1gniPHi1(nT pR0BL3/\/\ pH0R 7oDAyZ j007H.")
+![Cyberbullying]({{'/wp-content/media/2010/03/cyber-bully.jpg' | relative_url}} "BuLly1N9 i5 A S1gniPHi1(nT pR0BL3/\/\ pH0R 7oDAyZ j007H.")
 
 A new study out of Iowa State University suggests that gay and lesbian teenagers are among the hardest hit by cyberbullying, a phenomenon unique to today's youth. With the popularity of social networking, bullies have found new venues to harass and ostracize their peers, often without the threat of adult intervention.
 

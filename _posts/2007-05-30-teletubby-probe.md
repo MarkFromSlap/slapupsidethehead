@@ -23,7 +23,7 @@ tags:
 - Teletubbies
 comments: []
 ---
-![Teletubby Probe](/wp-content/media/2007/05/teletubby-probe.jpg)
+![Teletubby Probe]({{'/wp-content/media/2007/05/teletubby-probe.jpg' | relative_url}})
 
 Poland's conservative government is launching a probe into whether Tinky Winky of the Teletubbies is a gay character designed to promote homosexuality to children.
 

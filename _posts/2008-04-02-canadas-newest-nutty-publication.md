@@ -23,7 +23,7 @@ tags:
 - Alan Cantwell
 comments: []
 ---
-![Conspiracy Weekly](/wp-content/media/2008/04/conspiracy-newspaper.jpg "I hear tinfoil is on sale...")
+![Conspiracy Weekly]({{'/wp-content/media/2008/04/conspiracy-newspaper.jpg' | relative_url}} "I hear tinfoil is on sale...")
 
 Normally I slap media outlets because of wild homophobia and right-wing misinformation. This week, though, I ran across a Canadian newspaper which bills itself as "Canada's new socially progressive and cross-cultural national newspaper." While it's a nice change to read stories raising awareness about homophobia and transgender violence, I have to bring up this publication up as proof that nonsensical accusations and fanaticism can come from any part of the political spectrum.
 

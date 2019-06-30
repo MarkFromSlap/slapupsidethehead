@@ -24,7 +24,7 @@ tags:
 - Nigeria
 comments: []
 ---
-![Check his pockets for rice!](/wp-content/media/2009/03/wedding-raid.jpg "Check his pockets for rice!")
+![Check his pockets for rice!]({{'/wp-content/media/2009/03/wedding-raid.jpg' | relative_url}} "Check his pockets for rice!")
 
 James over at [Gay Persons of Color](http://gay-persons-of-color.blogspot.com/ "Or, for the nitpicky, Gay Persons of ") has [dug up an unreal story](http://gay-persons-of-color.blogspot.com/2009/03/that-open-minded-nigerian-anglican.html "Well, sadly it's actually pretty real") about the Anglican Church of Nigeria and their formal proposal to jail anyone who participates in a gay wedding.
 

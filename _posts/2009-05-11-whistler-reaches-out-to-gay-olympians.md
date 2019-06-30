@@ -22,7 +22,7 @@ tags:
 - Olympics
 comments: []
 ---
-![I can't draw a circle to save my life. Hey, I have an idea! How about I draw five sets of concentric interlocking ones!](/wp-content/media/2009/05/gay-olympics.jpg "I can't draw a circle to save my life. Hey, I have an idea! How about I draw five sets of concentric interlocking ones!")
+![I can't draw a circle to save my life. Hey, I have an idea! How about I draw five sets of concentric interlocking ones!]({{'/wp-content/media/2009/05/gay-olympics.jpg' | relative_url}} "I can't draw a circle to save my life. Hey, I have an idea! How about I draw five sets of concentric interlocking ones!")
 
 GayWhistler, in partnership with the Pan Pacific Whistler Village Hotel, has announced that Pride House, a safe space for gay athletes, is being set up for gay athletes at the 2010 Vancouver Olympic Games. While it's not unusual for communities to get their own clubhouse at the Olympics, Pride House is the first official attempt to reach out to gay people in Olympic history.
 

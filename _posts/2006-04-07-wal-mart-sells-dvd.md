@@ -25,7 +25,7 @@ tags:
 - DVDs
 comments: []
 ---
-![Brokeback Mountain at Wal-Mart](/wp-content/media/2006/04/brokeback_walmart.jpg)
+![Brokeback Mountain at Wal-Mart]({{'/wp-content/media/2006/04/brokeback_walmart.jpg' | relative_url}})
 
 _Won't someone **please** think of the children?_ Alberta-filmed [Brokeback Mountain](http://www.imdb.com/title/tt0388795/ "Brokeback on the IMDB") is available for purchase at [Wal-Marts](http://www.walmart.ca/ "Walmart Canada") across the country despite the wailing of an American Christian advocacy group. Imagine---Wal-Mart selling DVDs! Have they no shame?
 

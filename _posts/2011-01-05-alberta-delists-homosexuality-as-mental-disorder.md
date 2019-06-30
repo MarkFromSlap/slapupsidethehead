@@ -25,7 +25,7 @@ tags:
 - Gene Zwozdesky
 comments: []
 ---
-![A dinosaur with the head of Alberta's premier, Ed Stelmach, muches on leaves.](/wp-content/media/2011/01/alberta-era.jpg "It's a Stelmach-o-saurus")
+![A dinosaur with the head of Alberta's premier, Ed Stelmach, muches on leaves.]({{'/wp-content/media/2011/01/alberta-era.jpg' | relative_url}} "It's a Stelmach-o-saurus")
 
 Well, it's better late than never: Alberta removed homosexuality from its list of mental disorders that doctors can charge the province for treating late last month.
 

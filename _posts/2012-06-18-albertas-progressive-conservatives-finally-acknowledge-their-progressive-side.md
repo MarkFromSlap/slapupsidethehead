@@ -24,7 +24,7 @@ tags:
 - Alison Redford
 comments: []
 ---
-![A fully-grown New Year's](/wp-content/media/2012/06/late-new-year-cliche.jpg "This illustration was also delivered late. Sorry about that. ;)")
+![A fully-grown New Year's]({{'/wp-content/media/2012/06/late-new-year-cliche.jpg' | relative_url}} "This illustration was also delivered late. Sorry about that. ;)")
 
 Alberta Premier Alison Redford took part in Edmonton's annual Pride parade earlier this month, making her the province's first premier to ever participate in a Pride event.
 

@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-![Government PR person directs all questions to the intimidating Agent Shutface](/wp-content/media/2010/06/mysterious-circumstances.jpg "If you still have questions, Dr. Intimitron will also be happy to see you.")
+![Government PR person directs all questions to the intimidating Agent Shutface]({{'/wp-content/media/2010/06/mysterious-circumstances.jpg' | relative_url}} "If you still have questions, Dr. Intimitron will also be happy to see you.")
 
 Things in Malawi [should have been all wrapped up](http://www.slapupsidethehead.com/2010/06/malawi-gay-couple-gets-presidential-pardon/ "All's not well that doesn't end well"); instead, they're getting stranger by the minute.
 

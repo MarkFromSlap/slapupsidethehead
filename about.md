@@ -23,7 +23,7 @@ Welcome, my scrumptious little web itinerant, to **Slap Upside The Head**! Illus
 
 If you'd like to give me a shout, I accept _friendly_ messages sent through Internet electronic mail technology. I can be reached at:
 
-![Email](/wp-content/media/2006/04/email.png)
+![Email]({{'/wp-content/media/2006/04/email.png' | relative_url}})
 
 # Frequently Asked Questions
 
@@ -47,7 +47,7 @@ If you'd like to give me a shout, I accept _friendly_ messages sent through Inte
 <dt>What popular media has Slap been featured in?</dt>
 <dd>Ah, my most frequently asked question! (<em>cough</em>.)</dd>
 <dd>In addition to a brief monthly column in Canada's <a title="Canada's GLBT magazine" href="http://www.outlooks.ca/">OUTLooks magazine</a>, Slap has been featured in The National Post, Vancouver Sun, Montréal Gazette, and Calgary's Swerve Magazine---the latter featuring an original Slap illustration as the cover. Slap was also a regular feature in London, England's Qwer magazine during its run. Smashing!</dd>
-<dd><img src="/wp-content/media/2007/07/media-scraps.png" alt="Media Scaps"></dd>
+<dd><img src="{{'/wp-content/media/2007/07/media-scraps.png' | relative_url}}" alt="Media Scaps"></dd>
 <dt>What awards has Slap won?</dt>
 <dd>Thanks to my fantastic readers, Slap has been voted the <strong>Best GLBT Blog in Canada</strong> at the 2008, 2009, 2010, and 2011 Canadian Blog Awards! (That's four consecutive years!) Slap also won the best Photo/Art Blog of 2009, the Third-Best Blog Post of 2009, the Second-Best Blog Post of 2008, and the Third-Best Art Blog of 2008.</dd>
 <dt>So do your drawings actually resemble their real-life counterparts?</dt>

@@ -23,7 +23,7 @@ tags:
 - International AIDS Conference
 comments: []
 ---
-![](/wp-content/media/2008/08/tony-clement-embarassment.jpg "Doin' the hokey-pokey-AIDS-dancin' minister dance")
+![]({{'/wp-content/media/2008/08/tony-clement-embarassment.jpg' | relative_url}} "Doin' the hokey-pokey-AIDS-dancin' minister dance")
 
 Canadian AIDS delegates at the International AIDS Conference in Mexico were embarrassed by Health Minister Tony Clement, according to reports at Xtra.
 

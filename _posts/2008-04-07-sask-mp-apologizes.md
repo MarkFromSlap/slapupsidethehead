@@ -23,7 +23,7 @@ tags:
 - Tom Lukiwski
 comments: []
 ---
-![Gay Slur Apology](/wp-content/media/2008/04/gay-slur-apology.jpg "Better late than never, I guess...")
+![Gay Slur Apology]({{'/wp-content/media/2008/04/gay-slur-apology.jpg' | relative_url}} "Better late than never, I guess...")
 
 Tom Lukiwski, a Conservative MP from Saskatchewan, has apologized for homophobic slurs that he made on an unoffical 1991 campaign tape:
 

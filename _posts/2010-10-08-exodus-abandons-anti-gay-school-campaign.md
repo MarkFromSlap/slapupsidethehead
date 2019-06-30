@@ -24,7 +24,7 @@ tags:
 - Day of Truth
 comments: []
 ---
-![We at Exodus take bullying seriously, which is why we only shove gays head-first into boxes of spiders with utmost compassion. Almost there, Jack. There you go.](/wp-content/media/2010/10/exodus-global-alliance.jpg "We do this to you because we're obessively anti-gay, you see.")
+![We at Exodus take bullying seriously, which is why we only shove gays head-first into boxes of spiders with utmost compassion. Almost there, Jack. There you go.]({{'/wp-content/media/2010/10/exodus-global-alliance.jpg' | relative_url}} "We do this to you because we're obessively anti-gay, you see.")
 
 In the wake of four student suicides egged on by homophobic bullying, Exodus Global Alliance has abandoned an anti-gay school program dubbed the _Day of Truth_.
 

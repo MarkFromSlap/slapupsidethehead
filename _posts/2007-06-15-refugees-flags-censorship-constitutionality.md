@@ -30,7 +30,7 @@ tags:
 - Greg Evans
 comments: []
 ---
-![Mini Slaps](/wp-content/media/2007/06/mini-slaps.jpg)  
+![Mini Slaps]({{'/wp-content/media/2007/06/mini-slaps.jpg' | relative_url}})  
 Let's do the follow-up thing today:
 
 - Alvaro Orozco, the refugee who was denied Canadian citizenship because [he didn't look "gay enough"](http://www.slapupsidethehead.com/2007/02/not-gay-enough/ "He didn't even lisp!") is [still facing deportation](http://www.xtra.ca/public/viewstory.aspx?AFF_TYPE=1&STORY_ID=3118&PUB_TEMPLATE_ID=2 "He should have 'gayed it up,' I guess...") to Nicaragua where homosexuality is illegal. The application to re-open his case was dismissed, but there's still a chance he could file a standard application for immigration from within Canada on humanitarian grounds. Sadly, [pretending to be gay to obtain refugee status](http://www.slapupsidethehead.com/2006/06/the-fake-gay-influx/ "People are always too willing to take advantage of a good thing") is not uncommon, but the circumstances under which Orozco's application was denied were downright silly.

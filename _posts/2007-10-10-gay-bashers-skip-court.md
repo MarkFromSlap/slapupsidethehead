@@ -24,7 +24,7 @@ tags:
 - British Columbia
 comments: []
 ---
-![Family Bonding](/wp-content/media/2007/10/family-bonding.jpg)
+![Family Bonding]({{'/wp-content/media/2007/10/family-bonding.jpg' | relative_url}})
 
 A father and son who beat a gay man in Lake Cowichan have skipped out on their court date last Tuesday, securing arrest warrants. Mark Edwards, a 21-year old gay man, said he was called slurs, punched, kicked, and choked by the pair because he was gay, and the attackers remain unrepentant. (I guess family bonding activities have changed since my childhood.)
 

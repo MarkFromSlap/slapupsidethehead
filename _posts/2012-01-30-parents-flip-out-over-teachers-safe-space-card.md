@@ -27,7 +27,7 @@ tags:
 - West Park School
 comments: []
 ---
-![A hypnotist waves a pendulum before an entranced man.](/wp-content/media/2012/01/hypnotist.jpg "It's the only explanation.")
+![A hypnotist waves a pendulum before an entranced man.]({{'/wp-content/media/2012/01/hypnotist.jpg' | relative_url}} "It's the only explanation.")
 
 Two fifth grade teachers at West Park School in Altona, Manitoba are being demanded by parents to remove cards from their classrooms indicating that they have completed training on how to support GLBT youth.
 

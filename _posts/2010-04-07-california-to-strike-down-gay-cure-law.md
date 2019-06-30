@@ -24,7 +24,7 @@ tags:
 - California
 comments: []
 ---
-![Gay researchers can finally stop.](/wp-content/media/2010/04/gay-research.jpg "60 years later...")
+![Gay researchers can finally stop.]({{'/wp-content/media/2010/04/gay-research.jpg' | relative_url}} "60 years later...")
 
 California is advancing a bill that will repeal a bizarre "gay cure" law from 1950. The law states that "the State Department of Mental Health shall plan, conduct and cause to be conducted scientific research into the causes and cures of sexual deviation, including [...] the causes and cures of homosexuality."
 

@@ -24,7 +24,7 @@ tags:
 - Sonia Adlys
 comments: []
 ---
-![Kiss prevention](/wp-content/media/2010/04/kiss-prevention.jpg "It all took place in slow motion.")
+![Kiss prevention]({{'/wp-content/media/2010/04/kiss-prevention.jpg' | relative_url}} "It all took place in slow motion.")
 
 The owner of a café in downtown Waterloo, Ontario, has kicked out a lesbian couple for sharing what they say was a short, closed-mouth, peck on the lips.
 

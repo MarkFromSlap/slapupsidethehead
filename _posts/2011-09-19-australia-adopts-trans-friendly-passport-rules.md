@@ -24,7 +24,7 @@ tags:
 - Gender identity
 comments: []
 ---
-![A man sits at a Galactic Passport office.](/wp-content/media/2011/09/galactic-passport.jpg "ERRRROOOOORRRRR!")
+![A man sits at a Galactic Passport office.]({{'/wp-content/media/2011/09/galactic-passport.jpg' | relative_url}} "ERRRROOOOORRRRR!")
 
 Australia has adopted new passport regulations that allow trans citizens to select the gender with which they best identify.
 

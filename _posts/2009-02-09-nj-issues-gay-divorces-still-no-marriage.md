@@ -24,7 +24,7 @@ tags:
 - Same-sex divorce
 comments: []
 ---
-![But why are they asking a hotel receptionist, anyway?](/wp-content/media/2009/02/gay-divorce.jpg "But why are they asking a hotel receptionist, anyway?")
+![But why are they asking a hotel receptionist, anyway?]({{'/wp-content/media/2009/02/gay-divorce.jpg' | relative_url}} "But why are they asking a hotel receptionist, anyway?")
 
 Here's another reason why the whole concept of separate civil unions instead of same-sex marriage is a terrible idea: New Jersey.
 

@@ -24,7 +24,7 @@ tags:
 - Lawsuits
 comments: []
 ---
-![Basically, careful what you wish for.](/wp-content/media/2009/09/blood-donation-curiosity.jpg "Basically, careful what you wish for.")
+![Basically, careful what you wish for.]({{'/wp-content/media/2009/09/blood-donation-curiosity.jpg' | relative_url}} "Basically, careful what you wish for.")
 
 Canadian Blood Services is suing Kyle Freeman, a perfectly healthy gay man, for donating blood against CBS policy. Freeman had admitted to lying on the donation forms, which asks all men to reveal their sexual orientation, because he had been recently tested as clean for blood-borne diseases. While the admission was made in an anonymous email, CBS launched an investigation, eventually linking the email to its sender.
 

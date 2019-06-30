@@ -25,13 +25,13 @@ tags:
 - Social justice
 comments: []
 ---
-![New gay issues course](/wp-content/media/2006/06/gay_unit.jpg)
+![New gay issues course]({{'/wp-content/media/2006/06/gay_unit.jpg' | relative_url}})
 
 British Columbia high school students have a new elective to choose from next year! The course, entitled _Social Justice Issues_, covers various topics including race, ethnicity, women's rights, and sexual orientation.
 
 This is great news. But how do you suppose the "pro-family" scribes at LifeSite reported this?
 
-![Apocalypse](/wp-content/media/2006/06/apocalypse.jpg)
+![Apocalypse]({{'/wp-content/media/2006/06/apocalypse.jpg' | relative_url}})
 
 **"Government Agrees to Mandatory Homosexual Curriculum with No Opt-Out for Students or Parents!"** _Aaaaaaah!_
 

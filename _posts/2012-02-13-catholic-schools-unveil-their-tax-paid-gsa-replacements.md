@@ -25,7 +25,7 @@ tags:
 - Glen Murray
 comments: []
 ---
-![A man with mushrooms growing from his head comforts an upset student:](/wp-content/media/2012/02/fungiformed.jpg "Whenever this happens, just rotate your controller and head for the blue mustached guy in the hospital.")
+![A man with mushrooms growing from his head comforts an upset student:]({{'/wp-content/media/2012/02/fungiformed.jpg' | relative_url}} "Whenever this happens, just rotate your controller and head for the blue mustached guy in the hospital.")
 
 The Ontario Ministry of Education has long recommended that all schools offer student-run Gay-Straight Alliances. GSAs intend to improve the lives of GLBT students, giving them positive role models, and offering a safe respite from bullying. Their benefits are also well-documented; schools with GSAs have a demonstrably lower incidence of teen suicide.
 

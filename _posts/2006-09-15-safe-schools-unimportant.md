@@ -28,7 +28,7 @@ tags:
 - GALE
 comments: []
 ---
-![MLA Couch Fort](/wp-content/media/2006/09/couch_fort.jpg)
+![MLA Couch Fort]({{'/wp-content/media/2006/09/couch_fort.jpg' | relative_url}})
 
 The B.C. provincial government has cancelled the fall legislative session, citing a lack of business to discuss. Premier Gordon Campbell adding that skipping out on parliamentary sessions "is an organized, thoughtful way of proceeding with the public's business."
 

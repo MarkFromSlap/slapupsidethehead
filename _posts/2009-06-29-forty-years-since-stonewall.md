@@ -21,7 +21,7 @@ tags:
 - Stonewall riots
 comments: []
 ---
-![Not an Inn per se, but their continental breakfast is phenominal](/wp-content/media/2009/06/stonewall.jpg "Not an Inn per se, but their continental breakfast is phenominal")
+![Not an Inn per se, but their continental breakfast is phenominal]({{'/wp-content/media/2009/06/stonewall.jpg' | relative_url}} "Not an Inn per se, but their continental breakfast is phenominal")
 
 Yesterday was the 40<sup><small>th</small></sup> anniversary of the famous [Stonewall riots](http://www.slapupsidethehead.com/2009/03/dr-flamingo-jones-and-the-great-hairpin-drop/ "Dr. Jones explains it better than I could."), the movement widely recognised as sparking the worldwide gay rights movement.
 

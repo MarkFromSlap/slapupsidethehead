@@ -24,7 +24,7 @@ tags:
 - Flags
 comments: []
 ---
-![Truro Ninja](/wp-content/media/2007/11/truro-ninja.jpg)
+![Truro Ninja]({{'/wp-content/media/2007/11/truro-ninja.jpg' | relative_url}})
 
 The town of Truro, Nova Scotia, has backed out of an agreement to fly an AIDS awareness flag on World AIDS Day later this month.
 

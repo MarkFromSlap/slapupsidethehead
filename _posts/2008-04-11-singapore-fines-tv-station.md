@@ -23,7 +23,7 @@ tags:
 - Television
 comments: []
 ---
-![Gay TV Outrage](/wp-content/media/2008/04/tv-outrage.jpg "I react the same way to Bob Sagat")
+![Gay TV Outrage]({{'/wp-content/media/2008/04/tv-outrage.jpg' | relative_url}} "I react the same way to Bob Sagat")
 
 The Media Development Authority in Singapore has fined StarHub Cable Vision, the country's cable operator, for airing a music video that showed two women kissing. In a statement, the media authority called the kiss "a breach of the TV advertising guidelines, which disallows advertisements that condone homosexuality."
 

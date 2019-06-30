@@ -25,7 +25,7 @@ tags:
 - Connecticut
 comments: []
 ---
-![](/wp-content/media/2008/11/forward-and-back.jpg "So I can't even say ")
+![]({{'/wp-content/media/2008/11/forward-and-back.jpg' | relative_url}} "So I can't even say ")
 
 Gay couples in the United States are in bitter-sweet celebration this week after a court victory won the right of same-sex marriage in Connecticut, a week after California lost it due to Proposition 8's passage. Emboldened by what happened in California, anti-gay lobby groups are already working hard to reverse Connecticut's court ruling, which they call "undemocratic."
 

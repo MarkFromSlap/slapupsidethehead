@@ -25,7 +25,7 @@ tags:
 - John Baird
 comments: []
 ---
-![John Baird thinks to himself:](/wp-content/media/2011/12/john-baird.jpg "John Baird's thought process")
+![John Baird thinks to himself:]({{'/wp-content/media/2011/12/john-baird.jpg' | relative_url}} "John Baird's thought process")
 
 The federal Conservative Party---who re-affirmed an [official party policy to ban same-sex marriage in Canada](http://www.slapupsidethehead.com/2011/06/tories-raise-the-spectre-of-a-same-sex-marriage-ban/ "Tories Raise The Spectre Of A Same-Sex Marriage Ban") only 6 months ago---has issued a strong condemnation toward Nigeria for a draconian law that punishes same-sex wedding participants with up to 14 years in jail.
 

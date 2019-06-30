@@ -25,7 +25,7 @@ tags:
 - Defense of marriage act
 comments: []
 ---
-![Airport Security Check. Straights: No Aerosols, No Weapons. Gays: No Aerosols, No Weapons, No Wedding Rings.](/wp-content/media/2012/04/security-check.jpg "Actual photo of an airport sign. Well, not really.")
+![Airport Security Check. Straights: No Aerosols, No Weapons. Gays: No Aerosols, No Weapons, No Wedding Rings.]({{'/wp-content/media/2012/04/security-check.jpg' | relative_url}} "Actual photo of an airport sign. Well, not really.")
 
 The United States' Department of Homeland Security has proposed _finally_ lifting restrictions requiring same-sex couples to fill out separate customs declarations.
 

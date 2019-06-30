@@ -26,7 +26,7 @@ tags:
 - Campus Feminist Action Network
 comments: []
 ---
-![Bill Whatcott Fliers](/wp-content/media/2007/03/whatcott-fliers.jpg)
+![Bill Whatcott Fliers]({{'/wp-content/media/2007/03/whatcott-fliers.jpg' | relative_url}})
 
 Remember Bill Whatcott? His hysterical anti-gay stance has won him repeated [human rights violations](http://www.slapupsidethehead.com/2006/11/human-rights-fine/ "Slow learner I guess") and a [job suspension](http://www.slapupsidethehead.com/2006/07/anti-gay-nurse-suspended/ "Helllooooo delusional nurse!"), but that doesn't seem to stop him from distributing hate literature. Now a local activist group might have him re-thinking his strategy.
 

@@ -22,7 +22,7 @@ tags:
 - Christmas
 comments: []
 ---
-![Slappy Holidays!](/wp-content/media/2006/12/santa.jpg)
+![Slappy Holidays!]({{'/wp-content/media/2006/12/santa.jpg' | relative_url}})
 
 Hey folks! Well, it's Christmas! And, though there's no news story today, I've prepared this delightfully lazy cartoon for you all. So, on behalf of this inanimate website, I wish you all the very merriest of Christmases and an exceptionally happy holiday.
 

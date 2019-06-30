@@ -28,7 +28,7 @@ tags:
 - Sara Bisson
 comments: []
 ---
-![That's so gay](/wp-content/media/2006/06/so_gay.jpg)
+![That's so gay]({{'/wp-content/media/2006/06/so_gay.jpg' | relative_url}})
 
 Using the phrase "that's so gay" to mean "that's horrible" has become unacceptably common, the [Greater Victoria School District](http://www.sd61.bc.ca/ "The GVSD... An unpronouncable acronym") announced last month. And now they're doing something about it!
 

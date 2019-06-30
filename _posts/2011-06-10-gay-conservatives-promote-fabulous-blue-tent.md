@@ -23,7 +23,7 @@ tags:
 - Fabulous Blue Tent
 comments: []
 ---
-![A blue tent sits in the middle of a very scary forest](/wp-content/media/2011/06/fabulous-blue-tent.jpg "Situated in the forest of terror, beside the haunted river of intolerance")
+![A blue tent sits in the middle of a very scary forest]({{'/wp-content/media/2011/06/fabulous-blue-tent.jpg' | relative_url}} "Situated in the forest of terror, beside the haunted river of intolerance")
 
 Yesterday marked the start of the Canadian Conservative Party's national convention. Canada's only right-wing party has been celebrating their recent 39% majority government victory, so it promises to be a fun-filled weekend of military strategies, handshakes, brutalizing criminals, and tight public relations control. Enjoyment all 'round!
 

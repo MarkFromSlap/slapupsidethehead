@@ -23,7 +23,7 @@ tags:
 - Censorship
 comments: []
 ---
-![She moves away from the mic to breathe in.](/wp-content/media/2009/05/school-report.jpg "She moves away from the mic to breathe in.")
+![She moves away from the mic to breathe in.]({{'/wp-content/media/2009/05/school-report.jpg' | relative_url}} "She moves away from the mic to breathe in.")
 
 Natalie Jones, a sixth grade student in San Diego, has been disallowed from reading her history report on Harvey Milk, the United State's first openly gay and tragically slain politician, until her fellow classmates receive permission from their parents to hear it.
 

@@ -27,7 +27,7 @@ tags:
 - NDP
 comments: []
 ---
-![Charles McVety stands in the middle of a ladies locker room, announcing he's there to protect ladies from creeps.](/wp-content/media/2010/11/charles-mcvety-locker-room-protector.jpg "I wouldn't want to see this guy in the men's room either, come to think of it.")
+![Charles McVety stands in the middle of a ladies locker room, announcing he's there to protect ladies from creeps.]({{'/wp-content/media/2010/11/charles-mcvety-locker-room-protector.jpg' | relative_url}} "I wouldn't want to see this guy in the men's room either, come to think of it.")
 
 Charles McVety, the president of Canada Family Action Coalition, Canada's largest anti-gay lobby group, has ramped up his opposition to Bill C-389. The bill, if passed, will prohibit discrimination on the basis of gender identity, giving transgendered men and women equal rights in housing, employment, and public services.
 

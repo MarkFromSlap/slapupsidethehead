@@ -26,7 +26,7 @@ tags:
 - Petitions
 comments: []
 ---
-![Electrifyingly Simple. Whenever you remember that you're gay, tap the pink button. A high voltage current with travel through your headphones, delivering holy pain. Only from Exodus International.](/wp-content/media/2011/03/gay-cure-app.jpg "Exodus Gay Cure App: Just $1.99 from the App Store.")
+![Electrifyingly Simple. Whenever you remember that you're gay, tap the pink button. A high voltage current with travel through your headphones, delivering holy pain. Only from Exodus International.]({{'/wp-content/media/2011/03/gay-cure-app.jpg' | relative_url}} "Exodus Gay Cure App: Just $1.99 from the App Store.")
 
 Exodus International, an "ex-gay" organisation that subscribes to the rejected notion that being gay is a disorder that can be cured through therapy, has released a "Gay Cure" iPhone app.
 

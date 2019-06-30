@@ -23,7 +23,7 @@ tags:
 - Toronto
 comments: []
 ---
-![Slurs](/wp-content/media/2006/12/slurs.jpg)
+![Slurs]({{'/wp-content/media/2006/12/slurs.jpg' | relative_url}})
 
 The Toronto police lost an appeal this week after a court fined them for wrongly arresting and beating a gay man while yelling homophobic slurs. The man was arrested for reckless driving and resisting arrest. His van was parked at the time.
 

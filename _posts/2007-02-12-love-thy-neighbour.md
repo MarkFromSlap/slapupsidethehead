@@ -21,7 +21,7 @@ tags:
 - Surveys
 comments: []
 ---
-![Gay Neighbour](/wp-content/media/2007/02/gay-neighbour.jpg)
+![Gay Neighbour]({{'/wp-content/media/2007/02/gay-neighbour.jpg' | relative_url}})
 
 Canadians would be more uncomfortable having a gay neighbour than any other minority. At least, that's the news according to a recent poll conducted across various western and Eurpoean nations.
 

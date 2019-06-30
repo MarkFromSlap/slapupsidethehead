@@ -26,7 +26,7 @@ tags:
 - Rodney Andrews
 comments: []
 ---
-![Boot-o-matic](/wp-content/media/2007/05/boot-o-matic.jpg)
+![Boot-o-matic]({{'/wp-content/media/2007/05/boot-o-matic.jpg' | relative_url}})
 
 Reverend Shawn Sanford Beck, a priest in Saskatoon, has resigned his position after refusing to renounce same-sex marriage. Beck, who had his license stripped in January, was given a temporary license and an ultimatum by Bishop Rodney Andrews back in March: Either stop supporting equal rights for gays, or get lost.
 

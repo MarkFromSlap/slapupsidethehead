@@ -29,7 +29,7 @@ tags:
 - Kaitlin Burnett
 comments: []
 ---
-![Meanwhile, at the gays-in-boxes-of-spiders charity headquarters, a man ponders hiding in his own boxes of spiders.](/wp-content/media/2011/06/exodus-global-alliance.jpg "It's not like he hadn't spent time in the box before, after all.")
+![Meanwhile, at the gays-in-boxes-of-spiders charity headquarters, a man ponders hiding in his own boxes of spiders.]({{'/wp-content/media/2011/06/exodus-global-alliance.jpg' | relative_url}} "It's not like he hadn't spent time in the box before, after all.")
 
 I've got some particularly cool news today!
 

@@ -35,6 +35,6 @@ To protect them from... photos of families? Well, I can't say they didn't name i
 
 Still, what a marvelously stupid concept! It gives me an idea.
 
-![Are your children being exposed to reality? Protect 'em with the Slap-certified FAMILY SHIELD.](/wp-content/media/2011/01/family-shield.jpg "Accept no imitations! Buy only the SLAP-certified Family Shield!")
+![Are your children being exposed to reality? Protect 'em with the Slap-certified FAMILY SHIELD.]({{'/wp-content/media/2011/01/family-shield.jpg' | relative_url}} "Accept no imitations! Buy only the SLAP-certified Family Shield!")
 
 - [Elton John's new family too obscene for US](http://www.news.com.au/entertainment/celebrity/outrage-as-arkansas-grocery-store-censors-magazine-cover-of-elton-john-husband-and-baby/story-e6frfmqi-1225995551278) [News.com.au]

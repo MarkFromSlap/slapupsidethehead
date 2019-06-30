@@ -24,7 +24,7 @@ tags:
 - BC Conservatives
 comments: []
 ---
-![John Cummins declares, from his rear end, that being gay is a choice.](/wp-content/media/2011/05/talking-out-of-ass.jpg "John Cummins is talking out of his ass, you see.")
+![John Cummins declares, from his rear end, that being gay is a choice.]({{'/wp-content/media/2011/05/talking-out-of-ass.jpg' | relative_url}} "John Cummins is talking out of his ass, you see.")
 
 John Cummins, the only candidate for the leadership position of the provincial Conservative party in British Columbia, has declared that being gay is a choice and that the Human Rights Code in the province should therefore exclude gay and lesbian citizens.
 

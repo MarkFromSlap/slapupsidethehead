@@ -23,7 +23,7 @@ tags:
 - Court decisions
 comments: []
 ---
-![Aw, it hissed at me! It knows its daddy!](/wp-content/media/2009/11/deep-sea-angler.jpg "Aw, it hissed at me! It knows its daddy!")
+![Aw, it hissed at me! It knows its daddy!]({{'/wp-content/media/2009/11/deep-sea-angler.jpg' | relative_url}} "Aw, it hissed at me! It knows its daddy!")
 
 Promising news from France this week.
 

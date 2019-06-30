@@ -26,9 +26,9 @@ tags:
 - Communion
 comments: []
 ---
-![No Wafer For You!](/wp-content/media/2006/07/fred_henry.jpg)
+![No Wafer For You!]({{'/wp-content/media/2006/07/fred_henry.jpg' | relative_url}})
 
-![Retroactive Slap](/wp-content/media/2006/07/retroactive.jpg) Another hysterically anti-gay nut from Calgary? _Get out_!
+![Retroactive Slap]({{'/wp-content/media/2006/07/retroactive.jpg' | relative_url}}) Another hysterically anti-gay nut from Calgary? _Get out_!
 
 Fred Henry, a bishop from Calgary, wrote a pastoral letter (not quite as lovely as that sounds, trust me) that equated gays to _prostitutes and pornographers_, pressuring the government to do something about it. The wording wasn't exactly subtle either. Well, you be the judge:
 

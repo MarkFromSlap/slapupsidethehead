@@ -25,7 +25,7 @@ tags:
 - Valentine's Day
 comments: []
 ---
-![Valentine's Day Update](/wp-content/media/2007/02/valentines-day.jpg)
+![Valentine's Day Update]({{'/wp-content/media/2007/02/valentines-day.jpg' | relative_url}})
 
 Happy Valentine's Day, kids! Love it or loathe it, it's an existent holiday and that can only mean one thing: It's time for me to post a lazy update on old stories!
 

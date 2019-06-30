@@ -22,7 +22,7 @@ tags:
 - Christ
 comments: []
 ---
-![A skeleton bell ringer for The Salvation Army.](/wp-content/media/2012/12/salvation-army.jpg "There are more worthy charities out there.")
+![A skeleton bell ringer for The Salvation Army.]({{'/wp-content/media/2012/12/salvation-army.jpg' | relative_url}} "There are more worthy charities out there.")
 
 It's about that time of year when the folks at The Salvation Army start ringing bells in front of their red kettles, soliciting donations. If you happen to see a Salvation Army kettle this holiday season, here's a few reasons you should probably give your money to a more worthwhile charity instead:
 

@@ -24,7 +24,7 @@ tags:
 - Andreas Boettcher
 comments: []
 ---
-![A leprechaun riding a unicorn declares that same-sex marriages aren't real.](/wp-content/media/2010/06/not-real.jpg "Why, just ask the talking fantastipotomus.")
+![A leprechaun riding a unicorn declares that same-sex marriages aren't real.]({{'/wp-content/media/2010/06/not-real.jpg' | relative_url}} "Why, just ask the talking fantastipotomus.")
 
 A German court has declared that Canadian same-sex marriages are not actually real marriages and can therefore only be considered civil partnerships.
 

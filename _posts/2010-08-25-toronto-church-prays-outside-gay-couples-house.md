@@ -25,7 +25,7 @@ tags:
 - Highfield Road Gospel Hall
 comments: []
 ---
-![Church group sings out of a book, We warn you of merry hellfire, we warn you of merry hellfire...](/wp-content/media/2010/08/weird-carolers.jpg "...merry hellfire, and an infected ear.")
+![Church group sings out of a book, We warn you of merry hellfire, we warn you of merry hellfire...]({{'/wp-content/media/2010/08/weird-carolers.jpg' | relative_url}} "...merry hellfire, and an infected ear.")
 
 Residents of a neighbourhood on Toronto's Leslieville Street found themselves defending the home of a local gay couple after members of a local Baptist church gathered outside it, shouting, praying, and waving bibles.
 

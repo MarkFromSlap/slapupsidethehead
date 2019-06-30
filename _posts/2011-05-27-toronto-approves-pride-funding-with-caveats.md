@@ -25,7 +25,7 @@ tags:
 - Queers Against Israeli Apartheid
 comments: []
 ---
-![Rob Ford marches in a Pride parade.](/wp-content/media/2011/05/rob-ford-pride.jpg "Rob Ford's renewed commitment to Pride.")
+![Rob Ford marches in a Pride parade.]({{'/wp-content/media/2011/05/rob-ford-pride.jpg' | relative_url}} "Rob Ford's renewed commitment to Pride.")
 
 Despite threats from Toronto's mayor to pull its funding, a city council committee has unanimously voted to continue supporting the city's annual Pride festival.
 

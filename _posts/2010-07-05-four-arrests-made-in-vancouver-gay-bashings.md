@@ -26,7 +26,7 @@ tags:
 - Aaron Alexander Hahn
 comments: []
 ---
-![Policeman identifies assailant because he physically looks like a monster](/wp-content/media/2010/07/hate-crime-assailant.jpg "Anyone who attacks someone else for who they are isn't fully human.")
+![Policeman identifies assailant because he physically looks like a monster]({{'/wp-content/media/2010/07/hate-crime-assailant.jpg' | relative_url}} "Anyone who attacks someone else for who they are isn't fully human.")
 
 Somewhat good news today, as four men have been arrested in Vancouver for two separate gay bashings in the past month.
 

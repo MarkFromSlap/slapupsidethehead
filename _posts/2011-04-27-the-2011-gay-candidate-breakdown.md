@@ -26,7 +26,7 @@ tags:
 - Federal Greens
 comments: []
 ---
-![Jack Layton, in the style of Professor Layton, says that a gentleman always gives everyone a fair shake, Luke.](/wp-content/media/2011/04/jack-layton.jpg "I heart my DS.")
+![Jack Layton, in the style of Professor Layton, says that a gentleman always gives everyone a fair shake, Luke.]({{'/wp-content/media/2011/04/jack-layton.jpg' | relative_url}} "I heart my DS.")
 
 So, there's an election happening in Canada. If you live here, I'm sure you've been following it very closely and consequently have lost most of your hair due to exasperated tugging. If you live outside of Canada, you're probably still up to speed since the international news media incessantly reports on Canadian politics, just like they do for the United States. (_Snicker._)
 

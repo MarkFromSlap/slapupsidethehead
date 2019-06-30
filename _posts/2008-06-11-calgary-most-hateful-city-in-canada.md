@@ -25,7 +25,7 @@ tags:
 - Hate crimes
 comments: []
 ---
-![Suprise!](/wp-content/media/2008/06/alberta-surprise.jpg "HOLY COW! (Eat Alberta Beef)")
+![Suprise!]({{'/wp-content/media/2008/06/alberta-surprise.jpg' | relative_url}} "HOLY COW! (Eat Alberta Beef)")
 
 Calgary has topped the list of the most hate crimes committed per capita of any city Canada, according to a report released by Statistics Canada this week. The study also noted that gays are [more likely to be the victims of violent hate crimes](http://www.slapupsidethehead.com/2008/02/gays-at-risk-of-assault/ "Sad, sad stuff.") nationwide than any other minority group.
 

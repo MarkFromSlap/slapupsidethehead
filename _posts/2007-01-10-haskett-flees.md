@@ -24,7 +24,7 @@ tags:
 - Diane Haskett
 comments: []
 ---
-![Diane Haskett Flees Canada](/wp-content/media/2007/01/diane_haskett.jpg)
+![Diane Haskett Flees Canada]({{'/wp-content/media/2007/01/diane_haskett.jpg' | relative_url}})
 
 Poor Diane Haskett. After finishing a distant third in the London by-election last month (behind both the Liberal and Green Party candidates), she has decided to flee the country.
 

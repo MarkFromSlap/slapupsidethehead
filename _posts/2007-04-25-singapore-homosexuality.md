@@ -23,7 +23,7 @@ tags:
 - Lee Kuan Yew
 comments: []
 ---
-![Singapore Criminal](/wp-content/media/2007/04/singapore-criminal.jpg)
+![Singapore Criminal]({{'/wp-content/media/2007/04/singapore-criminal.jpg' | relative_url}})
 
 Gay travelers may be in for a treat! Lee Kuan Yew, Singapore's influential former prime minister, has been openly mulling why gayness is still illegal in his country:
 

@@ -24,7 +24,7 @@ tags:
 - Parents' Voice
 comments: []
 ---
-![An anonymous man ponders over an anti-homophobia policy:](/wp-content/media/2011/11/stupid-death-threat.jpg "And just so they know I'm serious, I won't sign my name.")
+![An anonymous man ponders over an anti-homophobia policy:]({{'/wp-content/media/2011/11/stupid-death-threat.jpg' | relative_url}} "And just so they know I'm serious, I won't sign my name.")
 
 A teacher in Burnaby, British Columbia has received a death threat over the school board's proposal to adopt anti-homophobia policies designed to reduce incidents of bullying and make schools safter for GLBT students.
 

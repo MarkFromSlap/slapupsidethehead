@@ -24,7 +24,7 @@ tags:
 - Matthew David
 comments: []
 ---
-![Guest Slap](/wp-content/media/2007/09/guest-slap.jpg "Guest Slap")
+![Guest Slap]({{'/wp-content/media/2007/09/guest-slap.jpg' | relative_url}} "Guest Slap")
 
 I'm very pleased to introduce today's guest author. [Matthew David](http://www.matthew-david.com/ "Check out his new album!") is a gay Christian and talented singer/songwriter with an aptness for challenging popular conceptions. In his second [Guest Slap](http://www.slapupsidethehead.com/category/guest-slap/ "Don't forget to check out Slap's previous guest authors!"), Matthew questions whether Christianity's appropriation of Christmas was wise, and whether it's possible to integrate one's faith with knowledge that the Nativity is rooted in pagan mythology.
 

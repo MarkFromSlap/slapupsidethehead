@@ -25,7 +25,7 @@ tags:
 - Elisabeth Dole
 comments: []
 ---
-![](/wp-content/media/2008/07/airport-screening.jpg "Airport Screening")
+![]({{'/wp-content/media/2008/07/airport-screening.jpg' | relative_url}} "Airport Screening")
 
 The United States has repealed their ban on HIV-positive visitors and immigrants yesterday as part of a larger bill designed to combat AIDS through research and education.
 

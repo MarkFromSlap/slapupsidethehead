@@ -25,7 +25,7 @@ tags:
 - Maine
 comments: []
 ---
-![GRANDMAS ARE EVIL! BOYCOTT ALL GRANDMAS!](/wp-content/media/2009/10/scolding-grandmother.jpg "GRANDMAS ARE EVIL! BOYCOTT ALL GRANDMAS!")
+![GRANDMAS ARE EVIL! BOYCOTT ALL GRANDMAS!]({{'/wp-content/media/2009/10/scolding-grandmother.jpg' | relative_url}} "GRANDMAS ARE EVIL! BOYCOTT ALL GRANDMAS!")
 
 Catholic Vote Action, a religious political group based in Chicago, is demanding that [an ad supporting equal marriage rights](http://www.youtube.com/watch?v=KKBkVF6aexA "The interwebs have got it available for you, of course!") in the state of Maine be pulled off the air.
 

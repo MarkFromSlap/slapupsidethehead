@@ -26,7 +26,7 @@ tags:
 - Rachel Notley
 comments: []
 ---
-![No, I'm not on medication. Why do you ask?](/wp-content/media/2009/02/alberta-human-rights.jpg "No, I'm not on medication. Why do you ask?")
+![No, I'm not on medication. Why do you ask?]({{'/wp-content/media/2009/02/alberta-human-rights.jpg' | relative_url}} "No, I'm not on medication. Why do you ask?")
 
 Alberta is the only province in Canada that does not explicitly include protections against discrimination based on sexual orientation in its human rights code. This, despite a ten-year-old Supreme Court ruling stating that provinces must not exclude gays and lesbians from their human rights legislations.
 

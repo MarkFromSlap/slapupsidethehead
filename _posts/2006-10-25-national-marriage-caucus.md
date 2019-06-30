@@ -25,7 +25,7 @@ tags:
 - Defend Marriage Coalition
 comments: []
 ---
-![The Defend Marriage Coalition](/wp-content/media/2006/10/defend_marriage_coalition.jpg)
+![The Defend Marriage Coalition]({{'/wp-content/media/2006/10/defend_marriage_coalition.jpg' | relative_url}})
 
 _A National Marriage Circus!_ Sounds like fun! I _can't wait_ to see all the clowns and animals... Oh---wait, no. I misread something...
 

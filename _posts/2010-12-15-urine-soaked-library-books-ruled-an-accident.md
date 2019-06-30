@@ -26,7 +26,7 @@ tags:
 - Libraries
 comments: []
 ---
-![A man accidentally tips one of several jars of urine placed on a library bookshelf.](/wp-content/media/2010/12/library-urine.jpg "They keep boxes of dandruff over the card catalogues.")
+![A man accidentally tips one of several jars of urine placed on a library bookshelf.]({{'/wp-content/media/2010/12/library-urine.jpg' | relative_url}} "They keep boxes of dandruff over the card catalogues.")
 
 Hundreds of dollars worth of gay-themed library books that were found soaked in urine at Harvard is no longer being treated as a hate crime, according to university investigators.
 

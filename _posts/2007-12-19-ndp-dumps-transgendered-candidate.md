@@ -23,7 +23,7 @@ tags:
 - Federal NDP
 comments: []
 ---
-![The Transgendered Lawyer](/wp-content/media/2007/12/transgender-candidate.jpg)
+![The Transgendered Lawyer]({{'/wp-content/media/2007/12/transgender-candidate.jpg' | relative_url}})
 
 The federal [New Democratic Party](http://www.ndp.ca/ "They're new; They're Democratic. Let's party.") has dropped their only transgendered candidate, Ms. Micheline Montreuil, from her Québec City riding.
 

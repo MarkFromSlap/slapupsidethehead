@@ -32,15 +32,15 @@ National Organization for Marriage, an anti-gay lobby group based in the United 
 
 The disparity in outlook has taken a turn for the melodramatic, has it not?
 
-![The clouds are ominous and full of ominousness...](/wp-content/media/2009/04/gay-storm-part-1.jpg "The clouds are ominous and full of ominousness...")
+![The clouds are ominous and full of ominousness...]({{'/wp-content/media/2009/04/gay-storm-part-1.jpg' | relative_url}} "The clouds are ominous and full of ominousness...")
 
-![The wind... It's so cold, it's sending shivers up my uvula.](/wp-content/media/2009/04/gay-storm-part-2.jpg "The wind... It's so cold, it's sending shivers up my uvula.")
+![The wind... It's so cold, it's sending shivers up my uvula.]({{'/wp-content/media/2009/04/gay-storm-part-2.jpg' | relative_url}} "The wind... It's so cold, it's sending shivers up my uvula.")
 
-![The gays want to blow us! (Away, that is...)](/wp-content/media/2009/04/gay-storm-part-3.jpg "The gays want to blow us! (Away, that is...)")
+![The gays want to blow us! (Away, that is...)]({{'/wp-content/media/2009/04/gay-storm-part-3.jpg' | relative_url}} "The gays want to blow us! (Away, that is...)")
 
-![The horror! Oh, the horror! It's so horrifically horrible!](/wp-content/media/2009/04/gay-storm-part-4.jpg "The horror! Oh, the horror! It's so horrifically horrible!")
+![The horror! Oh, the horror! It's so horrifically horrible!]({{'/wp-content/media/2009/04/gay-storm-part-4.jpg' | relative_url}} "The horror! Oh, the horror! It's so horrifically horrible!")
 
-![I do.](/wp-content/media/2009/04/gay-storm-part-5.jpg "I do.")
+![I do.]({{'/wp-content/media/2009/04/gay-storm-part-5.jpg' | relative_url}} "I do.")
 
 I'll leave the final bit of amusement courtesy of the [Human Rights Campaign](http://www.hrc.org/12470.htm "A great group with a great cause"), who has managed to get the [audition tapes](http://www.youtube.com/watch?v=lRjVDZxho54 "Each actor has their own take on it, too. How interesting!") for the spot---and, interestingly enough---every one of those concerned individuals is a California doctor and Massachusetts parent. Fascinating!
 

@@ -26,7 +26,7 @@ tags:
 - Mark Hatzenbuehler
 comments: []
 ---
-![A doctor proposes to his boyfriend, by holding out a pair of engagement rings:](/wp-content/media/2011/12/same-sex-marriage-health.jpg "And he quickly swallowed the rings.")
+![A doctor proposes to his boyfriend, by holding out a pair of engagement rings:]({{'/wp-content/media/2011/12/same-sex-marriage-health.jpg' | relative_url}} "And he quickly swallowed the rings.")
 
 As if common sense weren't enough reason to give full, equal marriage rights to same-sex couples, a study out of Columbia University has provided some extra support.
 

@@ -23,7 +23,7 @@ tags:
 - Thanksgiving
 comments: []
 ---
-![Thanksgiving Turkey](/wp-content/media/2007/10/thanksgiving-turkey.jpg)
+![Thanksgiving Turkey]({{'/wp-content/media/2007/10/thanksgiving-turkey.jpg' | relative_url}})
 
 It's Thanksgiving in Canada today, so I'm taking the day off. In the meantime, though, here's some quick Canadian Thanksgiving trivia for those living elsewhere:
 

@@ -25,7 +25,7 @@ tags:
 - Parents' Voice
 comments: []
 ---
-![Jafar from Alladin holds up a sign:](/wp-content/media/2012/02/burnaby-parents-voice.jpg "Another excuse to draw a Disney villain.")
+![Jafar from Alladin holds up a sign:]({{'/wp-content/media/2012/02/burnaby-parents-voice.jpg' | relative_url}} "Another excuse to draw a Disney villain.")
 
 Hundreds of students from schools across Vancouver have collaborated to create a YouTube video called the Pink Project, a creative effort to help spread the message that bullying is not OK. The video features students from eleven different schools dancing to Lady Gaga's "Born this Way," all wearing pink shirts with the message "Acceptance; Born this way." It's pretty great, and looks like it was a lot of fun to do!
 

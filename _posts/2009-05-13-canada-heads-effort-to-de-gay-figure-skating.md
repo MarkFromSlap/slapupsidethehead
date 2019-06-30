@@ -25,7 +25,7 @@ tags:
 - Skate Canada
 comments: []
 ---
-![BOO-YEAH](/wp-content/media/2009/05/canadian-figure-skating.jpg "BOO-YEAH")
+![BOO-YEAH]({{'/wp-content/media/2009/05/canadian-figure-skating.jpg' | relative_url}} "BOO-YEAH")
 
 [Skate Canada](http://www.skatecanada.ca/ "I'm tempted to not make this slap metaphorical..."), the governing body for figure skating in Canada, is trying to re-imagine the sport in an attempt to increase spectatorship for Vancouver's 2010 Winter Olympics. Their approach: Get rid of the gay. (Or, to put it in their words, inject some "masculinity" to draw in the "hockey crowd.")
 

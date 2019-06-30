@@ -23,7 +23,7 @@ tags:
 - Exodus Global Alliance
 comments: []
 ---
-![Slap Into Action](/wp-content/media/2010/09/slap-into-action.jpg "Slap Into Action")
+![Slap Into Action]({{'/wp-content/media/2010/09/slap-into-action.jpg' | relative_url}} "Slap Into Action")
 
 In early September, I posted a call to action regarding the registered charitable status of Exodus Global Alliance, a religious organisation that promotes "freedom from homosexuality" through prayer and something they call _sexual reorientation therapy_.
 

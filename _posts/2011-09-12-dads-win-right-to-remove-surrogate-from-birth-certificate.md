@@ -23,7 +23,7 @@ tags:
 - Birth certificates
 comments: []
 ---
-![A doctor talks aloud in front of a baby in an incubator:](/wp-content/media/2011/09/gestinotron-3000.jpg "I was actually in an incubator for a while. I wonder where it is now... Should I send it flowers on mother's day, too?")
+![A doctor talks aloud in front of a baby in an incubator:]({{'/wp-content/media/2011/09/gestinotron-3000.jpg' | relative_url}} "I was actually in an incubator for a while. I wonder where it is now... Should I send it flowers on mother's day, too?")
 
 Two same-sex fathers in Saskatchewan have won the right to amend their child's birth certificate, removing the name of a surrogate mother.
 

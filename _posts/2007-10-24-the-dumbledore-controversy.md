@@ -24,7 +24,7 @@ tags:
 - Laura Mallory
 comments: []
 ---
-![Point-Counterpoint: The Dumbledore Gay Controversy](/wp-content/media/2007/10/point-counterpoint.jpg)
+![Point-Counterpoint: The Dumbledore Gay Controversy]({{'/wp-content/media/2007/10/point-counterpoint.jpg' | relative_url}})
 
 Professor Albus Dumbledore, a character from a mildly popular book series that I can't quite remember the title of, [is gay](http://www.cbc.ca/arts/books/story/2007/10/20/dumbledore-gay.html "Headmaster... Tee hee."). Some people are furious, with a [Toronto Daily News columnist](http://www.torontodailynews.com/index.php/EntertainmentNews/2007102306Dumbledore-Gay "Mind you, I've never actually heard of this paper until now.") writing: "Such an ousting of one of the most beloved characters in [the] book had no value and may hurt the future of Harry Potter."
 

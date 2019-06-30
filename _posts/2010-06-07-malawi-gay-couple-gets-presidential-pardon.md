@@ -25,7 +25,7 @@ tags:
 - Malawi
 comments: []
 ---
-![Gay couple is pardoned and free to go, but an angry, homophobic crowd is outside the window.](/wp-content/media/2010/06/presidential-pardon.jpg "How kind...")
+![Gay couple is pardoned and free to go, but an angry, homophobic crowd is outside the window.]({{'/wp-content/media/2010/06/presidential-pardon.jpg' | relative_url}} "How kind...")
 
 After intense international pressure, the president of Malawi has pardoned a couple sentenced to jail for 14 years simply because they were gay.
 

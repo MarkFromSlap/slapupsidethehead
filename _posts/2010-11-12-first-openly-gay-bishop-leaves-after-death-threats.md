@@ -26,7 +26,7 @@ tags:
 - Episcopal Church
 comments: []
 ---
-![A grinning skull on a sheet of paper says:](/wp-content/media/2010/11/death-threat.jpg "'Cause Jesus would have totally done this?")
+![A grinning skull on a sheet of paper says:]({{'/wp-content/media/2010/11/death-threat.jpg' | relative_url}} "'Cause Jesus would have totally done this?")
 
 Gene Robinson, the world's first openly gay bishop in the Anglican Communion, has announced that he will be leaving his post after seven years in service.
 

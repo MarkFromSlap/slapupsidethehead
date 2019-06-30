@@ -24,7 +24,7 @@ tags:
 - Michael Ignatieff
 comments: []
 ---
-![You're just darling, aren't you?](/wp-content/media/2009/04/gay-organ-love.jpg "You're just darling, aren't you?")
+![You're just darling, aren't you?]({{'/wp-content/media/2009/04/gay-organ-love.jpg' | relative_url}} "You're just darling, aren't you?")
 
 Michael Ignatieff, the leader of the federal Liberal Party, has outlined some important topics to be discussed at the upcoming party policy convention---and addressing the recent ban on gay organ donors is one of them.
 

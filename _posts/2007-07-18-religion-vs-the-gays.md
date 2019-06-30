@@ -23,7 +23,7 @@ tags:
 - Darren Lund
 comments: []
 ---
-![Human Rights Showdown](/wp-content/media/2007/07/human-rights-showdown.jpg)
+![Human Rights Showdown]({{'/wp-content/media/2007/07/human-rights-showdown.jpg' | relative_url}})
 
 Looks like the ostensible "Religious Freedom" versus "Gay Rights" debate is still alive and kicking in the media.
 
@@ -33,7 +33,7 @@ Although this happened five years ago, the case is now in front of the human rig
 
 Now, considering that neither of the parties involved are actually gay, perhaps I could sneak a word in here...
 
-![Human Rights Showdown Reaction](/wp-content/media/2007/07/human-rights-showdown-reaction.jpg)
+![Human Rights Showdown Reaction]({{'/wp-content/media/2007/07/human-rights-showdown-reaction.jpg' | relative_url}})
 
 This is not a gay rights case, let alone a "pivotal" one. No gay rights are being won or lost here and Canada's largest gay rights organisation, [EGALE](http://www.egale.ca/ "A great organisation"), is refusing to involve itself in the case. This isn't a religious freedom case, either. Despite a recent hysterical opposition to homosexuality by many churches, the views expressed in the letter are not rooted in any mainstream religion, which largely teach love and tolerance. Rather, this case is about a man who enjoys contention and wants to assert territory in hate speech's grey areas.
 

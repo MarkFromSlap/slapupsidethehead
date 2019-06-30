@@ -24,7 +24,7 @@ tags:
 - New Ways Ministry
 comments: []
 ---
-![](/wp-content/media/2010/02/church-argument.jpg "It's all about self-flagellation, fasts, and silence!")
+![]({{'/wp-content/media/2010/02/church-argument.jpg' | relative_url}} "It's all about self-flagellation, fasts, and silence!")
 
 The Catholic Church has ordered New Ways Ministry, a religious group that welcomes gay and lesbian Catholics, to not speak about any gay-related subjects. Cardinal Francis George warned the group last week that they have "no approval or recognition from the Catholic Church."
 

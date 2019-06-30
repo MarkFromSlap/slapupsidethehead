@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-![Scaphoid](/wp-content/media/2010/07/scaphoid.jpeg "Scaphoid")
+![Scaphoid]({{'/wp-content/media/2010/07/scaphoid.jpeg' | relative_url}} "Scaphoid")
 
 Well, the good news is that I learned about a new bone today. The bad news is that I fractured it, may need reconstructive surgery, and will be in an arm cast for my wedding.
 

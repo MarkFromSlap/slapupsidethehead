@@ -24,7 +24,7 @@ tags:
 - Jim Bain
 comments: []
 ---
-![The con is on...](/wp-content/media/2006/06/con_artist.jpg)
+![The con is on...]({{'/wp-content/media/2006/06/con_artist.jpg' | relative_url}})
 
 Well, I guess this is what you get for forming a close-knit and compassionate community. A _telephone scam artist_ has decided to target the Nova Scotia gay community in hopes of getting some of their sweet, sweet... well, money! Disgustingly, he claims to be the victim of a horrible hate crime, weaving a fascinating tale of having been beaten, robbed, and in desperate need of cash.
 

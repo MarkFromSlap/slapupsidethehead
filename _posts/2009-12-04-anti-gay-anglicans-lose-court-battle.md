@@ -24,7 +24,7 @@ tags:
 - Silly priorities
 comments: []
 ---
-![Everytime you sue someone, Jesus smiles fondly.](/wp-content/media/2009/12/jesus-hearts-lawsuits.jpg "Everytime you sue someone, Jesus smiles fondly.")
+![Everytime you sue someone, Jesus smiles fondly.]({{'/wp-content/media/2009/12/jesus-hearts-lawsuits.jpg' | relative_url}} "Everytime you sue someone, Jesus smiles fondly.")
 
 An amusingly bizarre rift over same-sex blessings in the Anglican Church has felt its latest tremor after a court decision late last month.
 

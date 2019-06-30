@@ -24,7 +24,7 @@ tags:
 - First Presbyterian Church
 comments: []
 ---
-![Priest thinks to himself how super he is after driving away a young, enthusiastic, and faithful volunteer.](/wp-content/media/2010/08/dumb-church.jpg "Jesus was all about turning people away, right?")
+![Priest thinks to himself how super he is after driving away a young, enthusiastic, and faithful volunteer.]({{'/wp-content/media/2010/08/dumb-church.jpg' | relative_url}} "Jesus was all about turning people away, right?")
 
 Tory Inglis, a 17-year old gay teen from B.C., has withdrawn from her position as a church youth leader after being punished for volunteering as a Pride organizer.
 

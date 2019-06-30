@@ -25,7 +25,7 @@ tags:
 - North Carolina
 comments: []
 ---
-![while(true) { this.loves( you ); }](/wp-content/media/2009/03/robosexual.jpg "while(true) { this.loves( you ); }")
+![while(true) { this.loves( you ); }]({{'/wp-content/media/2009/03/robosexual.jpg' | relative_url}} "while(true) { this.loves( you ); }")
 
 Despite a growing number of countries demonstrating that gay marriage does not destroy society and all of life as we know it, some very special types of people remain in hysterical panic, as this gem from North Carolina demonstrates.
 

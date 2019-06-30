@@ -24,7 +24,7 @@ tags:
 - George Rekers
 comments: []
 ---
-![A preacher casts gay demons out, in a magnificent rainbow swirl with fairies, hearts, starts, etc.](/wp-content/media/2010/05/gay-demons.jpg "Who says you can't come out twice?")
+![A preacher casts gay demons out, in a magnificent rainbow swirl with fairies, hearts, starts, etc.]({{'/wp-content/media/2010/05/gay-demons.jpg' | relative_url}} "Who says you can't come out twice?")
 
 The idea that homosexuality can be eliminated through prayer is about as old as it is wrong. I like to think that there aren't many people who still believe it, but just this week a member of the UK's large Conservative party declared, on record, that homosexuality is "the work of demons," and can be cured through "the power of prayer."
 

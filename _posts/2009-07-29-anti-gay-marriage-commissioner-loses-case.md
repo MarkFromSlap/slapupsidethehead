@@ -25,7 +25,7 @@ tags:
 - Appeals cases
 comments: []
 ---
-![It's what Jesus would do.](/wp-content/media/2009/07/non-religious-violation.jpg "It's what Jesus would do.")
+![It's what Jesus would do.]({{'/wp-content/media/2009/07/non-religious-violation.jpg' | relative_url}} "It's what Jesus would do.")
 
 Orville Nichols, a Saskatchewan civil marriage commissioner, has lost [his anti-gay appeal](http://www.slapupsidethehead.com/2008/11/anti-gay-marriage-commissioner-sues-saskatchewan/ "And he sued the province, too. Just like Jesus would do.") of an earlier ruling by the provincial Human Rights Commission. Nichols was fined $2,500 in 2007 for refusing to perform his public services for a gay couple. He then fought the ruling in court, arguing that his private religious beliefs entitle him to discriminate and refuse public, non-religious services to gay people. A non-religious violation, if you will.
 

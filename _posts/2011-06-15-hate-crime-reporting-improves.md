@@ -26,7 +26,7 @@ tags:
 - Statistics
 comments: []
 ---
-![A cement truck buries a person who ponders reporting the incident.](/wp-content/media/2011/06/hate-crime-reporting.jpg "Once someone chisels me out, at least.")
+![A cement truck buries a person who ponders reporting the incident.]({{'/wp-content/media/2011/06/hate-crime-reporting.jpg' | relative_url}} "Once someone chisels me out, at least.")
 
 More and more hate crimes are being reported across the country, and that's not necessarily a bad thing.
 

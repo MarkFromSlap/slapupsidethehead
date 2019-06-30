@@ -26,7 +26,7 @@ tags:
 - Members of Parliament
 comments: []
 ---
-![Pole Vaulting](/wp-content/media/2006/07/pole_vaulting.jpg)
+![Pole Vaulting]({{'/wp-content/media/2006/07/pole_vaulting.jpg' | relative_url}})
 
 The [1st World Out Games](http://www.montreal2006.org/home.html "It's like men's olympic diving, but with all sports!") for gay athletes, to be held in Montreal from July 26th to August 5th, has run into a _teensy_ little problem. Nearly 250 of the foreign athletes to compete, it appears, _still_ have not yet been granted visas by the federal government.
 

@@ -23,7 +23,7 @@ tags:
 - Kim Mackenzie
 comments: []
 ---
-![New Dress Code](/wp-content/media/2008/06/new-dress-code.jpg "It's less offensive, but the cut is a little boxy.")
+![New Dress Code]({{'/wp-content/media/2008/06/new-dress-code.jpg' | relative_url}} "It's less offensive, but the cut is a little boxy.")
 
 Ten grade eight students at Chestermere Lake Middle School in rural Alberta were forced to remove their anti-homophobia T-Shirts after Kim MacKenzie, the school principal, deemed them to be offensive. The T-Shirts featured the slogan "homophobia is gay," and were worn in unison to promote tolerance and counter anti-gay bullying within the school.
 

@@ -26,7 +26,7 @@ tags:
 - Bill 1965
 comments: []
 ---
-![Too many prejudices to track.](/wp-content/media/2010/03/mixed-up-prejudices.jpg "But don't worry, we'll come after you soon enough.")
+![Too many prejudices to track.]({{'/wp-content/media/2010/03/mixed-up-prejudices.jpg' | relative_url}} "But don't worry, we'll come after you soon enough.")
 
 The U.S. State of Oklahoma has accidentally passed a bill that eliminates all hate crime protections from people based on their race or religion instead of their sexual orientation, the bill's original intent.
 

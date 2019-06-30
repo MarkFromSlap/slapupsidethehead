@@ -22,7 +22,7 @@ tags:
 - Scandals
 comments: []
 ---
-![The Pink Plateau](/wp-content/media/2007/05/pink-plateau.jpg)
+![The Pink Plateau]({{'/wp-content/media/2007/05/pink-plateau.jpg' | relative_url}})
 
 **The Pink Plateau.**  
 A Haiku Collection.

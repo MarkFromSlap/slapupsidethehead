@@ -23,7 +23,7 @@ tags:
 - Stereotypes
 comments: []
 ---
-![Poof!](/wp-content/media/2006/05/chrysler_ad.jpg)
+![Poof!]({{'/wp-content/media/2006/05/chrysler_ad.jpg' | relative_url}})
 
 Gather 'round the television, boys and girls! Since "fairy" jokes apparently haven't gotten old, Chrysler has imported their "too tough" ad to Canada!
 

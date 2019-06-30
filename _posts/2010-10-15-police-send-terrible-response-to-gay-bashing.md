@@ -24,7 +24,7 @@ tags:
 - Police
 comments: []
 ---
-![A police woman says she's too busy to help an obvious assault, suggesting the victim download the Police phone app.](/wp-content/media/2010/10/police-phone-app.jpg "A phone app actually illustrated this for me. Cool, huh?")
+![A police woman says she's too busy to help an obvious assault, suggesting the victim download the Police phone app.]({{'/wp-content/media/2010/10/police-phone-app.jpg' | relative_url}} "A phone app actually illustrated this for me. Cool, huh?")
 
 A gay-bashing victim who was assaulted in Vancouver earlier this month is very unhappy with the response he received from the police.
 

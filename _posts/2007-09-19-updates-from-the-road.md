@@ -31,7 +31,7 @@ tags:
 - Leonardo Zuniga
 comments: []
 ---
-![Road Slap](/wp-content/media/2007/09/road-slap.jpg)
+![Road Slap]({{'/wp-content/media/2007/09/road-slap.jpg' | relative_url}})
 
 Hey, kids! Well, I've successfully defended my master's thesis, and now it's time to head even _further_ west to see family. While on the road, here are some stories and updates that caught my eye:
 

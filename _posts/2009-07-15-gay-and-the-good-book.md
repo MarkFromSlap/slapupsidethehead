@@ -23,7 +23,7 @@ tags:
 - Matthew David
 comments: []
 ---
-![Guest Slap](/wp-content/media/2007/09/guest-slap.jpg "Guest Slap")
+![Guest Slap]({{'/wp-content/media/2007/09/guest-slap.jpg' | relative_url}} "Guest Slap")
 
 I'm Ã¼ber stoked about today's special guest author. [Matthew David](http://www.myspace.com/musicbymatthewdavid "Check out his MySpace page!") is a talented singer/songwriter whose strong message of acceptance in traditionally unaccommodating communities has already crossed borders, earning airtime in both Canada and the United States. In today's [Guest Slap](http://www.slapupsidethehead.com/category/guest-slap/ "Also check out some of Slap's previous guest authors."), Matthew shares his personal insights and experiences on what it means to be gay and Christian, challenging the widely-held perception that the two are mutually exclusive.
 

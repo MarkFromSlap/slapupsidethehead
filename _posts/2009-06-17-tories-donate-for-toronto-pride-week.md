@@ -24,7 +24,7 @@ tags:
 - Toronto Pride
 comments: []
 ---
-![A natural reaction](/wp-content/media/2009/06/essplode.jpg "A natural reaction")
+![A natural reaction]({{'/wp-content/media/2009/06/essplode.jpg' | relative_url}} "A natural reaction")
 
 The federal Conservatives have donated close to half-a-million dollars for [Pride Toronto](http://www.pridetoronto.com/ "Mind the exploded heads") to promote the city's 10-day gay Pride festival and make it more accessible for people with disabilities.
 

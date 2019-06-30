@@ -25,7 +25,7 @@ tags:
 - Jan Buterman
 comments: []
 ---
-![In a scene like the matrix, an agent threatens to silence a trans teacher](/wp-content/media/2011/04/transgender-matrix.jpg "Pricilla, Queen of the Desert threatens a trans man")
+![In a scene like the matrix, an agent threatens to silence a trans teacher]({{'/wp-content/media/2011/04/transgender-matrix.jpg' | relative_url}} "Pricilla, Queen of the Desert threatens a trans man")
 
 Jan Buterman, a transgender substitute teacher, was [fired from the St. Albert Catholic School Board back in 2009](http://www.slapupsidethehead.com/2009/10/teacher-fired-over-gender-identity/ "Teacher Fired Over Gender Identity") for, well, being transgendered. "Since you made a personal choice to change your gender," a termination letter delivered to Buterman stated, "we have to remove you from the substitute teacher list."
 

@@ -26,7 +26,7 @@ tags:
 - Airports
 comments: []
 ---
-![A Bond-ish villian declares: The pat-downs are in place. Muha. Our homosexual agenda is advancing exactly as planned! Muh-Muha!](/wp-content/media/2010/12/bond-villain.jpg "They're on to us! ")
+![A Bond-ish villian declares: The pat-downs are in place. Muha. Our homosexual agenda is advancing exactly as planned! Muh-Muha!]({{'/wp-content/media/2010/12/bond-villain.jpg' | relative_url}} "They're on to us! ")
 
 Invasive airport security pat-downs are part of a "wide-scale homosexual agenda," at least according to Eugene Delgaudio, an elected Virginia politician.
 

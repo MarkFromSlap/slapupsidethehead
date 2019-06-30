@@ -21,7 +21,7 @@ tags:
 - Pope Benedict XVI
 comments: []
 ---
-![Batten Down the Hatches](/wp-content/media/2006/05/warning_from_the_pope.jpg)
+![Batten Down the Hatches]({{'/wp-content/media/2006/05/warning_from_the_pope.jpg' | relative_url}})
 
 Run for cover! Pope Benedict XVI has a **terrifying** message for us Canadians!
 

@@ -25,7 +25,7 @@ tags:
 - Dufferin-Peel Catholic District School Board
 comments: []
 ---
-![A SIDE Space meeting room has a giant bear trap in the middle of the floor.](/wp-content/media/2011/04/side-space.jpg "Well, that's kind of dark, isn't it? I wonder if I hold any grudges against my own Catholic school upbringing? ;)")
+![A SIDE Space meeting room has a giant bear trap in the middle of the floor.]({{'/wp-content/media/2011/04/side-space.jpg' | relative_url}} "Well, that's kind of dark, isn't it? I wonder if I hold any grudges against my own Catholic school upbringing? ;)")
 
 Catholic schools in Ontario are continuing to fight gay-straight alliances from forming, despite pleas from students to allow them.
 

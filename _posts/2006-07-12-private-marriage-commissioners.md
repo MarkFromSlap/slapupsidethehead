@@ -23,7 +23,7 @@ tags:
 - Jim Culbert
 comments: []
 ---
-![Marriage Commissioner Applicants](/wp-content/media/2006/07/marriage_commissioners.jpg)
+![Marriage Commissioner Applicants]({{'/wp-content/media/2006/07/marriage_commissioners.jpg' | relative_url}})
 
 Prince Edward Island has finally allowed private marriage commissioners to perform marriages in the province, and the first such commissioner, Jim Culbert, was very proud to have his first ceremony be a same-sex marriage!
 

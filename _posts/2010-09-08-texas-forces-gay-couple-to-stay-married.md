@@ -24,7 +24,7 @@ tags:
 - Texas
 comments: []
 ---
-![A hand with a wedding ring, clamped into place like a car boot.](/wp-content/media/2010/09/married-forever.jpg "Texas ring clamp")
+![A hand with a wedding ring, clamped into place like a car boot.]({{'/wp-content/media/2010/09/married-forever.jpg' | relative_url}} "Texas ring clamp")
 
 An appeals court in Texas has ruled that a gay couple who married out of state can not get divorced.
 

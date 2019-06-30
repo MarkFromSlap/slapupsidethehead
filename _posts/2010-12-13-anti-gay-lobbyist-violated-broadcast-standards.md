@@ -25,7 +25,7 @@ tags:
 - Canadian Broadcast Standards Council
 comments: []
 ---
-![Charles McVety leaps from a building, shouting](/wp-content/media/2010/12/mcvety-freefall.jpg "Gee, that's just... awful.")
+![Charles McVety leaps from a building, shouting]({{'/wp-content/media/2010/12/mcvety-freefall.jpg' | relative_url}} "Gee, that's just... awful.")
 
 TV just got a lot more intelligent! Charles McVety, president of Canada's largest anti-gay lobby group, the _Canada Family Action Coalition_, had his television program, Word TV, yanked from the air by its own distributer after McVety was found to have repeatedly violated industry broadcast standards.
 

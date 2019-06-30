@@ -28,7 +28,7 @@ tags:
 - Empress of Surrey
 comments: []
 ---
-![I knew that glitter brush would come in handy some day...](/wp-content/media/2009/03/drag-queen-crownless.jpg "I knew that glitter brush would come in handy some day...")
+![I knew that glitter brush would come in handy some day...]({{'/wp-content/media/2009/03/drag-queen-crownless.jpg' | relative_url}} "I knew that glitter brush would come in handy some day...")
 
 Here's a cute story to lighten those mid-week blues. The B.C. legislature has welcomed some of Metro Vancouver's gayest royalty for the first time on Monday in acknowledgement of the community's efforts---minus one small detail.
 
